@@ -1,0 +1,589 @@
+>
+              <ul>
+		<!-- And in each categroy there are M services -->
+	          
+		      <li><span class="service"><a   href="localhost.localdomain/df.html">Disk usage in percent</a></span></li>
+		  
+		      <li><span class="service"><a   href="localhost.localdomain/df_inode.html">Inode usage in percent</a></span></li>
+		  <!-- SERVICES -->
+	      </ul>
+	      </li>
+	  
+              <li><span class="host"><a href="localhost.localdomain/index.html#exim">exim</a></span>
+              <ul>
+		<!-- And in each categroy there are M services -->
+	          
+		      <li><span class="service"><a   href="localhost.localdomain/exim_mailstats.html">Exim mail throughput</a></span></li>
+		  
+		      <li><span class="service"><a   href="localhost.localdomain/exim_mailqueue.html">Exim Mailqueue</a></span></li>
+		  <!-- SERVICES -->
+	      </ul>
+	      </li>
+	  
+              <li><span class="host"><a href="localhost.localdomain/index.html#munin">munin</a></span>
+              <ul>
+		<!-- And in each categroy there are M services -->
+	          
+		      <li><span class="service"><a   href="localhost.localdomain/munin_stats.html">Munin processing time</a></span></li>
+		  <!-- SERVICES -->
+	      </ul>
+	      </li>
+	  
+              <li><span class="host"><a href="localhost.localdomain/index.html#network">network</a></span>
+              <ul>
+		<!-- And in each categroy there are M services -->
+	          
+		      <li><span class="service"><a   href="localhost.localdomain/fw_conntrack.html">Connections through firewall</a></span></li>
+		  
+		      <li><span class="service"><a   href="localhost.localdomain/fw_packets.html">Firewall Throughput</a></span></li>
+		  
+		      <li><span class="service"><a   href="localhost.localdomain/if_err_gre0.html">gre0 errors</a></span></li>
+		  
+		      <li><span class="service"><a   href="localhost.localdomain/if_gre0.html">gre0 traffic</a></span></li>
+		  
+		      <li><span class="service"><a   href="localhost.localdomain/if_err_gretap0.html">gretap0 errors</a></span></li>
+		  
+		      <li><span class="service"><a   href="localhost.localdomain/if_gretap0.html">gretap0 traffic</a></span></li>
+		  
+		      <li><span class="service"><a   href="localhost.localdomain/if_err_ip6tnl0.html">ip6tnl0 errors</a></span></li>
+		  
+		      <li><span class="service"><a   href="localhost.localdomain/if_ip6tnl0.html">ip6tnl0 traffic</a></span></li>
+		  
+		      <li><span class="service"><a   href="localhost.localdomain/fw_forwarded_local.html">ipconntrack</a></span></li>
+		  
+		      <li><span class="service"><a   href="localhost.localdomain/netstat.html">Netstat</a></span></li>
+		  
+		      <li><span class="service"><a   href="localhost.localdomain/if_err_tunl0.html">tunl0 errors</a></span></li>
+		  
+		      <li><span class="service"><a   href="localhost.localdomain/if_tunl0.html">tunl0 traffic</a></span></li>
+		  
+		      <li><span class="service"><a   href="localhost.localdomain/if_err_venet0.html">venet0 errors</a></span></li>
+		  
+		      <li><span class="service"><a   href="localhost.localdomain/if_venet0.html">venet0 traffic</a></span></li>
+		  <!-- SERVICES -->
+	      </ul>
+	      </li>
+	  
+              <li><span class="host"><a href="localhost.localdomain/index.html#postfix">postfix</a></span>
+              <ul>
+		<!-- And in each categroy there are M services -->
+	          
+		      <li><span class="service"><a   href="localhost.localdomain/postfix_mailqueue.html">Postfix Mailqueue</a></span></li>
+		  <!-- SERVICES -->
+	      </ul>
+	      </li>
+	  
+              <li><span class="host"><a href="localhost.localdomain/index.html#processes">processes</a></span>
+              <ul>
+		<!-- And in each categroy there are M services -->
+	          
+		      <li><span class="service"><a   href="localhost.localdomain/forks.html">Fork rate</a></span></li>
+		  
+		      <li><span class="service"><a   href="localhost.localdomain/threads.html">Number of threads</a></span></li>
+		  
+		      <li><span class="service"><a   href="localhost.localdomain/processes.html">Processes</a></span></li>
+		  
+		      <li><span class="serd I dont know what to play
+02:22:18 <Micen> Demon Hunter, Warrior, Paladin, Monk, Death Knight, or druid?
+02:22:38 <Micen> .choose Demon Hunter, Warrior, Paladin, Monk, Death Knight, Druid
+02:22:46 <DuB> A monk named Zenyatta.
+02:24:16 <Crisium> a Death Night named Reaper
+02:30:48 <DuB> A paladin named Artanis!
+02:31:06 <Crisium> dont you mean Tassadar
+02:31:16 <DuB> Him too.
+02:31:21 <Micen> Artanis is totally tankadin
+02:31:24 <Crisium> dont you mean general duke
+02:32:06 <Crisium> https://www.youtube.com/watch?v=oFeXqnlsSJU
+02:33:04 <Crisium> WHAT?!
+02:42:54 <Crisium> goodnight sweat princes
+02:43:03 <Crisium> definitely the word i wanted to use
+02:44:00 <DuB> D: D: D:
+02:44:04 <DuB> G'night!
+02:45:45 <Micen> Crisium, here
+02:45:46 <Micen> https://www.youtube.com/watch?v=znsRorTPX6Q
+02:46:00 <Micen> secret Dunkey link
+02:47:46 <Crisium> what a great dunkey
+02:47:49 <Crisium> neever seen that before
+02:47:52 <Crisium> well, good night
+02:47:56 <Micen> good night 
+02:48:04 <Micen> glad i should share the joy
+02:49:15 -!- ZK [~ZealotKil@modemcable114.242-81-70.mc.videotron.ca] has joined #tlponies
+02:49:15 -!- mode/#tlponies [+v ZK] by Q
+03:07:24 <Bio> micen mage is ez
+03:07:33 <Bio> but not great atm
+03:07:39 <Bio> been mage for like
+03:07:42 <Bio> 15yrs
+03:07:56 <DuB> Very old.
+03:08:04 <Bio> like dirt
+03:15:14 <Micen> I was mage since vanilla
+03:15:27 <Micen> i wa just listing alts i have at 100 that i can take into legion content
+03:15:27 <DuB> Also old.
+03:15:38 <DuB> LOOKIT THESE GEEZERS
+03:15:49 <Micen> yeah day one here. I feel old
+03:16:47 <DuB> I played the 20day free trial of wow once.
+03:17:02 <DuB> Got like a week into it.
+03:17:05 <DuB> But then I got stuck behind some rocks and didn't know how to get out.
+03:17:06 <DuB> GG
+03:17:11 <Micen> hearthstone
+03:17:46 <DuB> Poor gnome has been stuck behind rocks for 6 years now.
+03:17:47 <DuB> RIP
+03:52:29 <Bio> R
+03:52:30 <Bio> I
+03:52:30 <Bio> P
+04:58:56 <DuB> GOOD
+04:58:57 <DuB> NITE
+06:30:34 -!- Camail_ [~Camail@45.40.93.200] has joined #tlponies
+06:30:34 -!- mode/#tlponies [+v Camail_] by Q
+06:31:21 -!- DoT_ [~quassel@90.196.173.100] has joined #tlponies
+06:34:55 -!- Emi_ [~HoMM@a91-156-84-122.elisa-laajakaista.fi] has joined #tlponies
+06:42:17 -!- Micen|Droid [~AndChat20@h134.36.18.98.dynamic.ip.windstream.net] has joined #tlponies
+06:45:02 -!- ZK [~ZealotKil@modemcable114.242-81-70.mc.videotron.ca] has joined #tlponies
+07:07:04 <Micen|Droid> https://derpicdn.net/img/view/2017/2/21/1369231.jpeg
+08:03:39 <CockRoach|42> cute hors
+08:29:28 <DoT_> morning ponies
+08:34:36 <Cane> 'Allo DoT_. <3
+08:44:22 <DoT_> <3
+08:59:16 <DoT_> hows OW been cane
+09:00:13 <Cane> Pretty good. Breezed through my placement matches for fun the other day for fun. <3
+09:01:49 <DoT_> you gm yet?
+09:13:26 <DoT_> http://longren.deviantart.com/art/Fluttering-mane-660542564
+09:13:57 * Micen is excite -.-
+09:14:23 <Micen> I get to spend all morning reading state and federal labor law for my sister because her work is super shady. 
+09:14:56 <DoT_> gl micen
+09:42:52 <DoT_> Rawr rawr rawr
+09:46:31 <Cane> DoT_, didn't have time to climb, otherwise obviously I'm a GM quality player. You can tell by how I still think Scattershot is a broken ability that should be removed from the game.
+09:47:41 <DoT_> you should have clearly been placed directly into GM with your game knowledge
+09:48:01 <DoT_> back in 10 minutes, need to find a particuler bus
+09:48:55 <Micen> Dots finding the bus to GM land
+10:15:02 <motbob> my law school professor was arrested for stalking
+10:15:17 <motbob> i found out because I got an email saying thursday's class is cancelled
+10:16:14 <Micen> this good or bad?
+10:18:25 <Phearlock> Sounds like it is on the bad spectrum
+10:18:28 <motbob> what a complicated question
+10:18:32 -!- DoT|Phone [~Dot@85.255.236.141] has joined #tlponies
+10:18:43 <DoT|Phone> blarg
+10:18:57 <motbob> it's bad in the sense that either (1) he stalked someone in the past or (2) he was unjustly arrested
+10:19:12 <motbob> it's bad because it creates unpredictability for me in this class
+10:19:23 <motbob> it's go7099809.15
+gre0	0	0	0	0	0	0	0	0
+ip6tnl0	0	0	0	0	0	0	0	0
+lo	20370427621	20370427621	52385909	52385909	0	0	0	0
+tunl0	0	0	0	0	0	0	0	0
+venet0	890477855865	871770135409	3150839227	3273743565	0	0	0	14
+gretap0	0	0	0	0	0	0	0	0
+sit0	0	0	0	0	0	0	0	0
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ne1> .roll d20 to bio zk
+14:12:31 <DoT|Phone1> wait
+14:12:40 <ZK> you biod me?
+14:12:43 <Rawr|Phone> Dot skärpning
+14:12:50 <ZK> well, it didnt work
+14:13:05 <DoT|Phone1> hmm
+14:14:11 <ZK> .roll d20 to boop DoT|Phone1
+14:14:18 <ZK> so, how was volunteer today?
+14:14:31 <DoT|Phone1> still there
+14:14:39 <DoT|Phone1> one more person to see
+14:14:46 <DoT|Phone1> Then bus time
+14:17:35 <ZK> you can do it!
+14:21:05 <DoT|Phone1> I hope so
+14:21:11 <DoT|Phone1> what you up to zk
+14:21:17 <ZK> hw :(
+14:21:22 <ZK> i dont want to do it
+14:21:39 <DoT|Phone1> be a mountain man
+14:21:43 <ZK> its my off week too!
+14:21:49 <ZK> whats a mountain man
+14:22:07 <DoT|Phone1> lives in the mountain
+14:30:39 <DoT|Phone1> battery at 14%!
+14:30:42 <DoT|Phone1> panic
+14:31:17 <ZK> you can do it phone!
+14:36:51 <DoT|Phone1> screen to dimmist
+14:38:50 <CockRoach|42> be a lumberjack, ZK
+14:39:32 <DoT|Phone1> and be ok
+14:43:04 <ZK> how do i eat a lumberjack
+14:43:11 <ZK> thats how you transform into other stuff?
+14:44:06 <DoT|Phone1> get bitten by a radioactive lumberjack
+14:44:45 <DoT|Phone1> person failed to show. these useless ppl
+14:48:04 <CockRoach|42> ^
+14:53:32 <ZK> how do i find radioactive lj?
+14:55:37 <DoT|Phone1> the wilds of Canada are their natural habitat
+14:56:57 <DoT|Phone1> their distinctive cries can be heard for miles
+14:57:45 <DoT|Phone1> rawr rawr
+14:57:55 <DoT|Phone1> beep beep
+14:58:59 <ZK> is that what they sound like? :o
+14:59:02 <ZK> i beleaf you
+15:00:58 <Rawr|Phone> Dot dot
+15:05:58 <DoT|Phone1> <3
+15:06:49 <DoT|Phone1> bus
+15:07:03 -!- skram [~skram@ip-58-146-106-77.eidsiva.net] has joined #tlponies
+15:07:12 <skram> Hi.
+15:07:26 <DoT|Phone1> Jonas
+15:07:36 <skram> Hey Bjørnen :3
+15:08:49 <skram> How are you today Mr. Bjørn?
+15:09:15 <DoT|Phone1> very tired
+15:09:24 <DoT|Phone1> going home now
+15:09:28 <skram> Me too buddy
+15:09:32 <DoT|Phone1> you skram?
+15:09:52 <skram> We got a buncha snow today
+15:10:01 <DoT|Phone1> you home though?
+15:10:07 <DoT|Phone1> snow is nice
+15:10:08 <skram> Yeah!
+15:10:36 <skram> Im going to a mountain resort in like 3 weeks to get learned
+15:11:01 <DoT|Phone1> luxury
+15:11:07 <DoT|Phone1> this rich pon
+15:11:41 <skram> Its pretty expensive, but since its a job thing I wont have to pay anything
+15:12:06 <DoT|Phone1> oooo
+15:13:07 <DoT|Phone1> do you get a +1
+15:13:16 <skram> heck yeah
+15:18:14 <CockRoach|42> one hour of class then lots of booze!
+15:23:17 <ZK> so much booz
+15:24:03 <ZK> oh shit gsl
+15:25:20 <skram> probably not :p
+15:26:51 <DoT|Phone1> time to walk up the hill
+15:27:21 <skram> dont slip
+15:35:51 <Rawr|Phone> Skram
+15:36:04 -!- Dot` [~quassel@90.196.173.100] has joined #tlponies
+15:39:35 <Rawr|Phone> .tell Dot` hallo
+15:43:27 <ZK> hi Dot`
+15:43:29 <ZK> gsl is good
+15:43:32 <ZK> if you wanna watch
+15:46:53 <Dot`> gsl isnt on zk
+15:46:58 <ZK> 7 hours ago
+15:47:03 <ZK> you get to skip adds!
+15:48:13 <ZK> ohhhhhhh mech
+15:48:57 <Dot`> isnt it like 2 hours till NASA says sppace stuff
+15:49:51 -!- Rawr|Fone [~AndChat25@host-95-195-158-250.mobileonline.telia.com] has joined #tlponies
+15:50:01 <ZK> i dunno
+15:50:04 <ZK> wasnt paying attention
+15:50:09 <ZK> im gonna eat french toast later
+15:54:00 <motbob> big if true
+16:32:17 <Dot`> .tell runbunny http://imgur.com/gallery/9lho9
+16:32:28 <Dot`> skram, there is a new food place in bakewell
+16:32:35 <Dot`> a pizza and gin place
+16:33:41 <ZK> you like gin? :o
+16:34:01 <Dot`> i dont drink
+16:34:11 <Dot`> but it seems like the kind of place skram would like
+16:34:32 <ZK> gsl is very nice Dot`. It's 2 bo5 that go to the last match :o
+16:44:27 <Dot`> hmm, may watch at some point
+16:44:29 <Dot`> who was playing?
+16:45:55 <ZK> soo vs TY and stats vs innovation
+16:47:36 <Dot`> http://imgur.com/gallery/fCtOG
+16:48:27 <ZK> toucans are so bright
+16:49:46 <ZK> adept phoenix is a really fun comp
+16:49:59 <ZK> i might play protoss for that
+17:02:47 <BioSkol> pon
+17:10:43 <Dot`> BIO
+17:11:14 <Bio> AHH
+17:14:56 <Dot`> i bring pony
+17:15:01 <Dot`> http://amarynceus.deviantart.com/art/Daily-Doodle-299-665058955
+17:16:43 <Bio> mm
+17:16:45 <Bio> yes
+17:16:48 <Bio> this is a horse
+17:48:47 <skram> hey Dot`
+17:49:00 <skram> When I come visit, we are going there
+17:49:21 <skram> Thats such an odd combination of things I cant help but love it
+18:04:34 <Dot`> https://www.nasa.gov/multimedia/nasatv/index.html#public
+18:05:05 <Dot`> the space thing
+18:09:48 <ZK> anythin interesting?
+18:10:15 <Dot`> 7 planets around 1 star that could hold water
+18:11:04 <ZK> oh ok
+18:11:05 <skram> What sort of pizza would pair well with some Gin, Dot`?
+18:11:06 <ZK> so we goin there?
+18:11:15 <ZK> pineapple pizza
+18:11:16 -!- BioSUPERB_OWL [~Bio@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+18:11:20 <Dot`> and how the spitser was re-engineerd to study the planets
+18:11:20 <skram> ugh nej
+18:12:13 <BioSUPERB_OWL> ney
+18:12:19 <Bio> oi vey
+18:12:21 <Dot`> whats wrong jonas
+18:12:41 <skram> zk said the p-word
+18:12:46 <skram> hEJ BIO
+18:12:53 <Bio> IS IT PONY
+18:12:59 <skram> pineapple
+18:13:01 <Dot`> bio no, no pony on pizza
+18:13:03 <Bio> oh gross
+18:13:07 <skram> right??
+18:13:09 <Bio> def
+18:13:29 <ZK> pony on pizza? Ugh
+18:13:34 <ZK> stick to ananas
+18:13:41 <skram> no to ananas
+18:13:42 <skram> ananananas
+18:13:46 <skram> nanananass
+18:15:03 -!- reification [~reificati@cpc76294-cosh16-2-0-cust297.6-1.cable.virginm.net] has joined #tlponies
+18:15:03 -!- mode/#tlponies [+v reification] by Q
+18:15:42 <Dot`> REIF
+18:15:43 <Dot`> pls
+18:15:50 <reification> DOTTIES
+18:15:54 <reification> snela
+18:18:41 <Dot`> SPAAAACE
+18:22:12 <reification> it’s big dot
+18:22:19 <reification> careful you don’t get lost
+18:26:25 <Bio> http://icelandmag.visir.is/article/president-iceland-announces-he-would-ban-pineapple-a-pizza-topping
+18:26:35 <CockRoach|42> http://imgur.com/gallery/XVI5e
+18:26:44 <skram> president iceland is my kind of dude
+18:27:30 <skram> Pineapple-pizza-gate: President backtracks "I can't dictate pizza toppings!" Then encourages people to put fish on their pizza
+18:27:31 <skram> nvm
+18:27:50 <Bio> lel
+18:33:25 <skram> .tell dub` https://www.youtube.com/watch?v=Lxt0_YrQs0M my new jam
+18:43:55 <Dot`> .tell Dub` You missed SPAAACE thing
+18:46:21 -!- tredc [webchat@90-230-30-217-no56.tbcn.telia.com] has joined #tlponies
+18:49:02 -!- DoT|Phone [~Dot@85.255.236.141] has joined #tlponies
+18:53:25 -!- Runbunny [~Runbunny@91.100.28.10.generic-hostname.arrownet.dk] has joined #tlponies
+18:55:46 -!- DoT|Phone1 [~Dot@85.255.236.141] has joined #tlponies
+18:57:15 -!- DoT|Phone [~Dot@90.196.173.100] has joined #tlponies
+18:58:22 -!- DoT|Phone2 [~Dot@85.255.235.161] has joined #tlponies
+19:04:29 <Bio> pony horses
+19:06:22 <reification> runbun https://twitter.com/Kirinodere/status/834127254624010241
+19:06:50 <reification> understandable 
+19:06:52 <reification> https://twitter.com/DungeonsDonald/status/834087967966711808
+19:08:28 <ZK> so nasa, anythin else?
+19:14:11 <DoT|Phone2> ponies
+19:15:28 <ZK> sending all pones to space?
+19:15:32 <ZK> none left for us here? :o
+19:20:44 -!- DoT|Phone [~Dot@82-132-245-110.dab.02.net] has joined #tlponies
+19:35:10 -!- Rawr|Phone [~AndChat25@84-217-62-32.customers.ownit.se] has joined #tlponies
+19:37:36 <Rawr|Phone> Beep beep
+19:44:04 <DoT|Phone> rawr rawr
+19:44:26 <Rawr|Phone> Dot dot
+19:44:41 <DoT|Phone> <3
+19:45:01 <Rawr|Phone> <3
+19:45:30 <DoT|Phone> how was your day
+19:47:34 <Rawr|Phone> Very good
+19:47:40 <Rawr|Phone> How was yours dot
+19:47:41 <DoT|Phone> good
+19:47:55 <Rawr|Phone> Great
+19:47:57 <DoT|Phone> it was fine
+19:54:23 -!- Micen [~micen@h134.36.18.98.dynamic.ip.windstream.net] has joined #tlponies
+19:59:48 <Runbunny> Hai
+20:01:16 <skram> Anders.
+20:01:29 <Runbunny> skram https://gfycat.com/WearyOptimisticBagworm
+20:01:38 <Runbunny> Whenever you play Hanzo.
+20:01:58 <skram> Me??
+20:02:06 <Rawr|Phone> Runbun!
+20:02:15 <skram> I am a great fuckin teamplayer
+20:02:45 <Rawr|Phone> I doubt it
+20:02:57 <Runbunny> You'd do that and probably spam "heal plz" while you run around.
+20:03:07 <Runbunny> Also.
+20:03:09 <Runbunny> Henrik.
+20:03:24 <skram> u make me sick anders
+20:04:37 <reification> .roll d20 to boop zk into space
+20:05:05 <ZK> .roll d20 to boop reification
+20:05:07 <Runbunny> Because I am danish?
+20:05:08 <Rawr|Phone> Did you have a good day runbun
+20:06:05 <Runbunny> Yeah it has been fine
+20:06:43 <Rawr|Phone> Good
+20:17:36 <Runbunny> What about yours Rawr?
+20:18:05 <Rawr|Phone> My day was great
+20:22:15 <DoT|Phone> runbun
+20:25:12 <Runbunny> Dot.
+20:25:30 <DoT|Phone> yes. I am him
+20:26:33 -!- Micen|Droid [~AndChat20@h134.36.18.98.dynamic.ip.windstream.net] has joined #tlponies
+20:27:48 <Runbunny> You're energetic today Dot. With sass and everything... Did something good happen to you?
+20:32:12 <skram> Maybe you bring out the best in him
+20:45:00 <DoT|Phone> he just may
+20:46:54 <reification> good news dot, you didn’t study psychology https://twitter.com/SteveStuWill/status/833643917987901440
+20:50:14 <reification> from same account https://twitter.com/SteveStuWill/status/560604914741547008
+20:50:24 <reification> https://twitter.com/SteveStuWill/status/833818964128067584
+20:54:07 -!- Camail [~Camail@45.40.93.200] has joined #tlponies
+20:54:07 -!- mode/#tlponies [+v Camail] by Q
+20:54:33 * ZK slaps Camail around a bit with a large trout
+20:54:39 <Camail> gah
+20:54:47 <ZK> .butt caramail
+20:57:31 <Camail> whose that
+20:57:36 <Camail> must not be a very good butt
+21:02:26 -!- reimeuk [~reificati@cpc76294-cosh16-2-0-cust297.6-1.cable.virginm.net] has joined #tlponies
+21:02:26 -!- mode/#tlponies [+v reimeuk] by Q
+21:06:39 <Camail> i keep putting of starting dishonored 2
+21:06:43 <Camail> and i dont entirely know why
+21:07:32 <reimeuk> you are probably going insane
+21:07:38 <Camail> its like...i care so much about that universe that i dont want to play the game
+21:08:00 <Camail> what if i dont like it? that'd suck
+21:08:10 <reimeuk> ok remove the ”probably”
+21:09:07 <motbob> i agree with your mentality
+21:09:33 <motbob> i convinced someone in another TL IRC channel to stop watching steins;gate at episode 22 because it was the best ending
+21:09:50 -!- DoT|Phone1 [~Dot@85.255.235.162] has joined #tlponies
+21:10:02 <motbob> it's the same principle here, and we could argue about which instance of it is more stupid
+21:10:23 -!- Micen [~micen@h134.36.18.98.dynamic.ip.windstream.net] has joined #tlponies
+21:10:47 <ZK> i never watched the final season of scrubs
+21:10:57 <ZK> lots of ppl said it was awful, so i believe them
+21:11:09 <reimeuk> no, your case is different because you have specific infomation
+21:12:02 <ZK> but you can look at reviews to know somewhat?
+21:12:16 <reimeuk> indeed zk
+21:12:20 <ZK> oh wow, the reviews for dishonored 1 are excellent!
+21:12:35 <ZK> i should play that game
+21:12:45 <Dot`> it was fun
+21:13:10 <motbob> i tried playing it but it looks like shit on my laptop. gotta wait until I settle down and get a gaming pc.
+21:13:48 <ZK> oh ok
+21:14:00 <ZK> oh and Dot`, the nasa conference had some interesting info
+21:14:29 <ZK> we'll be dead before those planets get settled though sadly
+21:14:46 <Dot`> it was a nice thing
+21:16:32 -!- DoT|Phone [~Dot@90.196.173.100] has joined #tlponies
+21:17:04 -!- DoT|Phone1 [~Dot@82-132-245-110.dab.02.net] has joined #tlponies
+21:18:40 <motbob> 40 light years is a long way
+21:18:56 <motbob> it would take a probe 40 years to tell us what's there...
+21:19:11 <motbob> ...after it got to the system
+21:19:39 <motbob> the problem with sending a probe that far is that you run into the Ender's Game problem
+21:20:02 <motbob> where space travel tech improves after you launch the first ships and so the later ships arrive first
+21:20:14 <reimeuk> how fast could we send a probe with current tech?
+21:20:15 <motbob> so in the end you would have been better off just waiting to send a probe at all
+21:21:25 <motbob> the newest advances in long-distance space travel are basically untested iirc
+21:21:41 <motbob> so i don't know the answer to that and I don't know if anyone knows
+21:31:02 -!- Phearlock [~Phearlock@cm-84.215.228.107.getinternet.no] has joined #tlponies
+21:31:02 -!- mode/#tlponies [+v Phearlock] by Q
+21:31:41 <CockRoach|42> zounds is the only true scotsman in here, right?
+21:32:07 <skram> I only pretend to be when im naked on chatroulette
+21:32:22 <CockRoach|42> i bet you're amazing <3
+21:40:08 <ZK> so, muricans should put mo money in space
+21:40:24 <ZK> actually, let's let china take care of it
+21:40:27 <ZK> they seem well on the way
+21:41:36 <Phearlock> Everyone really should put more money into space
+21:41:51 <Phearlock> So that we can put more things into space
+21:42:12 <reimeuk> zk confirmed commie, want to make mars the double ‘red’ planet :p
+21:42:22 <Phearlock> haha
+21:42:40 <ZK> im looking forward to china being far ahead, then muricans's ego will be hurt, and they'll put money in it again
+21:44:24 <reimeuk> the thing is a humanity that has got its shit together to colonise mars is probably less in desperate need of having done so
+21:47:21 <Dot`> .tell zounds dont die to doris
+21:54:13 <reimeuk> well he won’t get the message if he dies dot
+22:01:15 <Dot`> well guess he wont die then
+22:01:21 <Dot`> cant just leave a message unread
+22:03:38 * Dot` hugs Bio
+22:14:29 <Rawr|Phone> That is true dot
+22:21:19 <Dot`> ty rawr
+22:23:40 -!- Golly [~Golly@1.92-221-121.customer.lyse.net] has joined #tlponies
+22:32:10 <Dot`> Runbunny
+22:32:13 <Dot`> what do
+22:41:23 <Runbunny> skram, http://i.imgur.com/Z55av7t.png
+22:41:43 <Runbunny> sorry I was scrolled up apparently.
+22:42:03 <Runbunny> well it's nearly bed time so lie in bed and read a book.
+22:42:23 <Dot`> haha runbun
+22:42:31 <Dot`> gnight runbun
+22:42:53 <Runbunny> oh I am not leaving quite yet.
+22:43:12 <Dot`> good
+22:44:42 <Dot`> you would make rawr sad
+22:44:50 <Rawr|Phone> He would
+22:45:13 <Runbunny> I'll be leading example for rawr so that he'll go to bed as well.
+22:46:47 <Rawr|Phone> What if I already went to bed
+22:47:18 <Rawr|Phone> I didn't, but what if
+22:54:39 <Runbunny> Then you would be sleeping and you wouldn't be sad.
+23:00:53 -!- DuB` [DuB@66-219-213-203.dynamic.ip.veracitynetworks.com] has joined #tlponies
+23:00:56 <DuB`> HELLO HI HI
+23:01:19 <Dot`> GAH
+23:01:20 <Dot`> DUB
+23:01:29 <DuB`> GAH
+23:01:30 <DuB`> DOT
+23:01:30 <DuB`> SPESS
+23:01:35 <Dot`> SPACE
+23:01:41 <DuB`> PLANITS
+23:01:47 <Dot`> CLOSE
+23:01:51 <DuB`> YAH
+23:01:58 <DuB`> LOTS
+23:02:55 <DuB`> skram
+23:02:57 <DuB`> pls my ears
+23:06:48 <CockRoach|42> calm down
+23:08:15 <reimeuk> pons are getting overexcited
+23:08:39 <Dot`> it happens
+23:08:45 <Dot`> exitable cretures
+23:09:26 <Runbunny> Hai dub-
+23:09:32 <DuB`> Haiii
+23:09:37 <DuB`> reimeuk, it's SPACE
+23:09:50 <Runbunny> Uchuu?
+23:10:29 <DuB`> UCHUUUUUUUUU]
+23:10:47 <DuB`> 宇宙宙宙宙宙宙宙宙宙宙宙宙宙宙
+23:10:59 <reimeuk> https://twitter.com/Kirinodere/status/834499835415916544
+23:11:02 <DuB`> They are discovering PLANETS.
+23:11:29 <reimeuk> we haven’t even finished ruining this one…
+23:11:30 <Dot`> haha reif
+23:11:41 <Dot`> reif pls
+23:11:53 <DuB`> THEY ARE FINDING PLANETS. IN SPACE. AND WE'RE ALIVE RIGHT NOW.
+23:12:15 <DuB`> https://xkcd.com/786/
+23:12:45 <reimeuk> well if the other planets were here rather than in space we wouldn’t be alive
+23:12:58 <DuB`> ...!?
+23:13:03 <Rawr|Phone> Probably true reef reef
+23:13:04 <DuB`> WELL I SUPPOSE BUT!?
+23:13:04 <Dot`> oh you
+23:13:50 <reimeuk> i mean that kind of thing was useful for making the moon and all
+23:15:18 <DuB`> Dot`, I was in class during spessthing. :T
+23:15:25 <DuB`> But I saw the news and told my group members.
+23:15:30 <Dot`> you should have told class to stop
+23:15:32 <DuB`> They weren't NEARLY excited enough.
+23:15:54 <Dot`> D:
+23:16:42 <reimeuk> my space goal are far more realistic
+23:16:58 <reimeuk> i just want to go to titan and fly with my own wings
+23:18:03 <Dot`> you have wings?
+23:18:08 <Dot`> are you an ostrich?
+23:18:22 <DuB`> :O :O :O
+23:18:32 <reimeuk> this will require artificial wings dot
+23:18:43 <Dot`> so not YOUR wings
+23:18:47 <reimeuk> i am practising with all the mercy play
+23:18:54 <Dot`> that doesnt awnser the question though reif
+23:18:57 <Dot`> stop avoiding it
+23:19:14 <reimeuk> i haven’t made the wings yet dot
+23:19:17 <Dot`> are you sticking oyur head in the sand?
+23:19:22 <reimeuk> they aren’t the hard part D:
+23:21:48 <Dot`> and you havnt even done that part
+23:22:01 <DuB`> Tsk tsk.
+23:23:22 <DuB`> Dot`
+23:23:25 <DuB`> I want a birb. 
+23:23:26 <DuB`> http://i.imgur.com/panfMyA.gifv
+23:23:35 <Dot`> fluffy
+23:23:43 <reimeuk> first i need to become a multibillionaire to fund the project or wait till someone else does dot
+23:25:34 <Dot`> and thats just the easy [art
+23:25:36 <Dot`> part
+23:26:03 <reimeuk> no that is the hardest part
+23:26:14 <Dot`> yes
+23:27:37 -!- Crisium [webchat@dhcp-pa-173-233-4-85.consolidated.net] has joined #tlponies
+23:27:41 <Phearlock> that is a really cute birb DuB` 
+23:28:05 <DuB`> Yah.
+23:28:08 <Dot`> hej cris pon
+23:28:19 <reimeuk> it’s very colourful
+23:29:00 <reimeuk> oh did you watch kimi no na wa yet dotties?
+23:29:14 <Crisium> howdy
+23:29:30 <reimeuk> hey cris
+23:31:01 <Crisium> what is a meuk
+23:31:04 <Crisium> i dont understand
+23:32:26 <Dot`> no, i did watch Moana though 2 days ago
+23:32:31 <Dot`> its kinda the same
+23:32:42 <reimeuk> it’s a domain name extension cris: .me.uk
+23:33:07 <reimeuk> that isn’t even the same kind of animation dot
+23:33:24 <reimeuk> and it doesn’t let me point out how it’s like our dnd
+23:33:30 <Dot`> im sure it will make yolt happy though
+23:33:34 <Bio> pony
+23:33:34 <reimeuk> was it good tho?
+23:33:44 <Dot`> i enjoyed it
+23:34:23 <DuB`> I gotta see that still!\
+23:35:18 <DuB`> http://i.imgur.com/mlnKqMi.gif
+23:36:46 <reimeuk> apparently it features roadhog after he got some more tattoos
+23:41:12 <CockRoach|42> https://derpicdn.net/img/2012/9/29/109747/large.png
+23:42:22 <Bio> horses
+23:42:24 <Bio> hello
+23:42:29 <Bio> i napped
+23:42:32 <reimeuk> hello bio
+23:42:36 * Dot` hugs Bio
+23:42:38 <Bio> god I love naps
+23:42:41 <reimeuk> what a shocking turn of events
+23:42:46 <Dot`> teach me bio
+23:42:53 <Bio> hmm
+23:42:56 <Bio> be tired
+23:42:58 <reimeuk> i never would have expected that from you of all ponies
+23:42:58 <Bio> lay down
+23:43:03 <Bio> ez
+23:43:10 <Dot`> doesnt work D:
+23:43:30 <reimeuk> don’t be insomniac
+23:43:41 <reimeuk> that is important step
+23:44:47 <Crisium> i am poor at napping
+23:44:54 <DuB`> http://i.imgur.com/CE7m7WB.gifv
+23:44:56 <DuB`> birbirbirb
+23:45:09 <reimeuk> maybe practise more?
+23:46:03 <Phearlock> clever birb
+23:46:15 <Crisium> so many birb
+23:47:31 <Dot`> bio http://imgur.com/gallery/OYaNZp9
+23:47:50 <DuB`> Oberwaj, too. http://imgur.com/gallery/9lho9
+23:48:31 <Dot`> RAWR
+23:48:34 <Dot`> RAWR
+23:48:34 <reimeuk> zk https://twitter.com/athirdmarin/status/834540756421443585
+23:48:42 <Rawr|Phone> DOT
+23:48:45 <Dot`> http://imgur.com/gallery/uRvs9C1
+23:48:46 <Rawr|Phone> DOT
+23:49:18 <Rawr|Phone> :3
+23:52:48 <DuB`> GOGO CANADA
+23:53:50 <DuB`> True pinapple allies.
+23:56:11 <Bio> how can one horse be so wrong?
+23:56:15 <Bio> =O

@@ -1,0 +1,377 @@
+50'),(110324,'123.150.203.69','2014-07-17 02:56:56'),(110325,'111.206.61.180','2014-07-17 02:57:22'),(110326,'116.246.26.28','2014-07-17 02:58:36'),(110327,'116.246.26.28','2014-07-17 02:58:37'),(110328,'125.88.219.96','2014-07-17 02:59:12'),(110329,'123.125.80.235','2014-07-17 02:59:14'),(110330,'180.153.197.58','2014-07-17 02:59:32'),(110331,'180.153.197.58','2014-07-17 02:59:50'),(110332,'54.228.174.66','2014-07-17 03:00:03'),(110333,'54.251.198.142','2014-07-17 03:00:21'),(110334,'61.135.255.86','2014-07-17 03:01:59'),(110335,'183.60.15.14','2014-07-17 03:02:05'),(110336,'115.236.159.162','2014-07-17 03:02:09'),(110337,'111.206.61.180','2014-07-17 03:02:23'),(110338,'114.255.99.15','2014-07-17 03:02:33'),(110339,'125.88.219.96','2014-07-17 03:04:13'),(110340,'123.125.80.235','2014-07-17 03:04:14'),(110341,'180.153.197.58','2014-07-17 03:04:32'),(110342,'180.153.197.58','2014-07-17 03:04:50'),(110343,'54.228.174.66','2014-07-17 03:05:03'),(110344,'54.251.198.142','2014-07-17 03:05:21'),(110345,'111.206.61.180','2014-07-17 03:07:22'),(110346,'114.255.99.15','2014-07-17 03:07:54'),(110347,'125.88.219.96','2014-07-17 03:09:13'),(110348,'123.125.80.235','2014-07-17 03:09:14'),(110349,'180.153.197.58','2014-07-17 03:09:32'),(110350,'180.153.197.58','2014-07-17 03:09:50'),(110351,'54.228.174.66','2014-07-17 03:10:07'),(110352,'54.251.198.142','2014-07-17 03:10:21'),(110353,'192.168.141.213','2014-07-17 03:11:08'),(110354,'111.206.61.180','2014-07-17 03:12:23'),(110355,'125.88.219.96','2014-07-17 03:14:13'),(110356,'123.125.80.235','2014-07-17 03:14:14'),(110357,'180.153.197.58','2014-07-17 03:14:33'),(110358,'180.153.197.58','2014-07-17 03:14:50'),(110359,'114.255.40.7','2014-07-17 03:14:53'),(110360,'54.228.174.66','2014-07-17 03:15:03'),(110361,'61.135.255.86','2014-07-17 03:15:09'),(110362,'54.251.198.142','2014-07-17 03:15:20'),(110363,'114.255.99.15','2014-07-17 03:15:43'),(110364,'180.153.197.58','2014-07-17 03:16:08'),(110365,'111.206.61.180','2014-07-17 03:17:22'),(110366,'123.125.80.235','2014-07-17 03:19:14'),(110367,'125.88.219.96','2014-07-17 03:19:16'),(110368,'180.153.197.58','2014-07-17 03:19:33'),(110369,'180.153.197.58','2014-07-17 03:19:50'),(110370,'54.228.174.66','2014-07-17 03:20:02'),(110371,'54.251.198.142','2014-07-17 03:20:21'),(110372,'110.85.5.77','2014-07-17 03:22:06'),(110373,'110.85.5.77','2014-07-17 03:22:07'),(110374,'111.206.61.180','2014-07-17 03:22:23'),(110375,'101.70.204.16','2014-07-17 03:22:31'),(110376,'125.88.219.96','2014-07-17 03:24:13'),(110377,'123.125.80.235','2014-07-17 03:24:14'),(110378,'180.153.197.58','2014-07-17 03:24:32'),(110379,'180.153.197.58','2014-07-17 03:24:50'),(110380,'54.228.174.66','2014-07-17 03:25:03'),(110381,'54.251.198.142','2014-07-17 03:25:20'),(110382,'54.234.41.64','2014-07-17 03:25:53'),(110383,'112.113.201.45','2014-07-17 03:26:19'),(110384,'111.206.61.180','2014-07-17 03:27:22'),(110385,'123.125.80.235','2014-07-17 03:29:14'),(110386,'125.88.219.96','2014-07-17 03:29:14'),(110387,'180.153.197.58','2014-07-17 03:29:32'),(110388,'180.153.197.58','2014-07-17 03:29:53'),(110389,'54.228.174.66','2014-07-17 03:30:03'),(110390,'54.251.198.142','2014-07-17 03:30:21'),(110391,'54.234.41.64','2014-07-17 03:30:52'),(110392,'111.206.61.180','2014-07-17 03:32:22'),(110393,'125.88.219.96','2014-07-17 03:34:13'),(110394,'123.125.80.235','2014-07-17 03:34:14'),(110395,'180.153.197.58','2014-07-17 03:34:34'),(110396,'180.153.197.58','2014-07-17 03:34:50'),(110397,'54.228.174.66','2014-07-17 03:35:02'),(110398,'54.251.198.142','2014-07-17 03:35:20'),(110399,'54.234.41.64','2014-07-17 03:35:52'),(110400,'111.206.61.180','2014-07-17 03:37:23'),(110401,'125.88.219.96','2014-07-17 03:39:13'),(110402,'123.125.80.235','2014-07-17 03:39:15'),(110403,'180.153.197.58','2014-07-17 03:39:33'),(110404,'180.153.197.58','2014-07-17 03:39:51'),(110405,'54.228.174.66','2014-07-17 03:40:03'),(110406,'54.251.198.142','2014-07-17 03:40:21'),(110407,'54.234.41.64','2014-07-17 03:40:52'),(110408,'111.206.61.180','2014-07-17 03:42:22'),(110409,'182.118.20.167','2014-07-17 03:42:26'),(1104s not like you can just go to the fuckin clam store and BUY SOME FUCKIN CLAMS
+01:05:56 <Camail> dub hasnt held a clam for more than a few minutes
+01:06:02 <Camail> skram
+01:06:04 <Camail> SKRAM
+01:06:06 <ZK> you should sell them
+01:06:07 <Camail> dont lose your clams
+01:06:21 <skram> I sewed them into my chest cam
+01:06:22 <ZK> capitalism is about selling stuff
+01:06:25 <skram> so that i am never clamless
+01:06:39 <Camail> zk this isn't the time or the place for your fantastical nonsense
+01:06:45 <DuB`> skram is a merman?
+01:06:51 <DuB`> Mermaid?
+01:06:57 <Camail> did you sew them to your nipples
+01:07:32 <ZK> capitalism is the one true way
+01:07:35 <skram> Yes and I drew a nipple on the outside
+01:07:44 <skram> ZK have you been listening to TRUE CAPITALIST RADIO again
+01:08:17 <ZK> why would you want anything besides capitalism? Nothing is better, it's proven!
+01:08:26 <Camail> ?clam
+01:08:30 <Camail> .r clam https://i.imgur.com/gvwoaZ2.png
+01:08:42 <skram> perfection
+01:10:57 <Camail> I'm gonna try ff14 free trial
+01:11:01 <Camail> anyone wanna join me?
+01:11:13 <skram> not into hentai
+01:11:18 <Camail> that's
+01:11:19 <Camail> just a lie
+01:11:21 <Camail> why lie to me
+01:30:51 <reification> night all
+01:31:01 <DuB`> Seeya reef~
+01:34:04 <Camail> DuB` Bio skram we should shoot the guns?
+01:36:54 <DuB`> Nawt tonight.
+01:55:18 -!- Golly [~Golly@1.92-221-121.customer.lyse.net] has joined #tlponies
+02:16:50 <Camail> DuB` https://www.youtube.com/watch?v=c0s4yPnY6PM&feature=youtu.be
+02:19:40 <DuB`> Fun times.
+02:27:43 <Camail> all this osu hate, and a ton of people trying to rationalize it with some sort of universilizable rule set
+02:27:56 <Camail> a ruleset for a fucking random canvas where everyone can do anything
+02:28:49 <skram> what a bunch of nerds
+02:35:49 <Bio> very nerd
+02:42:52 <skram> im gonna try the sleep
+03:12:51 <motbob> in the end it's a democracy
+03:13:07 <motbob> so if the majority is justifying their osu hate with a shitty reason, who cares
+03:14:57 <motbob> but wow, /r/place really shaped up into something great
+03:24:25 <motbob> in fact it's literally the essence of a democracy
+03:24:45 <motbob> with the issues that pop up in political decision-making: concentrated vs general interests
+03:24:58 <motbob> it's probably in the general interest to nuke the prequelmemes box but gl
+03:25:12 <motbob> there is a sizable group that cares a lot about defending it
+03:25:35 <motbob> nationality plays a part in whether something will be vigerously defended as well
+04:24:18 <Camail> The Undertaker is finally done :(
+04:44:59 <Micen> I know Cam :(
+04:45:07 <Micen> what a sad botch of a match for his final one. 
+05:27:25 -!- DoT|Phone [~Dot@90.212.79.200] has joined #tlponies
+06:21:10 -!- Emi [~Emily@HoMM.users.quakenet.org] has joined #tlponies
+06:41:26 <Camail> oh wow, th eoriginal link was destroyed
+06:41:28 <Camail> thats fucked up
+06:41:36 <Camail> that was cool, how they reflected the rainbow off him
+06:41:46 <Camail> should take that space back
+06:41:48 <Camail> fuck buffalo
+06:42:15 <Camail> there are so many boring subreddit signs
+06:46:47 <Camail> oh man there's a war in osu right now
+06:46:54 <Camail> its been the hotspot, and still continues
+06:47:05 <Camail> at this point its historic enough to warrant its place!
+07:32:14 -!- DoT|Phone1 [~Dot@90.212.79.200] has joined #tlponies
+07:49:33 -!- DoT|Phone [~Dot@90.212.79.200] has joined #tlponies
+07:56:31 -!- DoT|Phone1 [~Dot@90.212.79.200] has joined #tlponies
+08:01:56 -!- DoT|Phone [~Dot@90.212.79.200] has joined #tlponies
+08:03:39 -!- DoT|Phone1 [~Dot@90.212.79.200] has joined #tlponies
+08:10:50 <Dot`> morning
+08:14:11 <Rawr|Phone> Dot Dot Dot
+08:15:27 <Dot`> Rawr Rawr Rawr
+08:15:30 <Rawr|Phone> <3
+08:16:43 <Dot`> <3
+08:18:45 <CockRoach|42> morning hors
+08:18:58 <CockRoach|42> rawr, did you win at ping pong this weekend?!
+08:19:31 <Rawr|Phone> I got third!
+08:19:35 <CockRoach|42> !!!
+08:29:35 -!- DoT|Phone [~Dot@90.212.79.200] has joined #tlponies
+08:55:19 <Dot`> http://i.imgur.com/a95XXDz.gifv
+08:58:45 -!- Runbunny [~Runbunny@91.100.28.10.generic-hostname.arrownet.dk] has joined #tlponies
+08:58:54 <Runbunny> Hai.
+09:02:30 <Dot`> Hey runbun
+09:03:18 <Runbunny> Dot dot.
+09:10:31 <Rawr|Phone> Good morning runbun
+09:16:22 -!- DoT|Phone [~Dot@90.212.79.200] has joined #tlponies
+09:47:40 <Dot`> blarg
+09:50:06 <Rawr|Phone> Gralb
+09:50:34 <Dot`> i must go rawr
+09:50:35 <Dot`> <3
+09:50:40 <Rawr|Phone> No
+09:50:46 <Rawr|Phone> Stay
+09:50:52 <DoT`-afk> volunteer work, yay....
+10:34:21 -!- Yolteotl [webchat@243.77.126.78.rev.sfr.net] has joined #tlponies
+10:44:15 -!- Rawr|Fone [~AndChat25@host-95-199-147-154.mobileonline.telia.com] has joined #tlponies
+10:47:28 -!- skram [~skram@ip-65-146-106-77.eidsiva.net] has joined #tlponies
+11:04:26 -!- Rawr|Phone [~AndChat25@static-212-247-92-114.cust.tele2.se] has joined #tlponies
+11:05:47 -!- Rawr|Pone [~AndChat25@host-95-199-147-154.mobileonline.telia.com] has joined #tlponies
+11:07:20 -!- Rawr|Fone [~AndChat25@static-212-247-92-114.cust.tele2.se] has joined #tlponies
+11:07:36 -!- Rawr|Pone [~AndChat25@host-95-199-147-154.mobileonline.telia.com] has joined #tlponies
+11:12:07 -!- tredc [webchat@90-230-30-217-no56.tbcn.telia.com] has joined #tlponies
+11:22:28 <Rawr|Fone> Beep beep
+11:23:08 <CockRoach|42> boop boop
+11:34:06 -!- DoT|Phone [~Dot@185.69.144.52] has joined #tlponies
+11:56:06 -!- DoT|Phone [~Dot@85.255.233.128] has joined #tlponies
+12:03:48 <DoT|Phone> pon pon
+12:20:24 <DoT|Phone> silly spotty internet
+12:20:34 <DoT|Phone> Rawr Rawr
+12:21:16 <Rawr|Fone> Dot Dot
+12:21:34 <DoT|Phone> <4
+12:21:39 <Rawr|Fone> <5
+12:22:01 <DoT|Phone> Any pong ping today
+12:41:20 <DoT|Phone> Runbun
+12:41:42 <DoT|Phone> you watched new Rick and morty yet?
+12:57:53 <Runbunny> yeah I did watch it last night.
+12:58:13 <Runbunny> 9 more seasons to go.
+12:59:19 -!- DoT|Phone1 [~Dot@85.255.233.128] has joined #tlponies
+13:12:57 <Bio> https://www.youtube.com/watch?v=_DXB1ZtCJ9E
+13:13:04 <BioSchool> bbbl
+13:15:41 <Rawr|Fone> Yes dot
+13:46:49 -!- DoT|Phone [~Dot@85.255.233.128] has joined #tlponies
+14:02:59 <Yolteotl> hi pones :)
+14:05:20 -!- Golly [~Golly@1.92-221-121.customer.lyse.net] has joined #tlponies
+14:06:51 <DoT|Phone> hey Yolt!
+14:18:26 <Yolteotl> dot <3
+14:21:47 -!- DoT|Phone1 [~Dot@85.255.233.128] has joined #tlponies
+14:28:50 -!- DoT|Phone [~Dot@85.255.233.128] has joined #tlponies
+14:42:00 <DoT`-afk> i am home
+14:42:04 <Rawr|Fone> Woo
+14:42:26 <Dot`> Rawr rawr rawr
+14:42:27 <Dot`> <3
+14:42:36 <Rawr|Fone> <3
+14:43:00 <Rawr|Fone> How was your day dot
+14:43:31 <Dot`> it was ok
+14:43:35 <Dot`> and you rawr?
+14:43:47 <Rawr|Fone> Pretty good
+14:44:00 <Rawr|Fone> Went to school, about to play table tennis
+14:45:51 <Dot`> \o/
+15:23:46 <Dot`> .tell skram http://imgur.com/gallery/9Xpr6n7
+15:24:36 -!- Emi [~Emily@HoMM.users.quakenet.org] has joined #tlponies
+16:13:42 <Dot`> Runbunny
+16:13:50 <Runbunny> Dot.
+16:13:56 <Dot`> it as a good ep
+16:14:00 <Dot`> was*
+16:15:29 <Runbunny> yeah pretty good.
+16:16:23 <Dot`> .tell Bio http://i-am-knot.deviantart.com/art/It-s-Just-A-Game-374398915
+16:47:58 <Dot`> .tell skram http://imgur.com/gallery/xAkqoau
+17:05:54 -!- tredc [webchat@90-230-30-217-no56.tbcn.telia.com] has joined #tlponies
+17:20:46 <Dot`> r/place is over
+17:23:37 -!- DuB` [DuB@66-219-213-203.dynamic.ip.veracitynetworks.com] has joined #tlponies
+17:23:39 <DuB`> HI HI HELLO
+17:26:08 <Dot`> DAB
+17:26:11 <Dot`> <3
+17:26:54 <DuB`> DAT <3
+17:28:37 <Dot`> r/place ended dubs
+17:28:49 <DuB`> Ah
+17:31:46 <Yolteotl> r/place was kinda awesome
+17:31:52 <Yolteotl> started really poorly
+17:32:50 -!- Yolteotl [webchat@243.77.126.78.rev.sfr.net] has joined #tlponies
+17:32:58 <Yolteotl> then it became awesome :p
+17:40:19 -!- DoT|Phone [~Dot@90.212.79.200] has joined #tlponies
+17:41:54 <DoT|Phone> dub dub
+17:41:58 <DoT|Phone> what you up to
+17:42:09 <DuB`> Nuffin' yet.
+17:44:45 <DoT|Phone> you should do something
+17:45:19 <DuB`> But I don't wanna homework!~
+17:46:03 <DoT|Phone> then you should eat pizza
+17:50:06 <Micen> Hi
+18:08:31 <Dot`> hey micen
+18:12:35 -!- DoT|Phone1 [~Dot@90.212.79.200] has joined #tlponies
+18:31:38 <DoT|Phone1> and now dub
+18:31:49 <DuB`> ?
+18:32:35 <DoT|Phone1> Don't question me
+18:49:37 <DoT|Phone1> dub. did you find something to do
+18:51:45 <DuB`> Study. >_>
+18:55:57 <skram> Good evening boys
+18:56:26 <DuB`> Hiya skrammen
+18:57:16 <Rawr|Fone> Jonas
+18:57:17 <skram> I have a question for you
+18:57:20 <skram> Do you live near moab
+18:57:46 <DuB`> Eh, 3hr drive.
+18:57:49 <DuB`> So not terribly near.
+18:58:46 <skram> Have you ever been to the mountain with the hole in it
+18:58:57 <DuB`> WUt
+18:59:51 <skram> delicate arch
+18:59:52 <skram> is its name
+18:59:57 <DuB`> Ah
+18:59:59 <DuB`> Naw
+19:00:05 <DuB`> It's famous! 
+19:00:46 <DuB`> It's on the old Utah license plates: http://www.bprlicenseplates.com/y85%203cr.jpg
+19:01:21 <skram> license plates with pictures on them! how vulgar.
+19:01:43 <DuB`> Current ones are like this: http://www.theus50.com/images/state-licenses/utah-license.jpg
+19:02:18 <skram> i like the other one more i think
+19:02:21 <DuB`> NM's are awful >_> http://www.15q.net/us4/nm00a.jpg
+19:02:39 <skram> i like it
+19:02:43 -!- Rawr|Phone [~AndChat25@84-217-62-32.customers.ownit.se] has joined #tlponies
+19:02:59 <DuB`> Haven't been to Arches Natl Park, but I did go here
+19:03:00 <DuB`> https://static1.squarespace.com/static/55a9867ee4b078ade296d38d/t/5637a916e4b0588d22f7a22b/1446488346603/
+19:03:08 <DuB`> Hiked THAT!
+19:03:23 <DuB`> Note the chain along the ridge.
+19:03:54 <skram> oh thats pretty cool
+19:04:04 <DuB`> "Angel's Landing"
+19:05:33 <skram> Are you not scared of heights?
+19:05:49 <DuB`> It was a bit spoopy. >_>
+19:05:53 <DuB`> But I like heights.
+19:06:00 <DuB`> Also a nice hike, The Narrows: https://s-media-cache-ak0.pinimg.com/736x/0f/a1/34/0fa13444123bbac5153f62625903f255.jpg
+19:06:23 <skram> deserts are weird DuB`
+19:07:07 <DuB`> https://media-cdn.tripadvisor.com/media/photo-s/01/18/b5/4d/bryce-canyon-just-after.jpg
+19:07:08 <DuB`> srs
+19:07:20 <DuB`> http://www.lifefoc.com/photos/server5/bryce_canyon_national_park.jpg
+19:07:27 <DuB`> Bryce Canyon is straight-up alien.
+19:09:38 <skram> so you have mountains and snowy places and pine trees and stuff but also deserts
+19:09:41 <skram> thats SO WEIRD
+19:09:56 <DoT|Phone1> hello Skram
+19:09:59 -!- Micen_ [~micen@h241.25.16.98.dynamic.ip.windstream.net] has joined #tlponies
+19:10:02 <DuB`> YEAH
+19:10:04 <skram> Hey Bjørn
+19:10:07 <skram> Hey Moocen
+19:10:09 <DuB`> Utah is the best!
+19:10:27 <skram> I've never been to a desert DuB`
+19:10:31 <DuB`> :o
+19:10:35 <DoT|Phone1> except mormon
+19:10:35 <skram> I would probably get heatstroke and die
+19:11:02 <DuB`> It's lovely weather in the spring. :D
+19:12:16 <DuB`> The entire southern 2/3 of utah doesn't have cities with more than a few thousand people, just a ton of NATURE.
+19:12:47 <skram> nature is RADICAL
+19:13:01 <DuB`> Little Sahara: http://www.duneguide.com/images/LittleSahara-1.jpg
+19:13:09 <DuB`> Went camping there, was fun.
+19:13:21 <DuB`> Made an enormous campfire with tumbleweed. 
+19:15:12 <skram> neat
+19:16:15 <skram> america is weird, DuB`.
+19:16:20 <skram> The weirdest, probably.
+19:16:43 <DuB`> :o
+19:18:45 <DuB`> !?
+19:19:04 <Dot`> Dub
+19:19:05 <Dot`> ?
+19:19:11 <skram> there are many things
+19:19:24 <skram> i can go just about anywhere here and it all looks vaguely the same
+19:19:45 <Dot`> america is pretty big
+19:19:48 <Dot`> norwat isnt
+19:19:55 <Dot`> norway*
+19:19:58 <DuB`> A bit.
+19:21:52 <DuB`> If any of us every become fabulously wealthy someday, that person will need to sponsor a TLP USA national parks tour.
+19:21:53 <DuB`> Heheh
+19:22:51 <skram> we can go to moab and do the 4wheeling thing down there
+19:24:07 <DuB`> Ooooooooooh
+19:24:09 <DuB`> Yah
+19:24:15 <DuB`> My favorite is river rafting.
+19:24:23 <DuB`> Here! http://www.cloudridge.org/seminars/2012/img/2012/1200/Grays-Deso-Green-River-3-High-Res.jpg
+19:24:38 <DuB`> That and snowshoeing, but you can't do those in the same season...
+19:24:39 <DuB`> HMM
+19:25:08 <Dot`> dub, i miss mountains :(
+19:25:12 <DuB`> :(
+19:28:57 <DuB`> Maybe I can send you some in another letter.
+19:30:18 <DuB`> skram, you ever ski?
+19:30:31 <skram> Not really :p
+19:30:38 <DuB`> Nuu
+19:30:46 <DuB`> Skiing is the ACTUAL best.
+19:30:47 <skram> Well I do cross country, but not downhill
+19:30:54 <DuB`> Aha
+19:31:11 <skram> There's a track by my house that I use sometimes
+19:31:28 <DuB`> How nordic of you.
+19:35:29 <Rawr|Phone> Skiing is fun
+19:44:55 -!- Camail [~Camail@45.40.93.200] has joined #tlponies
+19:44:55 -!- mode/#tlponies [+v Camail] by Q
+19:44:56 <Runbunny> Dot`, Rawr|Phone https://g.redditmedia.com/pWXAJ2Ju42pOKsdcL2xlKroP7iL8eBfDtNPQZDzhJW8.gif?w=720&fm=mp4&mp4-fragmented=false&s=ab20998677a80d0d0aa0bac8d1108d47
+19:45:27 <Camail> hey i got a 40% off coupon for INSIDE on steam, anyone want it?
+19:45:31 <Camail> expires the 17th
+19:45:42 <DuB`> That pupper dun gone crazy!
+19:46:46 <Rawr|Phone> Thanks runbunny
+19:55:35 <Dot`> nice runbun
+20:14:10 -!- Zounds [~chatzilla@cpc108453-cowc8-2-0-cust8.14-2.cable.virginm.net] has joined #tlponies
+20:14:10 -!- mode/#tlponies [+v Zounds] by Q
+20:14:11 <Zounds> Ey pons
+20:14:19 <DuB`> Ay zounds
+20:15:25 <Zounds> How's it hanging dub
+20:15:36 <DuB`> Gewd
+20:16:16 <DuB`> Skram was calling my country WEIRD.
+20:16:50 <skram> It IS
+20:17:11 <Zounds> It is weird
+20:17:16 <Zounds> Quite glorious in a way though too
+20:17:36 <skram> Well I mean its not bad weird
+20:19:42 -!- Cane [~Cane@CaneCraft.users.quakenet.org] has joined #tlponies
+20:19:42 -!- mode/#tlponies [+o Cane] by Q
+20:22:41 <DuB`> We don't even have fjords. :T
+20:24:09 <skram> There are no fjords where I live either, dub :p
+20:24:19 <DuB`> Aww.
+20:25:02 <Zounds> Have you ever been in europe dub?
+20:25:10 <DuB`> Nawp
+20:25:28 <Zounds> Something to look forward to then
+20:27:39 <Zounds> I enjoyed myself a lot when I visited the US a couple of times but I've never really much of anything except the tourist places in florida
+20:27:46 <Zounds> Super mega hyped to visit texas next year though
+20:27:49 <Dot`> Hey zounds, cane
+20:27:54 <DuB`> The MOST 'murican place.
+20:28:02 <DuB`> I'm off to florida with my family this summer!
+20:28:21 <skram> keep an eye out for FLORIDA MAN
+20:28:27 <DuB`> I need to decide between epcot, kennedy space center, and aquarium for my choice of destinations... hmmmm
+20:28:30 <DuB`> Hhahah skram
+20:28:38 <Cane> Hai. <3
+20:28:45 <skram> space center DuB`
+20:28:50 <Cane> I heard fjords and had to come say hi.
+20:28:55 <Zounds> I saw it all when I was there
+20:29:40 <Zounds> The space centre, sea world. disneyland, universal studios, sea world
+20:29:51 <Zounds> and I said sea world twice
+20:30:05 <skram> is it because you went there twice
+20:30:35 <Zounds> The space centre though, that place is fuckin' big
+20:30:51 <Zounds> Especially when you're used to Scotland where nothing is big except the hills
+20:32:28 <skram> I think I wanna go to scotland one day
+20:32:32 <skram> maybe visit islay
+20:32:38 <Zounds> You should, it's not far away
+20:32:40 <Zounds> Probably quite cheap too
+20:33:04 <Camail> skram the only problem is that you cant take away their freedom, which WOULD be their strongest export
+20:37:21 <skram> I know laphroaig do guided tours and tastings zounds
+20:37:26 <skram> i wanna do that
+20:38:17 <Zounds> Most distillerys do I believe
+20:42:05 <Zounds> So what are ponners up to this evening then?
+20:47:29 <skram> nothing really
+20:48:15 <skram> https://www.youtube.com/watch?v=j3rwKl267gE
+20:59:40 <Zounds> skram DuB` either of you want to play overwatch? qp or comp I don't mind
+21:02:51 <skram> naw im going to bed pretty soon
+21:03:00 <Zounds> Meh
+21:03:03 <Zounds> I might just do the same then
+21:03:11 <DuB`> :T
+21:03:14 <DuB`> Enjoy slepp.
+21:23:12 <Camail> also just want to point out that osu! won the war, fuck yea
+21:23:25 <skram> there was a war?
+21:23:45 <Camail> the place war against osu
+21:37:53 <Dot`> Runbunny:  http://i.imgur.com/M45qlMO.png
+21:38:11 <Runbunny> Shark.
+21:50:11 -!- Phearlock [~Phearlock@cm-84.215.228.107.getinternet.no] has joined #tlponies
+21:50:11 -!- mode/#tlponies [+v Phearlock] by Q
+21:50:29 <Phearlock> Evening ponpons
+21:53:17 <CockRoach|42> hei phear
+22:13:05 <Dot`> hey phear
+22:13:18 <Dot`> dub never posts unicorn anymore
+22:13:24 <DuB`> O
+22:13:25 <DuB`> 17:13:55] NOTICE: [pool www] child 22492 started
+[05-Jan-2017 17:13:55] NOTICE: [pool www] child 22492 exited with code 0 after 0.001238 seconds from start
+[05-Jan-2017 17:13:55] NOTICE: [pool www] child 22493 started
+[05-Jan-2017 17:13:55] NOTICE: [pool www] child 22493 exited with code 0 after 0.001243 seconds from start
+[05-Jan-2017 17:13:55] NOTICE: [pool www] child 22494 started
+[05-Jan-2017 17:13:55] NOTICE: [pool www] child 22494 exited with code 0 after 0.001262 seconds from start
+[05-Jan-2017 17:13:55] NOTICE: [pool www] child 22495 started
+[05-Jan-2017 17:13:55] NOTICE: [pool www] child 22495 exited with code 0 after 0.001257 seconds from start
+[05-Jan-2017 17:13:55] NOTICE: [pool www] child 22496 started
+[05-Jan-2017 17:13:55] NOTICE: [pool www] child 22496 exited with code 0 after 0.001290 seconds from start
+[05-Jan-2017 17:13:55] NOTICE: [pool www] child 22497 started
+[05-Jan-2017 17:13:55] NOTICE: [pool www] child 22497 exited with code 0 after 0.001408 seconds from start
+[05-Jan-2017 17:13:55] NOTICE: [pool www] child 22498 started
+[05-Jan-2017 17:13:55] NOTICE: [pool www] child 22498 exited with code 0 after 0.001253 seconds from start
+[05-Jan-2017 17:13:55] NOTICE: [pool www] child 22499 started
+[05-Jan-2017 17:13:55] NOTICE: [pool www] child 22499 exited with code 0 after 0.001250 seconds from start
+[05-Jan-2017 17:13:55] NOTICE: [pool www] child 22500 started
+[05-Jan-2017 17:13:55] NOTICE: [pool www] child 22500 exited with code 0 after 0.001373 seconds from start
+[05-Jan-2017 17:13:55] NOTICE: [pool www] child 22501 started
+[05-Jan-2017 17:13:55] NOTICE: [pool www] child 22501 exited with code 0 after 0.001363 seconds from start
+[05-Jan-2017 17:13:55] NOTICE: [pool www] child 22502 started
+[05-Jan-2017 17:13:55] NOTICE: [pool www] child 22502 exited with code 0 after 0.001255 seconds from start
+[05-Jan-2017 17:13:55] NOTICE: [pool www] child 22503 started
+[05-Jan-2017 17:13:55] NOTICE: [pool www] child 22503 exited with code 0 after 0.001299 seconds from start
+[05-Jan-2017 17:13:55] NOTICE: [pool www] child 22504 started
+[05-Jan-2017 17:13:55] NOTICE: [pool www] child 22504 exited with code 0 after 0.001280 seconds from start
+[05-Jan-2017 17:13:55] NOTICE: [pool www] child 22505 started
+[05-Jan-2017 17:13:55] NOTICE: [pool www] child 22505 exited with code 0 after 0.001340 seconds from start
+[05-Jan-2017 17:13:55] NOTICE: [pool www] child 22506 started
+[05-Jan-2017 17:13:55] NOTICE: [pool www] child 22506 exited with code 0 after 0.001291 seconds from start
+[05-Jan-2017 17:13:55] NOTICE: [pool www] child 22507 started
+[05-Jan-2017 17:13:55] NOTICE: [pool www] child 22507 exited with code 0 after 0.001573 seconds from start
+[05-Jan-2017 17:13:55] NOTICE: [pool www] child 22508 started
+[05-Jan-2017 17:13:55] NOTICE: [pool www] child 22508 exited with code 0 after 0.006021 seconds from start
+[05-Jan-2017 17:13:55] NOTICE: [pool www] child 22509 started
+[05-Jan-2017 17:13:55] NOTICE: [pool www] child 22509 exited with code 0 after 0.001634 seconds from start
+[05-Jan-2017 17:13:55] NOTICE: [pool www] child 22510 started
+[05-Jan-2017 17:13:55] NOTICE: [pool www] child 22510 exited with code 0 after 0.001332 seconds from start
+[05-Jan-2017 17:13:55] NOTICE: [pool www] child 22511 started
+[05-Jan-2017 17:13:55] NOTICE: [pool www] child 22511 exited with code 0 after 0.001205 seconds from start
+[05-Jan-2017 17:13:55] NOTICE: [pool www] child 22512 started
+[05-Jan-2017 17:13:55] NOTICE: [pool www] child 22512 exited with code 0 after 0.001288 seconds from start
+[05-Jan-2017 17:13:55] NOTICE: [pool www] child 22513 started
+[05-Jan-2017 17:13:55] NOTICE: [pool www] child 22513 exited with code 0 after 0.001226 seconds from start
+[05-Jan-2017 17:13:55] NOTICE

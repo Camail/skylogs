@@ -1,0 +1,444 @@
+sshd[26940]: Failed password for root from 116.31.116.23 port 36272 ssh2
+Dec 22 14:41:08 n0w sshd[26940]: Failed password for root from 116.31.116.23 port 36272 ssh2
+Dec 22 14:41:08 n0w sshd[26941]: Received disconnect from 116.31.116.23: 11: 
+Dec 22 14:41:08 n0w sshd[26940]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=116.31.116.23  user=root
+Dec 22 14:41:42 n0w sshd[26942]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=116.31.116.23  user=root
+Dec 22 14:41:44 n0w sshd[26942]: Failed password for root from 116.31.116.23 port 47609 ssh2
+Dec 22 14:41:46 n0w sshd[26942]: Failed password for root from 116.31.116.23 port 47609 ssh2
+Dec 22 14:41:48 n0w sshd[26942]: Failed password for root from 116.31.116.23 port 47609 ssh2
+Dec 22 14:41:48 n0w sshd[26943]: Received disconnect from 116.31.116.23: 11: 
+Dec 22 14:41:48 n0w sshd[26942]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=116.31.116.23  user=root
+Dec 22 14:42:18 n0w sshd[26944]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=116.31.116.23  user=root
+Dec 22 14:42:20 n0w sshd[26944]: Failed password for root from 116.31.116.23 port 21434 ssh2
+Dec 22 14:42:22 n0w sshd[26944]: Failed password for root from 116.31.116.23 port 21434 ssh2
+Dec 22 14:42:24 n0w sshd[26944]: Failed password for root from 116.31.116.23 port 21434 ssh2
+Dec 22 14:42:25 n0w sshd[26945]: Received disconnect from 116.31.116.23: 11: 
+Dec 22 14:42:25 n0w sshd[26944]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=116.31.116.23  user=root
+Dec 22 14:42:58 n0w sshd[26946]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=116.31.116.23  user=root
+Dec 22 14:43:00 n0w sshd[26946]: Failed password for root from 116.31.116.23 port 24777 ssh2
+Dec 22 14:43:02 n0w sshd[26946]: Failed password for root from 116.31.116.23 port 24777 ssh2
+Dec 22 14:43:05 n0w sshd[26946]: Failed password for root from 116.31.116.23 port 24777 ssh2
+Dec 22 14:43:05 n0w sshd[26947]: Received disconnect from 116.31.116.23: 11: 
+Dec 22 14:43:05 n0w sshd[26946]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=116.31.116.23  user=root
+Dec 22 14:43:36 n0w sshd[26948]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=116.31.116.23  user=root
+Dec 22 14:43:38 n0w sshd[26948]: Failed password for root from 116.31.116.23 port 13340 ssh2
+Dec 22 14:43:41 n0w sshd[26948]: Failed password for root from 116.31.116.23 port 13340 ssh2
+Dec 22 14:43:43 n0w sshd[26948]: Failed password for root from 116.31.116.23 port 13340 ssh2
+Dec 22 14:43:43 n0w sshd[26949]: Received disconnect from 116.31.116.23: 11: 
+Dec 22 14:43:43 n0w sshd[26948]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=116.31.116.23  user=root
+Dec 22 14:44:15 n0w sshd[26950]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=116.31.116.23  user=root
+Dec 22 14:44:17 n0w sshd[26950]: Failed password for root from 116.31.116.23 port 11183 ssh2
+Dec 22 14:44:19 n0w sshd[26952]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=218.87.109.151  user=root
+Dec 22 14:44:19 n0w sshd[26950]: Failed password for root from 116.31.116.23 port 11183 ssh2
+Dec 22 14:44:21 n0w sshd[26952]: Failed password for root from 218.87.109.151 port 41274 ssh2
+Dec 22 14:44:22 n0w sshd[26950]: Failed password for root from 116.31.116.23 port 11183 ssh2
+Dec 22 14:44:22 n0w sshd[26951]: Received disconnect from 116.31.116.23: 11: 
+Dec 22 14:44:22 n0w sshd[26950]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=116.31.116.23  user=root
+Dec 22 14:44:24 n0w sshd[26952]: Failed password for root from 218.87.109.151 port 41274 ssh2
+Dec 22 14:44:26 n0w sshd[26952]: Failed password for root from 218.87.109.151 port 41274 ssh2
+Dec 22 14:44:29 n0w sshd[26952]: Failed password for root from 218.87.109.151 port 412> http://imgur.com/gallery/d406TaP
+09:04:45 -!- reification [~reificati@cpc76294-cosh16-2-0-cust297.6-1.cable.virginm.net] has joined #tlponies
+09:04:45 -!- mode/#tlponies [+v reification] by Q
+09:05:26 <DoT_> hey reif
+09:05:32 <reification> hei dotties
+09:06:47 <reification> .tell skram http://www.dlsite.com/eng/work/=/product_id/RE200254.html
+09:06:54 <reification> also bun ^
+09:26:44 -!- Phearlock_ [~Phearlock@cm-84.215.228.107.getinternet.no] has joined #tlponies
+09:26:44 -!- mode/#tlponies [+v Phearlock_] by Q
+09:38:49 -!- Micen [~micen@h4.208.18.98.dynamic.ip.windstream.net] has joined #tlponies
+09:43:47 <DoT_> hey phear, micen <3
+09:52:18 <CockRoach|42> horsh ors
+09:52:57 <DoT_> cr!
+10:03:11 <CockRoach|42> dot hors!
+10:15:02 -!- BioSC [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+10:17:09 <Dot`> Bio!
+10:20:18 <Rawr|Phone> Dot dot dot
+10:23:13 -!- DoT_ [~quassel@90.216.79.190] has joined #tlponies
+10:33:20 <DoT_> INTERNET PLS
+10:33:24 <DoT_> caps
+10:34:22 -!- skram [~skram@ip-236-146-106-77.eidsiva.net] has joined #tlponies
+10:34:26 <DoT_> Skram!
+10:34:29 <DoT_> hello
+10:34:37 <DoT_> here you go http://imgur.com/gallery/wHYJJ
+10:34:40 <skram> Dot!
+10:34:42 <skram> hello
+10:34:55 <skram> thank you mr doty
+10:45:59 <Dot`> how are you today skram
+10:46:40 <skram> Pretty good I think
+10:46:46 <skram> How a boat you, mr. dot
+10:47:07 <Dot`> good, day at home, played some bug game
+10:47:11 <Dot`> deciding what to do next
+10:47:35 <skram> whats bug game
+10:47:41 <Dot`> Hollow knight
+10:52:16 <Dot`> what you up to skram
+10:53:21 <skram> I am looking at cats
+11:02:01 <Dot`> are they good cats
+11:02:40 <skram> they're good cats, dort
+11:04:30 <Dot`> horses! http://imgur.com/gallery/A9cpvsB
+11:08:07 <Runbunny> Cats!
+11:15:59 <Dot`> .tell Dub` http://imgur.com/gallery/4GE1q
+11:34:58 <Dot`> hmm, i dont know what to do skram
+11:35:58 <Rawr|Phone> Dot
+11:36:04 <Rawr|Phone> Dot
+11:36:06 <Dot`> Rawr rawr rawr
+11:36:07 <Rawr|Phone> Dot
+11:36:09 <Dot`> <3
+11:36:10 <Rawr|Phone> <3
+11:36:20 <Dot`> where have you been?
+11:39:14 <Dot`> new hero rotation is up for gigantic
+11:39:37 <Rawr|Phone> I pinged you 80 minutes ago
+11:39:46 <Rawr|Phone> But you didn't answer me
+11:39:50 <Rawr|Phone> Very rude
+11:40:07 <Dot`> you mean around
+11:40:09 <Dot`> [11:21:03] <-- Dot` (~quassel@90.216.79.190) has quit
+11:40:16 <Dot`> when my internet dropped
+11:40:27 <Dot`> good timing mr rawr
+11:40:28 <Dot`> pls
+11:41:00 <Rawr|Phone> That's on you
+11:42:46 <Dot`> i try my best rawr
+11:43:10 <Rawr|Phone> Maybe get some better internets
+11:53:26 <reification> runbun http://www.bbc.co.uk/news/blogs-news-from-elsewhere-40851224
+12:03:41 <Dot`> lol
+12:04:38 <skram> somehow i dont think thats legal
+12:18:43 <Dot`> .roll d20 to boop skram
+12:41:54 <Dot`> http://imgur.com/gallery/p3aR2
+12:41:56 <Dot`> look skram
+12:48:50 -!- tredc [webchat@90-230-30-217-no56.tbcn.telia.com] has joined #tlponies
+12:49:02 -!- carcinisation [~smuxi@cpc76294-cosh16-2-0-cust297.6-1.cable.virginm.net] has joined #tlponies
+13:04:20 <Dot`> hmm, going for a short walk
+13:04:27 <Dot`> skram, maybe we game a bit when i get back
+13:05:17 -!- Rawr|Fone [~AndChat25@84-217-62-32.customers.ownit.se] has joined #tlponies
+13:10:48 <skram> sure dot
+13:27:59 -!- ZK [~ZK@modemcable189.130-83-70.mc.videotron.ca] has joined #tlponies
+13:52:32 -!- Rawr|Phone [~AndChat25@host-95-195-133-97.mobileonline.telia.com] has joined #tlponies
+14:24:34 <Dot`> i home
+14:24:39 <Dot`> .roll d20 to boop zk
+14:24:53 <ZK> hi Dot`
+14:24:56 <ZK> i have decision to make
+14:25:12 <Dot`> to kill us and end the campaghn or not?
+14:25:12 <ZK> someone is doing a character focused SW one-shot, should I go make a character?
+14:25:19 <ZK> Or prep dnd for later
+14:25:25 <Dot`> both
+14:25:31 <skram> at the same time
+14:26:01 <ZK> okiedoke!
+14:26:42 <ZK> shoot, just realized i uploaded wrong map
+14:26:46 <ZK> guess we fitin dragons
+14:26:53 <ZK> or i can just upload other map
+14:26:57 <skram> fuk dragons
+14:30:25 <skram> Dot`
+14:30:28 <skram> are we doing thing
+14:30:32 <Dot`> sure
+14:30:51 <Dot`> .tell dub` http://imgur.com/gallery/pN54z
+14:31:09 <skram> oh shit
+14:31:11 <skram> theres a patch
+14:36:17 <Dot`> rawr, skram is being rude
+14:37:54 <skram> I WAS IN THE BATHROOM OK
+14:38:56 <Dot`> any other ponies joining?
+14:40:00 -!- carcinisation_ [~smuxi@cpc76294-cosh16-2-0-cust297.6-1.cable.virginm.net] has joined #tlponies
+15:03:33 <BioSC> gooden morning ponnnenennenen
+15:03:38 <Bio> asdf
+15:03:49 <Dot`> Bio
+15:03:53 <Bio> Dot`
+15:23:26 <Dot`> pon pon
+15:28:10 <Bio> greeting dot ponpon
+15:28:36 <Bio> i am get haircut tomorrow
+15:35:11 <Phearlock_> I have never seen your hair bio
+15:36:33 <carcinisation_> now there will be less of it to see
+15:36:59 <Bio> this is true
+15:37:21 <Bio> it needs to be cut, still too warm
+15:38:38 -!- Rawr|Fone [~AndChat25@host-95-195-133-97.mobileonline.telia.com] has joined #tlponies
+15:47:03 <Dot`> any pones to join gigantic plej?
+15:51:58 <Bio> hmm
+15:52:02 <Bio> inc scrub?
+15:52:25 <Dot`> we ended up taking a break now
+15:52:31 <Dot`> but will carry on after skram eats
+15:52:42 <Bio> wat a troll =3
+15:52:57 <Dot`> have you done the tutorial yet bio?
+15:53:20 <Bio> nop
+15:53:33 <Dot`> well you should so you have an idea of whats happening
+15:53:41 <Dot`> and you have to becuase it wont let you play otherwise
+15:53:55 <Bio> i'm a professional video game players, i will be the best
+16:06:19 <ZK> ok, back from haircut
+16:06:21 <ZK> time to prep dnd
+16:06:34 <ZK> There is one specific point today where you will die if you don't handle well
+16:06:37 <ZK> let's see how it goes :D
+16:12:04 <Dot`> skram http://i.imgur.com/7VocCWZ.gifv
+16:14:56 <reify> rip party
+16:18:49 <ZK> hopefully they dont see my green squares
+16:29:22 <Dot`> probably
+16:30:06 <ZK> dot, you're on roll20, do you see squares?
+16:30:27 <Dot`> yes
+16:30:40 <Dot`> a pink one and 
+16:30:49 <Bio> tkp when?
+16:30:58 <Bio> tpk when?
+16:32:18 <ZK> around dragonspear
+16:32:19 <Phearlock_> a while ago in camails campaign. Though we didn't die from it
+16:32:22 <Phearlock_> twice
+16:32:31 -!- Zounds [~chatzilla@cpc108453-cowc8-2-0-cust8.14-2.cable.virginm.net] has joined #tlponies
+16:32:31 -!- mode/#tlponies [+v Zounds] by Q
+16:32:31 <ZK> oh yea, he did want us to die
+16:32:37 <ZK> only dub died
+16:32:43 <Dot`> Zoonds
+16:32:48 <Dot`> hej pon
+16:34:02 <Zounds> hej dot
+16:34:05 <Zounds> hej hästar
+16:34:37 <ZK> I like hockey
+16:36:09 <ZK> also demuslim strim good
+16:56:35 <Dot`> what you up to zounds
+16:57:02 <Zounds> fighting bureaucracy
+16:57:44 <Dot`> seize the means of production!
+17:08:42 <Zounds> I'll get a reply within 28 days they say
+17:08:49 <Dot`> :/
+17:08:55 <Zounds> How useful
+17:09:17 <Dot`> did you shout at them in scottissh?
+17:10:54 <Zounds> No because there's a mixup on the names on a funding application I made which must have been my fault
+17:11:09 <Zounds> though I don't see how since the correct name is on the email they contacted me with to update the progress on the application
+17:11:28 <Dot`> well that sucks
+17:11:33 <Zounds> idk what happened but if it gets fixed it's fine
+17:11:37 <Dot`> imput error from thier side
+17:11:47 <Zounds> either I or they made a mistake but I wouldn't yell at anyone over it
+17:11:54 <Zounds> just frustrating how slow things move
+17:12:31 -!- Camail [~Camail@45.40.84.145] has joined #tlponies
+17:12:31 -!- mode/#tlponies [+v Camail] by Q
+17:13:45 <Dot`> cam
+17:13:48 <Camail> no
+17:13:52 <Dot`> k
+17:14:02 <skram> cam
+17:14:06 <Camail> no
+17:14:15 <skram> fine
+17:14:18 <skram> zounds
+17:14:44 <Dot`> zounds!
+17:15:21 <Zounds> hei skram
+17:15:53 <skram> god afton mr zounds
+17:16:35 -!- tredc [webchat@90-230-30-217-no56.tbcn.telia.com] has joined #tlponies
+17:17:19 -!- DuB` [DuB@66-219-212-247.dynamic.ip.veracitynetworks.com] has joined #tlponies
+17:17:24 <Runbunny> Hai Dub.
+17:17:25 <DuB`> G'morn
+17:17:30 <ZK> oh itsa dub
+17:17:31 <ZK> go eat
+17:17:37 <ZK> then dnd
+17:17:38 <skram> so bossy
+17:17:39 <Dot`> duuuub
+17:17:42 <skram> hello dub
+17:19:08 <reify> hei dubbles
+17:20:00 <Camail> dub go eat
+17:29:25 <Dot`> dub have you eaten yet
+17:30:05 <DuB`> WORKING ON IT CLAM DOWN
+17:30:26 <Camail> its true
+17:32:05 <Runbunny> Dub is eating clams?
+17:32:38 <Camail> no, dot is a clam
+17:32:52 <Camail> he is a high clam, like a high elf
+17:32:58 <Camail> and dub is asking him to be more humble
+17:33:01 <Camail> like a lower clam
+17:33:47 <Runbunny> I see.
+17:34:23 <Dot`> clam down? have i been shot?
+17:34:33 -!- Camail_ [~Camail@45.40.84.145] has joined #tlponies
+17:34:33 -!- mode/#tlponies [+v Camail_] by Q
+17:34:38 <skram> through the heart
+17:34:51 <Dot`> cam, new hero rotation in gigantic
+17:35:02 <skram> uncle sven is the best uncle
+17:35:03 <Camail_> ooh, will have to check
+17:35:25 <Dot`> margrave leap is good fun fully upgraded
+17:35:35 <DuB`> I do like margrave.
+17:35:42 <DuB`> You get to yell really loud and smash things.
+17:35:47 <Dot`> and +Focus from deflecting is nice
+17:36:00 <skram> yelling is pretty great
+17:36:03 <skram> but i like jumping
+17:36:09 <Camail_> discord isnt working for me atm
+17:36:11 <skram> and throwing bottles at dudes
+17:36:23 <DuB`> Margrave jumps too, skram!
+17:36:30 <Dot`> and then lands
+17:36:37 <Dot`> on heads
+17:37:09 <DuB`> Oh, dot
+17:37:11 <skram> well thats just rude
+17:37:21 <Dot`> Dub
+17:37:26 <DuB`> I watched reaver and robwiz (former OW pros) win 7 pubg duos in a row last night. :P
+17:37:54 <DuB`> Pretty cray
+17:37:55 <skram> what happen to reaver dub
+17:37:59 <skram> y he no plej no mo
+17:37:59 <Dot`> yea, its suprising how a co-ordinated team of pros beat randoms
+17:38:23 <skram> turn down the fuckin sass dot
+17:38:25 <skram> jeez
+17:38:28 <DuB`> He left c9 same time as debett and greggo
+17:38:43 <Camail_> alright everything is fucky
+17:38:44 <Camail_> brb
+17:39:59 -!- Camail [~Camail@45.40.84.145] has joined #tlponies
+17:39:59 -!- mode/#tlponies [+v Camail] by Q
+17:40:17 <Camail> wtf is up with discord
+17:40:27 <ZK> nothin wrong on my end
+17:40:30 <ZK> i thin
+17:40:38 <Dot`> im in oyr dnd chat atm
+17:40:40 <Camail> no,i know tis just me
+17:42:55 <ZK> oh cool, there seems to be a fallout style roleplaying game coming out i think
+17:43:18 <ZK> oh nope, just a board game
+17:43:19 <ZK> oh well
+17:43:23 <skram> Phearlock_ are you watching the internationals
+17:43:37 <Camail> i cant get into r20 either...
+17:43:52 <Camail> my internet appears to be almost completely down
+17:43:55 <Camail> but just enough to use irc
+17:43:56 <Phearlock_> yes
+17:44:06 <Dot`> that sucks cam
+17:44:19 <Phearlock_> Restart everything?
+17:44:23 <skram> Is that john patrick lowrie doing the x vs. x intro thing?
+17:44:37 <Phearlock_> huh
+17:44:40 <Phearlock_> maybe? Idk
+17:46:28 <skram> Sure sounds like him
+17:46:40 <Phearlock_> yes
+17:49:56 <Camail> i cant join discord or r20, the two things i need to do
+17:50:02 <Camail> but i can do basically anything else
+18:12:36 <DuB`> https://twitter.com/PlayOverwatch/status/894984172460154880
+18:23:33 <Zounds> New mercy skin is awesome
+18:24:22 <Dot`> Yes
+18:24:55 <DuB`> Swimsuit widow ( ͡° ͜ʖ ͡°)
+18:25:00 <Zounds> Yes that one is good too
+18:25:15 <Zounds> Soldiers is super lame imo
+18:25:18 <Zounds> McCrees too
+18:26:37 -!- Camail_Phone [~camailpho@167.sub-174-221-5.myvzw.com] has joined #tlponies
+18:26:43 <Camail_Phone> Ok so
+18:26:44 <Zounds> Though if you're looking for a husbando McCrees might be perfect
+18:26:51 <Camail_Phone> Internet is totally dead
+18:26:52 <Zounds> if it wasn't for the flare gun i'd like i t:P
+18:26:57 <ZK> :(
+18:27:25 <Camail_Phone> No idea when it will he back up
+18:27:38 <Dot`> :/
+18:28:56 <Camail_Phone> You can go on without me
+18:30:02 <Dot`> we are going to do a side quest to go kill some flyning tihngs in the dead place
+18:30:20 <Dot`> while you are off doing your "making us look good" thing
+18:30:28 <Dot`> rawr http://imgur.com/gallery/ezvsY
+18:31:09 <DuB`> Gonna hunt down some PURITANS!
+18:31:19 <Rawr|Fone> .tell Dot` <3
+18:32:17 <Dot`> rawr rawr
+18:44:56 <skram> zounds what does SAMF mean
+18:45:24 <DuB`> Sandy?
+18:45:27 <DuB`> Sad? D:
+18:45:49 <skram> Also bbq dad soldier is amazing what are you talking about
+18:46:57 <Zounds> SAMF? no idea
+18:47:08 <Zounds> what's the context
+18:47:19 <DuB`> On cree's belt.
+18:47:31 <skram> McCrees belt buckle in the trailer
+18:47:52 <Zounds> Oh i dunno
+18:47:56 <Zounds> Sexy ass motherfucker? :P
+18:48:09 <skram> probably
+18:48:10 <DuB`> MMM
+18:48:15 <skram> i prefer sad ass motherfucker
+18:48:23 <Zounds> Maybe Safe
+18:48:26 <Zounds> Since he's a lifeguard
+18:50:25 <Dot`> http://imgur.com/gallery/ePGvbt8
+18:57:21 -!- motbob [~motbob@38.127.1.5] has joined #tlponies
+19:00:30 <Rawr|Fone> Dot dot
+19:01:38 <Bio> ?
+19:02:03 <skram> bio bio
+19:02:12 <Bio> skrama
+19:02:26 <skram> llama
+19:02:40 <DuB`> obama
+19:03:22 <skram> obama means family, DuB`
+19:03:51 <ZK> ohana is a starcraft map
+19:04:18 <Bio> Steppes of War has the shortest rush distance
+19:04:35 <Bio> tm
+19:04:38 <DuB`> Good ol' Metalopolis.
+19:04:40 <skram> zeke are you shitposing while GMing
+19:04:46 <DuB`> He is.
+19:06:13 <Bio> shitposting is a way of life
+19:06:35 <Bio> Dot`, i got sad, i died and lost all my bug game moni
+19:06:44 <Bio> was so close to light bug friend
+19:06:45 <Dot`> this happens
+19:13:19 <Dot`> we didnt die
+19:14:58 <reification> fyi pony island free here https://www.humblebundle.com/micro-jumbo-bundle
+19:17:10 <reification> 888poker appears to have misconfigured their server time zone leaving the vast majority of their tournaments unregisterable for…
+19:23:17 <reification> runbun, our previous discusion of nekopara’s azuki led to me finding out the second part of yume tsukai got scanlated like 3 years ago :O
+19:35:52 <Bio> Suck on my lijang tower
+19:38:15 -!- motbob [~motbob@38.127.1.5] has joined #tlponies
+19:39:47 <Dot`> skram http://imgur.com/gallery/huJN8
+19:43:02 <skram> thats a very good picture
+19:51:59 <reification> meta https://pbs.twimg.com/media/DGuI5seW0AA0_0V.jpg:large
+20:23:03 <Zounds> m'pons
+20:23:07 <Dot`> zoonds
+20:24:03 <Zounds> how's the dnd going dot
+20:24:39 <Dot`> tricky without our talker
+20:24:52 <skram> its all up to you now
+20:25:06 <Dot`> well i rolled a 1 and messed everything up
+20:25:11 <skram> Dot` are you playing an elf
+20:25:15 <Dot`> no
+20:25:19 <skram> good
+20:25:21 <skram> is it a dwarf
+20:25:30 <Dot`> no
+20:25:34 <skram> ugh
+20:26:49 <Zounds> elves are the worst
+20:27:16 <Dot`> bunch of tree huggers
+20:27:31 <skram> they're goblins with nicer hair
+20:29:01 <Zounds> I got the ultimate pack thingy for gigantic
+20:29:06 <Zounds> So now I have all the dudes now and forever
+20:29:29 <Dot`> nice
+20:29:35 <Dot`> who you plan on playing
+20:29:50 <skram> I played Sven today Zounds
+20:29:56 <skram> He is pretty awesome
+20:30:21 <Zounds> Yeah he's cool, I like him a lot better when I changed my build a bit
+20:30:57 <Zounds> I'll play whoever I think will be useful dot :P
+20:31:04 <Zounds> Though I enjoy Pakko and Voden the most so far
+20:31:13 <Zounds> And Wu is pretty baller
+20:32:13 <skram> I thought Voden was kind of boring honestly
+20:32:46 <Zounds> Did you take the talents that means when he poisons someone it spreads in AoE?
+20:32:56 <skram> did not try that
+20:33:03 <Zounds> It's fun and satisfying
+20:34:35 <Zounds> There's quite a few guys I've never tried in a proper game
+20:39:17 <Zounds> brb 2 mins
+20:39:33 <Zounds> or maybe a little bit more
+20:49:34 -!- Zounds [~chatzilla@cpc108453-cowc8-2-0-cust8.14-2.cable.virginm.net] has joined #tlponies
+20:49:35 -!- mode/#tlponies [+v Zounds] by Q
+20:49:54 <skram> sup zounds
+20:50:17 <Dot`> sounds
+20:51:15 <Zounds> allo
+20:51:22 <Zounds> wanna play some gigantic skram?
+20:51:44 <skram> i can do like 2 games before i head to bed
+20:51:51 <Dot`> no bed
+20:52:01 <Zounds> alrighty
+20:52:08 <skram> dot i get up at 5:30 for work
+20:52:18 <skram> i do need at least 5 hours of sleep
+20:52:49 <skram> brb 1 min zounds
+20:56:01 -!- Camail [~Camail@45.40.84.145] has joined #tlponies
+20:56:01 -!- mode/#tlponies [+v Camail] by Q
+20:56:08 <Camail> internet's back
+20:56:12 <ZK> join up
+20:56:31 <ZK> we got maybe 45-60 minutes left
+20:56:34 <Camail> I'm really not in the mood
+20:56:41 <ZK> oh ok :(
+21:01:31 <Bio> pone
+21:18:37 <Dot`> http://imgur.com/gallery/LJwlo dub
+21:20:39 -!- motbob [~motbob@38.127.1.5] has joined #tlponies
+21:37:14 -!- tredc [webchat@90-230-30-217-no56.tbcn.telia.com] has joined #tlponies
+21:54:45 <Phearlock_> Fun aggressive dota from VP
+22:04:22 <Dot`> bio you joining for a gigantic game or 2
+22:20:32 -!- Rawr|Phone [~AndChat25@84-217-62-32.customers.ownit.se] has joined #tlponies
+22:23:31 <Bio> I am killing mushrooms
+22:30:45 <Dot`> poor shrooms
+22:55:55 <DuB`> Bio do u beleev in liquid comeback?
+22:56:01 <DuB`> MUST FAITH
+22:56:18 <Phearlock_> in game 2 sure
+22:57:56 <DuB`> lul
+23:02:00 <Bio> can't tell if kuro is getting outdrafted, or is just feeding hard
+23:04:32 <Dot`> pon pon
+23:09:21 <Bio> asdf
+23:10:54 <Bio> Dot`
+23:10:58 <Bio> I'm in my last semester
+23:11:08 <DuB`> "RAAAAAAAAAARGFGHGH" - Margrave 2017
+23:11:12 <DuB`> YEY BIO
+23:11:30 <Bio> its almost unreal that I'll be finally done
+23:11:56 <Phearlock_> nice =D
+23:12:37 <Dot`> bio <3 this is good
+23:12:56 <Bio> one last set of classes. hopefully they aren't too hard.
+23:14:10 <DuB`> 2 more years. :T
+23:14:42 <Dot`> unknown if ever will complete
+23:16:34 <DuB`> u can do
+23:17:19 <Dot`> rawr http://imgur.com/gallery/hD3yT
+23:17:27 <Dot`> tactical doggo
+23:18:39 <Dot`> .tellm skram runbunny | http://imgur.com/gallery/aDryB
+23:20:49 <Rawr|Phone> Thanks dot
+23:23:44 <Phearlock_> awwww
+23:23:45 <Phearlock_> doggo
+23:25:30 <DuB`> Liquid stahp
+23:34:12 <DuB`> HOHO
+23:38:16 -!- Westy543 [~Westy543@c-73-189-129-4.hsd1.ca.comcast.net] has joined #tlponies
+23:38:16 -!- mode/#tlponies [+v Westy543] by Q
+23:50:51 <Phearlock_> lasthit =3
+23:56:37 <Phearlock_> oh boy
+23:56:41 <DuB`> O BOI

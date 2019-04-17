@@ -1,0 +1,659 @@
+00:02:37 <reification> night all
+00:02:48 <skram> night reif
+00:02:59 <DuB`> Seeya!
+00:03:04 <Dot`> gnight reif
+00:03:07 <DuB`> Let's pubgame tomorrow!
+00:03:27 <reification> but dnd tomorrow‚Ä¶
+00:03:32 <DuB`> BAH
+00:04:02 <reification> afterward we could play with halv maybe
+00:04:04 <Dot`> will see how long  imanage to dnd before i need sleep
+00:05:54 <DuB`> Ya
+00:06:08 <DuB`> Can't have our dot getting sick or anything.
+00:06:10 <skram> sleepyboys
+00:09:36 <reification> https://twitter.com/LahartJack/status/897897698933710849
+00:12:40 <Dot`> haha
+01:03:59 <Bio> .tell Camail https://68.media.tumblr.com/228f9b0d9d2d00abc2339e2cb1c95328/tumblr_onss1eVu7I1rbzfdgo1_500.png
+01:04:10 <Bio> dot too
+01:04:42 <Dot`> i sleeeep
+01:04:44 <Dot`> >3
+01:04:52 <Bio> nn dothors
+01:05:03 <DuB`> >3 dotpon
+01:06:29 <Bio> >3
+01:20:00 -!- Micen [~micen@h48.140.40.162.dynamic.ip.windstream.net] has joined #tlponies
+01:20:09 <Micen> hi
+01:20:47 <DuB`> hai
+01:21:00 <Micen> Hows things going?
+01:35:36 <DuB`> Very relaxing.
+01:35:46 <Bio> asdf
+01:40:38 -!- Oatsmaster [~Oatsmaste@ip68-5-138-160.oc.oc.cox.net] has joined #tlponies
+01:42:44 <Micen> Thats good, thats good. 
+01:47:16 -!- Camail [~Camail@45.40.84.145] has joined #tlponies
+01:47:16 -!- mode/#tlponies [+v Camail] by Q
+03:49:05 <motbob> i was working on a project yesterday that was time-sensitive
+03:49:29 <motbob> it was 12:30 when I decided to call it a night even thought the project was due the next day
+03:49:48 <motbob> as I got into bed I was mulling over the problems in my head
+03:50:17 <motbob> suddenly I had a flood of energy hit me! I bolted out of bed and went back to work and didn't get back to bed until 5AM
+03:50:37 <motbob> now i feel depressed and I guess that's some kind of payment
+03:51:02 <Camail> maybe sleep, or the promise of it, is your muse
+03:51:05 <Camail> sleep all the time
+03:51:25 <Camail> .tell bio she right, tho
+04:03:00 <motbob> Camail can you recommend a speedrun
+04:04:19 <Camail> well depends on what you want really, there's all sorts of runs
+04:04:40 <Camail> old school games with 100% routes are usually a really good mix of glitches and gameplay
+04:05:04 <Camail> the new doom has a good speedrun
+04:05:14 <Camail> hollow knight has a good speedrun
+04:05:40 <Camail> generally, games with good movement options and fun tricks are what you want to watch
+04:05:51 <Camail> preferably the movement options aren't annoying
+04:06:09 <Camail> mm any% is hot right now because the wr is being passed around as the route gets optimized
+04:06:13 <motbob> sorry
+04:06:16 <motbob> what i meant is
+04:06:24 <motbob> what's a speedrun that you enjoyed recently
+04:06:34 <motbob> i watched a lot of speedruns at one point
+04:06:40 <motbob> but i've fallen out of the scene
+04:06:43 <Camail> i dont really watch speedruns to complete anymore
+04:06:50 <motbob> ok
+04:07:01 <Camail> i watch majora's mask, but never the full thing
+04:07:47 <Camail> but since the scene has shrunk since the early twitch days i doubt there's anything new 
+04:07:50 <Camail> other than the doom runs
+04:08:11 <Camail> they are pretty fun to watch, but i always leave when a run ends because i can't be assed to care about a new run
+04:08:25 <motbob> did you watch Press Start Twice majora's mask
+04:08:31 <Camail> nope
+04:08:42 <motbob> i watched that one all the way through
+04:08:47 <motbob> good commentary
+04:09:13 <motbob> TAS iirc
+06:22:26 -!- Emily_ [~Emily@HoMM.users.quakenet.org] has joined #tlponies
+06:27:32 <motbob> pt. 1 https://streamable.com/y14u1
+06:27:38 <motbob> pt. 2 http://i.imgur.com/SED0EId.jpg
+07:15:53 -!- Emily_ [~Emily@HoMM.users.quakenet.org] has joined #tlponies
+07:20:16 -!- Runbunny [~Runbunny@91.100.28.10.generic-hostname.arrownet.dk] has joined #tlponies
+07:20:16 -!- BioSC [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+07:39:36 -!- Micen [~micen@h48.140.40.162.dynamic.ip.windstream.net] has joined #tlponies
+07:40:49 -!- BioHorse [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+08:01:09 -!- Emily_ [~Emily@HoMM.users.quakenet.org] has3:06.926454 2014] [:error] [pid 25013] [client 81.209.177.95:34081] PHP Warning:  Illegal string offset 'videoautoplay' in /var/www/filmsonthefly/www/wp/wp-content/themes/DynamiX/archive.php on line 147
+[Fri Jan 03 21:03:06.926474 2014] [:error] [pid 25013] [client 81.209.177.95:34081] PHP Stack trace:
+[Fri Jan 03 21:03:06.926486 2014] [:error] [pid 25013] [client 81.209.177.95:34081] PHP   1. {main}() /var/www/filmsonthefly/www/wp/index.php:0
+[Fri Jan 03 21:03:06.926498 2014] [:error] [pid 25013] [client 81.209.177.95:34081] PHP   2. require() /var/www/filmsonthefly/www/wp/index.php:17
+[Fri Jan 03 21:03:06.926510 2014] [:error] [pid 25013] [client 81.209.177.95:34081] PHP   3. require_once() /var/www/filmsonthefly/www/wp/wp-blog-header.php:16
+[Fri Jan 03 21:03:06.926522 2014] [:error] [pid 25013] [client 81.209.177.95:34081] PHP   4. include() /var/www/filmsonthefly/www/wp/wp-includes/template-loader.php:74
+[Fri Jan 03 21:03:06.939847 2014] [:error] [pid 25013] [client 81.209.177.95:34081] PHP Warning:  Illegal string offset 'movieurl' in /var/www/filmsonthefly/www/wp/wp-content/themes/DynamiX/archive.php on line 134
+[Fri Jan 03 21:03:06.939874 2014] [:error] [pid 25013] [client 81.209.177.95:34081] PHP Stack trace:
+[Fri Jan 03 21:03:06.939896 2014] [:error] [pid 25013] [client 81.209.177.95:34081] PHP   1. {main}() /var/www/filmsonthefly/www/wp/index.php:0
+[Fri Jan 03 21:03:06.939911 2014] [:error] [pid 25013] [client 81.209.177.95:34081] PHP   2. require() /var/www/filmsonthefly/www/wp/index.php:17
+[Fri Jan 03 21:03:06.939923 2014] [:error] [pid 25013] [client 81.209.177.95:34081] PHP   3. require_once() /var/www/filmsonthefly/www/wp/wp-blog-header.php:16
+[Fri Jan 03 21:03:06.939936 2014] [:error] [pid 25013] [client 81.209.177.95:34081] PHP   4. include() /var/www/filmsonthefly/www/wp/wp-includes/template-loader.php:74
+[Fri Jan 03 21:03:06.939954 2014] [:error] [pid 25013] [client 81.209.177.95:34081] PHP Warning:  Illegal string offset 'previewimgurl' in /var/www/filmsonthefly/www/wp/wp-content/themes/DynamiX/archive.php on line 135
+[Fri Jan 03 21:03:06.939964 2014] [:error] [pid 25013] [client 81.209.177.95:34081] PHP Stack trace:
+[Fri Jan 03 21:03:06.939977 2014] [:error] [pid 25013] [client 81.209.177.95:34081] PHP   1. {main}() /var/www/filmsonthefly/www/wp/index.php:0
+[Fri Jan 03 21:03:06.939989 2014] [:error] [pid 25013] [client 81.209.177.95:34081] PHP   2. require() /var/www/filmsonthefly/www/wp/index.php:17
+[Fri Jan 03 21:03:06.940001 2014] [:error] [pid 25013] [client 81.209.177.95:34081] PHP   3. require_once() /var/www/filmsonthefly/www/wp/wp-blog-header.php:16
+[Fri Jan 03 21:03:06.940013 2014] [:error] [pid 25013] [client 81.209.177.95:34081] PHP   4. include() /var/www/filmsonthefly/www/wp/wp-includes/template-loader.php:74
+[Fri Jan 03 21:03:06.940028 2014] [:error] [pid 25013] [client 81.209.177.95:34081] PHP Warning:  Illegal string offset 'stagegallery' in /var/www/filmsonthefly/www/wp/wp-content/themes/DynamiX/archive.php on line 136
+[Fri Jan 03 21:03:06.940038 2014] [:error] [pid 25013] [client 81.209.177.95:34081] PHP Stack trace:
+[Fri Jan 03 21:03:06.940050 2014] [:error] [pid 25013] [client 81.209.177.95:34081] PHP   1. {main}() /var/www/filmsonthefly/www/wp/index.php:0
+[Fri Jan 03 21:03:06.940062 2014] [:error] [pid 25013] [client 81.209.177.95:34081] PHP   2. require() /var/www/filmsonthefly/www/wp/index.php:17
+[Fri Jan 03 21:03:06.940074 2014] [:error] [pid 25013] [client 81.209.177.95:34081] PHP   3. require_once() /var/www/filmsonthefly/www/wp/wp-blog-header.php:16
+[Fri Jan 03 21:03:06.940086 2014] [:error] [pid 25013] [client 81.209.177.95:34081] PHP   4. include() /var/www/filmsonthefly/www/wp/wp-includes/template-loader.php:74
+[Fri Jan 03 21:03:06.940100 2014] [:error] [pid 25013] [client 81.209.177.95:34081] PHP Warning:  Illegal string offset 'disablegallink' in /var/www/filmsonthefly/www/wp/wp-content/themes/DynamiX/archive.php on line 137
+[Fri Jan 03 21:03:06.940110 2014] [:error] [pid 25013] [client 81.209.177.95:34081] PHP Stack trace:
+[Fri Jan 03 21:03:06.940122 2014] [:error] [p14:01:48 <Micen> come Overwatch 
+14:01:52 <Micen> i was just going to start
+14:02:02 -!- Emily_ [~Emily@HoMM.users.quakenet.org] has joined #tlponies
+14:02:03 <DuB`> YAY OBERWAJ
+14:02:15 <DuB`> Brother still aspleep tho. :O
+14:02:17 <Micen> in discord 
+14:02:19 <DuB`> Hmmmm
+14:02:27 <Micen> I need to warm up anyway
+14:02:28 <skram> wake him the fuck up DuB`
+14:02:33 <skram> assert your big brother status
+14:02:36 <Micen> havent played in forever
+14:02:37 <DuB`> It's only 8am!
+14:02:38 <DuB`> rood
+14:02:48 <Micen> wait is dub the elder brother?
+14:04:25 <DuB`> Ye
+14:04:27 <Micen> Dub, might i make the recommendation of https://www.amazon.com/Falcon-PBSHN-Marine-Signal-Horn/dp/B0001ZVQZM/ to wake him up
+14:04:30 <DuB`> I kinda want this: https://teespring.com/millennial-massacre#pid=2&cid=2397&sid=front
+14:04:38 <Micen> To be a truly proper big brother and all. 
+14:04:41 <DuB`> Hahaha
+14:09:58 <Micen> Tiem to play doomfist for the first time
+14:14:21 -!- DoT_ [~quassel@94.3.62.254] has joined #tlponies
+14:14:56 <DuB`> Doomfist is kinda OP
+14:15:09 <DuB`> His punch hitbox is like reinhardt shield size.
+14:15:26 <Bio> if it wasn't he would suck
+14:18:20 <Cane> I'm with Bio on this. It's hard as shit to balance melee characters in shooters.
+14:18:28 <Cane> Gonna be hard to find a sweet spot for him.
+14:20:40 <Bio> I will admit, though, rocket punch is super fuckin fun
+14:21:06 <Bio> also g'mornin cane
+14:21:39 <Cane> He's great fun. His kit is so enjoyable to use... but if they nerf any part of it to make him not broken, he won't be nearly as enjoyable.
+14:21:43 <Cane> And hi Bio,.
+14:21:55 <Bio> You still working on the last couple terraria vids?
+14:22:14 <Bio> wanna see someone beat that boss that I never could =D
+14:24:48 <Cane> Coming soon¬ô
+14:25:08 <Bio> gotcha =3
+14:25:10 <skram> yay!
+14:30:21 <Bio> asdf
+14:30:34 <Bio> i need some food, skrm lets go get food
+14:30:50 <skram> fuk yeah boii
+14:30:58 <skram> whatcha want
+14:31:00 <skram> chinese?
+14:31:03 <skram> lets get chinese
+14:33:17 <Bio> not for grekfast sarkma
+14:36:25 <skram> sure
+14:38:16 <Micen>  16 kill streak torb
+14:38:53 -!- tredc [webchat@90-230-30-217-no56.tbcn.telia.com] has joined #tlponies
+14:39:05 <DuB`> (On hanamura B ;D)
+14:44:05 -!- Emily_ [~Emily@HoMM.users.quakenet.org] has joined #tlponies
+14:44:25 <skram> are you a torb main now
+14:44:31 <Micen> ive been
+14:47:21 <Runbunny> skram, http://i.imgur.com/2NjH0aq.mp4 Rawr|Fone 
+14:56:54 <Bio> torb is love, life, ect
+15:06:11 -!- CockRoach|42 [~CR@CockRoach|42.users.quakenet.org] has joined #tlponies
+15:06:11 -!- mode/#tlponies [+v CockRoach|42] by Q
+15:29:38 <Rawr|Fone> Thanks runbun
+15:29:46 <Rawr|Fone> That's a good gif
+15:42:14 -!- Golly [~Golly@1.92-221-121.customer.lyse.net] has joined #tlponies
+15:42:23 <Runbunny> It sure is.
+15:42:31 <Runbunny> I am glad you enjoyed it Rawr.
+15:53:35 <reification> out now, back for dnd about 6:15 dot
+15:59:49 -!- Micen_ [~micen@h47.50.91.75.dynamic.ip.windstream.net] has joined #tlponies
+16:00:26 -!- Zounds [~chatzilla@cpc108453-cowc8-2-0-cust8.14-2.cable.virginm.net] has joined #tlponies
+16:00:26 -!- mode/#tlponies [+v Zounds] by Q
+16:00:36 <Zounds> ey ponns
+16:01:26 <DuB`> Zounds!
+16:01:34 <Zounds> allo dub
+16:02:38 <Zounds> That scots wikipedia is the stuff of nightmares reification
+16:08:28 <Zounds> or it's makkit ae nichtmares I should say
+16:16:34 <DuB`> Wuh
+16:17:39 -!- Camail [~Camail@45.40.84.145] has joined #tlponies
+16:17:39 -!- mode/#tlponies [+v Camail] by Q
+16:22:36 -!- Oatsmaster [~Oatsmaste@ip68-5-138-160.oc.oc.cox.net] has joined #tlponies
+16:28:43 -!- Emily_ [~Emily@HoMM.users.quakenet.org] has joined #tlponies
+16:55:17 <DoT_> I am home
+16:55:19 <DoT_> hello pons
+16:55:24 <DuB`> YAY
+16:56:24 <DoT_> Dub dub <3
+16:57:45 <DuB`> Dot dot <3
+16:57:50 <DuB`> You dnd today?
+16:58:08 <DoT_> yea, will see how it goes, i am very tired
+16:59:17 <DuB`> I no werk tomorrah.
+16:59:38 <DuB`> hoo
+16:59:38 <DuB`> ray
+17:00:15 <DoT_> me neither
+17:06:14 <Runbunny> DoT_, http://i.imgur.com/MzbsSJs.jpg
+17:07:58 <skram> DoT_
+17:08:00 <skram> how you
+17:09:30 <DoT_>Ù Ñ´  
+n‘ Ñ¨  
+lÏ Ñ≠  
+md ÑÆ  
+m¿ ÑØ  
+ll Ñ∞  
+jp Ñ±  
+i Ñ≤  
+hl Ñ≥  
+f4 Ñ¥  
+e† Ñµ  
+cÿ Ñ∂  
+aÃ Ñ∑  
+b Ñ∏  
+cD Ñπ  
+aT Ñ∫  
+aÑ Ñª  
+`¨ Ñº  
+a( ÑΩ  
+`  Ñæ  
+^  Ñø  
+^| Ñ¿  
+^º Ñ¡  
+]‡ Ñ¬  
+Z∞ Ñ√  
+[ Ñƒ  
+\ Ñ≈  
+Zp Ñ∆  
+ZL Ñ«  
+YP Ñ»  
+Y® Ñ…  
+X» Ñ   
+V∏ ÑÀ  
+V4 ÑÃ  
+V ÑÕ  
+T– ÑŒ  
+SË Ñœ  
+QD Ñ–  
+P§ Ñ—  
+P¸ Ñ“  
+P  Ñ”  
+Pp Ñ‘  
+N| Ñ’  
+M Ñ÷  
+Mê Ñ◊  
+I Ñÿ  
+JÄ ÑŸ  
+Kx Ñ⁄  
+KÃ Ñ€  
+Ih Ñ‹  
+Hî Ñ›  
+Hƒ Ñﬁ  
+I Ñﬂ  
+G¿ Ñ‡  
+E∞ Ñ·  
+FD Ñ‚  
+GD Ñ„  
+C† Ñ‰  
+D ÑÂ  
+B† ÑÊ  
+C ÑÁ  
+CP ÑË  
+A‡ ÑÈ  
+?® ÑÍ  
+?Ù ÑÎ  
+@P ÑÏ  
+@ú ÑÌ  
+@– ÑÓ  
+>– ÑÔ  
+>@ Ñ  
+>å ÑÒ  
+=x ÑÚ  
+=H ÑÛ  
+;  ÑÙ  
+: Ñı  
+:| Ñˆ  
+: Ñ˜  
+9– Ñ¯  
+9$ Ñ˘  
+9Ä Ñ˙  
+8¿ Ñ˚  
+8@ Ñ¸  
+6Ï Ñ˝  
+7ÿ Ñ˛  
+6ò Ñˇ  
+5P Ö   
+5à Ö  
+4| Ö  
+3‰ Ö  
+2 Ö  
+1∏ Ö  
+/< Ö  
+-  Ö  
+-ƒ Ö  
++® Ö	  
++0 Ö
+  
+)∏ Ö  
+) Ö  
+*< Ö  
+(Ë Ö  
+), Ö  
+(  Ö  
+(Ä Ù ÑE  
+≠Ä ÑF  
+≠  ÑG  
+¨¥ ÑH  
+™‰ ÑI  
+´Ñ ÑJ  
+´ ÑK  
+¨  ÑL  
+®\ ÑM  
+®† ÑN  
+®‹ ÑO  
+© ÑP  
+©p ÑQ  
+©Ã ÑR  
+ßË ÑS  
+ßH ÑT  
+¶¯ ÑU  
+¶ ÑV  
+§D ÑW  
+£Ë ÑX  
+¢| ÑY  
+¢∏ ÑZ  
+£ Ñ[  
+¢ Ñ\  
+¢D Ñ]  
+°T Ñ^  
+° Ñ_  
+üD Ñ`  
+ü¨ Ña  
+† Ñb  
+†å Ñc  
+ûx Ñd  
+ûÃ Ñe  
+ù§ Ñf  
+û  Ñg  
+úÏ Ñh  
+õl Ñi  
+ú  Ñj  
+ôt Ñk  
+òt Ñl  
+ò¨ Ñm  
+ô Ñn  
+ñà Ño  
+ó Ñp  
+î\ Ñq  
+ìî Ñr  
+ì Ñs  
+ë$ Ñt  
+ëº Ñu  
+í∏ Ñv  
+ê Ñw  
+êå Ñx  
+é§ Ñy  
+é< Ñz  
+çÏ Ñ{  
+ãÄ Ñ|  
+ã∏ Ñ}  
+å0 Ñ~  
+åú Ñ  
+ä‰ ÑÄ  
+äú ÑÅ  
+â¸ ÑÇ  
+àº ÑÉ  
+â ÑÑ  
+âL ÑÖ  
+à< ÑÜ  
+á¨ Ñá  
+Ü Ñà  
+ÖH Ñâ  
+É¥ Ñä  
+Ñ Ñã  
+Ñ∞ Ñå  
+Ñ‡ Ñç  
+Ç| Ñé  
+Ç\ Ñè  
+Å  Ñê  
+Å| Ñë  
+Ä\ Ñí  
+Ä∏ Ñì  
+† Ñî  
+~– Ñï  
+| Ññ  
+z– Ñó  
+zT Ñò  
+y‹ Ñô  
+y∞ Ñö  
+w Ñõ  
+v‰ Ñú  
+v Ñù  
+u∏ Ñû  
+uî Ñü  
+tê Ñ†  
+t» Ñ°  
+t¯ Ñ¢  
+uL Ñ£  
+t8 Ñ§  
+sÙ Ñ•  
+s¥ Ñ¶  
+sh Ñß  
+r§ Ñ®  
+p¨ Ñ©  
+pD Ñ™  
+o@ Ù Éﬂ  
+˜l É‡  
+¯ É·  
+¯l É‚  
+ıå É„  
+ı$ É‰  
+Ù  ÉÂ  
+Ùx ÉÊ  
+Û ÉÁ  
+ÒÃ ÉË  
+ò ÉÈ  
+` ÉÍ  
+Ó‡ ÉÎ  
+Ìt ÉÏ  
+Ï‹ ÉÌ  
+Ï¥ ÉÓ  
+Î‘ ÉÔ  
+Î¥ É  
+Í‰ ÉÒ  
+ÍT ÉÚ  
+Èl ÉÛ  
+Ël ÉÙ  
+Á  Éı  
+ÁT Éˆ  
+Áê É˜  
+Â( É¯  
+Âê É˘  
+Â É˙  
+‰‹ É˚  
+‰x É¸  
+„î É˝  
+‡ É˛  
+‡| Éˇ  
+‡¨ Ñ   
+ﬁÙ Ñ  
+ﬁå Ñ  
+ﬁ0 Ñ  
+›@ Ñ  
+‹ú Ñ  
+€¿ Ñ  
+⁄® Ñ  
+ŸP Ñ  
+ÿº Ñ	  
+’Ã Ñ
+  
+÷  Ñ  
+“¯ Ñ  
+”¨ Ñ  
+‘Ã Ñ  
+’ Ñ  
+“å Ñ  
+–@ Ñ  
+–ò Ñ  
+— Ñ  
+—t Ñ  
+Œ– Ñ  
+Õ Ñ  
+ÕÏ Ñ  
+Œ8 Ñ  
+ÃÄ Ñ  
+Ã` Ñ  
+À§ Ñ  
+ ‰ Ñ  
+…t Ñ  
+«î Ñ  
+»$ Ñ  
+… Ñ   
+«P Ñ!  
+∆P Ñ"  
+∆‡ Ñ#  
+≈‹ Ñ$  
+ƒx Ñ%  
+ƒ– Ñ&  
+≈ Ñ'  
+¬( Ñ(  
+¡ò Ñ)  
+ø¸ Ñ*  
+¿§ Ñ+  
+¿ÿ Ñ,  
+æ® Ñ-  
+ΩL Ñ.  
+Ω$ Ñ/  
+º8 Ñ0  
+ª‰ Ñ1  
+∫ Ñ2  
+∏ Ñ3  
+∏h Ñ4  
+∏– Ñ5  
+πl Ñ6  
+∂X Ñ7  
+∂Ã Ñ8  
+∑8 Ñ9  
+µ\ Ñ:  
+µº Ñ;  
+¥< Ñ<  
+±, Ñ=  
+±ú Ñ>  
+± Ñ?  
+≤H Ñ@  
+≤Ñ ÑA  
+≤Ã ÑB  
+∞ú ÑC  
+∞l ÑD  
+∞ Ù Éy  @ Éz  @p É{  >X É|  ? É}  ?p É~  ?Ã É  =| ÉÄ  :∏ ÉÅ  ;L ÉÇ  <, ÉÉ  <Ñ ÉÑ  :\ ÉÖ  9p ÉÜ  9 Éá  8h Éà  8 Éâ  7î Éä  7 Éã  6‡ Éå  6X Éç  5‡ Éé  6 Éè  5å Éê  50 Éë  3( Éí  1| Éì  0∏ Éî  /Ã Éï  0( Éñ  /< Éó  /ú Éò  -ò Éô  -Ï Éö  .H Éõ  +@ Éú  +‘ Éù  )à Éû  )‹ Éü  (∏ É†  &ê É°  $h É¢  $Ã É£  % É§  %4 É•  $ É¶  ! Éß  "8 É®  "å É©  "‹ É™   D É´  Ä É¨  – É≠    ÉÆ  x ÉØ  ‹ É∞  X É±  , É≤  L É≥  ‡ É¥  t Éµ  º É∂  8 É∑  ‡ É∏  Ñ Éπ  § É∫  Ä Éª    Éº  Ä ÉΩ  d Éæ  Ù Éø  x É¿  ÿ É¡   É¬  | É√  4 Éƒ  § É≈    É∆    É«  	Ä É»  
+ É…  
+Ï É   < ÉÀ  å ÉÃ  ƒ ÉÕ  ‡ ÉŒ  D Éœ  @ É–  ê É—  ê É“  ò É”   É‘  @ É’   D É÷  
+ˇ† É◊  
+ˇD Éÿ  
+˛Ë ÉŸ  
+¸4 É⁄  
+¸ê É€  
+˝$ É‹  
+˙‰ É›  
+˙` Éﬁ  
+˘` ¡Û|gƒÛ±`ë…FR¶¿Û√[x“öûò…åûZÒèi“ZÛ¡ GÄ£ß"Å√»¯dsS¿éÎ}(öJ'•–¡F»]aÆy§Í	MØ∫¶ßß¶0=1âÈ©Id≠ÚVÜ,À–úö
+˚˛”KøÖˇ¸èo‡âO<
+##çyq3:Î[w„˜O\ãìY~7ˆÈ√íøzP˚ó›∂ø˚ÈÎ’îƒ˛lﬁºõ6m¬Ûüˇ¸ûæˇ¥óæ´N:¿ÅGÅ§—
+Ìˆ5-c
+%€k≥ñ@¿¨G°I”§,lßP£3–ñ C#ÄU˜>Ñˆ9%Nz¥Æ€›‚uÁïû¢ïô{O!√g£
+.∞E‡nù™8˚ÜÛW¢µwŸ¿†	Gp‰s®—∂Eç•Æqˆîk‘ı'ÕyQúh÷;ˆÍƒe,	5®ÒßiäV+#éHâÂ˚∂|ˆ∆¶€>t€Q∞∫—zt⁄˚Ì A?nZ˝lSß…ˇ˚'?˘	û}¯Z¸”ﬂ˝íÂkk
+¯Ú=I
+øÊP¥¶∆±˜÷ü¢π{í—EX∞ˆ ,€o5—´\M=ÏÜ6˝®`ñŸ  √.ª)ÜÜBŒ¯¿ßÒ’Ô˝/}ÈKWÖ˜æ8œ÷Áv≥ˆuH‡„	†∏∑l8«◊	$πXêBöÖ ¸`Êá{†"ïÖá•X˝BùÎácY∑Œì∞;)iœˆ^»AÄÅv
+rWäaì⁄≈¿«B•Hì˛Ee/∏Ç.¢ﬂØΩ$yÔÉCç∏nY!æYVÚ###∫’L¢|°RŸ}”…Íπv?¢r‚ˇ/Ô⁄bÏ∫ Û∑÷ﬁÁúô9sµ«éÌÿµìÃ•**ZhEBI‹(≠™J≠⁄JU≈ïö‰â"µ*àä(På!8i&\!óR\‹J⁄(©q€3c{∆œÂÃ9{Ô’áΩˇµæµˆ˚ú„Òm˙93sÆ{ØΩˆˇ˝ˇw·cúUÑŸÖÖ 'ƒ3Ä;Ò‹ÛXYnAkÖˇ>Ùo∏˝Ê7`œûﬂ¬ˆÌ[199qQ63c:ù§d«Q_Ô˜‡é„;?õ√áﬁ˙íUsË–!LLL`˜Ó›]øÓ±c3∏ıé=∏·µØÜ1◊Ï⁄âZΩ^2@@˚…s#\vw´˘wly≠»û’ÀÂ(,ï90“⁄sCr“TI˚¿ >IöB(∫û]∏°‹B'ãÊ¿∆ŸSê(“÷ûó'Ål°Õ∂∫ûpﬁ8ÌO †ì$û≥ûU©Ä.& I<Â	¨u≠∏ùˆJ=Övb~èÛﬁ∆Lô˛c v…	}'πÜC=úTh2AÕr˙§ü©¬Ôπsa•Øj/@§€)GØ∫èµ∞ÊÌ–TΩ÷ÏÏ,=ˆM<Ú∑wbÁı7Bç≠RB+`|3⁄+ÀX:¸:s3Ä1à'6ax”V‘çﬁß›ê∏ò»íãKøZ£‚k-^ÂBÔ>Ô∏ÁôØ>Ü7æÒçWU}≠ÄDøzÜ´}zr%Éè+q›®ªˆÃ(|⁄õx!",É9˛æh@›4*c©É[∏ªâãD√¬‹4ƒŸ7+°ˆÑaf†≠ò
+ïÔç<ÅJHÍ›®)_§ 1Å|Œ√ú¶,UÚÑâ√—x™vg√îf¶åπé$JBs).YØ·t∫$>e˚VvZrì±º8rö÷ödﬁ±Õƒ	¶DﬂíÔõ&	¶~~∆dòõ>Å÷·ÁÓwﬂ h4Íÿ∏q££M4‘j1‚8™pUqª›A´µÇV´çïït:	⁄ÌÊÁ<
+l1°—®£ŸD≥9Ñfs4ıﬁå8Ä€nªÕfÛºèÕ≤SS'Òço<ä˜ﬂ∑7º‚ÂPJaÎı◊CG⁄~èTaÜ¿∂Æôó,ûO.ÑŒ$°û˘uÏÇùÛÇ˙îÖ¥%gqõî%°UYsáõlË‘‰gı¿£˙ˆ÷∫4Öï=!‹g|—~>øy¿Mi†c∂á1y"8Ö˛9˜π¸µXˇf?#8’=Úú√)¨Ä¯*72ﬂ¡é©§~Êâ¸Ã˙-M§€Õ-2h9∞ ì¢*
+V899 ÈHÙ+6?ü–Ω[MG7I’œ_˚ÍWÒ˚øÒÀx˚[oÅΩ™>P@Í§√hM?ètqÈÚY®∏é⁄‡ öck@ÿø9d)Lk~Ìß‹!πÃ†c-¡»;ˇn/>˝ÂG/Ä\Óé¸ï8πRãıµÎ§UÆìª˜ÃÑE+_r,∞ÆﬁÙ}⁄Eû/êPpXæ∑∞’/ø[t≤ìS~cçhÙÔ.•ïô∂Ω‹Â≥›F≠äÃâÃÀ'Zã√YC!›U.>™ú¬òÔ&4a8'ºªÇÆî◊E-ãÍQr*Üëªè÷ûˆ$Ïsôè1ÖrLí$-éüﬂ©ıtE°™ÕKÿuÊÔ:ÛÏs9+3xÙS‚ÅèÓE‹F}p§‚æ¶(¿—Ô∫K˛ÇL7V´*¯ì$±T:^√≤Ê0<‹D≥9à8é,xã¢»Ç¢sMP<àõn∫…N‚⁄Ì6VV⁄h∑;ˆﬂvªçV´çVkÌˆ
+ﬁÛæwaËª≈1F6N`|”Êb‚œ}Nœ¨(;h 0uGŒq§#:/∆£ÃÖ9;≤\Êl6ç¨¡(är◊∏bä»ÖtòÜ.îBN8w‡¡î®Fòyèr◊ß!w5W(≥£{—r)“¬»wN”ƒª˛ƒÑ)‰°ÅÖO{É=ÜLóßC≤NÂ˚€s"°êπÖúÚzÕy£»”¿Ÿ…≥±S_û¢9›äõ@°hû'ØÆ	Y‡¶i/€µ‘Ó{“KÒ~1Ç˚MAÔG?rÆi…ë#G„'æèo˝˝;022
+=æ–QuÅøa+⁄ÀãPµ:†“≈y$≥SûÿÑ/ıBø:7PQ#ì@g¶¬∑(7Êz)<◊†ÿ2k˛¿’G/%ı_}`¯“ø‡ñ[nπ™;ﬁ˝fU\J0r9Å≈Öû√ÀπÆÑıßÓº˜£&§„à„@∞÷à
+ΩOÚõìÚx÷°uØpò∆ïÅΩm◊NlŒS ˘Y&3ô1 —‘=‘%∑-.x¯ŒEVYã·,x√¬„¬{è2ı©“
+ìäÁ–—ã?OQ≤¿%ß`·{ D®2˛gÙ˝(R§£"È‹vt]ü≠§Ò	sO¬ÙË∞CÀÇ¸4K©òbwµ≥«ß∞º∞ ì¸Ù?û¿Î^∏wΩÌèq¯ËILüi√DCÿ¥˘ö^‰ss≥8ÚÛg0{r+Kg`“Íë¬ËH◊löÑR@'…–I:ê"F;¢˙ 6nòƒËÿ8∆««ë≤)›;•”«Qpõ2òöö¬ñ-[ë$	:ù§DâK”ÀKXiw–¨è=ˆM<rì;Æ≈¯8∆6Mñ‹axúZÀ§–Õ∞S
+/8 ü<⁄Ùzx≈0”wî÷π¶ã¨ö˘÷Ï∫˘Y%ß8+@∞bŸ  gô”áÑ:']ºøétI≈ÆWéÆƒ›∂˚vì8Yá°´;ÄÖt=ﬂYŒßÉ*r„BSÄOu”◊î Ä€ã]ÂS∫Æ¨ŒÀMÜ<∑ª‚<…˚&IBìVx ÑS⁄•I„O´|Z-ˇ~«ŸV©¿Ëv‚—k@a?bÒ~¡B∑î™∞Ÿ—œ$§›n„·á∆ª˛`ﬁ|ÛØçaË—…Íˆ≤±ÕHŒŒ&ÉISd≥®’JUrﬂ˙è@|ÆF&°Gëù8UU…˜[`ˆQ Ÿ«•á®˛Ä»ª>¯q‹˜ÖØ·÷[o]Ö‰•¥›Ω“ÅYøüØG¿ı“Œπ&Ó˙D@§;v˙M`Ûjy‡JY;Utf_û√¡](`J7EÌΩß¸é;‡Ïòä"˝œÈä√ênÿÏ(#7i´)
+:¶xÖ›Mˇs∫MŸpQTäÎŸ…*À|y:ñüõ4M
+¿†m"∫R∆uäΩP3g{Àõ∂∏“4stµä‹í<¨,•é©v	⁄∆w’rØ∂æ©Á§ì.XRDù|˛y§IÇÂÖE<˛–ÒØè<Ä°Å<ÙÔÙ¸û=~K`π¥:ÉC#üò¿ËË®µ-Ót:XZZƒÈπYÃùûÉI€àïA]ßhD∂nö¿oÿÖßéù¿w~ÚøH;,û]¿—cSò;q#ë∆∂âQºÏ≈7‚¶WΩõ'7  ññóq|Ê$¶fNaÓLñ⁄)2£ë F#Íµq≠çÅ¡ÅÇäîOZ≠6PØ≈®E
+J«®«*ˇ/j±∆`Mc|lçz_˙Áo‚s?x
+/zÕM–QÑ∏ÉÌóôÇe˘D¸Gî”ëzÙ≈‚Jv];qåΩDÊπß1@gi6õê«πn~Æœ≥%\a-`‘ﬁ…çõ†q`ﬁ©œ<ªÈ4Mãif˛çÑÍ«Ÿì¬…†ØsQﬁ¥î-∂›g)[œ≤+H_&øbá´ê⁄XEë„◊däõ4Q8ÎÖµ:ˆ:-éßLi@:ß˘—•5aøó–¡VÒºó˜Ú¶¬EÓä°9 ï≈EE¶Ã˘nƒ›¸ÌB I∑Ø€oHa∑ÖF¯º˝ËGPgN‡≥ÛÁ®«1‘F(;	&Z≥Và∂ÔÜ©"Î¨ ]<3sqòåŒÁ§*ˇ£ÀÈGz6Bè]ÉÏ¯”@ïÜ®◊‚Ù
+ñlµ!À≈Æ„z"Ô˘'âœ∑›v€ˇ;ZÕ•4ó≤pæö≤Æ¶ı¶ÓﬁøœdYjπ ÏvbøåÚ;·ÆÿWﬁÇbÅ$èÛSK…äJ†º®—∂Oí¥4I@‡8Ÿä\∫Úõ>O)Pp›–dE¢qD Çùõ¸Œ£{æ÷∫∞15Ej0ŸR¢|ce*ß¥sbπ+ﬁ8^iœﬁíØœ€˘Êóº∏˚,ùÍ¸|íuiA€0&ÛŒÉ/Xf◊≥P‡õ?Wí¥√ÇEäPil°,éG|NìNs33Xö?ã'øÛ]¥¶¶pÁü˝!n˝ÕõQãÀéXßÁœ‚ƒ©Y,..#)h}qaxhc£#ò‹0^ +0∆‡ªˇ˛C|·È√ËOÁ"`ÉXkú>>ç©√á1)º˙Â/≈k^ı
+ºd˜h4˙ﬁV€h≥,√±ÈxÚ«?≈°Ôˇ'æqqnﬂé◊ˇﬁÔXCÓ˙±xX&â‹E˜ÖÁÏd%˝ÌL®T»i8ëvÓWä:›(m õ•¢_*(a!uáÛoä1Ç•$⁄ıP0)æoöŸN;[◊ÚTçÅÄÿÁZ—{@ïÙÅ<çåµ‰5(&™Y1…ÇgÏgﬂ§Ä–iz¿îr´Út °.\/–sYpƒ·´¸|Á¥•+GÆ±†ù >HbÁ•î ı¡í∂ÆxÄ¬ŒÛP∞ŒusºêÇΩ_@“KNHø⁄èn&;·c»øÄOˇÂ€+/∫Pj|T\'êP<'ÆAo⁄@!ù>Ö¨z≤ﬂ-ÈC ≤z√dSOùï2¯∏D‘´¢UÊæÔÂ®≥Tw ‰Ω{Ô«æ¡û={÷UQy°¿a≠hich stifles etc. etc." but all i ever see is ">reddit"
+21:03:04 <carcinisation> i forgive you mot
+21:03:23 <motbob> as if reddit is a demographic
+21:03:53 <motbob> sort of like Trump subs DansGame
+21:04:04 <carcinisation> reddit is actually higher up the rankings than i realised
+21:04:16 -!- Golly [~Golly@1.92-221-121.customer.lyse.net] has joined #tlponies
+21:09:07 <carcinisation> long ago i remember thinking somethingawful might have made a breakthrough for discussion forums with the entry fee... so very wrong
+21:11:11 <carcinisation> so far i've yet to find anything work as well as keeping the size to certain limits
+21:11:19 <motbob> neogaf does ok
+21:11:57 <motbob> i guess neogaf/SA are the only sites i've really interacted with that meaningfully limited entry
+21:12:53 <carcinisation> guess metafilter made charging work but they still had to close entry eventually
+21:16:28 <Dot`> skram, now?
+21:17:04 <Dot`> https://www.twitch.tv/canecraft
+21:17:32 <Camail> carcinisation  have you considered visiting good subs?
+21:17:42 <Camail> it just sounds like you hate reddit because there are assholes on it
+21:18:24 <carcinisation> there are plenty of parts of reddit i like cam
+21:18:58 <carcinisation> but i don't think any of them are large
+21:19:09 <Camail> skram pls, dot said its time for you to play
+21:19:21 <skram> i miscalculated
+21:19:28 <Camail> you bitch
+21:19:32 <skram> ~150mb yet
+21:19:32 <Dot`> your suppose to be an engineer!
+21:19:36 <skram> so 5 minutes i guess
+21:20:01 <skram> a tolerance of 10 minutes is more than acceptable for this application
+21:20:15 <skram> also im not an engineer dot
+21:21:00 <Dot`> you are to me
+21:21:25 <skram> i shall put it on my resume
+21:23:04 <DuB`> https://twitter.com/narannni/status/897941697497243649
+21:25:22 <carcinisation> overbirb!
+21:26:55 <Camail> skram . discord. fucoi.
+21:26:58 <Dot`> jonas
+21:32:16 <motbob> hey
+21:32:23 <motbob> how can I make money off this eclipse
+21:32:34 <motbob> i live in its path on a big interstate
+21:32:42 <motbob> it's gonna be packed
+21:34:39 <carcinisation> sell this stuff ppl forgot to bring (enough of) like food, drink, safe viewing equipment etc?
+21:34:46 <carcinisation> *the
+21:35:45 <carcinisation> standard captive market stuff
+21:53:56 <DuB`> Could have made thousands on sun-viewing glasses if you started a few months ago. :P
+21:58:16 <motbob> https://www.youtube.com/watch?v=l_MyUGq7pgs
+22:05:26 -!- BioPhone [~androirc@96-35-178-178.static.stls.mo.charter.com] has joined #tlponies
+22:05:40 <BioPhone> Well, just got awful news.
+22:06:09 <BioPhone> My old pupper has a tumor in his tummy.
+22:06:42 <BioPhone> Found out 3 days before his birthday
+22:09:03 <Dot`> :(
+22:09:06 <Dot`> Bio <3
+22:09:37 <BioPhone> Gonna keep him comfy for a couple more days
+22:10:23 <BioPhone> He is my little brothers dog. He's a super good boy
+22:17:14 <carcinisation> :(
+22:24:30 <CockRoach|42> :(
+22:25:37 <BioPhone> Sorry to bring down the mood. Just needed to talk about it for a sec.
+22:30:38 <Golly> https://www.youtube.com/watch?v=w8Zk6YbFKJ8
+22:31:38 <CockRoach|42> https://dm29.deviantart.com/art/Big-Whammy-698870523
+22:31:57 -!- BioPon [~androirc@mobile-166-175-57-198.mycingular.net] has joined #tlponies
+22:32:37 <CockRoach|42> welp... there's a twilight fidget cube https://derpibooru.org/1513061
+22:34:03 <CockRoach|42> https://derpibooru.org/1512875https://derpibooru.org/1512875
+22:37:57 <carcinisation> zounds https://i.redd.it/1mtqu6bj9cgz.jpg
+22:38:39 <CockRoach|42> :D
+22:49:33 <Zounds> haha reif
+22:51:16 -!- BioSC [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+22:55:14 <motbob> The most popular drink is made by mother nature
+22:57:53 <CockRoach|42> Dot`: https://www.facebook.com/TinySnekComics/videos/1586681484735719/
+23:01:21 -!- BioHorse [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+23:01:59 <Dot`> hahaha
+23:02:09 <DuB`> The silliest thing.
+23:02:55 <skram> wow its just like an episode of the big bang theory
+23:03:16 <Dot`> its uncanny skram
+23:04:07 <skram> i only fraternize with the shelled folk
+23:04:10 <skram> heeehehe
+23:04:17 -!- Micen__ [~micen@h73.229.130.174.dynamic.ip.windstream.net] has joined #tlponies
+23:04:34 <Dot`> european techno funk
+23:05:17 <skram> .tell DuB` https://www.youtube.com/watch?v=bboqju-oRPU
+23:05:21 <skram> my fave dub
+23:05:23 <skram> dot
+23:05:29 <Dot`> Skram
+23:05:43 <skram> what do
+23:05:48 <DuB`> You don't have to .tell when I am right here, you know.
+23:05:49 <Dot`> i want more DnD
+23:06:04 <skram> dont tell me how to live my life, mister dub.
+23:06:12 <DuB`> Wouldn't dream of it.
+23:06:25 <DuB`> Just trying to save you the effort of typing 5 extra characters. ;D
+23:06:36 <DuB`> Because I care.
+23:06:41 <skram> Maybe I need the exercise?
+23:07:08 <skram> I think this is kpop-ish
+23:07:09 <DuB`> This reminds me of FKA Twigs but more lounge-y.
+23:07:18 <DuB`> Also korean.
+23:07:19 <DuB`> Yes.
+23:07:29 <skram> is alt kpop a thing
+23:07:55 <skram> it reminds me of a lot of things honestly
+23:08:03 <skram> i like it though
+23:08:18 <DuB`> Mhmmm
+23:10:02 -!- Oatsmaster [~Oatsmaste@ip68-5-138-160.oc.oc.cox.net] has joined #tlponies
+23:20:08 <Bio> home
+23:20:13 <Dot`> Bio <3
+23:21:27 <Dot`> here is a stream for you bio
+23:21:28 <Dot`> https://www.twitch.tv/canecraft
+23:22:12 <Micen__> is that a horse streamer?
+23:22:19 <Bio> the horsest stream
+23:22:24 <Dot`> horsest
+23:22:28 <Dot`> as bio said
+23:27:23 <DuB`> Dot`
+23:27:25 <DuB`> I need your help.
+23:27:29 <Dot`> Dub
+23:27:31 <Dot`> I may help
+23:27:44 <DuB`> I need you to do something awful to me if I don't go to the gym tomorrow.
+23:27:47 <DuB`> Because I must.
+23:28:13 <Dot`> i will not link you birbs
+23:28:23 <DuB`> Hmmm
+23:28:40 <Dot`> i am truely and evil genus
+23:29:16 <motbob> i'll BAN YOU FROM TL!
+23:29:56 <DuB`> I don't think I've posted in a year!
+23:30:18 <Dot`> i will kick you from the discord! again
+23:30:40 <DuB`> Oh dear.
+23:30:46 <Micen__> I'll invite you to play overwatch, then only play torb. and not give you armor
+23:31:08 <DuB`> So... the usual!
+23:31:18 <DuB`> jkjk :P
+23:31:19 <Micen__> Hey! I focus on giving you armor
+23:31:31 <DuB`> <3
+23:31:38 <DuB`> Trying to carry as ana is hard.
+23:31:40 <Dot`> but do you give him healing
+23:32:08 <DuB`> Ye
+23:32:19 <DuB`> I heal EVERYONE.
+23:32:24 <Dot`> there has been no Genji cat update in ages
+23:39:18 <motbob> https://www.youtube.com/watch?v=JbioSbEEsoA
+23:39:24 <motbob> [hearthstone]
+23:53:13 <skram> DuB`
+23:53:16 <skram> i need some jamz
+23:54:50 <DuB`> HMM
+23:56:08 <Dot`> DuB`
+23:56:11 <Dot`> i need DnD
+23:56:37 <skram> we did like 30 minutes of dnd!
+23:56:48 <skram> you almost fit in a bag of holding
+23:56:52 <skram> i say thats a successful session
+23:57:17 <Dot`> the important stuff
+23:58:31 <DuB`> https://www.youtube.com/watch?v=4A4ZiZwPejY

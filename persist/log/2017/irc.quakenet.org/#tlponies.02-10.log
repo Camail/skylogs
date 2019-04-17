@@ -1,0 +1,683 @@
+00:13:25 <reification> night all
+00:17:50 <Dot`> gnight reif
+00:30:32 <Rawr|Phone> No
+00:30:34 <Rawr|Phone> Pls
+00:31:43 <reification> yes
+01:07:05 -!- Rawr|Fone [~AndChat25@84-217-62-32.customers.ownit.se] has joined #tlponies
+01:43:17 <Dot`> pon pon
+01:44:35 <DuB`> nop nop
+01:44:56 <Dot`> daaab
+01:45:04 <DuB`> daaat
+01:45:18 <Dot`> hows you
+01:45:44 <DuB`> Sad they gave us so much homework for tomorrow immediatly on top of the tests we just finished.
+01:45:50 <DuB`> Consoling myself with chocomint ice cream.
+01:49:04 <Dot`> sounds good
+02:13:22 <ZK> hi
+02:13:24 <ZK> .roll d20 to boop Dot`
+02:15:44 <Bio> dubu
+02:15:59 <Bio> i got firearmor
+02:16:05 <Bio> time 2 farrrrrm
+02:17:36 -!- Micen [~micen@h36.1.191.173.dynamic.ip.windstream.net] has joined #tlponies
+02:17:59 <Micen> hello
+02:19:20 <ZK> whats firearmor?
+02:19:22 <ZK> hi micen
+02:19:44 <Micen> firearmor is armor that is made of fire. duh
+02:20:09 <Micen> and i have a dilemma
+02:20:19 <Micen> I was invited to play some D&D
+02:20:36 <Micen> this is the dilemma. 
+02:20:57 <Micen> (not now, but next Saturday)
+02:20:58 <DuB`> Nice Bio!
+02:21:11 <ZK> why is that dilemma?
+02:21:18 <ZK> are other players mean?
+02:21:19 <Micen> because its 3.5
+02:21:24 <DuB`> Do you like dungeons?
+02:21:27 <DuB`> Do you like dragons?
+02:21:31 <ZK> pathfinder or 3.5?
+02:21:33 <Micen> and I cant decide if I want to break the game in amazing ways
+02:21:35 <Micen> 3.5
+02:21:53 <ZK> when playing roleplaying games i abide by two rukes
+02:21:55 <ZK> rules*
+02:21:59 <ZK> 1. Have fun
+02:22:01 <ZK> 2. Don't be a dick
+02:22:21 <ZK> both are very very important
+02:22:40 <DuB`> 3. Get pickles.
+02:22:51 <Micen> but the DM is basically challenging my ability trivialize the game, and insisting that the game is balanced. 
+02:23:19 <ZK> yes, pickles are fun
+02:23:31 <Micen> Pickles are important
+02:23:56 <ZK> and na, he's saying he enjoys 3.5 and doesn't want to argue further with you saying that others are superior and just wants to play a game he likes
+02:28:42 <Micen> thats the thing
+02:28:54 <Micen> hes never played it. 
+02:29:25 <ZK> oh then lol, why pick 3.5?
+02:29:43 <Micen> because he had friends that played it years ago
+02:30:31 <Micen> and he is also worried about other guy who hasnt played D&D before breaking the game because thats how he plays any tabletop game.
+02:31:52 <ZK> RPing isn't about abusing the rules...
+02:31:56 <ZK> Well, in my mind anyhow
+02:32:34 <Micen> well still building a bard that has 50+ to bluff rolls at level 5 makes for a fun character. 
+02:32:44 <Micen> I can talk anyone into anything
+02:32:45 <ZK> so i guess you tried convincing him to go with 5e instead, but no dice?
+02:32:51 <Micen> until i roll that Critical 1
+02:33:48 <Micen> i mentioned 5e, PF, the group likes evil stuff so I also did OWoD since he is aware of that as well
+02:34:09 <Micen> i mean i know PF is similar, but its getting better. 
+02:34:40 <ZK> i thought pf was just 3.5, but kinda better
+02:34:59 <Micen> PF was that, but its been seperating more since like 2015
+02:35:09 <Micen> and becoming more of its own thing
+02:35:19 <Micen> brb got to put pizza in before CritRole tonight
+02:54:27 -!- motbob [~motbob@x-131-212-250-113.uofm-secure.wireless.umn.edu] has joined #tlponies
+03:02:59 <Phearlock> Man I haven't looked at IRC all day
+03:03:01 <Phearlock> I'm terrible
+03:03:08 * ZK slaps Phearlock around a bit with a large trout
+03:03:18 <DuB`> The awfulest!
+03:03:23 <Phearlock> I deserved that
+03:04:29 * ZK slaps DuB` around a bit with a large trout
+03:04:43 <Phearlock> I had fun playing some sins of a solar empire again today though, been like a year or more since last time lol.
+03:05:13 <Phearlock> Still a nice game. If you combined that combat with stellaris planet management you'd have like almost a perfect 4x game.
+03:06:56 <ZK> what s a really good 4x game?
+03:07:48 <Phearlock> 4x is just like the modern term for those strategy games. It's like, um. Explore, expand, exploit, exterminate?
+03:07:53 <ZK> i remember there was one about gods or somethin
+03:07:59 <DuB`> I've loved endless legend.
+03:08:06 <ZK>rtures	getlabel	maxdegree	shortpathtree	vweight
+  syn keyword mvPkg_networks	components	diameter	girth
+endif
+
+" Package: numapprox: numerical approximation {{{2
+if exists("mv_numapprox")
+  syn keyword mvPkg_numapprox	chebdeg	chebsort	fnorm	laurent	minimax	remez
+  syn keyword mvPkg_numapprox	chebmult	chebyshev	hornerform	laurent	pade	taylor
+  syn keyword mvPkg_numapprox	chebpade	confracform	infnorm	minimax
+endif
+
+" Package: numtheory: number theory {{{2
+if exists("mv_numtheory")
+  syn keyword mvPkg_numtheory	B	cyclotomic	invcfrac	mcombine	nthconver	primroot
+  syn keyword mvPkg_numtheory	F	divisors	invphi	mersenne	nthdenom	quadres
+  syn keyword mvPkg_numtheory	GIgcd	euler	isolve	minkowski	nthnumer	rootsunity
+  syn keyword mvPkg_numtheory	J	factorEQ	isprime	mipolys	nthpow	safeprime
+  syn keyword mvPkg_numtheory	L	factorset	issqrfree	mlog	order	sigma
+  syn keyword mvPkg_numtheory	M	fermat	ithprime	mobius	pdexpand	sq2factor
+  syn keyword mvPkg_numtheory	bernoulli	ifactor	jacobi	mroot	phi	sum2sqr
+  syn keyword mvPkg_numtheory	bigomega	ifactors	kronecker	msqrt	pprimroot	tau
+  syn keyword mvPkg_numtheory	cfrac	imagunit	lambda	nearestp	prevprime	thue
+  syn keyword mvPkg_numtheory	cfracpol	index	legendre	nextprime
+endif
+
+" Package: orthopoly: orthogonal polynomials {{{2
+if exists("mv_orthopoly")
+  syn keyword mvPkg_orthopoly	G	H	L	P	T	U
+endif
+
+" Package: padic: p-adic numbers {{{2
+if exists("mv_padic")
+  syn keyword mvPkg_padic	evalp	function	orderp	ratvaluep	rootp	valuep
+  syn keyword mvPkg_padic	expansion	lcoeffp	ordp
+endif
+
+" Package: plots: graphics package {{{2
+if exists("mv_plots")
+  syn keyword mvPkg_plots	animate	coordplot3d	gradplot3d	listplot3d	polarplot	setoptions3d
+  syn keyword mvPkg_plots	animate3d	cylinderplot	implicitplot	loglogplot	polygonplot	spacecurve
+  syn keyword mvPkg_plots	changecoords	densityplot	implicitplot3d	logplot	polygonplot3d	sparsematrixplot
+  syn keyword mvPkg_plots	complexplot	display	inequal	matrixplot	polyhedraplot	sphereplot
+  syn keyword mvPkg_plots	complexplot3d	display3d	listcontplot	odeplot	replot	surfdata
+  syn keyword mvPkg_plots	conformal	fieldplot	listcontplot3d	pareto	rootlocus	textplot
+  syn keyword mvPkg_plots	contourplot	fieldplot3d	listdensityplot	pointplot	semilogplot	textplot3d
+  syn keyword mvPkg_plots	contourplot3d	gradplot	listplot	pointplot3d	setoptions	tubeplot
+  syn keyword mvPkg_plots	coordplot
+endif
+
+" Package: plottools: basic graphical objects {{{2
+if exists("mv_plottools")
+  syn keyword mvPkg_plottools	arc	curve	dodecahedron	hyperbola	pieslice	semitorus
+  syn keyword mvPkg_plottools	arrow	cutin	ellipse	icosahedron	point	sphere
+  syn keyword mvPkg_plottools	circle	cutout	ellipticArc	line	polygon	tetrahedron
+  syn keyword mvPkg_plottools	cone	cylinder	hemisphere	octahedron	rectangle	torus
+  syn keyword mvPkg_plottools	cuboid	disk	hexahedron
+endif
+
+" Package: powseries: formal power series {{{2
+if exists("mv_powseries")
+  syn keyword mvPkg_powseries	compose	multiply	powcreate	powlog	powsolve	reversion
+  syn keyword mvPkg_powseries	evalpow	negative	powdiff	powpoly	powsqrt	subtract
+  syn keyword mvPkg_powseries	inverse	powadd	powexp	powseries	quotient	tpsform
+  syn keyword mvPkg_powseries	multconst	powcos	powint	powsin
+endif
+
+" Package: process: (Unix)-multi-processing {{{2
+if exists("mv_process")
+  syn keyword mvPkg_process	block	fork	pclose	pipe	popen	wait
+  syn keyword mvPkg_process	exec	kill
+endif
+
+" Package: simplex: linear optimization {{{2
+if exists("mv_simplex")
+  syn keyword mvPkg_simplex	NONNEGATIVE	cterm	dual	maximize	pivoteqn	setup
+  syn keyword mvPkg_simplex	basis	define_zero	equality	minimize	pivotvar	standardize
+  syn keyword mvPkg_simplex	convexhull	display	feasible	pivot	ratio
+endif
+
+" Package: stats: statistics {{{2
+if exists("mv_stats")
+  syn keyword mvPkg_stats	anova	describe	fit	random	statevalf	statplots
+endif
+
+" Package: student: student calculus {{{2
+if exists("mv_student")
+  syn keyword mvPkg_student	D	Product	distance	isolate	middlesum	rightsum
+  syn keyword mvPkg_student	Diff	Sum	equate	leftbox	midpoint	showtangent
+  syn keyword mvPkg_student	Dou3:22 <CockRoach|42> tredc is a swede too :|
+12:53:25 <Rawr|Fone> Reef reef pls
+12:53:37 <CockRoach|42> you are literally hitler, reif :((((((((
+12:53:58 <Rawr|Fone> We had so many swedes before
+12:53:59 <Golly> Nu jävlar 
+12:54:03 <Rawr|Fone> What happened
+12:54:13 <reification> https://www.youtube.com/watch?v=8gig4_5MkOY
+12:54:39 -!- Micen_ [~micen@h134.36.18.98.dynamic.ip.windstream.net] has left #tlponies
+13:02:20 <Phearlock> Oh it's totally fine Reif. As a norwegian I am sworn to approve of teasing sweden.
+13:02:29 <Phearlock> Adorable people
+13:30:36 <Dot`> pones
+13:52:12 <Rawr|Fone> Pon
+14:08:19 <Dot`> Rawr sir
+14:08:21 <Dot`> hows your day
+14:13:17 <Rawr|Fone> Pretty good so far
+14:13:34 <Rawr|Fone> How is your day dot
+14:16:19 <Dot`> its ok
+14:16:23 <Dot`> when is ping pong rawr
+14:17:01 -!- ZK [~ZealotKil@modemcable114.242-81-70.mc.videotron.ca] has joined #tlponies
+14:17:01 -!- mode/#tlponies [+v ZK] by Q
+14:17:17 <Dot`> .roll d20 to boop zk
+14:17:24 <Rawr|Fone> Soon dot
+14:17:26 <ZK> .roll d20 to boop Dot`
+14:28:13 <ZK> how y'all doin
+14:29:49 <Dot`> doing ok, you?
+14:31:48 <ZK> im ok
+14:31:50 <ZK> got some hw
+14:31:52 <Phearlock> I am soooo relaxed today
+14:32:04 <Phearlock> Since nothing to do
+14:32:14 <Phearlock> Great day =D
+14:32:16 <ZK> you should play games!
+14:32:21 <Dot`> phear, have you done your level for DnD yet?
+14:32:38 <Phearlock> Not yet
+14:33:11 <Dot`> you where not there for skrams HP roll where you?
+14:33:19 <ZK> what did he roll?
+14:33:23 <Phearlock> No I wasn't
+14:33:42 <Dot`> He got a 1
+14:33:48 <Dot`> halv said 1's get a reroll
+14:33:48 <Phearlock> Amazing
+14:33:53 <Dot`> so he rolled again
+14:33:54 <Dot`> 1
+14:33:59 <Dot`> so he rolled again
+14:34:00 <Dot`> 1
+14:34:05 <Dot`> then he got a 3
+14:34:06 <ZK> amazinggggg
+14:34:11 <Dot`> on a D12
+14:34:14 <ZK> ouch
+14:34:23 <Phearlock> Amazingest
+14:34:31 <ZK> he's a paladin dwarf?
+14:34:35 <Dot`> barb
+14:34:39 <ZK> oooh
+14:34:42 -!- carcinisation [webchat@cpc76294-cosh16-2-0-cust297.6-1.cable.virginm.net] has joined #tlponies
+14:34:43 <ZK> 3.5? PF?
+14:34:48 <Dot`> 5
+14:34:51 <Dot`> is it a d10?
+14:34:56 <Dot`> i never looked
+14:35:10 <Phearlock> I'll just take the average
+14:35:19 <Phearlock> Like I always do
+14:35:24 <ZK> yep
+14:35:42 <ZK> and barb is d12
+14:36:00 <Dot`> phear please, we all rolled
+14:36:03 <Dot`> i got a 1 :P
+14:36:07 <Dot`> then i got an 8
+14:36:09 <ZK> niiiiice
+14:36:12 <ZK> what race Dot`?
+14:36:14 <Phearlock> Yeah you guys are silly
+14:36:15 <Dot`> human
+14:36:20 <ZK> and class?
+14:36:21 <Dot`> very xilly phear
+14:36:24 <Dot`> warlock zk
+14:36:33 <Phearlock> RNG minimization is best
+14:36:34 <Dot`> wait, i rolleda 6
+14:36:39 <Dot`> i need to check
+14:36:43 <ZK> ohh warlocks are fun, so much charisma
+14:36:48 <ZK> you must talk to all storeowners!
+14:37:00 <Dot`> if we ever reach the town
+14:37:16 <ZK> you guys doin a custom campaign or a module?
+14:37:25 <Dot`> halvgud custom
+14:37:31 <ZK> niiiice
+14:37:36 <Dot`> yea, i rolled a 6 ON a d89
+14:37:39 <Dot`> d8
+14:37:53 <Dot`> and reif got a 8 on his d10
+14:39:42 <ZK> oh rihgt, warlock WAS what i was playing on cam's campaign
+14:39:46 <ZK> i had a dragon
+14:39:51 <ZK> and it liked pickles
+14:40:03 <Phearlock> Yup, that was you
+14:40:20 <ZK> do you have a dragon Dot`?
+14:40:24 <Dot`> no
+14:40:44 <ZK> awwww
+14:41:41 <ZK> oh, that must be cause you're not 3rd level and haven't chosen to be a draongmaster, right?
+14:42:00 <Dot`> you would be wrong
+14:42:04 <Dot`> https://xkcd.com/1797/
+14:42:06 <ZK> darrrrrn
+14:42:23 <Phearlock> You don't want the D???
+14:43:03 <Dot`> I got a dorf already
+14:43:09 <Phearlock> hah
+14:43:12 <ZK> you have a dorf? :o
+14:43:29 <Dot`> a grumpy suicidal one
+14:44:26 <ZK> that sounds like skram
+14:44:41 <ZK> is that skram?
+14:44:44 <Dot`> yes
+14:46:20 <Phearlock> I hope skram doesn't get upset I RP a person who doesn't want to die
+14:47:24 <ZK> how dare you
+14:47:25 <Dot`> i feel the same way
+14:47:28 <Dot`> phear
+14:47:47 <ZK> are you stopping the dwarf from dying too?
+14:47:59 <Dot`> skram is lucky in fights, that trol could easly take him down in 1 round of combat
+14:48:26 <Dot`> and if it had hit me again it could have outright killed me
+14:48:57 <ZK> pfft, what's the point of strategy
+14:49:20 <Phearlock> I mean I'll at least have a temporary power spike now at second level, so can be a cute bear tank.
+14:49:46 <Dot`> yea, its a nice spike
+14:49:58 <Dot`> i will just keep being useless :P
+14:50:08 <ZK> eldritch blast is really good, no?
+14:50:16 <Dot`> not with my rolls
+14:50:17 <Dot`> haha
+14:50:22 <ZK> oooooohhhhhhh
+14:50:30 <ZK> what you gonna pick as your concentration on 3rd level Dot`?
+14:50:31 <Phearlock> You had some nice rolls last session though
+14:50:32 <Dot`> though last session i rolled well, normaly its 1's and 2's
+14:50:46 <Phearlock> Were more useful than me
+14:51:54 <Dot`> zk, Pact of the book, then get book invocation so,  thorn whip, shocking grasp and something else as my 3 extra cantrips
+14:52:09 <Dot`> and get summon familer ritual
+14:52:16 <Dot`> get an owl
+14:52:39 <ZK> what, not a dragon? :P
+14:52:47 -!- DuB_phone [~AndChat71@128.187.116.18] has joined #tlponies
+14:52:49 <Dot`> become a utility caster, lots of battlefield control and illusion stuff
+14:52:53 <Phearlock> Owls are pretty cute
+14:52:55 <Dot`> DUB
+14:53:01 <Dot`> Owls are amazing
+14:53:05 <Dot`> and even good in game
+14:53:22 <ZK> yeaaaaaa, my char was never about being good in a battlefield
+14:53:24 <Dot`> look zk http://i1.treknature.com/photos/2570/scops-owl-3-shazzy-2009.jpg
+14:53:26 <DuB_phone> OWLS?
+14:53:30 <DuB_phone> FOXES
+14:53:35 <ZK> is cute
+14:53:41 <Dot`> zk, i need to keep the dorf alive
+14:53:47 <DuB_phone> That is a superb owl.
+14:54:04 <DuB_phone> I want one.
+14:54:07 <Dot`> i wont actually do any real damage ever
+14:54:10 <Phearlock> Give that owl some head scratches
+14:54:12 <Dot`> but i will do stuff
+14:54:31 <ZK> oh, you want to bring enemies closer to you, that's not what i'd want to do :P
+14:54:43 <Dot`> add eldritch blast push thing
+14:54:53 <Dot`> and i can do either, depending what we need
+14:54:59 <ZK> i just created darkness, then ran into shadows and shot
+14:55:07 <Dot`> we noticed
+14:55:12 <DuB_phone> Eldritch??
+14:55:14 <Dot`> THEN DUB DIED
+14:55:19 <DuB_phone> I don't like eldritch.
+14:55:23 <DuB_phone> Eldritch is hard.
+14:55:29 <DuB_phone> SORRY DOD
+14:55:41 <DuB_phone> I DIDN'T EVEN GET A TURN, REMEMBER?
+14:55:51 <Dot`> I REMEMBER
+14:56:04 <ZK> poor dubbles
+14:56:15 <Phearlock> eh he got better
+14:56:49 <Dot`> minor ptsd
+14:56:52 <Dot`> only
+14:57:16 <DuB_phone> And then we crossed s stream at great peril, entered a fortress, and were never seen again.
+14:57:22 <DuB_phone> Rip
+14:59:27 <Dot`> Rip
+15:01:15 <DuB_phone> Class~
+15:02:01 <ZK> rip
+15:02:24 -!- Rawr|Phone [~AndChat25@host-95-195-222-125.mobileonline.telia.com] has joined #tlponies
+15:04:48 -!- skram [~skram@ip-58-146-106-77.eidsiva.net] has joined #tlponies
+15:04:57 <Dot`> jonas
+15:05:30 <skram> bjørn
+15:05:39 <Dot`> hello
+15:05:59 <skram> gi
+15:06:01 <skram> hi
+15:16:11 <reification> good news dot https://twitter.com/Mangan150/status/829454455481344000
+15:17:51 -!- reification [~reificati@cpc76294-cosh16-2-0-cust297.6-1.cable.virginm.net] has joined #tlponies
+15:17:51 -!- mode/#tlponies [+v reification] by Q
+15:20:59 <Dot`> hey reif
+15:21:26 <Dot`> good to know
+15:25:33 <ZK> he left
+15:25:48 <carcinisation> i'm still here :p
+15:26:11 <carcinisation> .roll d20 to boop zk
+15:27:16 <ZK> .roll d20 to boop carcinisation
+16:17:29 -!- DuB_phone [~AndChat71@128.187.116.18] has joined #tlponies
+16:17:38 <DuB_phone> Hi hi hello
+16:17:41 <DuB_phone> For a bit
+16:17:53 <carcinisation> well the hanzo in that game was bad enough that ana chose to nano me instead
+16:17:56 <carcinisation> as mercy
+16:18:00 <DuB_phone> Haha
+16:18:12 <DuB_phone> Pew pew 'em!
+16:18:27 <carcinisation> i killed a couple of them
+16:19:09 <DuB_phone> "Do no harm"
+16:21:26 <DuB_phone> What a doc 
+16:21:57 <DuB_phone> Home in 2hrs
+16:22:06 <DuB_phone> PLAYWATCH
+16:22:13 <DuB_phone> I wanna gengu
+16:28:05 <DuB_phone> Was playing a few games of all random last night for free loot boxes and had a few amazing no-death Genji games 
+16:28:18 <DuB_phone> Potg and everything!
+16:28:25 <DuB_phone> Back to class
+16:40:40 <Rawr|Phone> Pls
+16:48:31 -!- Yolteotl [webchat@243.77.126.78.rev.sfr.net] has joined #tlponies
+16:48:36 <Yolteotl> guysss!
+16:48:44 <Yolteotl> dot <3
+16:49:03 <Yolteotl> " votre DS4 est arrivée hier déjà chez mon concess   transport organisé pour ce lundi    voiture dispo chez nous à partir de mercredi pour info   bon we " 
+16:49:04 <Yolteotl> :D
+16:49:05 <Yolteotl> :D
+16:49:06 <Yolteotl> :D
+16:53:25 <ZK> ds4?
+16:53:27 <ZK> dual shock 4?
+16:53:31 <ZK> also hi yolo
+16:53:53 <Yolteotl> DS4 snela : http://images.caradisiac.com/images/4/4/5/6/104456/S0-Salon-de-Francfort-2015-Citroen-DS4-repoudree-360439.jpg
+16:54:16 <Yolteotl> it was delayed, and finally it is not \o/
+16:56:56 <ZK> oh its a car
+16:57:12 <Yolteotl> french fancy cart
+16:57:19 <Yolteotl> *car
+17:00:08 <Yolteotl> my fancy french car \o/
+17:03:30 -!- Rawr|Fone [~AndChat25@84-217-62-32.customers.ownit.se] has joined #tlponies
+17:06:54 <Rawr|Fone> You are more excited for that car than I've been for anything in my entire life yolt
+17:09:40 <Yolteotl> ahaha rawr
+17:09:46 <Yolteotl> even Ponies
+17:09:46 <Yolteotl> ?
+17:10:34 <Rawr|Fone> Definitely
+17:26:06 <Rawr|Fone> Beep beep
+17:29:06 <Dot`> rawr rawr
+17:29:08 <Dot`> yolt
+17:31:00 <Yolteotl> dot <3
+17:38:15 <carcinisation> french ppl are excitable rawr
+17:38:26 <carcinisation> it's in their nature to be pasionate
+17:38:29 <carcinisation> :p
+17:39:41 <carcinisation> just won with battlebus in comp dot :D
+17:40:38 <carcinisation> well battlebus + widow
+17:42:55 -!- reification [~reificati@cpc76294-cosh16-2-0-cust297.6-1.cable.virginm.net] has joined #tlponies
+17:42:55 -!- mode/#tlponies [+v reification] by Q
+17:43:00 -!- tredc [webchat@90-230-30-217-no56.tbcn.telia.com] has joined #tlponies
+17:44:03 <Rawr|Fone> Dot dot
+17:50:41 <Dot`> rawr rawr
+17:50:41 <Dot`> <3
+17:50:43 <Dot`> hows you
+17:51:47 <Rawr|Fone> <3
+17:51:53 <Rawr|Fone> I'm great
+17:51:58 <Rawr|Fone> Played some table tennis
+17:52:03 <Rawr|Fone> How are you dot
+17:56:00 <CockRoach|42> are you the best, rawr?
+17:56:20 <Rawr|Fone> I hope so
+17:57:25 -!- DuB_phone [~AndChat71@66-87-126-201.pools.spcsdns.net] has joined #tlponies
+17:57:40 <DuB_phone> Home in 20
+17:57:43 <DuB_phone> Weeoooo
+17:58:03 <Rawr|Fone> Dub dub 🐴🐴
+17:58:24 <DuB_phone> ❤❣💟💞💖💗💙💚💛💜💕💓
+17:58:32 <DuB_phone> Rar rar
+17:58:41 <DuB_phone> Hesten
+17:58:56 <Rawr|Fone> 💖💖
+17:59:03 <DuB_phone> 🦄
+18:03:20 <reification> dub found an emoji i can’t see :(
+18:03:48 <DuB_phone> Oho!
+18:04:09 <DuB_phone> 'Tis a unicorn.
+18:04:27 <reification> ah yeah
+18:04:46 <reification> apple hate unicorns apparently
+18:05:07 <reification> only supported on phone :(
+18:05:10 <DuB_phone> D:
+18:07:30 <Dot`> UNICORN
+18:08:10 -!- DuB_phone [~AndChat71@66-87-126-201.pools.spcsdns.net] has joined #tlponies
+18:08:25 <Dot`> Dub
+18:08:30 <Dot`> unicorn
+18:09:19 -!- DuB` [DuB@66-219-213-203.dynamic.ip.veracitynetworks.com] has joined #tlponies
+18:09:22 <DuB`> Ayy
+18:09:24 <Dot`> dub
+18:09:37 <ZK> oh its him
+18:09:51 <Dot`> https://derpibooru.org/1220274?q=artist%3Amaggwai
+18:09:51 <DuB`> dot
+18:10:13 <DuB`> That is neither owl nor fox.
+18:10:58 <DuB`> OBERWAJ WHEN.
+18:11:33 <reification> after poker dub
+18:11:42 <DuB`> okej
+18:20:34 <DuB`> motbob: Have you touched tax law much?
+18:21:09 <Bio> asdf
+18:21:15 * Bio licks DuB_phone
+18:21:21 <DuB`> Biowat
+18:21:25 <Bio> lick
+18:21:45 <reification> good news dub, i complete mission super fast :D
+18:21:55 <DuB`> Wew!
+18:22:43 -!- Micen|Droid [~AndChat20@h134.36.18.98.dynamic.ip.windstream.net] has joined #tlponies
+18:32:57 <Yolteotl> hi reif <3
+18:33:10 <reification> hello yolo <3
+18:33:15 <Yolteotl> I'm passionnate
+18:33:20 <Yolteotl> I cried for Kimi no Na wa
+18:33:23 <Yolteotl> and you?
+18:33:43 <DuB`> wut
+18:34:03 <reification> no i have proper british stiff upper lip
+18:34:11 <Bio> M I S T A K E
+18:34:37 <reification> what was letting bio see memes?
+18:34:56 <Yolteotl> :D
+18:35:22 <DuB`> Bio IS memes.
+18:35:27 <DuB`> You propose GS|0.07
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        /localdomain/localhost.localdomain/load-week.png" 
+		 alt="weekly graph" 
+		 class="i"
+		 width="497"  
+		 height="280"/>
+  </a></td>
+</tr>
+<tr>
+  <td><a href="../../static/dynazoom.html?cgiurl_graph=/munin-cgi/munin-cgi-graph&plugin_name=localdomain/localhost.localdomain/load&size_x=800&size_y=400&start_epoch=1474243810&stop_epoch=1477095010">
+		<img src="../../localdomain/localhost.localdomain/load-month.png" 
+		 alt="monthly graph" 
+		 class="i"
+		 width="497"  
+		 height="280"/>
+  </a></td>
+  <td><a href="../../static/dynazoom.html?cgiurl_graph=/munin-cgi/munin-cgi-graph&plugin_name=localdomain/localhost.localdomain/load&size_x=800&size_y=400&start_epoch=1442535010&stop_epoch=1477095010">
+		<img src="../../localdomain/localhost.localdomain/load-year.png" 
+		 alt="yearly graph" 
+		 class="i"
+		 width="497"  
+		 height="280"/>
+  </a></td>
+</tr>
+    <!-- .sum graphs.  One of the least used features of munin? -->
+
+</table>	
+<h2>Graph Information</h2>
+
+<!-- Do we actually allow mutiple graph_info, or is this just to access the nested data? -->
+<p class="graph_info">The load average of the machine describes how many processes are in the run-queue (scheduled to run "immediately").</p>
+
+
+
+
+
+<table id="legend">
+<tr>
+	<th class="field">Field</th>
+	<th class="internal"><span title="For use in munin.conf">Internal name</span></th>
+	<th class="type"><a href="..%2F../static/definitions.html#data_types">Type</a></th>
+	<th class="warn">Warn</th>
+	<th class="crit">Crit</th>
+	<th class="info">Info</th>
+</tr>
+
+<tr class="oddrow lastrow">
+	<td class="field">load</td>
+    <td class="internal"><span title="For use in munin.conf">load</span></td>
+    <td class="type">gauge</td>
+    <td class="warn">&nbsp;</td>
+    <td class="info">&nbsp;</td>
+    <td>5 minute load average</td>
+</tr>
+
+
+</table>
+
+ <!-- services -->
+</div>
+</div>
+<div id="footer">
+
+<p class="navigation">
+  
+    
+           <a href="../../index.html">
+           Overview
+           </a>
+         
+       
+     
+  
+     ::
+    <a href="../index.html">
+    localdomain
+	     </a>
+         
+       
+     
+  
+     ::
+    <a href="index.html">
+    localhost.localdomain
+	     </a>
+         
+       
+     
+  
+     
+     
+     :: System
+     
+     :: <select class="peers" onchange="window.open(this.options[this.selectedIndex].value,'_top')">
+      <option value="">Graphs in same category</option>
+       
+        <option 
+          
+            value="users.html">
+          
+        users</option>
+                 
+      
+        <option 
+          
+            value="uptime.html">
+          
+        uptime</option>
+                 
+      
+        <option 
+          
+            value="swap.html">
+          
+        swap</option>
+                 
+      
+        <option 
+          
+            value="open_inodes.html">
+          
+        open inodes</option>
+                 
+      
+        <option 
+          
+            value="open_files.html">
+          
+        open files</option>
+                 
+      
+        <option 
+          
+            value="memory.html">
+          
+        memory</option>
+                 
+      
+        <option 
+          
+            value="">
+          
+        load</option>
+                 
+      
+        <option 
+          
+            value="interrupts.html">
+          
+        interrupts</option>
+                 
+      
+        <option 
+          
+            value="entropy.html">
+          
+        entropy</option>
+                 
+      
+        <option 
+          
+            value="cpu.html">
+          
+        cpu</option>
+                 
+      
+      </select>
+      
+             
+</p>
+
+<p class="tagline">This page was generated by <a href="http://www.munin-monitoring.org/">Munin</a> version 2.0.19-3 at 2016-10-21 20:10:10-0400 (EDT).</p>
+</div>	
+
+
+</body>
+</html>
+  
+                                                                                                                                                                                                                                                                                     :15:29 <motbob> i think i'd probably have to kill myself if I found myself in a job that I didn't think was socially useful; or worse, socially harmful, which tax work for the very rich individuals and corporations probably is (though that's harder to argue)
+19:16:07 -!- Caumen [~Caumen@109.57.28.28.mobile.3.dk] has joined #tlponies
+19:23:18 -!- Camail [~Camail@45.40.93.200] has joined #tlponies
+19:23:18 -!- mode/#tlponies [+v Camail] by Q
+19:24:37 <Dot`> hey cam, Caumen
+19:24:46 <Dot`> dub, please dont kill yourself
+19:24:47 <Camail> moo
+19:24:47 <Caumen> yo yo
+19:25:15 <Caumen> Dub we luv u
+19:25:28 <DuB`> wut
+19:25:31 <DuB`> Not planning on it, Dot`.
+19:26:06 <Dot`> good
+19:26:07 <skram> do you want me to sprinkle some extra dust on this record and play it for you DuB`?
+19:26:25 <Dot`> whole grains of sand is best
+19:26:46 <skram> yes sure i dont mind having grains of sand in my turntable
+19:27:36 <skram> nor do i mind ruining this mint condition super rare soviet pressing of prince igor
+19:27:52 <skram> Thats worth AT LEAST 10 dollarinos
+19:30:46 <Micen|Droid> Hello
+19:31:02 <skram> Hai micen.
+19:31:22 <Micen|Droid> You doing gook Skram? 
+19:31:42 <Micen|Droid> Good
+19:31:53 <skram> Eh hanging in there
+19:31:55 <skram> How's you?
+19:34:38 <Dot`> http://imgur.com/gallery/SzFfgOU
+19:47:11 -!- Micen|Droid_ [~AndChat20@66-87-3-50.pools.spcsdns.net] has joined #tlponies
+19:50:36 <Dot`> skram
+19:50:37 <Dot`> please
+20:08:09 -!- Micen|Droid [~AndChat20@66-87-72-175.pools.spcsdns.net] has joined #tlponies
+20:16:49 <skram> Dot` wat
+20:23:42 -!- Dot` [~quassel@90.196.173.100] has joined #tlponies
+20:24:57 <Dot`> i miss you skram
+20:32:48 <ZK> you shouldnt
+20:32:55 <ZK> hes always there
+20:33:23 <Dot`> not enough
+20:35:17 <ZK> almsot as you
+21:09:24 <Dot`> hows it going zk
+21:35:35 <ZK> i dont want to do hw
+21:44:49 <ZK> so, the main french sports channel now has esports
+21:44:53 <ZK> the presenters look like total nerds
+21:45:13 <Dot`> lol
+22:05:34 -!- tredc [webchat@90-230-30-217-no56.tbcn.telia.com] has joined #tlponies
+22:16:20 <Dot`> pon pon pon
+22:16:24 <CockRoach|42> dot hors
+22:19:13 <CockRoach|42> Rawr|Fone: 
+22:19:22 <CockRoach|42> https://www.facebook.com/SPORTbible/videos/2216392585172928/
+22:27:09 <CockRoach|42> .choose art, gaming
+23:12:04 <Rawr|Fone> Cr pls
+23:18:44 <CockRoach|42> :(
+23:43:19 <Dot`> RUFF GAMES
+23:43:56 <DuB`> PHEW
+23:49:30 <CockRoach|42> calm down pons
+23:49:42 <Bio> neigh

@@ -1,0 +1,163 @@
+00:44:35 :underworld1.no.quakenet.org 001 sweetiebot :Welcome to the QuakeNet IRC Network, sweetiebot
+00:44:35 :underworld1.no.quakenet.org 002 sweetiebot :Your host is underworld1.no.quakenet.org, running version u2.10.12.10+snircd(1.3.4a)
+00:44:35 :underworld1.no.quakenet.org 003 sweetiebot :This server was created Sat Feb 7 2015 at 01:50:43 CET
+00:44:35 :underworld1.no.quakenet.org 004 sweetiebot underworld1.no.quakenet.org u2.10.12.10+snircd(1.3.4a) dioswkgxRXInP biklmnopstvrDcCNuMT bklov
+00:44:35 :underworld1.no.quakenet.org 005 sweetiebot WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=15 MODES=6 MAXCHANNELS=20 MAXBANS=45 NICKLEN=15 :are supported by this server
+00:44:35 :underworld1.no.quakenet.org 005 sweetiebot MAXNICKLEN=15 TOPICLEN=250 AWAYLEN=160 KICKLEN=250 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDducCNMT CASEMAPPING=rfc1459 NETWORK=QuakeNet :are supported by this server
+00:44:35 :underworld1.no.quakenet.org 251 sweetiebot :There are 15 users and 16736 invisible on 31 servers
+00:44:35 :underworld1.no.quakenet.org 252 sweetiebot 48 :operator(s) online
+00:44:35 :underworld1.no.quakenet.org 254 sweetiebot 14376 :channels formed
+00:44:35 :underworld1.no.quakenet.org 255 sweetiebot :I have 1832 clients and 1 servers
+00:44:35 :underworld1.no.quakenet.org 375 sweetiebot :- underworld1.no.quakenet.org Message of the Day - 
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :- 2014-12-11 12:37
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :- 
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :-            Welcome to the QuakeNet IRC Network!     __     __ 
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :- .--.--.-----.--|  |.-----.----.--.--.--.-----.----.|  |.--|  |
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :- |  |  |     |  _  ||  -__|   _|  |  |  |  _  |   _||  ||  _  |
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :- |_____|__|__|_____||_____|__| |________|_____|__|  |__||_____|
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :-     U N D E R W O R L D 1 . N O . Q U A K E N E T . O R G
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :- 
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :- This server is hosted by Underworld <www.underworld.no> in
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :- cooperation with Availo AS.
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :- 
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :-   [ Disclaimer ]
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :- 
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :- IRC is a free media, the operators of this network take no 
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :- responsibility whatsoever for opinions expressed or actions
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :- taken by users.
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :- 
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :- By connecting to this server you give us the right to
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :- probe your machine for open proxies/wingates.
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :- 
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :-   [ Staff ]
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :- 
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :- Administrator  ::  Hardy     <hardy(a)underworld.no>
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :- Operator       ::  akai       <akai(a)underworld.no>
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :- Operator       ::  Microbe <microbe(a)underworld.no>
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :- 
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :-   [ Rules ]                                       
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :- 
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :- This network may NOT be used for:
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :- 
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :- * Flooding (including flood/clonebots).
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :- * Distribution of copyrighted material (eg, warez, mp3, 
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :-   movies) or pornography.
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :- * Channels dedicated to cheats designed to cause unfair
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :-   advantage in multiplayer games.
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :- * Clones. Please contact info@quakenet.org if you require
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :-   more than five clients (LAN parties, bots, etc).
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :- * Attempts to takeover existing channels or network services.
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :- * Racism and/or Nazism.
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :- * Spamming and/or advertising.
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :- * Hacking (including Virus/Trojan distribution).
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :-  
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :- Continued use of this server indicates acceptance of these
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :- conditions.
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :- 
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :-   [ Information & Help ]
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :- 
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :- Quakenet web page     ::  http://www.quakenet.org
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :- Quakenet help page    ::  http://www.quakenet.org/faq
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :- Quakenet servers      ::  http://www.quakenet.org/servers
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :- 
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :- Network Channel       ::  #feds
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :- Help Channel          ::  #help
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :- Server Channel        ::  #underworld
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :- Norwegian Channel     ::  #Norge
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :- 
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :- You can contact the staff on <quakenet-staff(a)underworld.no>
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :- 
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :- This network has channel services. Consult the webpage above 
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :- to find information on how to use and obtain these services.
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :- 
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :-   [ Have a nice stay! ]
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :- 
+00:44:35 :underworld1.no.quakenet.org 372 sweetiebot :- 
+00:44:35 :underworld1.no.quakenet.org 376 sweetiebot :End of /MOTD command.
+00:44:35 :underworld1.no.quakenet.org 221 sweetiebot +i
+00:44:35 :underworld1.no.quakenet.org 353 sweetiebot @ #tlponies :sweetiebot tredc +Camail Rawr|Fone Bio DuB` Crisium Micen +Phearlock Golly Micen|Droid Dot @Cane motbob Twi Rarity +CockRoach|42 @Q +Emily Methos
+00:44:35 :underworld1.no.quakenet.org 366 sweetiebot #tlponies :End of /NAMES list.
+00:44:36 :underworld1.no.quakenet.org 353 sweetiebot = #camtestinggg :@sweetiebot
+00:44:36 :underworld1.no.quakenet.org 366 sweetiebot #camtestinggg :End of /NAMES list.
+20:09:47 :underworld1.no.quakenet.org 001 sweetiebot :Welcome to the QuakeNet IRC Network, sweetiebot
+20:09:47 :underworld1.no.quakenet.org 002 sweetiebot :Your host is underworld1.no.quakenet.org, running version u2.10.12.10+snircd(1.3.4a)
+20:09:47 :underworld1.no.quakenet.org 003 sweetiebot :This server was created Sat Feb 7 2015 at 01:50:43 CET
+20:09:47 :underworld1.no.quakenet.org 004 sweetiebot underworld1.no.quakenet.org u2.10.12.10+snircd(1.3.4a) dioswkgxRXInP biklmnopstvrDcCNuMT bklov
+20:09:47 :underworld1.no.quakenet.org 005 sweetiebot WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=15 MODES=6 MAXCHANNELS=20 MAXBANS=45 NICKLEN=15 :are supported by this server
+20:09:47 :underworld1.no.quakenet.org 005 sweetiebot MAXNICKLEN=15 TOPICLEN=250 AWAYLEN=160 KICKLEN=250 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDducCNMT CASEMAPPING=rfc1459 NETWORK=QuakeNet :are supported by this server
+20:09:47 :underworld1.no.quakenet.org 251 sweetiebot :There are 16 users and 19054 invisible on 31 servers
+20:09:47 :underworld1.no.quakenet.org 252 sweetiebot 49 :operator(s) online
+20:09:47 :underworld1.no.quakenet.org 253 sweetiebot 1 :unknown connection(s)
+20:09:47 :underworld1.no.quakenet.org 254 sweetiebot 14996 :channels formed
+20:09:47 :underworld1.no.quakenet.org 255 sweetiebot :I have 1973 clients and 1 servers
+20:09:47 :underworld1.no.quakenet.org 375 sweetiebot :- underworld1.no.quakenet.org Message of the Day - 
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :- 2014-12-11 12:37
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :- 
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :-            Welcome to the QuakeNet IRC Network!     __     __ 
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :- .--.--.-----.--|  |.-----.----.--.--.--.-----.----.|  |.--|  |
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :- |  |  |     |  _  ||  -__|   _|  |  |  |  _  |   _||  ||  _  |
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :- |_____|__|__|_____||_____|__| |________|_____|__|  |__||_____|
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :-     U N D E R W O R L D 1 . N O . Q U A K E N E T . O R G
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :- 
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :- This server is hosted by Underworld <www.underworld.no> in
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :- cooperation with Availo AS.
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :- 
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :-   [ Disclaimer ]
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :- 
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :- IRC is a free media, the operators of this network take no 
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :- responsibility whatsoever for opinions expressed or actions
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :- taken by users.
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :- 
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :- By connecting to this server you give us the right to
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :- probe your machine for open proxies/wingates.
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :- 
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :-   [ Staff ]
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :- 
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :- Administrator  ::  Hardy     <hardy(a)underworld.no>
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :- Operator       ::  akai       <akai(a)underworld.no>
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :- Operator       ::  Microbe <microbe(a)underworld.no>
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :- 
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :-   [ Rules ]                                       
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :- 
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :- This network may NOT be used for:
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :- 
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :- * Flooding (including flood/clonebots).
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :- * Distribution of copyrighted material (eg, warez, mp3, 
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :-   movies) or pornography.
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :- * Channels dedicated to cheats designed to cause unfair
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :-   advantage in multiplayer games.
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :- * Clones. Please contact info@quakenet.org if you require
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :-   more than five clients (LAN parties, bots, etc).
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :- * Attempts to takeover existing channels or network services.
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :- * Racism and/or Nazism.
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :- * Spamming and/or advertising.
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :- * Hacking (including Virus/Trojan distribution).
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :-  
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :- Continued use of this server indicates acceptance of these
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :- conditions.
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :- 
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :-   [ Information & Help ]
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :- 
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :- Quakenet web page     ::  http://www.quakenet.org
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :- Quakenet help page    ::  http://www.quakenet.org/faq
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :- Quakenet servers      ::  http://www.quakenet.org/servers
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :- 
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :- Network Channel       ::  #feds
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :- Help Channel          ::  #help
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :- Server Channel        ::  #underworld
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :- Norwegian Channel     ::  #Norge
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :- 
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :- You can contact the staff on <quakenet-staff(a)underworld.no>
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :- 
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :- This network has channel services. Consult the webpage above 
+20:09:47 :underworld1.no.quakenet.org 372 sweetiebot :- to find information on how to use and obtain these services.
+20:09:48 :underworld1.no.quakenet.org 372 sweetiebot :- 
+20:09:48 :underworld1.no.quakenet.org 372 sweetiebot :-   [ Have a nice stay! ]
+20:09:48 :underworld1.no.quakenet.org 372 sweetiebot :- 
+20:09:48 :underworld1.no.quakenet.org 372 sweetiebot :- 
+20:09:48 :underworld1.no.quakenet.org 376 sweetiebot :End of /MOTD command.
+20:09:48 :underworld1.no.quakenet.org 221 sweetiebot +i
+20:09:48 :underworld1.no.quakenet.org 353 sweetiebot @ #tlponies :sweetiebot DoT|Phone Micen|Droid Zoonds +Camail Rawr|Fone tredc DuB`skul Runbunny Zounds Dot` Golly skram Micen_ Bio @Cane motbob Twi Rarity +CockRoach|42 @Q +Emily Methos
+20:09:48 :underworld1.no.quakenet.org 366 sweetiebot #tlponies :End of /NAMES list.
+20:09:49 :underworld1.no.quakenet.org 353 sweetiebot = #camtestinggg :@sweetiebot
+20:09:49 :underworld1.no.quakenet.org 366 sweetiebot #camtestinggg :End of /NAMES list.

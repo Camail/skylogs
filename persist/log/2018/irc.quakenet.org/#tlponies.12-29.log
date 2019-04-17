@@ -1,0 +1,290 @@
+00:02:24 <BioPhone> New years day sometime
+00:12:14 -!- BioPone [~androirc@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+00:17:02 <BioPone> I go back to work the 2nd jan
+00:34:56 -!- Runbunny [~Runbunny@91.100.28.10.generic-hostname.arrownet.dk] has joined #tlponies
+00:54:32 <Runbunny> Dot` help!
+00:54:37 <Dot`> what do
+00:54:50 <Runbunny> My computer is misbehaving.
+00:55:10 <Runbunny> The small lights in the box are all wrong!
+00:55:54 <Dot`> that sounds very odd but not very serious
+00:56:40 <Runbunny> This is very serious!
+00:56:49 <Runbunny> I can assure you.
+00:58:19 <Dot`> now runbun, is it the box on the table that you stare at for hours or the magic box on the floor where all the hundreds of mysterious wires plug in
+00:59:47 <Runbunny> The one I stare at.
+01:00:56 <Dot`> make sure the cable isnt loose, sometimes they come out slightly and will cause weird colours
+01:08:39 <Runbunny> I think it's more the actual wizard inside the box on the floor that is being funky.
+01:08:43 <Runbunny> brb restarting
+01:16:34 <Dot`> his pc ded
+01:17:10 <Dot`> i go sleep
+01:17:13 <Dot`> gnight all <£
+01:17:15 <Dot`> <3
+01:17:55 -!- Runbunny [~Runbunny@91.100.28.10.generic-hostname.arrownet.dk] has joined #tlponies
+01:27:34 <Runbunny> well Geforce experience ruined it self. 
+01:27:45 <Runbunny> So I have to reinstall that probably.
+02:53:09 <Cane> DuB`, https://www.reddit.com/r/formula1/comments/aabj6c/oc_f1_cars_have_gotten_dramatically_faster_over/
+02:53:13 <Cane> That was kind of cool.
+03:26:11 -!- Crisium [~Crisium@c-73-174-151-51.hsd1.pa.comcast.net] has joined #tlponies
+03:30:46 -!- Dot [~quassel@2.218.216.166] has joined #tlponies
+03:43:00 -!- Westy543 [Westy543@c-73-93-93-161.hsd1.ca.comcast.net] has joined #tlponies
+03:43:00 -!- mode/#tlponies [+v Westy543] by Q
+04:36:22 <Cane> Dot, Halvgud's SMS notification sound is the PDA beep from STALKER.
+04:36:24 <Cane> I thought you should know.
+05:08:16 -!- Dot` [~quassel@2.218.216.166] has joined #tlponies
+05:14:58 -!- Dot [~quassel@2.218.216.166] has joined #tlponies
+06:10:02 -!- Dot` [~quassel@2.218.216.166] has joined #tlponies
+06:54:59 -!- Dot [~quassel@2.218.216.166] has joined #tlponies
+07:06:49 -!- Dot` [~quassel@2.218.216.166] has joined #tlponies
+07:17:47 -!- skrm [webchat@pioj.eid3.887x.ip] has joined #tlponies
+07:22:19 <skrm> boyz
+07:27:20 <Crisium> gn boi
+07:47:09 -!- Dot [~quassel@2.218.216.166] has joined #tlponies
+07:48:29 -!- Dot`_ [~quassel@2.218.216.166] has joined #tlponies
+07:53:50 -!- Dot [~quassel@2.218.216.166] has joined #tlponies
+08:24:45 -!- Dot` [~quassel@2.218.216.166] has joined #tlponies
+09:13:48 -!- Camail [~Camail@45.40.84.145] has joined #tlponies
+09:13:48 -!- mode/#tlponies [+v Camail] by Q
+09:14:44 <Camail> .tell runbunny did a 6 star with some other hr 11's, it did one tail swipe and carted 3 of us at full health...
+09:29:32 -!- Golly [Golly@cm-84.212.249.112.getinternet.no] has joined #tlponies
+10:03:34 -!- Dot [~quassel@2.218.216.166] has joined #tlponies
+10:23:24 <skrm> Dot wake up
+10:45:53 -!- Dot` [~quassel@2.218.216.166] has joined #tlponies
+10:45:55 <Dot`> I overslept
+10:46:05 <Dot`> and this internet consstantly dropping is annoying
+10:54:36 <Dot`> skram
+10:55:42 <Dot`> skrm
+10:56:45 <skrm> hey buddy
+10:56:48 <skrm> how you bean
+10:57:09 <Dot`> good
+10:57:16 <Dot`> apparently a bit sleepy
+10:57:18 <Dot`> you?
+10:58:39 <skrm> eh im just sittin here doin a work
+11:00:47 <skrm> bit difficult to keep this fire going
+11:01:00 <Dot`> why is the fire so tricky?
+11:01:46 <skrm> soggy garbage mostly
+11:03:15 <skrm> there's like 4 main PID controllers to keep it lit right and if it gets out of their area they start working against each other and you need to put them in their corner and give them a stern talking to
+11:03:32 <skrm> maybe one of those DUNCE hats
+11:04:06 <Dot`> that seems like bad programming
+11:04:26 <Dot`> i know a company that does Control Systems
+11:04:32 <Dot`> fix that for you
+11:04:47 <skrm> njaa its very tricky because there are quite a few variables that needs to be controlled right
+11:06:05 <skrm> You need the flow controller which controls the primary/secondary combustion air flow, one to keep the grates at the correct speed with another controller to keep the layer consitent on the combustion zone
+11:07:21 <skrm> then theres the 02 controller which is the main boy that works in a sort of cascade with the grate/pusher bois, because you want to keep a certain % to ensure optimal fireness, if you have excess air i.e. high 02 youll cool your flue gas and everything falls apart
+11:08:15 <skrm> and then you have a bunch of factor constants you can change to keep the controllers within their range
+11:08:40 <Dot`> "operator adjustable set-points"
+11:09:00 <Dot`> ive written that line many times already
+11:09:27 <skrm> nah they're not set points
+11:11:02 <skrm> its just a value (0.5-1.5) that gets mutiplied the out-value
+11:11:36 -!- Rawr|Fone [~AndChat52@m83-185-89-195.cust.tele2.se] has joined #tlponies
+11:12:12 <skrm> The SP is a different measurements that gets math'd to a calculated value for another controlly boi and you just change the math a bit
+11:12:48 <skrm> you tell it you want a whole ton of steam and then it calculates that you need SO MANY tons of air and then you can just fudge that value a bit
+11:13:22 <Dot`> set-point is just the term we use for pretty much any value that is either pre set or adjustable by the operator
+11:13:54 <Dot`> if it gets a controll word in the code
+11:13:59 <Dot`> or control bi
+11:14:00 <Dot`> t
+11:15:19 <skrm> Well the set point is specifically the value that goes into a controller whereas this changes your set point in accordance to a factor
+11:15:52 <Dot`> ah so its dynamic and set by the plc
+11:16:12 <skrm> no
+11:16:57 <skrm> however its used where the set point is a calculated value from either a different controller or some sort of f(x) block
+11:17:39 -!- reification [~reificati@cpc76294-cosh16-2-0-cust297.6-1.cable.virginm.net] has joined #tlponies
+11:17:39 -!- mode/#tlponies [+v reification] by Q
+11:17:44 <skrm> I'd show you an example if I would genuinely get fired if I took pictures of the controller schematics :P
+11:17:46 <Dot`> i dont think ive come across anything that fancy
+11:17:56 <Dot`> haah
+11:17:59 <Dot`> hey reif
+11:18:13 <skrm> if i could, but*
+11:18:23 <skrm> reef reef
+11:19:06 <Dot`> .tell Zounds https://imgur.com/gallery/XI81jxc
+11:19:10 <Rawr|Fone> Beep boop
+11:19:14 <Dot`> RAWR
+11:19:17 <Dot`> where you been
+11:19:36 <Dot`> you missed this dog https://imgur.com/gallery/6mIiKCC
+11:19:48 <Rawr|Fone> Andchat doesn't like the wifi in this apartment
+11:20:08 <Rawr|Fone> I connect but no messages show up 
+11:20:24 <Rawr|Fone> Leaving today
+11:20:46 <skrm> where you goin bud
+11:22:59 <Rawr|Fone> Back home
+11:23:04 <Rawr|Fone> I have been dogsitting
+11:23:43 <reification> hello skrm, dotties, rawr
+11:24:02 <Rawr|Fone> Good afternoon reef reef
+12:22:05 -!- Runbunny [~Runbunny@91.100.28.10.generic-hostname.arrownet.dk] has joined #tlponies
+12:32:35 <Dot`> the bun
+12:34:32 <Cane> Dot`, did you see what I said about Halvgud?
+12:34:56 <Dot`> Halv knows whats up cane
+12:35:01 <Cane> He does.
+12:37:35 <Runbunny> Hai.
+13:23:18 <skrm> Anders.
+13:42:07 -!- tredc [~tredc@c83-254-129-166.bredband.comhem.se] has joined #tlponies
+14:32:58 -!- Dot [~quassel@2.218.216.166] has joined #tlponies
+14:38:51 <Runbunny> Jonas, bjørn. I am cooking some food.
+14:39:39 <Runbunny> I also went to store and bought the last stuff I need for cooking new years dinnre.
+14:39:47 <Runbunny> Dinner*
+14:40:16 <Dot> very adult like anders
+14:40:19 <Dot> what food?
+14:44:58 <Runbunny> I am going to make some salmon with cream cheese and basil rolled in a tortilla for appetizers.
+14:46:08 <reification> fancy bun
+14:46:24 <Runbunny> Main course will be sliced potatoes in cream, with a bit of onion and cheese, whiskey sauce and roast of pig.
+14:46:45 <Runbunny> I didn't get any dessert, hmm.
+14:48:50 <Runbunny> The appetizer is really great and fancy for how simple it is to make.
+14:49:02 <Runbunny> You can surely impress everybody and your mother.
+14:58:10 <Dot> im going for a walk, later horses
+15:00:26 <Rawr|Fone> 🐴🐴🐴
+15:15:13 -!- Dot` [~quassel@2.218.216.166] has joined #tlponies
+15:42:41 -!- Micen [~Micen@h121.30.16.98.dynamic.ip.windstream.net] has joined #tlponies
+15:45:11 <skrm> can i come over and be impressed Runbunny 
+15:49:46 <Runbunny> Sure.
+15:55:21 -!- BioPone [~androirc@mobile-166-175-190-2.mycingular.net] has joined #tlponies
+16:06:25 -!- Rawr|Fone [~AndChat52@c-afb8e655.020-164-6d6c6d4.bbcust.telenor.se] has joined #tlponies
+16:07:15 -!- Camail [~Camail@45.40.84.145] has joined #tlponies
+16:07:15 -!- mode/#tlponies [+v Camail] by Q
+16:08:50 <Camail> pls
+16:09:54 <Rawr|Fone> No
+16:24:04 <Dot`> i back
+16:24:08 <Dot`> cam pls
+16:24:29 <Camail> no
+16:37:13 <Camail> Dot`  i was thinking that we could play codenames with anyone who wanted to if we chose a streaming solution
+16:37:46 <BioPone> Pls
+16:39:14 <skrm> dot stream woo
+16:43:58 <Dot`> calm down skram
+16:47:23 -!- Rawr|Fone [~AndChat52@c-afb8e655.020-164-6d6c6d4.bbcust.telenor.se] has joined #tlponies
+17:13:28 <Camail> never calm
+17:17:56 <Dot`> soma is scary
+17:20:15 <skrm> i lost my clams years ago son
+17:20:43 -!- Dot [~quassel@2.218.216.166] has joined #tlponies
+17:22:05 -!- Rawr|Fone [~AndChat52@c-afb8e655.020-164-6d6c6d4.bbcust.telenor.se] has joined #tlponies
+17:41:13 -!- Rawr|Phone [~AndChat52@m83-185-80-191.cust.tele2.se] has joined #tlponies
+17:43:37 <skrm> h o m e
+17:49:34 -!- carcinization [~reificati@cpc76294-cosh16-2-0-cust297.6-1.cable.virginm.net] has joined #tlponies
+17:49:34 -!- mode/#tlponies [+v carcinization] by Q
+17:51:31 <BioPone> N I C E
+17:53:28 <Dot> Bio
+17:55:10 <BioPone> Me
+18:01:42 -!- DuB` [DuB@65-130-50-48.slkc.qwest.net] has joined #tlponies
+18:01:50 <DuB`> <3
+18:02:30 -!- BioPone [~androirc@mobile-166-175-190-2.mycingular.net] has joined #tlponies
+18:03:08 <Dot> DUB
+18:03:09 <Dot> <3
+18:03:15 <Dot> we game once i have supper ok
+18:03:33 <DuB`> o ok
+18:03:36 <DuB`> Maybe I should breakfast
+18:03:57 <Dot> you have time
+18:04:01 <Dot> havnt got supper yet
+18:05:37 <DuB`> Where is the skram? >:T
+18:06:38 <Dot> on his way home
+18:08:20 <Rawr|Phone> Maybe
+18:21:14 -!- DoT|Phone [~Dot@2.218.216.166] has joined #tlponies
+18:22:12 -!- Crisium [~Crisium@c-73-174-151-51.hsd1.pa.comcast.net] has joined #tlponies
+18:24:43 <DoT|Phone> hedge cris horse
+18:30:16 <Crisium> hi
+18:37:06 -!- Zounds [webchat@cloak-wmbqgxv5.14-2.cable.virginm.net] has joined #tlponies
+18:37:16 <Zounds> home pon
+18:38:25 <DoT|Phone> Zounds!
+18:38:29 <DoT|Phone> fat horse
+18:38:37 <Zounds> Dot: get to see quite a lot of big boy horses like that at football matches
+18:38:50 <Zounds> It's actually muscle
+18:39:33 <DoT|Phone> Yea. draft horse I would guess
+18:39:38 <DoT|Phone> but still
+18:41:12 <carcinization> well it was the old firm derby today so they might have needed some
+18:41:53 <Zounds> yes I just came from there
+18:47:48 <Zounds> so many derbys today
+18:48:00 <Zounds> old firm, hearts vs hibs going on
+18:48:22 <Zounds> even falkirk vs dunfermline
+18:50:58 <carcinization> keeping you busy
+18:51:10 <Zounds> hearts fans and rangers fans are pretty much the same people just in different cities
+18:51:17 <Zounds> same with celtic and hibs
+18:51:32 <Zounds> so if hearts wins this there's going to be a lot of smug loyalists and salty irishmen
+18:52:38 <Zounds> carcinization: indeed reif but at least I get to bugger off after the match, it's the police I feel bad for :
+18:52:41 <Zounds> :P
+18:54:50 <Camail> wait, who let DuB` in?
+18:54:56 <Camail> i thought we installed the net
+18:55:57 -!- skram [~skram@82.147.53.138] has joined #tlponies
+18:56:00 <Rawr|Phone> He slip through
+18:56:04 <Rawr|Phone> Tinyhorse
+18:56:07 <DuB`> very slippy
+18:56:13 <Rawr|Phone> Jonas älskling
+18:56:35 <skram> Henrik min kjære
+18:56:52 <Rawr|Phone> How are you darling
+18:57:05 <DuB`> skram I got new earpads for my momentums
+18:57:09 <DuB`> They feel like brand new!
+18:57:27 <Camail> oh snap, boys are all here
+18:57:29 <skram> Quite well Henrik, how is the you?
+18:57:33 <Camail> we should try to codenames
+18:57:35 <skram> nice DuB`
+18:57:46 <Rawr|Phone> Fantastic skrammypants
+18:57:47 <Camail> maybe even do steam stream
+18:57:48 <skram> Do they feel like velvet against your head
+18:57:57 <Camail> try and get a 3v3 game
+18:58:26 <skram> let me inhale my dinner
+18:58:32 <Camail> dont go too fast
+18:58:37 <Camail> we need to figure out the stream stuff
+18:59:07 <Camail> Runbunny wanna try and view my game through steam
+19:00:20 <Camail> or anyone
+19:02:22 <Runbunny> I can try in a bit
+19:14:55 <Camail> dot can you check it out
+19:20:28 <DoT|Phone> in a minute
+19:20:41 -!- Crisium [~Crisium@c-73-174-151-51.hsd1.pa.comcast.net] has joined #tlponies
+19:31:41 <Dot> dub
+19:31:46 <Dot> why are you so useless
+19:32:23 <reification> dot :O
+19:32:31 <Dot> Hey reif
+19:33:51 <DuB`> ????
+19:34:05 <Dot> why are you not helping camail test
+19:34:43 <DuB`> !
+19:34:50 <DuB`> Dunno
+19:37:03 <skram> dot why arent you
+19:37:10 <Dot> i am
+19:37:16 <Dot> wow skram
+19:41:30 <Camail> DuB`  codenames
+19:41:58 <Camail> Crisium Runbunny  wanna play? i can stream the boardstate
+19:42:19 <Crisium> play what?
+19:42:57 <Camail> codenames
+19:43:22 <Camail> its a boardgame 
+19:43:30 <Camail> its fairly simple to play but kinda hard to explain
+19:44:04 <Camail> its easier if you see a round played, i guess
+19:46:59 <Camail> dub!
+19:49:58 <Crisium> ya ill try it if everyone plays
+19:52:45 <Camail> brb
+19:57:50 <Camail> https://www.horsepaste.com/tlp
+19:57:54 <Camail> everyone join there
+19:59:14 <skram> come to dis cord Crisium
+20:00:14 <Camail> Runbunny  you should as well
+20:00:45 <Runbunny> What am I looking at?
+20:01:01 <Camail> codenames
+20:01:02 <skram> deez nuts lmao
+20:01:04 <Camail> come into discord, ho
+20:09:22 <Dot> .choose blue red
+20:09:55 <Camail> .choose red blue
+20:35:27 <Camail> .choose red blue
+20:35:52 -!- Zounds [webchat@cloak-wmbqgxv5.14-2.cable.virginm.net] has joined #tlponies
+20:45:24 <Dot> hey zounds
+21:05:00 <Zounds> what are folks up to?
+21:05:55 <Camail> .tag DuB` assasin
+21:06:12 <DuB`> Playing codenames game, zounds
+21:06:17 <DuB`> Hop in discrod if ya want
+21:07:06 <Zounds> hmm thanks but I think i'll leave it for now
+21:07:21 <Runbunny> Come take my spot so I can hunt monsters.
+21:07:29 <Camail> .choose red blue
+21:21:05 <Camail> Zounds you can join us
+21:21:12 <Camail> teams can be uneven
+21:21:25 <Camail> we're almost done with this round
+21:21:34 <skram> cmon bud
+21:26:02 <Zounds> nah i'm quite happy chilling and watching netflix
+21:29:29 <skram> what you watchin
+21:36:34 <Zounds> A bit of Fry and Laurie
+21:36:58 <Zounds> Stephen Fry and Hugh Lauries old sketch comedy show
+21:37:31 <skram> yeah its a classic
+21:39:44 <Dot> i watched a bit of that again last week
+21:45:14 <Camail> reification  wanna play?
+21:46:04 <Camail> CockRoach|42  how about u
+22:02:05 <reification> sry not this evening
+22:05:00 -!- BioPhone [~androirc@mobile-166-175-189-199.mycingular.net] has joined #tlponies
+22:08:14 <BioPhone> Merry horsemas
+22:12:17 <Dot> this computerless horse
+22:12:24 <Dot> pracitcly armish 
+22:12:48 <DuB`> I hear he doesn't believe in internets.
+22:13:31 <BioPhone> Pls no disparage my faithe
+22:54:52 -!- BioPhone [~androirc@mobile-166-175-189-199.mycingular.net] has joined #tlponies
+23:13:29 <Rawr|Phone> 🐴🐴🐴
+23:51:33 <reification> https://twitter.com/RafaTLS/status/1078012182263222274
+23:52:44 <Zounds> night pons
+23:53:20 -!- BioPhone [~androirc@mobile-166-175-189-199.mycingular.net] has joined #tlponies
+23:54:36 -!- Rawr|Fone [~AndChat52@84-217-62-32.customers.ownit.se] has joined #tlponies

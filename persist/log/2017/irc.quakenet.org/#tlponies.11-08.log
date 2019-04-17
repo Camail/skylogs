@@ -1,0 +1,176 @@
+ng_wp_cron=1368563848.3263599872589111328125 HTTP/1.0" 200 406 "-" "WordPress/3.4.2; http://mediawatch.zeitgeist-info.com"
+www.zeitgeist-info.com:80 189.32.49.111 - - [15/May/2013:06:07:28 +0930] "POST /wp-login.php HTTP/1.0" 200 4440 "http://mediawatch.zeitgeist-info.com/wp-login.php" "Mozilla/5.0 (Windows NT 6.1; rv:19.0) Gecko/20100101 Firefox/19.0"
+www.zeitgeist-info.com:80 66.221.0.59 - - [15/May/2013:06:07:40 +0930] "POST /wp-cron.php?doing_wp_cron=1368563860.3709700107574462890625 HTTP/1.0" 200 406 "-" "WordPress/3.4.2; http://resources.zeitgeist-info.com"
+www.zeitgeist-info.com:80 176.114.37.41 - - [15/May/2013:06:07:40 +0930] "POST /wp-login.php HTTP/1.0" 200 4434 "http://resources.zeitgeist-info.com/wp-login.php" "Mozilla/5.0 (Windows NT 6.1; rv:19.0) Gecko/20100101 Firefox/19.0"
+www.zeitgeist-info.com:80 66.221.0.59 - - [15/May/2013:06:07:47 +0930] "POST /wp-cron.php?doing_wp_cron=1368563867.1539831161499023437500 HTTP/1.0" 200 406 "-" "WordPress/3.4.2; http://mediawatch.zeitgeist-info.com"
+www.zeitgeist-info.com:80 67.68.213.128 - - [15/May/2013:06:07:46 +0930] "POST /wp-login.php HTTP/1.0" 200 4440 "http://mediawatch.zeitgeist-info.com/wp-login.php" "Mozilla/5.0 (Windows NT 6.1; rv:19.0) Gecko/20100101 Firefox/19.0"
+www.zeitgeist-info.com:80 66.221.0.59 - - [15/May/2013:06:07:47 +0930] "POST /wp-cron.php?doing_wp_cron=1368563867.6466300487518310546875 HTTP/1.0" 200 406 "-" "WordPress/3.4.2; http://populationpuzzle.zeitgeist-info.com"
+www.zeitgeist-info.com:80 187.207.28.42 - - [15/May/2013:06:07:47 +0930] "POST /wp-login.php HTTP/1.0" 200 4512 "http://populationpuzzle.zeitgeist-info.com/wp-login.php" "Mozilla/5.0 (Windows NT 6.1; rv:19.0) Gecko/20100101 Firefox/19.0"
+www.zeitgeist-info.com:80 66.221.0.59 - - [15/May/2013:06:07:51 +0930] "POST /wp-cron.php?doing_wp_cron=1368563871.6868100166320800781250 HTTP/1.0" 200 406 "-" "WordPress/3.4.2; http://for-benefit.zeitgeist-info.com"
+www.zeitgeist-info.com:80 190.107.76.34 - - [15/May/2013:06:07:51 +0930] "POST /wp-login.php HTTP/1.0" 200 4482 "http://for-benefit.zeitgeist-info.com/wp-login.php" "Mozilla/5.0 (Windows NT 6.1; rv:19.0) Gecko/20100101 Firefox/19.0"
+www.zeitgeist-info.com:80 66.221.0.59 - - [15/May/2013:06:08:03 +0930] "POST /wp-cron.php?doing_wp_cron=1368563883.7799630165100097656250 HTTP/1.0" 200 406 "-" "WordPress/3.4.2; http://mediawatch.zeitgeist-info.com"
+www.zeitgeist-info.com:80 210.186.141.21 - - [15/May/2013:06:08:03 +0930] "POST /wp-login.php HTTP/1.0" 200 4440 "http://mediawatch.zeitgeist-info.com/wp-login.php" "Mozilla/5.0 (Windows NT 6.1; rv:19.0) Gecko/20100101 Firefox/19.0"
+www.zeitgeist-info.com:80 66.221.0.59 - - [15/May/2013:06:08:37 +0930] "POST /wp-cron.php?doing_wp_cron=1368563917.8229620456695556640625 HTTP/1.0" 200 406 "-" "WordPress/3.4.2; http://mediawatch.zeitgeist-info.com"
+www.zeitgeist-info.com:80 171.5.243.76 - - [15/May/2013:06:08:37 +0930] "POST /wp-login.php HTTP/1.0" 200 4292 "http://mediawatch.zeitgeist-info.com/wp-login.php" "Mozilla/5.0 (Windows NT 6.1; rv:19.0) Gecko/20100101 Firefox/19.0"
+www.zeitgeist-info.com:80 66.221.0.59 - - [15/May/2013:06:08:41 +0930] "POST /wp-cron.php?doing_wp_cron=1368563921.0095739364624023437500 HTTP/1.0" 200 406 "-" "WordPress/3.4.2; http://projects.zeitgeist-info.com"
+www.zeitgeist-info.com:80 64.237.237.109 - - [15/May/2013:06:08:40 +0930] "POST /wp-login.php HTTP/1.0" 200 4464 "http://projects.zeitgeist-info.com/wp-login.php" "Mozilla/5.0 (Windows NT 6.1; rv:19.0) Gecko/20100101 Firefox/19.0"
+www.zeitgeist-info.com:80 66.221.0.59 - - [15/May/2013:06:08:51 +0930] "POST /wp-cron.php?doing_wp_cron=1368563931.6669468879699707031250 HTTP/1.0" 200 406 "-" "WordPress/3.4.2; http://projects.zeitgeist-info.com"
+www.zeitgeist-info.com:80 2.177.151.38 - - [15/May/2013:06:08:51 +0930] "POST /wp-login.php HTTP/1.0" 200 4464 "http://projects.zeitgeist-info.com/wp-login.php" "Mozilla/5.0 (Windows NT 6.1; rv:19.0) Gecko/20100101 Firefox/19.0"
+www.zeitgeist-info.com:80 66.221.0.59 - - [15/May/2013:06:08:55 +0930] "POST /wp-cron.php?doing_wp_cron=1368563935.6414120197296142578125 HTTP/1.0" 200 402 <Dot`> the hestest
+10:07:44 <Rawr|Fone> Dot dot dot
+10:07:46 <Rawr|Fone> <3
+10:09:44 <Dot`> hej rawr, hows work
+10:24:59 <Rawr|Fone> Going well
+10:25:04 <Rawr|Fone> We did some big changes
+10:50:06 <CockRoach|42> did they work?
+10:51:48 -!- tredc [webchat@90-230-30-217-no56.tbcn.telia.com] has joined #tlponies
+11:11:35 -!- Rawr|Phone [~AndChat25@89.255.242.40] has joined #tlponies
+11:17:13 -!- Rawr|Fone [~AndChat25@89.255.242.40] has joined #tlponies
+11:19:46 <Rawr|Fone> Not yet cr
+11:24:23 <Dot`> be the change you want to see rawr
+11:24:36 <Dot`> time for walk into town, later all
+11:24:46 <reification> laters dotties
+11:24:49 <Rawr|Fone> Bai dot
+11:24:52 <reification> hello tlpons
+11:25:01 <Rawr|Fone> Reef reef!
+11:31:09 <reification> roar roar
+11:54:44 -!- Zounds [~chatzilla@cpc108453-cowc8-2-0-cust8.14-2.cable.virginm.net] has joined #tlponies
+11:54:44 -!- mode/#tlponies [+v Zounds] by Q
+11:58:30 <Dot`> hey reif, zounds
+11:58:54 <Zounds> hi
+12:02:00 <Dot`> .tell skram https://imgur.com/gallery/2kz4P
+12:39:41 <reification> lol https://chrisblattman.com/2016/03/01/13719/
+12:41:03 <Dot`> haha
+13:00:00 <Rawr|Fone> Are you not working today dot
+13:01:19 <Dot`> no rawr, not enough people buying sweets so they coudlnt justify having me work today
+13:04:12 <Rawr|Fone> Rude
+13:05:29 <Dot`> indeed
+13:08:10 -!- DoT_ [~quassel@90.214.186.173] has joined #tlponies
+13:12:48 <Zounds> https://i.imgur.com/3w9xdzN.gifv
+13:12:55 <Zounds> you need pinkhorse to move to your town
+13:13:04 <Zounds> plenty of business then
+13:17:16 <DoT_> what a horse
+13:21:44 <Dot`> Zounds https://mirroredsea.deviantart.com/art/There-will-be-fireworks-so-stay-close-689908933
+13:24:02 <Zounds> </3
+13:24:08 <Zounds> Did you go to any fireworks things on the 5th dot
+13:24:29 <Dot`> nope, but  iwas out walking and saw some
+13:24:48 <Zounds> I had a lot of them outside my window
+13:25:03 <Zounds> There was some early celebrations on the 4th too I was working at
+13:36:22 <Dot`> yea,, i saw most people celebrate then becuase it was saturday night
+14:04:56 -!- skram [~skram@95.169.46.105] has joined #tlponies
+14:05:20 <skram> hello frens
+14:07:25 <Dot`> Jonas <3
+14:07:43 <skram> bjørnen <3
+14:16:32 <Zounds> hello skram
+14:17:38 <Dot`> you get the links skram?
+14:18:47 <Bio> mornenhors
+14:19:00 * Dot` hugs Bio
+14:19:20 <Bio> hailo dottles
+14:23:39 <skram> Dörf Deepegg is my favorite character
+14:24:24 <Dot`> its very you
+14:24:55 <skram> untrue
+14:24:57 <skram> i know how to read
+14:29:29 <Bio> hmm
+14:30:39 <Bio> i dunno skrma, i've never seen you reading
+14:33:21 <Rawr|Fone> Me neither
+14:33:36 <Dot`> nope
+14:34:10 <skram> ive never seen you guys faces either
+14:34:15 <skram> who know whats real or not
+14:34:42 <Dot`> youve seen my face
+14:34:49 <Dot`> in ALL zk's pictures
+14:35:04 <skram> i have not
+14:35:20 <Dot`> well there are many pictures of me after that visit
+14:35:56 <Bio> I'm definitely an actual horse
+14:36:25 <Bio> https://images2.onionstatic.com/clickhole/3564/7/original/600.jpg
+14:36:28 <Bio> neigh
+14:36:39 <Dot`> such a shiny coat
+14:36:45 <Zounds> I'm a chatbot
+14:37:05 <Dot`> who links pony at time, sounds good to e zounds
+14:41:57 <Zounds> https://i.imgur.com/hWb6NY5.gifv
+15:11:11 -!- Runbunny [~Runbunny@91.100.28.10.generic-hostname.arrownet.dk] has joined #tlponies
+15:11:51 <Runbunny> Yo.
+15:12:06 <reification> welcome bun
+15:14:58 -!- tredc [webchat@90-230-30-217-no56.tbcn.telia.com] has joined #tlponies
+15:15:33 <Dot`> hey runbun
+15:15:47 <Dot`> thats a good pony gif zounds
+15:16:49 -!- Rawr|Phone [~AndChat25@m83-185-94-44.cust.tele2.se] has joined #tlponies
+15:25:09 <Runbunny> Dot dot.
+15:25:29 <Runbunny> Come watch this 14 hour speedrun with me.
+15:26:07 <Dot`> what soeed!
+15:26:09 <Dot`> speed
+15:26:12 <Dot`> link?
+15:26:18 <reification> sounds like an excellent use of time
+15:28:14 <Runbunny> https://go.twitch.tv/n_eil
+15:31:20 <skram> Anders
+15:31:55 <Runbunny> Jonas.
+15:45:52 <Dot`> Anders
+16:06:46 <Rawr|Phone> Björn
+16:07:00 <Dot`> Henrik
+16:09:31 <Bio> ponk
+16:14:23 <Dot`> Zounds https://i.imgur.com/s1rhx4r.jpg
+16:14:28 <Dot`> w"Amazon Route 53 Health Check Service; ref:55bfa5e7-3051-42f1-a541-e6bd17e636e6"
+54.248.220.36 - - [13/May/2014:13:47:48 +1000] "GET / HTTP/1.1" 200 512 "-" "Amazon Route 53 Health Check Service; ref:55bfa5e7-3051-42f1-a541-e6bd17e636e6"
+54.241.32.68 - - [13/May/2014:13:47:52 +1000] "GET / HTTP/1.1" 200 512 "-" "Amazon Route 53 Health Check Service; ref:55bfa5e7-3051-42f1-a541-e6bd17e636e6"
+54.243.31.228 - - [13/May/2014:13:47:53 +1000] "GET / HTTP/1.1" 200 512 "-" "Amazon Route 53 Health Check Service; ref:55bfa5e7-3051-42f1-a541-e6bd17e636e6"
+54.251.31.164 - - [13/May/2014:13:47:54 +1000] "GET / HTTP/1.1" 200 512 "-" "Amazon Route 53 Health Check Service; ref:55bfa5e7-3051-42f1-a541-e6bd17e636e6"
+54.248.220.4 - - [13/May/2014:13:47:57 +1000] "GET / HTTP/1.1" 200 512 "-" "Amazon Route 53 Health Check Service; ref:55bfa5e7-3051-42f1-a541-e6bd17e636e6"
+54.252.79.164 - - [13/May/2014:13:48:01 +1000] "GET / HTTP/1.1" 200 512 "-" "Amazon Route 53 Health Check Service; ref:55bfa5e7-3051-42f1-a541-e6bd17e636e6"
+54.228.16.4 - - [13/May/2014:13:48:02 +1000] "GET / HTTP/1.1" 200 512 "-" "Amazon Route 53 Health Check Service; ref:55bfa5e7-3051-42f1-a541-e6bd17e636e6"
+54.252.79.132 - - [13/May/2014:13:48:02 +1000] "GET / HTTP/1.1" 200 512 "-" "Amazon Route 53 Health Check Service; ref:55bfa5e7-3051-42f1-a541-e6bd17e636e6"
+54.232.40.68 - - [13/May/2014:13:48:02 +1000] "GET / HTTP/1.1" 200 512 "-" "Amazon Route 53 Health Check Service; ref:55bfa5e7-3051-42f1-a541-e6bd17e636e6"
+54.243.31.196 - - [13/May/2014:13:48:02 +1000] "GET / HTTP/1.1" 200 512 "-" "Amazon Route 53 Health Check Service; ref:55bfa5e7-3051-42f1-a541-e6bd17e636e6"
+54.245.168.4 - - [13/May/2014:13:48:05 +1000] "GET / HTTP/1.1" 200 512 "-" "Amazon Route 53 Health Check Service; ref:55bfa5e7-3051-42f1-a541-e6bd17e636e6"
+54.241.32.100 - - [13/May/2014:13:48:06 +1000] "GET / HTTP/1.1" 200 512 "-" "Amazon Route 53 Health Check Service; ref:55bfa5e7-3051-42f1-a541-e6bd17e636e6"
+54.251.31.132 - - [13/May/2014:13:48:12 +1000] "GET / HTTP/1.1" 200 512 "-" "Amazon Route 53 Health Check Service; ref:55bfa5e7-3051-42f1-a541-e6bd17e636e6"
+54.245.168.36 - - [13/May/2014:13:48:15 +1000] "GET / HTTP/1.1" 200 512 "-" "Amazon Route 53 Health Check Service; ref:55bfa5e7-3051-42f1-a541-e6bd17e636e6"
+54.228.16.36 - - [13/May/2014:13:48:17 +1000] "GET / HTTP/1.1" 200 512 "-" "Amazon Route 53 Health Check Service; ref:55bfa5e7-3051-42f1-a541-e6bd17e636e6"
+54.232.40.100 - - [13/May/2014:13:48:18 +1000] "GET / HTTP/1.1" 200 512 "-" "Amazon Route 53 Health Check Service; ref:55bfa5e7-3051-42f1-a541-e6bd17e636e6"
+54.248.220.36 - - [13/May/2014:13:48:18 +1000] "GET / HTTP/1.1" 200 512 "-" "Amazon Route 53 Health Check Service; ref:55bfa5e7-3051-42f1-a541-e6bd17e636e6"
+192.81.220.154 - - [13/May/2014:13:48:20 +1000] "GET / HTTP/1.1" 200 468 "-" "Mozilla/5.0 (compatible; WormlyBot; +http://wormly.com)"
+54.241.32.68 - - [13/May/2014:13:48:22 +1000] "GET / HTTP/1.1" 200 512 "-" "Amazon Route 53 Health Check Service; ref:55bfa5e7-3051-42f1-a541-e6bd17e636e6"
+54.243.31.228 - - [13/May/2014:13:48:24 +1000] "GET / HTTP/1.1" 200 512 "-" "Amazon Route 53 Health Check Service; ref:55bfa5e7-3051-42f1-a541-e6bd17e636e6"
+54.251.31.164 - - [13/May/2014:13:48:24 +1000] "GET / HTTP/1.1" 200 512 "-" "Amazon Route 53 Health Check Service; ref:55bfa5e7-3051-42f1-a541-e6bd17e636e6"
+54.248.220.4 - - [13/May/2014:13:48:28 +1000] "GET / HTTP/1.1" 200 512 "-" "Amazon Route 53 Health Check Service; ref:55bfa5e7-3051-42f1-a541-e6bd17e636e6"
+54.252.79.164 - - [13/May/2014:13:48:31 +1000] "GET / HTTP/1.1" 200 512 "-" "Amazon Route 53 Health Check Service; ref:55bfa5e7-3051-42f1-a541-e6bd17e636e6"
+54.252.79.132 - - [13/May/2014:13:48:32 +1000] "GET / HTTP/1.1" 200 512 "-" "Amazon Route 53 Health Check Service; ref:55bfa5e7-3051-42f1-a541-e6bd17e636e6"
+54.228.16.4 - - [13/May/2014:13:48:33 +1000] "GET / HTTP/1.1" 200 512 "-" "Amazon Route 53 Health Check Service; ref:55bfa5e7-3051-42f1-a541-e6bd17e636e6"
+54.243.31.196 - - [13/May/2014:13:48:33 +1000] "GET / HTTP/1.1" 200 512 "-" "Amazon Route 53 Health Check Service; ref:55bf22:07:26 <Camail> this is a problem
+22:07:49 <Camail> Dot`  doooooooooooooooot
+22:07:51 <Camail> doot doot
+22:07:55 <Camail> did you do that thiiing
+22:07:59 <Camail> or try, at least
+22:09:47 <Runbunny> I get bored of everything really fast these days.
+22:10:17 <Camail> how can you get bored of csgo
+22:10:28 <Camail> so many things to get better at
+22:11:09 <Camail> oh run
+22:11:13 <Camail> hollow kngiht updated again
+22:11:19 <Camail> the second content patch came out
+22:12:23 <Camail> there's a fun new white palace section
+22:12:35 <Camail> impossible to find on your own so look up where it is
+22:17:17 <Runbunny> not dlc?
+22:19:00 <Camail> nothing is dlc
+22:19:02 <Camail> its all free
+22:21:52 <Runbunny> O:
+22:22:09 <DuB`> But
+22:22:15 <DuB`> It is content that you download
+22:22:17 <Runbunny> I thought it was dlc
+22:22:24 <Runbunny> Shut up Dub.
+22:22:38 <DuB`> ... aw
+22:23:03 <Runbunny> I guess I will once more pick up the mantle that is bug.
+22:23:10 <Runbunny> ... tomorrow.
+22:31:53 <Camail> DuB`  i fought that fight for awhile, but dlc = money now
+22:31:59 <Camail> its just...we lost the word war
+22:33:05 <Camail> also dub it is still a terrible tragedy that you haven't played hollow knight
+22:40:00 <Rawr|Fone> So rude
+22:42:41 -!- Crisium [~Crisium@c-73-174-51-128.hsd1.pa.comcast.net] has joined #tlponies
+22:45:36 <Rawr|Fone> Crisium!
+22:45:56 <Rawr|Fone> Just in time for when I go to bed
+22:46:21 <Crisium> oh no
+22:46:30 <Crisium> dream of horses and ping pong roor
+22:47:00 <Rawr|Fone> I will try 
+22:47:42 -!- Rawr|Phone [~AndChat25@84-217-62-32.customers.ownit.se] has joined #tlponies
+22:50:04 <CockRoach|42> make your dreams come true, Rawr|Phone!
+23:55:12 <Camail> oh shit
+23:55:14 <Camail> nioh is on PC
+23:55:18 <Camail> ooohhhh shit yea
+23:55:27 -!- Crisium|2 [~Crisium@c-73-174-51-128.hsd1.pa.comcast.net] has joined #tlponies

@@ -1,0 +1,302 @@
+06:00:49 -!- sweetiebot [~skybot@209.141.41.184] has joined #tlponies
+06:01:05 <Camail> .tell Dot`__  test
+06:01:19 <Camail> .tell camail test
+06:01:31 <Camail> .tell camail__ test
+06:01:38 <camail__> dfg
+06:01:47 <Crisium> dfg
+06:02:18 <camail__> fml
+06:02:31 <Camail> i solved the original problem
+06:02:44 <Crisium> fyl
+06:02:54 <Camail> .tag dort a butt
+06:02:59 <Camail> .is dort a butt
+06:03:10 <Camail> ok so the database is healthy and i have a back up
+06:03:17 <Camail> but apparently something in .tell is borken
+06:05:18 <Crisium> .tell Camail butt
+06:05:24 <Camail> l
+06:05:36 <Camail> nah its broken
+06:06:53 <Camail> oh wait maybe redoing the database fucked up all the data types
+06:06:54 <Camail> oh noooo
+06:08:06 <Camail> yea it made everything text, boo
+06:11:24 <Camail> eh i dont think thats actually right nvm
+06:14:20 -!- sweetiebot [~skybot@209.141.41.184] has joined #tlponies
+06:44:49 -!- sweetiebot [~skybot@209.141.41.184] has joined #tlponies
+06:45:14 -!- Camail [~Camail@45.40.84.145] has joined #tlponies
+06:45:14 -!- mode/#tlponies [+v Camail] by Q
+06:45:18 <Camail> fgh
+06:45:26 <Camail> ok, everything is fixed
+06:45:28 <Camail> forever
+06:45:36 <Camail> and nothing will ever go wrong again
+06:45:43 <DuB`> ;D
+06:46:34 <Camail> the best part of writing code is closing all the tabs after
+06:46:43 <Camail> its like putting down a heavy backpack
+06:47:22 <Camail> .tell dot` this devil child has been purified
+06:48:23 <Camail> there was a problem i could fix that would end up with me deleting a little bit of functionality, but i didn't want to do that
+06:48:47 <Camail> also i got rid of tellm, i thought that was the problem early on, I might put it back in or not
+06:49:03 <Camail> it was rather sloppy
+07:12:05 <Cane> The best part of writing code is when you redo the section you just did because you can't figure out why the fuck it isn't working, and then the next code breaks something else, and oh wait did I say best I meant worst
+07:12:17 <Cane> And now I have an actual headache.
+07:12:21 <Cane> Break time.
+07:37:07 <Cane> Man, I need to play The Ur-Quan Masters again.
+07:37:16 <Cane> I'll stream the hell out of it when I get to it.
+07:37:20 <Camail> so cane, the .seen command is gone
+07:37:25 <Camail> because it literally killed the db
+07:37:32 <Cane> Oh wow, that's impressive.
+07:37:40 <Camail> it wrote so many times for so many years that it single handedly corrupted the database
+07:37:50 <Camail> every line, forever, a new commit
+07:38:00 <Cane> That's kind of fascinating.
+07:39:14 <Cane> How much of the bot have you written or rewritten? I actually don't know if it's one you made or a lightly modified standard model or anything in between.
+07:39:32 <Camail> I've patched a lot of little stuff
+07:39:51 <Camail> i wrote the twitch plugin, i modified the youtube one to accept the latest api
+07:40:01 <Camail> had to change .tell a few times
+07:40:15 <Camail> honestly, anything we use frequently other than .r I've messed it
+07:41:23 <Camail> I've always kind of wanted to write my own because it's kinda shitty, but nothing has given me a big enough problem
+07:43:00 <Cane> For the Twitch plugin, do you have any idea why it's so delayed in updating? I can start the stream, but several minutes later I post the link here and Sweetie sees it as offline. Is the API really that delayed?
+08:02:17 -!- Camail_Phone [~camailpho@174.221.129.214] has joined #tlponies
+08:02:27 <Camail_Phone> Internet died, fun
+08:03:22 <Camail_Phone> To answer your question, i believe the api updates for offline channels at a much lower frequency
+08:03:38 -!- Camail_ [~Camail@45.40.84.145] has joined #tlponies
+08:03:38 -!- mode/#tlponies [+v Camail_] by Q
+08:03:45 <Camail_> cool, back
+08:04:26 <Camail_> so yea all I'm doing is calling the api, there's nothing i can do to make the channel status change faster
+08:05:29 <Camail_> it must be an optimization thing, for the sheer volume of offline channels, they must do the updates in batches
+08:06:05 <Cane> Thought so, figured I'd ask.
+08:08:14 <Camail> if someone really wanted instant status I bet they could write something that just directly looks at the streamer's channel and see if the page wants to load a media player
+08:08:33 <Camail> its super not an issue because if you're linking your own stream obviously its live
+08:08:53 <Camail> but if that became an issue for something, skipping the api entirely would be a fun little hack
+08:53:11 <Bio> fak
+08:53:18 <Bio> that was a long work
+09:45:45 <Rawr|Fone> Hors hors
+09:49:14 -!- Dot` [~quassel@94.3.39.48] has joined #tlponies
+10:17:03 -!- Zounds [webchat@cpc108453-cowc8-2-0-cust8.14-2.cable.virginm.net] has joined #tlponies
+10:17:13 <Zounds> hi
+10:17:44 <Rawr|Fone> Good morning zooonds
+10:21:11 <Zounds> m'rawrity
+10:40:29 <Dot`> mornign all
+10:42:32 <Zounds> morning dot
+10:46:35 -!- tredc [~AdiIRC@c83-251-161-94.bredband.comhem.se] has joined #tlponies
+11:01:09 <Rawr|Fone> Dot Dot Dot
+11:05:43 <Dot`> Rawr raw rrawr
+11:05:45 <Dot`> <3
+11:13:11 <Rawr|Fone> <3
+11:22:15 -!- Dot`_ [~quassel@94.3.39.48] has joined #tlponies
+11:24:20 <Micen|Droid> Good morning. 
+11:24:38 <Micen|Droid> Blah. I woke up at a reasonable hour
+11:24:43 <Dot`_> hi micen
+11:24:54 <Micen|Droid> Whats becoming of me? 
+11:40:01 <Dot`_> like cane, when your sleep times are rnaodm they sometimes might seem correct
+11:50:05 <Dot`_> .tell skram https://imgur.com/gallery/mxnu6
+11:51:25 <Zounds> lol
+11:56:19 <CockRoach|42> sweatybat!
+12:34:57 <Micen|Droid> That was a funny link dot
+12:45:02 <Dot`> i realised last night there was a bunch of starcrafts i hadnt seen
+12:45:04 <Dot`> this one is great
+12:45:05 <Dot`> https://www.youtube.com/watch?v=Kdh6k7XzlV8
+12:45:45 <CockRoach|42> https://scontent.fmmx1-1.fna.fbcdn.net/v/t1.0-9/27972313_1809171942486671_7753518658901464945_n.jpg?oh=042af5b6a28593323ddb863b70152763&oe=5B0CE0CE
+12:49:14 -!- Runbunny [~Runbunny@91.100.28.10.generic-hostname.arrownet.dk] has joined #tlponies
+12:49:53 <Dot`> angel <3
+12:50:00 <Runbunny> Dot!
+12:56:11 -!- Rawr|Phone [~AndChat52@m83-185-90-127.cust.tele2.se] has joined #tlponies
+13:26:52 -!- skram [~skram@109.203.14.204] has joined #tlponies
+13:27:49 <Dot`> hi skram
+13:35:02 <skram> hello mr dot
+13:35:12 <skram> how is your face this afternoon
+13:37:17 <Dot`> im ok i guess
+13:37:18 <Dot`> you?
+13:37:30 <skram> its a bitt tired
+13:37:59 <Rawr|Phone> Jonas
+13:38:18 <skram> Henrik, gamle ørn
+13:39:22 <Rawr|Phone> Jonas du är en pärla
+13:40:29 <Zounds> you sweet old scandis
+13:40:35 <Zounds> ey skram
+13:40:49 <skram> grommingen henrik
+13:40:52 <skram> ay zounds
+14:12:53 <Micen|Droid> We should play more videogames. 
+14:16:41 <Rawr|Phone> Video games are no good
+14:17:07 <Micen|Droid> Video games are the bees knees rawr
+14:18:26 <Rawr|Phone> Small and not important to anyone but bees?
+14:20:22 <Micen> they are the cats pajamas. 
+14:20:40 <CockRoach|42> rawr you might like this https://i.imgur.com/dc0wmV0.gifv
+14:21:16 <Rawr|Phone> I like this very much cr
+14:21:36 <CockRoach|42> <3
+14:49:04 -!- Golly [~Golly@1.92-221-121.customer.lyse.net] has joined #tlponies
+14:54:00 <Zounds> fatpons
+14:55:19 <Bio> ow
+14:55:23 <Bio> i sore
+14:55:27 <Bio> work hard
+14:55:38 <Bio> v tired
+15:00:17 <Dot`> Bio <3
+15:00:55 <Dot`> https://huussii.deviantart.com/art/Splash-of-Fashion-560025919
+15:03:05 <CockRoach|42> the hors movie will supposedly be released tomorrow
+15:05:44 <Bio> horse
+15:06:03 -!- tredc [~AdiIRC@c83-251-161-94.bredband.comhem.se] has joined #tlponies
+15:06:07 <Micen> Horse movie hype
+15:06:17 <Micen> i should watch it again soon
+15:07:14 <Dot`> .tell phearlock https://dsp2003.deviantart.com/art/MLPFiM-That-s-LEWD-Comic-730357157
+15:08:05 <Bio> https://dsp2003.deviantart.com/art/Bleh-721009824
+15:09:22 -!- Zounds [webchat@cpc108453-cowc8-2-0-cust8.14-2.cable.virginm.net] has joined #tlponies
+15:10:01 <CockRoach|42> .tell phearlock https://aymint.deviantart.com/art/Dash-592427657
+15:16:38 <Dot`> ponies <3
+15:20:41 <Bio> asdfghjkl
+16:03:51 <Bio> i cast sleep on myself
+16:03:58 <Bio> sda;ljk
+16:31:14 * skram slaps Bio around a bit with a large trout
+16:32:23 <Dot`> skram
+16:32:26 <Dot`> hows the mother
+16:32:44 <Dot`> did you give her breakfast?
+16:33:03 <skram> She's a grown person, she can make her own damn breakfast
+16:34:22 <Dot`> D:
+16:34:51 <skram> She did get a flower though
+16:35:16 <Dot`> was it an orchid?
+16:36:42 <skram> crysanthemum i think
+16:36:55 <Dot`> you got her crisium?
+16:37:09 <Zounds> how nice
+16:37:12 <skram> yep
+16:37:15 <skram> what a gift right
+16:37:44 <Dot`> your a great son skram
+16:37:47 <Zounds> Well he does get some pretty good tac visors
+16:37:52 <Zounds> So i'd appreciate it
+16:38:05 <skram> I hear thats a desirable quality
+16:43:35 -!- Crisium [~Crisium@24.3.158.64] has joined #tlponies
+16:43:45 <Dot`> and its Crisium
+16:46:16 <skram> sure looks like one
+16:46:21 <Crisium> howdy
+16:47:39 <Zounds> hi
+17:41:40 -!- carcinisation [webchat@cpc76294-cosh16-2-0-cust297.6-1.cable.virginm.net] has joined #tlponies
+17:45:00 <Zounds> hi reif
+18:00:47 <carcinisation> hi zounds
+18:03:15 -!- Golly [~Golly@1.92-221-121.customer.lyse.net] has joined #tlponies
+18:10:52 -!- Rawr|Fone [~AndChat52@84-217-62-32.customers.ownit.se] has joined #tlponies
+18:13:50 -!- DuB` [~DuB@66-219-235-64.dynamic.ip.veracitynetworks.com] has joined #tlponies
+18:13:51 <DuB`> weoo
+18:16:04 <DuB`> no pons
+18:23:19 <Rawr|Fone> DuB`
+18:23:27 <DuB`> Rawr
+18:23:46 <DuB`> Is it quiet nap time?
+18:23:51 <Rawr|Fone> Yes
+18:24:00 <carcinisation> pls dub i was eating
+18:24:09 <Rawr|Fone> Don't startle the horses dub
+18:25:57 <DuB`> sshhh
+18:26:29 <Rawr|Fone> How is your day dub
+18:26:49 <DuB`> gud
+18:26:55 <DuB`> Got lotsa study to do though
+18:27:26 <Rawr|Fone> Studyhors
+18:27:28 <Rawr|Fone> Nerdpon
+18:28:33 -!- Zounds [webchat@cpc108453-cowc8-2-0-cust8.14-2.cable.virginm.net] has joined #tlponies
+18:28:42 <Zounds> ponz
+18:29:04 <carcinisation> https://pbs.twimg.com/media/DVvH-QtXUAA8Xia.jpg
+18:30:05 <Zounds> Oh Tara Strong voicing a Them Fightin Herds character
+18:30:10 <Zounds> that's pretty funny
+18:30:51 <Dot`> DUB PLS
+18:30:58 <DuB`> reif that only looks like a challenge to me
+18:30:59 <DuB`> DOT WAT
+18:31:19 -!- DoT|Phone [~Dot@94.3.39.48] has joined #tlponies
+18:34:04 <Dot`> i was playing arma
+18:34:09 <DuB`> OWL apparently already ahead of their own revenue predictions, next season team slots will almost double in price9  (were $20m)
+18:34:16 <Dot`> is fun but hard, no time for breaks to say hello
+18:34:41 <carcinisation> that's a lot of dollars
+18:35:00 <DuB`> What sort of armastuff? :o
+18:35:37 <DoT|Phone> co op missions with tj
+18:35:55 <DuB`> pewpew
+18:39:17 <DoT|Phone> indeed
+18:43:21 <DuB`> I'm up for another (shorter) OWstack today if people aren't all overwatched out.
+18:43:54 <Crisium> sure
+18:45:11 <Zounds> i'll prob join at some point if you do
+18:57:04 <Crisium> well im gonna hop on NA and play some CTF (NA since we out number yous interested right now)
+18:57:17 -!- tredc [~AdiIRC@c83-251-161-94.bredband.comhem.se] has joined #tlponies
+18:58:56 -!- CrisPone [uid127042@id-127042.hathersage.irccloud.com] has joined #tlponies
+19:05:07 <DoT|Phone> dub
+19:05:16 <DoT|Phone> https://imgur.com/gallery/eU21o
+19:08:35 <DuB`> :D
+19:08:51 <DuB`> Well now I want to watch the C9 v Liquid csgo final...
+19:11:53 <Runbunny> Dot`, https://i.imgur.com/4lFclu4.mp4
+19:12:14 <Runbunny> Rawr|Fone, Get in on that action as well
+19:13:24 <Dot`> the betrayel!
+19:13:29 <Rawr|Fone> I like this anders
+19:14:03 -!- Camail [~Camail@45.40.84.145] has joined #tlponies
+19:14:03 -!- mode/#tlponies [+v Camail] by Q
+19:15:03 <Micen|Droid> https://i.pinimg.com/236x/81/f9/6b/81f96b85253403abf0d3145c384b36b9.jpg
+19:15:18 <Micen|Droid> Something I saw that I didn't link before
+19:16:59 <Dot`> .tell camail good job
+19:17:31 <Camail> bleh
+19:19:48 <Dot`> rude
+19:27:25 <carcinisation> i am playing tourney dub so no stack today
+19:27:43 <Dot`> are you winning?
+19:28:39 <carcinisation> about to play vs gm...
+19:29:00 <carcinisation> may be casted here https://www.twitch.tv/aeo_gg
+19:29:10 -!- tredc [~AdiIRC@c83-251-161-94.bredband.comhem.se] has joined #tlponies
+19:30:26 <skram> My boys
+19:30:39 <Dot`> my skram
+19:31:52 <skram> Dot` how much is too much salami
+19:32:04 <Dot`> never
+19:32:11 <skram> CORRECT
+19:35:08 <Dot`> REIF GAME
+19:35:26 -!- tredc [~AdiIRC@c83-251-161-94.bredband.comhem.se] has joined #tlponies
+19:53:42 <carcinisation> 25k heals :D
+19:53:58 -!- tredc [~AdiIRC@c83-251-161-94.bredband.comhem.se] has joined #tlponies
+20:00:22 <Bio> asdf
+20:00:31 <Bio> i did a lot of sleep this day
+20:06:32 <skram> sounds like a good day
+20:07:41 <Bio> i worked almost 12h yesterday skrm
+20:08:10 <skram> hard workin pon
+20:11:24 <Bio> makes my feet hurt
+20:11:25 <Bio> T_T
+20:11:33 <skram> bring them to me
+20:11:35 <skram> i will rub them
+20:13:05 <Bio> my hero
+20:14:03 <CrisPone> l-lewd
+20:36:52 <Bio> the werst was that there was an ice storm last night, so it took me like an hour to get home
+20:37:17 -!- tredc [~AdiIRC@83.251.161.94] has joined #tlponies
+21:01:51 <skram> So I watched the warcraft movie
+21:01:54 <skram> its cool I guess
+21:02:30 <skram> but if you're a giant nerd it might as well be some sort of alternate timeline thing
+21:13:53 <Micen|Droid> Its a third canon
+21:14:00 <Micen|Droid> Wait fourth. 
+21:14:11 -!- tredc [~AdiIRC@c83-251-161-94.bredband.comhem.se] has joined #tlponies
+21:14:28 <skram> wait hold on
+21:14:31 <skram> whats 2nd and 3rd
+21:14:55 <Micen|Droid> Warcraft 1/2, wc3/wow rewrite, wod timesplit canon, and movir
+21:15:37 <Micen|Droid> And then the books/comics eu
+21:15:39 <skram> well the wc 1/2/3 (+books) is the same isnt it
+21:17:28 <Micen|Droid> They changed some major with beyond the dark portal
+21:18:45 <Micen|Droid> So one and two is kinda its own thing seperate from 3, but its a bit unclear 
+21:20:28 <Micen|Droid> But wows lore has gotten so messy.
+21:20:44 <Micen|Droid> There was a time when I used to be a lore professor on my RP server
+21:20:47 <skram> yup
+21:20:55 <skram> after cataclysm its all ???
+21:22:51 <Micen|Droid> Heres some trivia for you skram
+21:23:10 <Micen|Droid> Azeroth as seen in Wow is about ten times too small
+21:23:25 <skram> ya that sounds about right
+21:23:29 <Micen|Droid> Assuming all continents are the same size
+21:24:11 <carcinisation> twitch vods pls work better D:
+21:24:48 <Micen|Droid> My only source is one alliance quest in howling fjord where they say the alliance town in borean tundra is 100 miles away. But put a tomtom marker on it and its ten
+21:27:59 <Bio> The less you pay attention to wow lore, the better i think
+21:28:40 <skram> dont tell me what to dooooooo
+21:30:06 <Micen|Droid> I still care bio
+21:35:50 <Dot`> CR https://imgur.com/gallery/7Z8WAiQ
+21:38:07 <CockRoach|42> <3
+21:39:50 <carcinisation> impressive rope
+21:48:12 <DuB`> ggs
+21:48:14 <DuB`> stoody time
+21:48:15 <DuB`> :T
+21:48:23 <DuB`> I don't even have SNACKS.
+21:54:37 <Bio> RIP
+21:57:21 <Zounds> hf dub
+22:28:12 <Runbunny> Dot`, https://i.imgur.com/Y0lX5mb.mp4
+22:31:19 <Dot`> :D
+22:34:35 <Runbunny> DuB`, https://i.imgur.com/c3iHdZo.mp4
+22:35:00 <DuB`> Cozy birbcave
+22:35:35 <Dot`> Dub https://i.imgur.com/Ec3gJ6Z.jpg
+23:00:39 <Dot`> .tell phearlock https://zymonasyh.deviantart.com/art/Mommy-301806080
+23:00:52 <Bio> i want a birb dub
+23:00:57 <Bio> will u buy me one
+23:04:03 <DuB`> i have no mone
+23:30:52 <Bio> my puppers are losing their minds
+23:30:55 <Bio> pls feed
+23:31:00 <Bio> not yet puppers
+23:31:03 <Bio> in a little bit
+23:51:09 <Dot`> .tellm runbunny skram | https://i.imgur.com/24a4JIM.jpg
+23:51:20 <Dot`> rip
+23:51:55 <CockRoach|42> did you break swoots again, dot :/
+23:52:03 <Dot`> D:
+23:52:12 <Dot`> .tell CockRoach|42 snela
+23:52:16 <CockRoach|42> pls

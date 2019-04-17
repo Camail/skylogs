@@ -1,0 +1,644 @@
+00:00:20 <Camail> but yea I'm fine with this
+00:00:46 <Camail> and I kinda doubt it will be unbalanced enough to warrant a change
+00:02:03 <Camail> you can do both unbroken air and fire snake at the same time
+00:02:06 <Camail> so thats a thing
+00:02:21 <Dottt> pew pew pew
+00:02:36 <Camail> so 15ft unarmed strikes that you can choose to make someone explode or get pushed tot he ground
+00:02:37 <Camail> or both
+00:02:42 <Camail> but that seems like a bit of a waste
+00:02:53 <Dottt> if you dont like having ki
+00:16:57 <Bio> pone
+00:18:45 <Dottt> Bio <3
+00:20:11 <Bio> hai
+00:20:17 <Dottt> hows you
+00:25:28 <Bio> i'm wet
+00:25:31 <Bio> dum pool
+00:26:45 <Phearlaptop> water can have that effect
+00:27:45 <Bio> i wanna oberwadje
+00:28:49 <Phearlaptop> sorry, no overwatch here.
+00:28:59 <Phearlaptop> You can pay blizz for new cardgame cards today
+00:29:06 <Phearlaptop> Or play some other fun games
+00:32:08 <Bio> harrumph
+00:32:10 <Bio> i guess
+00:47:46 <ZK> like sctoo
+00:58:33 <Bio> butt
+01:33:11 <DuB`> OOOOOOOOBERWAJ.
+01:33:14 <DuB`> :(
+01:36:28 <ZK> nope
+01:39:17 -!- Micen [~Micen@h162.82.19.98.dynamic.ip.windstream.net] has joined #tlponies
+01:42:01 <DuB`> ?????
+01:42:09 <ZK> i forget im there
+01:47:50 <Camail> oh, turns out you can rearrange character sheets through folders
+01:47:56 <Camail> I just wasnt clicking on the right part
+01:47:56 <Camail> sigh
+01:50:20 <Camail> .tell skram k i gave you a back up character sheet, its in the back ups folder, if you can see that
+01:50:52 <Camail> .tell micen I move your horse to the NPCs folder
+02:03:21 <ZK> wait, is skram actually going to die?
+02:03:48 <Camail> no, but he wanted a character sheet just in case
+02:03:55 <Camail> I can make one for you if you want
+02:04:04 <ZK> nope
+02:04:06 <ZK> im not dying
+02:04:18 <ZK> if i do, my autistic ranger is comin back
+02:04:21 <Camail> yea but you might leave the party
+02:04:25 <Camail> which is functionally the same
+02:04:34 <Camail> also no please no
+02:30:47 -!- DuB [DuB@66-219-213-203.dynamic.ip.veracitynetworks.com] has joined #tlponies
+02:40:51 <Camail> ZK  i can put a circle around your character with a black/green/whatever color border, any preference?
+02:45:42 <ZK> purple?
+02:47:09 <Camail> ok good
+02:47:12 <Camail> cuz i guessed purple
+02:47:28 <Camail> come into the game if you want to see it
+02:57:31 <ZK> oooh ok its really tokens now
+02:59:53 <Camail> ya
+03:00:11 <Camail> I got paint.net which has more than 0 editting tools
+03:00:28 <Camail> dont feel like bothering with all the stupid crack stuff for PS
+03:02:16 <ZK> oh yea, i also did paint.net for my char
+03:02:39 <ZK> Dottt is blackish?
+03:04:43 <Camail> its just black
+03:05:07 <Camail> his was just to make it look less bad with big white spaces
+03:05:13 <Camail> but then i remade all of them
+03:05:13 <ZK> oh ok
+03:05:29 <Camail> if he wants me to change it then I will
+03:05:43 <Camail> .tell dot` go in game and look at ur token, if you want the border changed tell me
+03:11:46 <Camail> if no one realizes the thing i fixed by the end of the dungeon it will be interesting
+03:12:23 <Camail> its pretty subtle but it took like 40 minutes because it was essentially me pushing a square peg in a round hole
+03:12:43 <Camail> and in the end just taking a knife to the peg and carving out its vital organs
+03:12:51 <Camail> because fuck that peg, why is it even square
+03:26:52 <ZK> o.O
+03:33:35 <Camail> also i just realized that kyza is going to take the dagger and never use it
+03:33:43 <Camail> which is hilarious to me
+03:33:57 <Camail> because the first magic weapon is just gonna be sitting there doing nothing
+03:34:25 <ZK> how am i going to take dagger? Mynu is the one that has it for now?
+03:34:31 <Camail> well yea
+03:34:34 <Camail> but eventually you'll have it
+03:34:41 <ZK> I was looking at dual wielding, so I might do that with the daggers
+03:35:25 <Camail> but then you'd have to start carrying components around
+03:35:27 <Camail> so inconvenient
+03:37:08 <ZK> i can put my staff back in my back and pull out daggers. Although in combat i would just drop it and pick it back up later
+03:38:57 <Camail> yea but then if you dont carry components you'd have to run to get your staff every time you cast a spell
+03:39:00 <Camail> that seems even worse
+03:39:15 <Camail> also this is a thing:
+03:39:16 <Camail> ((@{level} + 1) / 6 + 0.5)d8
+03:39:29 <Camail> replace the d8 with any dice and it auto calculates damage of spells based on level
+03:39:37 <Camail> like the spells that you get one more dice at 5/11/17
+03:40:35 <Camail> which means that in any given field you can pull any number from your character sheet if you do @{attribute}
+03:40:37 <Camail> which is cool
+03:40:52 <Camail> but we dont really have much use for that
+04:41:30 -!- Raelcun [~Raelcun@Raelcun.users.quakenet.org] has joined #tlponies
+04:41:31 -!- mode/#tlponies [+v Raelcun] by Q
+05:35:29 -!- DoT|Phone [~Dot@90.218.72.141] has joined #tlponies
+06:18:57 -!- Dottt [~Dot@90.218.72.141] has joined #tlponies
+06:28:44 -!- FlutterAi [~FlutterAi@adsl-98-93-41-64.owb.bellsouth.net] has joined #tlponies
+06:31:05 -!- Runbunny [~Runbunny@62.61.130.232.generic-hostname.arrownet.dk] has joined #tlponies
+06:31:28 <Runbunny> ugggggggh.
+06:33:45 -!- Nimrod__ [~FlutterAi@adsl-98-93-41-64.owb.bellsouth.net] has joined #tlponies
+07:22:33 -!- FlutterAi [~FlutterAi@adsl-98-93-41-64.owb.bellsouth.net] has joined #tlponies
+07:41:49 -!- DoT|Phone1 [~Dot@90.218.72.141] has joined #tlponies
+08:02:12 <Dottt> uuggghh
+08:02:18 <Dottt> Hello ponies <3
+08:04:12 <CockRoach|42> morning dots
+08:04:25 <CockRoach|42> you dont have your squiggly
+08:27:59 <DoT`> CockRoach http://imgur.com/gallery/UuRzDaJ
+08:35:21 <DoT`> rawr http://imgur.com/gallery/sRLat6s
+08:40:01 <CockRoach|42> aww :)
+09:06:16 -!- DoT|Phone [~Dot@90.218.72.141] has joined #tlponies
+09:16:09 -!- Rawr|Fone [~Rawr@host-95-199-0-97.mobileonline.telia.com] has joined #tlponies
+09:17:56 -!- tredc [webchat@90-224-53-116-no56.tbcn.telia.com] has joined #tlponies
+09:18:05 <DoT`> hey tredc
+09:18:32 <tredc> hi DoT`
+09:20:38 <Cane> Hiya. <3
+09:22:14 <Rawr|Fone> Beep beep
+09:22:27 <Rawr|Fone> Waiting for the bus again 😢😢😢
+09:22:50 <Cane> Welp, my water's brown today.
+09:22:58 <Cane> They're adding new pipes up the road and they sprung a leak.
+09:23:02 <Cane> Time to get some water at the store. zzz
+09:29:57 <CockRoach|42> morning cane
+09:51:56 <Rawr|Fone> Beep beep
+09:54:19 <CockRoach|42> .roll d20 to boop Rawr|Fone
+09:55:11 <Rawr|Fone> .roll d20 to <3 cockroach|42
+09:55:54 <CockRoach|42> .roll d20 to <3 Rawr|Fone
+09:56:00 <CockRoach|42> .roll d20 to crit confirm
+09:56:08 <CockRoach|42> quite lovely
+09:57:16 <Rawr|Fone> :3
+10:06:18 <DoT`> cane, rawr <3
+10:16:07 -!- Saurabhinator [webchat@101.166.220.80] has joined #tlponies
+10:16:18 <DoT`> saura!
+10:16:38 <DoT`> .tell camail black border works fine for me
+10:16:58 <DoT`> Saurabhinator, the amount of tlaking bfore they started playing day of the tentacle...
+10:17:11 <Saurabhinator> gunna watchi it tonight
+10:17:14 <Saurabhinator> havent seen yet
+10:17:32 <DoT`> first one and a half parts are them talking
+10:17:37 <DoT`> i skipped a lot
+10:23:19 -!- skram [~skram@ip-175-146-106-77.eidsiva.net] has joined #tlponies
+10:23:19 -!- mode/#tlponies [+v skram] by Q
+10:24:11 <DoT`> JONAS
+10:24:16 <DoT`> hedge pon
+10:24:25 <skram> Hi BJØRN
+10:24:28 <skram> I am not a hedge
+10:25:00 -!- Gollie [~Golly@1.92-221-121.customer.lyse.net] has joined #tlponies
+10:25:27 <DoT`> skram, cam gave your dorf an orange border
+10:25:37 <skram> oh god why
+10:25:47 <Runbunny> maybe because you're a hedge.
+10:26:20 <DoT`> i think you can ask him to change it, but probably because your dorfs beard is orange
+10:32:23 <DoT`> .tell Raelcun http://www.deviantart.com/art/Vinyl-Scratch-599362518
+10:38:49 -!- Holmir [~Holmir@h-4-153.a166.priv.bahnhof.se] has joined #tlponies
+10:45:27 -!- reification [~reificati@cpc76294-cosh16-2-0-cust297.6-1.cable.virginm.net] has joined #tlponies
+10:45:27 -!- mode/#tlponies [+v reification] by Q
+10:45:54 <DoT`> Reif <3
+10:46:01 <reification> dotties <3
+10:49:05 <reification> dot help enable my weebness and enter this competition for me :D https://wn.nr/bKktUP
+10:49:28 <Phearlaptop> .tell Bio http://egophiliac.deviantart.com/art/twilight-sky-605517274 pretty pon!
+10:49:56 <DoT`> that site scares me reif D:
+10:51:20 <reification> skram will be happy you feel that way dot :p
+10:54:36 <reification> i spent the morning eating chocolate cake while lecturing on how to be healthy…
+10:54:49 <reification> how are you doing dotties?
+10:58:33 <DoT`> tired still, working on uni assignment
+10:59:40 <Phearlaptop> .tell Micen Non-shippy cutefic http://www.fimfiction.net/story/326500/chocolate-talk
+11:00:01 <reification> which uni?
+11:00:27 <DoT`> still south african one, i have just taken 1 module this year while i get other stuff sorted
+11:17:51 <reification> ooh steam now takes bitcoin
+11:18:36 <Rawr|Fone> Beep beep
+11:19:09 <skram> what about dogecoin reif
+11:19:37 <Rawr|Fone> It's hailing
+11:19:37 <reification> one step at a time skram
+11:20:05 <reification> it tried to snow yesterday rawr!
+11:20:17 <Rawr|Fone> D:
+11:20:48 <DoT`> it did snow reif!
+11:21:02 <DoT`> i was hiking http://i.imgur.com/sxpJfaQ.jpg
+11:22:18 <reification> lucky you, it didn’t settle down here :/
+11:26:11 <skram> D:
+11:26:20 <skram> Thats more snowy than where I live DoT`
+11:37:08 <DoT`> your welcome to come visit skrammen
+11:37:23 <DoT`> and we can hike! ask reif, its all i know how to do when ppl visit
+11:37:33 <DoT`> >.>
+11:40:38 <skram> the outdoors scare me
+11:40:46 <skram> there might be squirrels and whatnot
+11:41:12 <DoT`> there is a guy in bakewell, walks aroudn witha pet squrrial
+11:41:15 <DoT`> he is a bit weird
+11:41:28 <skram> seems like your kinda person DoT`
+11:42:09 <DoT`> he claims the old guy next door drowns squrrials, seems mean of him to spread such rumours
+11:42:30 <DoT`> im not fond if him, hid squrrial is cute though
+11:42:33 <skram> but maybe old guy next door does drown squirrels
+11:42:43 <skram> investigate DoT`
+11:43:11 <CockRoach|42> if it's jeremy clarkson, it might be true
+11:44:09 <DoT`> if jeremy secretly has a heavy yorkshire farmers  accent then it may be true!
+11:44:26 <CockRoach|42> you never know!
+11:44:28 -!- Runbunny [~Runbunny@62.61.130.232.generic-hostname.arrownet.dk] has joined #tlponies
+11:46:03 <Rawr|Fone> Beep beep
+11:53:15 <reification> well it’s a good job you live in a national park then dotties :p
+11:57:28 <Micen> good morning 
+11:57:57 <Rawr|Fone> Hallo micen
+11:57:58 <DoT`> yo micen
+11:58:35 <Micen> How are things over in europe land. it is currently soggy here
+11:59:07 <DoT`> sunny
+11:59:09 <skram> theres sun and shit
+11:59:13 <skram> im just waiting for winter
+11:59:22 <Micen> You and me both Skram
+12:00:02 <DoT`> winter is best season, at least in south africa
+12:00:14 <DoT`> have to see in uk
+12:00:46 <DoT`> so far winter is cold, but has snow
+12:01:23 <Rawr|Fone> Summer is much better though
+12:01:53 <DoT`> summer in SA was far too hot and FLIES everywhere
+12:01:59 <DoT`> it was aweful
+12:02:16 <Micen> Cold and snow are the best!
+12:02:46 <DoT`> anythign below 20 is cold for me, so summer might be cold too form my perspective
+12:04:11 <Micen> that is where i have my heat and AC set year round'
+12:04:46 <Micen> .tell Phearlaptop that was a cute story.
+12:05:10 <DoT`> so micen when you say you love the cold, you mean it being cold outside while you sit with heating?
+12:06:17 <Micen> for being inside, thats my normal temprature, but i am fine going out in shorts and a tank top in what would be 10c
+12:06:47 <Micen> shorts until water starts to freeze really.
+12:11:11 <Phearlaptop> That's why I linked it
+12:11:14 <Phearlaptop> Cute stories are luv
+12:11:49 <Micen> That they are
+12:36:44 <DoT`> .tell dub` http://tartifondue.deviantart.com/art/Rarity-605418896 , http://mister-saugrenu.deviantart.com/art/Bouncing-Rarity-605441420
+12:37:49 <DoT`> http://www.deviantart.com/art/Ambassador-Cadance-603914832
+12:39:39 <Rawr|Fone> Dot dot
+12:40:26 -!- ZK [ZK@modemcable021.52-59-74.mc.videotron.ca] has joined #tlponies
+12:40:26 -!- mode/#tlponies [+v ZK] by Q
+12:40:39 <DoT`> rawr rawr
+12:40:45 <DoT`> .roll d20 to boop zk
+12:40:48 <CockRoach|42> rarity's chest "fluff" doesnt look that fluffy
+12:42:47 <DoT`> skram, is it tempting to kill off your dorf so you can use your backup character... those stats 
+12:43:03 <skram> but i like barb
+12:46:37 <Phearlaptop> dot stop trying to encourage suicicde
+12:47:00 <CockRoach|42> dot is hitler
+12:47:15 <CockRoach|42> :|
+12:47:52 <ZK> .roll d20 to boop DoT`
+12:48:00 <ZK> .roll d20 to crit confirm
+12:48:30 <ZK> skram is another minu?
+12:48:37 <DoT`> these things happen phear
+12:48:52 <DoT`> skram is the last i want to die
+12:49:01 <DoT`> but those stat rolls
+12:52:07 <DoT`> back in a bit
+12:54:30 <Phearlaptop> http://tjpones.tumblr.com/post/143462536412 heh
+12:54:49 <Phearlaptop> trixie plz
+12:59:32 <reification> you are up north dotties so it shouldn’t get too hot in summer
+13:22:08 <ZK> it gets up to 35 degres here, its hot
+13:53:27 <Rawr|Fone> Beep beep
+14:00:48 <Runbunny> Ha rawr.
+14:00:53 <Runbunny> Hai Rawr.
+14:00:57 <Runbunny> I try again.
+14:01:01 <Runbunny> I must be off though
+14:01:03 <Runbunny> afk!
+14:01:11 <skram> https://www.youtube.com/watch?v=u-An87lqU88
+14:07:03 -!- FlutterAi [~FlutterAi@adsl-98-93-41-64.owb.bellsouth.net] has joined #tlponies
+14:19:39 -!- DoT|Phone [~Dot@90.218.72.141] has joined #tlponies
+14:25:24 <DoT`> back
+14:30:04 <reification> wb dotties
+14:44:13 <DoT`> Runbunny, http://imgur.com/gallery/7hly7
+14:51:49 <Rawr|Fone> Beep beep
+14:55:24 <reification> 🐴🐴🐴
+14:56:40 <Rawr|Fone> 🐶🐶🐶
+15:00:02 <DoT`> pon
+15:00:13 <reification> i found socks for you rawr http://cutedose.co/products/oh-my-corgi-socks?variant=1060719857
+15:00:39 <Rawr|Fone> I already have corgi socks reef
+15:00:53 <skram> of course you fuckin do
+15:01:07 <skram> how could we ever doubt you
+15:02:28 <Rawr|Fone> Ta det roligt jonas
+15:03:49 <skram> i am rolig rawr
+15:04:05 <Rawr|Fone> Very rolig
+15:04:36 <skram> do you have corgi-themed slippers too? bath mats? shower curtains? tp holders? brooms?
+15:04:48 <skram> do you have a corgi-themed dog
+15:05:22 <Rawr|Fone> Maybe I do
+15:05:41 <skram> i bet its a german shepherd with a corgi shirt
+15:05:54 <Rawr|Fone> Yes
+15:06:05 <skram> i feel like thats rude somehoww
+15:06:56 <Rawr|Fone> Probly not
+15:09:55 <DoT`> dont be silly skram
+15:10:02 <DoT`> its an australian sheepdog
+15:13:50 <Runbunny> I have returned.
+15:13:59 <skram> hide the dickgirl porn
+15:14:44 <Runbunny> That's futanari for you Jonas.
+15:16:09 -!- Micen_ [~Micen@h241.128.140.67.dynamic.ip.windstream.net] has joined #tlponies
+15:16:20 <Runbunny> But Skram if 2 futa girls go at it. Is it then yaoi or yuri?
+15:16:44 <skram> ...Im not sure what those things are, Anders
+15:17:13 -!- Micen__ [~Micen@h95.48.55.139.dynamic.ip.windstream.net] has joined #tlponies
+15:21:57 <Runbunny> Dot.
+15:22:03 <Runbunny> Is it... Ori time? :O:O:O
+15:24:03 -!- Rawr|Phone [~Rawr@81-233-7-47-no34.tbcn.telia.com] has joined #tlponies
+15:50:10 -!- Camail [~Camail@38.69.8.163] has joined #tlponies
+15:50:10 -!- mode/#tlponies [+v Camail] by Q
+15:54:29 <Camail> steam pls
+15:57:46 <Camail> oh btw skram since you do have a back up, the way death will work is basically 1 level below everyone
+15:58:01 <Camail> pretty traditional
+15:58:14 <Camail> er, your new character is 1 level below everyone else*
+15:58:42 <Camail> if we ever have multiple deaths then it might get more complicated
+16:07:08 <Camail> or maybe just make it your own character level -1, that's probably better
+16:09:21 <Camail> so ded
+16:09:46 -!- carcinisation [~reificati@cpc76294-cosh16-2-0-cust297.6-1.cable.virginm.net] has joined #tlponies
+16:10:30 -!- DoubleRainbow [webchat@DoubleRainbow.users.quakenet.org] has joined #tlponies
+16:14:25 <Runbunny> How dead is skram Camail?
+16:18:31 <Camail> more dead than the others
+16:18:34 <Camail> but not completely
+16:27:38 -!- tredc [webchat@90-224-53-116-no56.tbcn.telia.com] has joined #tlponies
+16:39:41 -!- carcinisation2 [~reificati@cpc76294-cosh16-2-0-cust297.6-1.cable.virginm.net] has joined #tlponies
+16:51:40 <DoT`> pon pno pon
+16:52:08 <carcinisation> pon pyes pon
+16:58:33 <Runbunny> dot dot dot.
+16:58:47 <Runbunny> like Ori and the blind forest is so good. I am replaying it just now.
+17:04:58 <Phearlaptop> This is why Sweden is better than us poor norwegians in CS:GO https://youtu.be/vLjBDB2lkiw
+17:07:35 <DoT`> yay angel
+17:08:47 <DoT`> camail you butt
+17:09:43 <Camail> maybe
+17:09:51 <DoT`> and skram will be last to die the tank hhe is
+17:10:03 <Camail> maybe
+17:10:47 <DoT`> my backup will either be cleric or fighter probably, will decide once im dead
+17:13:28 <DoT`> Phearlaptop, http://magnaluna.deviantart.com/art/warm-snow-569467743
+17:13:44 <Phearlaptop> I saw, Twilestia bestship <3
+17:17:10 <DoT`> .tell dub` https://twitter.com/HashioAryut/status/724143682652262400
+17:17:19 <DoT`> .tell Bio https://twitter.com/HashioAryut/status/724143682652262400
+17:22:33 <DoT`> tomorw more dnd!
+17:30:43 <DoT`> .tell Bio http://bugplayer.deviantart.com/art/We-don-t-usually-wear-those-605576091
+17:31:29 <Phearlaptop> Yeah AJ, take off your clothes.
+17:31:35 <Phearlaptop> =)
+17:58:09 <DoT`> .roll d20 to boop Yolteotl 
+18:03:25 -!- DoT|Phone [~Dot@90.218.72.141] has joined #tlponies
+18:03:26 -!- DuB` [DuB@66-219-213-203.dynamic.ip.veracitynetworks.com] has joined #tlponies
+18:03:29 <DuB`> Ohayou~
+18:03:40 <DoT|Phone> duuub
+18:04:00 <DoT|Phone> <3
+18:04:32 <DuB`> dooot
+18:04:34 <DuB`> <3
+18:05:36 <Rawr|Phone> Dub dub dub
+18:06:51 <DoT|Phone> Rawr Rawr Rawr
+18:07:11 <Rawr|Phone> Dot Dot Dot
+18:07:21 <DuB`> Rar rar rar
+18:07:31 <Rawr|Phone> 💖💖💖
+18:07:53 <DuB`> http://assets.amuniversal.com/52081590e7c20133548a005056a9545d
+18:08:52 <DoT|Phone> haha
+18:09:43 <ZK> rubadubdub
+18:11:44 <DoT|Phone> how's the lazy going dub
+18:11:52 <DuB`> Mmmmmgood.
+18:12:23 <DuB`> I've only had three things to accomplish all week: 1. Exercise 2. Officially turn in application 3. Get haircut.
+18:12:28 <DuB`> I have done none of these things! :D
+18:12:37 <DoT|Phone> good job
+18:12:50 <ZK> he stopped eating :o
+18:12:55 <ZK> oh noes DoT` ,what we gonna do?
+18:13:01 <ZK> And he's not even accessorizing!
+18:13:56 <DoT|Phone> dub has a passive scarf trait.
+18:23:30 <DoT|Phone> dub dub
+18:23:35 <DoT|Phone> pon pon
+18:24:46 -!- Micen_ [~Micen@h208.60.190.173.dynamic.ip.windstream.net] has joined #tlponies
+18:25:35 <Rawr|Phone> Dot dot
+18:26:42 <DoT|Phone> Rawr Rawr
+18:30:12 <DoT|Phone> what you up to
+18:30:22 <DoT|Phone> on a bus?
+18:31:15 <Camail> roar
+18:31:16 <Camail> pls
+18:32:53 <Rawr|Phone> U pls
+18:36:28 <carcinisation> https://www.youtube.com/watch?v=F_8htiBjTCY
+18:37:33 <Camail> only squirtle
+18:37:37 <Camail> rest can fuck right off
+18:37:56 <DoT|Phone> balbasaur is best cam
+18:38:06 <ZK> charmander <3
+18:38:21 <Camail> 100 years dungeon 
+18:38:39 <ZK> eh, 100 years is really only 9 years sometimes
+18:38:50 <Camail> I'M SORRY YOU DON'T WANT A POKEMON WITH CANNONS
+18:39:13 <ZK> i want a flyin fire-breathing dragon
+18:39:45 <Camail> kyza is literally a charmeleon
+18:40:22 <Camail> DoT|Phone  you WOULD like bulbasaur
+18:40:30 <Camail> thats SO you
+18:40:33 <Camail> such a bulbasaur
+18:40:37 <Camail> fuck bulbasaur
+18:40:42 <DoT|Phone> wow the profiling
+18:41:01 <Camail> this is the original waifu war
+18:41:09 <Camail> this is a hill I will die on
+18:41:23 <Camail> ITS NOT DRAGONS ALL THE WAY DOWN, ITS TURTLES
+18:41:27 <Camail> ALL THE WAY, FOREVER
+18:45:15 <carcinisation> http://i.imgur.com/qYFWdy2.jpg
+18:46:24 <Rawr|Phone> Squirtle is definitely the superior starter
+18:52:06 <Camail> Why did they name a pokemon Lapris
+18:52:13 <Camail> Rapurosu
+18:52:17 <Camail> pls
+18:52:54 <Camail> I wonder if the L will ever manage to get into the languages without it
+18:54:12 -!- Rawr|Fone [~Rawr@81-233-7-47-no34.tbcn.telia.com] has joined #tlponies
+18:54:49 <Camail> woah wtf, EVE uses python????
+18:55:00 <Camail> would never have guessed
+18:55:16 <DoT|Phone> it uses excel
+18:58:49 -!- carcinisation [~reificati@cpc76294-cosh16-2-0-cust297.6-1.cable.virginm.net] has left #tlponies
+18:59:02 -!- carcinisation [~reificati@cpc76294-cosh16-2-0-cust297.6-1.cable.virginm.net] has joined #tlponies
+18:59:59 <carcinisation> https://www.youtube.com/watch?v=xo9I7bhbul4
+19:01:33 <Camail> top reddit comment is probably "you shouldn't feed bears then they'll just get hit by cars"
+19:02:21 <carcinisation> well i saw it from this russian parking video https://www.youtube.com/watch?v=wKj3SlmcIOk
+19:02:39 <Camail> I have a deep distaste for people on amalgamation websites
+19:03:09 <carcinisation> so i'm not sure how easy it is to avoid cars there
+19:03:43 <Camail> meh, to me its just a cute video
+19:09:58 <Camail> rawr I will punch ur phone so hard
+19:10:09 <DuB`> D:
+19:10:25 <Camail> dub hate violence and wont let me punch him
+19:10:29 <Camail> hates*
+19:11:00 <Rawr|Fone> Waow
+19:14:50 <DoT|Phone> Rawr snela
+19:23:01 <Rawr|Fone> Dot snela
+19:40:03 <DoT`> Skarpning
+19:42:55 <DoT`> http://www.bbc.co.uk/newsbeat/article/36153741/german-city-puts-traffic-lights-on-pavements-for-smartphone-users
+19:42:57 <DoT`> lol
+19:45:26 <DoT`> haha cam
+19:45:29 <Camail> :P
+19:45:30 <DoT`> that timing
+19:45:41 <DoT`> i was just trying to fix the static on my mic
+19:45:54 <Camail> fantastic
+19:45:57 <DoT`> and just after i clicked "listen to device" on my pc
+19:46:03 <Camail> LOL
+19:46:25 <Camail> I guess God does have a plan for us all.
+19:46:33 <DoT`> haha
+19:48:14 <Camail> so on a scale of 1 to 10 tho
+19:48:19 <Camail> how weird was that
+19:49:06 <DoT`> i was very confused
+19:49:30 <DoT`> "this fuzz is very weird on my mic"
+19:49:37 <Camail> then the creaks started
+19:49:41 <DoT`> turn off listen to mic
+19:49:44 <DoT`> still there....
+19:49:48 <Camail> LOOOOOOOOL
+19:50:09 <Camail> I'm so happy right now
+19:50:16 <Camail> I thought it would get old
+19:50:22 <Camail> but it hasn't, and I don't think it will
+19:50:31 <DoT`> well with that timing
+19:50:35 <Camail> ikr
+19:50:51 <Camail> might keep a list of tracks to play to make people rmeember the tab is open
+19:50:55 <Camail> sometimes i need to room to be clear
+19:51:14 <Camail> various smoke weed errdays and airhorns
+19:51:40 <DoT`> i had the tab open form this morning, when i saw your tell
+19:51:46 <Camail> ya
+19:51:52 <Camail> i figured that was why
+19:51:58 <Camail> idc right now
+19:52:19 <Camail> but if I'm ever creating a custom character sheet sometimes I'll click the rolls to see how they work, or accidently click them
+19:52:30 <Camail> its a bit annoying that the chat log is permanent, have to keep deleting it
+19:52:51 <DoT`> and you cant trasfer sheets correct?
+19:53:03 <ZK> why do you need to delete chat logs?
+19:53:04 <DoT`> so no second game you can make for testing/creating
+19:53:13 <DoT`> <Camail> but if I'm ever creating a custom character sheet sometimes I'll click the rolls to see how they work, or accidently click them
+19:53:50 <Camail> I think you can import sheets but thats even more work than just wiping chat logs
+19:54:44 <Camail> and chat logs aren't really important because we don't use it for anything but rolls
+19:58:57 <Camail> and skram butt talk
+19:59:03 <Camail> but that can come back at anytime
+19:59:06 <Camail> when you least expect it
+20:06:03 <Camail> oh DoT`  i forgot, did you ever pay for the resources to make the healing potion
+20:06:17 <DoT`> no im poor!
+20:06:19 <DoT`> what you need?
+20:06:20 <Camail> then...
+20:06:23 <Camail> you cant make one
+20:06:27 <Camail> 25g of stuff
+20:06:32 <Camail> its half the price of the item
+20:06:47 <DoT`> im going to start demanding money form ppl
+20:07:00 <Camail> just take 25g out of your pocket, you've gotten enough from the first session so its probably fine
+20:07:07 <DoT`> k
+20:07:16 <Camail> also you guys can create a party fund once you care more
+20:07:27 <DoT`> so every day i can just make a roll to see how my progress goes?
+20:07:27 <Camail> well
+20:07:33 <Camail> once your characters care more aobut each other*
+20:07:39 <DoT`> lol
+20:07:47 <Camail> it takes 2 days for a common healing potion
+20:07:58 <Camail> you dont NEED to make a roll for that to happen
+20:08:05 <Camail> I am making you roll to see if you can do it faster
+20:08:16 <Camail> you rolled high and did an entire days work in like 1 hour
+20:08:25 <Camail> tomorrow it'll just be done
+20:08:44 <Camail> going on maybe I'll make it easier, maybe make it possible to make in one day
+20:08:45 <Camail> we'll see
+20:09:03 <Camail> Probably make a day 1 creation a DC15
+20:09:07 <DoT`> i rolled 18!
+20:09:22 <Camail> " going on maybe I'll make it easier"
+20:09:23 <Camail> ^
+20:09:32 <DoT`> ah
+20:09:59 <Camail> retconning because of forgotten mechanics is not the same as changing a mechanic mid game, so no retcon for that (if the change even happens)
+20:10:37 <Camail> it might or might not, i don't know how fast pace we'll be going
+20:10:45 <Camail> god knows you guys have been cramming in as much per day as possible
+20:11:01 <DoT`> as much drama as possible >.>
+20:11:07 <Camail> two and a half days have passed, i think
+20:12:27 <Camail> tomorrow will be fun tho
+20:12:45 <DoT`> hopefully
+20:13:27 <Camail> I think I've found a good way to set up dungeons, now I just need to learn more about worldbuilding
+20:13:34 <Camail> but every session will hopefully be better than the last
+20:14:09 <Camail> and by learn more aobut world building i mean taking real, properly structured notes that I can easily access and give proper information
+20:14:31 <Camail> becaues everything is a chaotic messsssss
+20:14:43 <Camail> need to use bullet points and shit
+20:20:45 <DoT`> \o/
+20:26:53 <ZK> I cant wait for level 3. Dunno how I'll go about roleplaying getting my pseudodragon familiar
+20:27:36 <DoT`> probably argue with it
+20:27:41 <DoT`> try not to step on it though
+20:28:59 <ZK> i mean, he basically responds to my thoughts
+20:29:23 <ZK> I think I'll retcon my story to have been with him in the woods a while back, and at level 3 a link is formed
+20:30:07 <Camail> we can work out something a bit more elegant
+20:31:20 <Camail> also http://i.imgur.com/dc1NjI4.png
+20:31:36 <Camail> just a an xp thing if ya care
+20:37:04 <skram> leave my butt alone pls
+20:37:28 <skram> its seen too much abuse at your hands
+20:37:30 <skram> wink wink, bitch
+20:40:49 <Camail> DoT`  I've spent so much time looking at monk that now I really really want to play one and look like Gouken
+20:41:07 <Camail> open palm technique and just be the baddest of asses
+21:21:32 <DoT`> LOL
+21:22:17 -!- BioPhone [~Bioandroi@client42-188.wifi.siue.edu] has joined #tlponies
+21:22:50 <DoT`> BIO
+21:22:57 <BioPhone> Hi
+21:24:14 <Phearlaptop> http://magnaluna.deviantart.com/art/Royal-Scandal-605601454 Shippy ship
+21:24:34 <CockRoach|42> :D
+21:30:13 <DoT`> hows bio
+21:30:16 <DoT`> why you phone
+21:31:20 <CockRoach|42> school by the looks of it
+21:34:58 <DoT`> Yolteotl, 
+21:35:01 <DoT`> PLEASE
+21:35:11 <DoT`> http://www.equestriadaily.com/2016/04/my-little-pony-movie-release-date-now.html
+21:35:56 <Phearlaptop> Pony future confirmed
+21:51:15 -!- FlutterAi [~FlutterAi@adsl-98-93-41-64.owb.bellsouth.net] has joined #tlponies
+22:08:29 -!- BioPhone [~Bioandroi@client42-188.wifi.siue.edu] has joined #tlponies
+22:08:43 <BioPhone> Horse
+22:08:50 <Runbunny> DoT`, Rawr|Fone http://i.imgur.com/1VD89Qy.webm
+22:21:02 <DoT`> majestic
+22:24:35 -!- Dot_ [~Dot@0541c64f.skybroadband.com] has joined #tlponies
+22:24:51 -!- BioPhone [~Bioandroi@client42-188.wifi.siue.edu] has joined #tlponies
+22:25:06 <Dot_> http://www.deviantart.com/art/Soooo-gooooood-605631374
+22:39:00 <Phearlaptop> lol bellyrubs
+22:41:21 <Dot_> rub rub dub dub
+22:42:53 <DuB`> I'm kind of just sitting here.
+22:42:56 <DuB`> Waiting for oberwaj.
+22:42:58 <DuB`> Every day.
+22:43:48 <Dot_> poor pon
+22:43:59 <Dot_> this Dreadnaught game looks pretty cool
+22:44:04 <Dot_> pew eow space ships
+22:44:24 <Dot_> pew pew*
+22:46:35 <Phearlaptop> Looks a lot like Mechwarrior online with big spaceships
+22:47:36 <Phearlaptop> Looking at the gameplay I don't really see a reason to play this over that.
+22:47:53 <Phearlaptop> This looks a bit more ability focused
+22:48:36 <Dot_> flashy space ships phear!
+22:48:37 <Camail> i tihnk the big appeal is pew pew
+22:48:42 <Camail> pew pew fwooooosh
+22:48:44 <Camail> ratatatatata
+22:49:09 <Camail> which, from your perspective, is probably incredibly shallow
+22:49:19 <Camail> but its big and shiny and its space ships
+22:49:37 <Camail> since the beginning of time people have wanted a pirate ship pvp game
+22:49:48 <Camail> everyone loves ship based combat, this is basically the same thing
+22:50:04 <Phearlaptop> It looks alright for sure.
+22:50:12 <Camail> pew pew
+22:50:17 <Dot_> PEW PEW
+22:50:24 <Camail> settle down dot
+22:50:32 <Dot_> no, we have DnD tomrow
+22:50:46 <Camail> ur a monk
+22:50:50 <Camail> they are very centered
+22:50:52 <Dot_> pew pew
+22:52:07 <Camail> Dot_  for real tho i think we should just have a 1 on 1 conversation sometime to really get a grasp on where you want to take your character in terms of personality, maybe look through the ideals/traits/flaws stuff, get something to draw from
+22:52:18 <Camail> its SO much easier to play this game if you have resources to rely on
+22:53:03 <Camail> and I want everyone to feel comfortable playing
+22:53:04 <Phearlaptop> Yeah, I think it'd be fun, might play some if anyone I know are playing it and it's f2p
+22:53:24 <Camail> is it f2p? I'd bandwagon the shit out of it
+22:53:33 <Phearlaptop> I have no idea if it is or not
+22:53:50 <Camail> I'd rather it be a pirate ship game but I'll take the extra dimension
+22:54:49 <ZK> Dot's personality is getting annoyed at kyra's and mynu's shenanigans
+22:55:02 <Dot_> its a full time job
+22:55:46 <Phearlaptop> Ok can confirm this will be a f2p game
+22:55:48 <DuB`> Spesships?
+22:55:50 <DuB`> :D
+22:55:50 <Camail> nice
+22:55:52 <Camail> dub shut up
+22:55:56 <DuB`> D:
+22:56:06 <Phearlaptop> Probably easier to get into than MWO
+22:56:23 <Phearlaptop> So I won't feel as bad once I'm done playing it =P
+22:56:59 <Dot_> f2p really? thast cool
+22:58:59 <Phearlaptop> I mean chances are it'll be a thing to play once overwatch gets a bit boring, then some update will be released and everyone will go back to that.
+23:00:23 <Camail> https://www.greybox.com/dreadnought/en/beta-signup/
+23:15:12 <Dot_> pon
+23:15:19 <Dot_> dub hows you
+23:15:35 <DuB`> Gooood.
+23:15:47 <Dot_> did you get the links?
+23:16:02 <DuB`> Yes!
+23:16:21 <DuB`> Happy rarity and princesses.
+23:24:52 * Dot_ hugs Dub
+23:24:58 <Dot_> so pon
+23:34:05 <Bio> suhhasdg
+23:34:07 <Bio> hi
+23:34:11 <Phearlaptop> hi
+23:34:20 <Dot_> that was almost a word bio
+23:34:22 <Bio> j
+23:34:30 <Dot_> <3
+23:34:32 <ZK> thats a word
+23:34:43 <Dot_> maybe in canada land
+23:34:53 <Phearlaptop> j is a number silly
+23:34:54 <ZK> the number j Dot_
+23:35:02 <Bio> sqrt(-1)
+23:35:05 <Dot_> i use i
+23:35:19 <Dot_> j is for other electronic things
+23:35:19 <Bio> dot, u are not a physics major, thats current
+23:35:21 <Dot_> so is i
+23:35:29 <Bio> =)
+23:35:37 <Dot_> it all dependson what the current writer of the book wanted >.>
+23:35:40 <Phearlaptop> https://www.youtube.com/watch?v=_K_MQFzH82I Long time
+23:37:06 <ZK> omg unidan
+23:37:13 <Phearlaptop> so long
+23:37:18 <ZK> unidan and number j were in same cast :o
+23:37:51 <ZK> oh man, the day9 retarded pose is also from that ep
+23:39:52 <ZK> https://www.youtube.com/watch?v=uwdPqQLYh0c
+23:39:54 <ZK> found it
+23:40:09 <Phearlaptop> hah =D
+23:40:39 <Phearlaptop> Such ancient maps too
+23:40:51 <ZK> starts at 42 minute
+23:40:53 <ZK> about
+23:41:08 <Bio> nice to come home to cutepons
+23:42:22 <ZK> i should have participated in that funday monday
+23:42:47 <Phearlaptop> 20 mins no rush
+23:42:48 <Bio> pony pjs
+23:42:51 <Bio> 3cute
+23:42:59 <Dot_> deadly
+23:43:05 <ZK> ahhh kulas ravine
+23:43:06 <Micen_> I have some pony pj pants
+23:43:37 <Dot_> pics micen, i see no proof
+23:43:50 <ZK> i dont want a pic of that
+23:44:16 <Dot_> no sense of adventure zk
+23:45:06 <ZK> YAY Isles scored!
+23:45:16 <Micen_> its just some basic pants a friend made from this fabric
+23:45:17 <Micen_> http://www.joann.com/licensed-fabric-my-little-pony-/12877759.html
+23:45:48 <Dot_> skram http://imgur.com/gallery/xwfOwyn
+23:48:21 <ZK> 3-1 isles, i like hockey
+23:48:25 <ZK> down with lightning!
+23:49:47 <Bio> oh right, theres still other hockey
+23:50:00 <Bio> perds ducks are tonight too right?
+23:50:05 <ZK> yep
+23:50:12 <ZK> i mean, youshould beat the stars
+23:50:37 <Bio> hope so
+23:50:43 <ZK> although i feel the worse goalie might be the reason someone loses
+23:50:57 <Bio> and so far, elliott is playing marvelous hockey
+23:51:16 <carcinisation> https://i.imgur.com/xnlDzvl.png
+23:51:23 <Bio> I feel like if we can contain benn the way we did taves and kane (for the most part) we have a good shot
+23:51:35 <Bio> toews*
+23:52:43 <Bio> lucky for us, Seguin is out for a while
+23:53:57 <Bio> phearlock
+23:54:01 <Phearlaptop> bio
+23:54:03 <Bio> why is pudge muffin's pons so cute
+23:54:10 <Phearlaptop> because they're cats
+23:54:31 <ZK> yea, both of your teams have great offense
+23:54:35 <Bio> http://captainpudgemuffin.deviantart.com/art/Tired-601732599
+23:54:41 <ZK> you have better D, they have better offense i feel
+23:54:46 <ZK> although no seguin gurts
+23:55:52 <Bio> idk though, our third and fourth lines have been really good
+23:55:57 <Bio> especially vs the hawks
+23:56:11 <ZK> true
+23:56:18 <Bio> steen is really good vs top line guys
+23:56:42 <Bio> theres a rumor that tara is nursing some sort of injury
+23:56:52 <Bio> which could explain the lowered TOI
+23:57:05 <Bio> hopefully thats not true and the STL line continues their dominance
+23:57:08 <ZK> he seemed pretty pissed tho
+23:57:15 <ZK> he was the most dominant player
+23:57:32 <carcinisation> night all
+23:57:37 <Bio> yeah, he's a hockey gamer. you know all those guys will play through anything
+23:57:48 <Bio> even when its probably not good to
+23:58:13 <ZK> its good if it wins them the cup
+23:58:19 <Dot_> gnight reif <3
+23:58:31 <ZK> ppl were all saying no matter what, hitchkock would be gone

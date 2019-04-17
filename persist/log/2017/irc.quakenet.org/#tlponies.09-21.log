@@ -1,0 +1,480 @@
+00:12:01 -!- BioPhone [~androirc@mobile-166-175-58-59.mycingular.net] has joined #tlponies
+00:12:29 <BioPhone> Horses
+00:12:56 <Dot`> bio
+00:18:36 <BioPhone> Long day over dot
+00:19:02 <BioPhone> At skol at 9am, leaving at 720pm
+00:19:15 <Dot`> that is long
+00:20:01 <BioPhone> Lucky Tom is short
+00:20:11 <BioPhone> But I have exam
+00:20:33 <BioPhone> But but not too worried
+00:23:37 <Dot`> gl pon
+00:27:18 <BioPhone> More adventure in the life of my last semester
+00:32:53 <Dot`> lucky
+00:40:26 <Dot`> thanks for stream cane
+00:42:43 <Cane> It was fun!
+00:43:41 <Dot`> i am tempted to try a few runs sometime
+00:43:48 <Dot`> but that means gatherign all the mods
+00:51:22 <Dot`> but for now, sleep
+00:57:28 <BioPhone> Nnnnnn
+01:01:26 <BioSC> <3
+01:01:29 <Bio> hiihiihihiih
+01:01:41 <Cane> Dot`, let me know if you need a good mod list, I have a nice install. <3
+01:01:43 <Bio> cane i stopped by ur strim
+01:01:55 <Cane> You did. I said hi.
+01:01:58 <Bio> did u kill em ded
+01:02:43 <Dot`> yea cane, once you have time
+01:03:01 <Cane> Yep, tomorrow afternoon. <3
+01:03:02 <Cane> Have a good night.
+01:04:20 <dot-sleeps> <3
+01:04:33 <Bio> slep tight dottles
+01:06:15 <Bio> my raspberry pi 3 came today
+01:06:58 <skram> whatchu gon do with it
+01:07:53 <Bio> dunno
+01:08:17 <skram> all the kool kids make S/NES emulators
+01:08:38 <Bio> what a plan, mark
+01:08:47 <skram> thank
+01:11:58 <skram> wait does raspberry pi have pwm outputs
+01:12:05 <Bio> yeah idk skarm
+01:12:10 <Bio> hmm
+01:12:35 <Bio> I think so
+01:13:19 <Bio> built in WiFi skarm
+01:13:22 <Bio> zomg
+01:13:52 <skram> wifi is overrated
+01:14:20 <skram> all the kool kids use profibus
+01:14:53 <Bio> it can run quake 3 arena
+01:14:56 <Bio> sold
+01:15:10 <skram> can you use bananas as keyboard inputs though
+01:15:19 <Bio> prolly
+01:15:34 <skram> want
+01:17:40 <Bio> gad damn trying to find a datasheet for this thing
+01:18:45 <Bio> this fucker has a full size HDMI
+01:18:49 <Bio> noice
+01:21:19 <Bio> and yes skram, it does have at least one pin with pwm out
+01:21:51 <Bio> i'll be playing with it this weekend def
+01:22:14 <skram> you can make das blinken lights
+01:22:27 -!- Camail [~Camail@45.40.84.145] has joined #tlponies
+01:22:27 -!- mode/#tlponies [+v Camail] by Q
+01:22:28 <skram> how does it work exactly though
+01:22:33 <skram> is it just a computer?
+01:22:37 <Bio> yes
+01:22:45 <Bio> smol linux computer
+01:22:50 <skram> ive only played with arduinos
+01:23:26 <Bio> I've had PSoC's only before
+01:23:34 <skram> how do you control IOs tho
+01:23:50 <skram> you just write a program in python or whatever and you can set the state of the pins?
+01:23:52 <Bio> idk, probably through an interface
+01:23:55 <Bio> not sure yet
+01:24:57 <Bio> lets learn together mr ksarm
+01:25:06 <Bio> but after dinner
+01:25:10 <skram> ok :D
+01:25:11 <Bio> and exam study
+01:25:21 <skram> pffft
+01:52:17 <Bio> yer right
+01:52:19 <Bio> YOLO
+04:20:50 -!- Micen_ [~micen@h209.28.16.98.dynamic.ip.windstream.net] has joined #tlponies
+07:04:28 -!- Bio [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+07:18:18 -!- BioSC [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+07:43:57 -!- BioSC [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+07:47:04 -!- Dot` [~quassel@94.3.62.254] has joined #tlponies
+07:51:15 -!- DoT_ [~quassel@94.3.62.254] has joined #tlponies
+07:58:01 -!- BioHorse [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+08:01:57 <DoT_> Mornign all
+08:12:03 <DoT_> Rarw rawr
+08:13:18 <Rawr|Phone> Do_T dot_
+08:13:29 <Dot`> <3
+08:13:33 <Rawr|Phone> <3
+08:13:36 <Dot`> hello pon, hows your day
+08:20:34 -!- Cane [~Cane@CaneCraft.users.quakenet.org] has joined #tlponies
+08:20:35 -!- mode/#tlponies [+o Cane] by Q
+08:21:22 <CockRoach|42> morning hors
+08:22:16 -!- Golly [~Golly@1.92-221-121.customer.lyse.net] has joined #tlponies
+08:25:06 <Dot`> cr!
+08:25:16 <Dot`> Morning cane, Golly
+08:31:41 -!- Bio [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+08:33:38 -!- BioSC [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+08:38:15 -!- Bio [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+08:50:48 <Dot`> rawr
+08:52:02 <Rawr|Phone> Dot
+08:52:09 <Dot`> well?
+08:52:11 <Rawr|Phone> No work today either?
+08:52:27 <Rawr|Phone> My day is going well
+08:52:36 <Rawr|Phone> Busy in school though
+08:55:56 <Dot`> school is not ping pong
+08:56:13 <Rawr|Phone> I know :(
+08:56:30 <Rawr|Phone> I wish it was though
+09:04:58 -!- BioSC [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+09:08:33 -!- BioHorse [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+09:10:07 -!- DoT_ [~quassel@94.3.62.254] has joined #tlponies
+09:23:57 -!- BioSC [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+09:24:28 <DoT_> this poor bio dc's almost as much as my phone
+09:35:27 -!- BioHorse [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+10:08:57 <Rawr|Phone> Skärpning dot
+10:13:10 <DoT_> not my fault rawr
+10:17:20 <Rawr|Phone> I'm not convinced
+10:22:09 <DoT_> well rawr, there isnt much i can do about that
+10:27:56 <Rawr|Phone> 🤔🤔
+10:56:06 -!- Rawr|Fone [~AndChat25@m83-185-80-55.cust.tele2.se] has joined #tlponies
+10:58:04 <DoT_> .tell reification https://imgur.com/gallery/Y21B42R
+10:58:06 <DoT_> cr
+11:02:47 <Rawr|Fone> DoT_ DoT_ DoT_
+11:02:51 <Rawr|Fone> What do
+11:03:05 <Dot`> Rawr raw rawr
+11:03:33 <Dot`> i am reading a book on programming for study purposes
+11:03:36 <Dot`> you?
+11:04:01 -!- Rawr|Phone [~AndChat25@m83-185-80-55.cust.tele2.se] has joined #tlponies
+11:04:05 <Rawr|Phone> I am on my way to see spike
+11:04:34 <Dot`> oh boy!
+11:04:50 <Dot`> and your done with school for the day then
+11:05:18 <Rawr|Phone> Yes
+11:05:43 <Rawr|Phone> Playing table tennis later tonight
+11:08:52 <CockRoach|42> Dot`: <3
+11:10:36 <Dot`> <3
+11:15:33 -!- tredc [webchat@90-230-30-217-no56.tbcn.telia.com] has joined #tlponies
+11:37:40 -!- skram [~skram@ip-231-146-106-77.eidsiva.net] has joined #tlponies
+11:37:46 <Dot`> jonas
+11:37:53 <Dot`> <3
+11:41:13 <skram> bjørn
+11:41:13 <skram> <3
+11:47:25 <Dot`> i must go into town
+11:47:27 <Dot`> back soon
+11:54:18 <Cane> Hiya folks. <3
+12:14:12 <Dot`> i return
+12:14:19 <Dot`> well dampend
+12:14:33 <Dot`> Hey cane <3
+12:14:57 <Cane> Welcome back. =)
+12:15:47 <Dot`> got CoP dled, as i couldnt recall if it was that that was modded or if there was a seprate game dl
+12:21:49 <Cane> Call of Pripyat needs to be run at least once for Call of Chernobyl to run properly.
+12:21:57 <Cane> I think it's just used to check if you have a legit copy.
+12:22:06 <Cane> Don't think it even requires files.
+12:22:11 <Cane> Just for the thing to have been run once.
+12:22:18 <Cane> Call of Chernobyl is its own install.
+12:22:22 <Dot`> ah yes, its been a while
+12:22:49 <Dot`> i tihnk all my previous stalker mods was on the 1TB that borked
+12:23:59 <Cane> Most of them have updates by now anyway. =)
+12:24:04 <Cane> Are you gonna play 1.4 or 1.5?
+12:24:14 <Dot`> always the latest!
+12:24:20 <Dot`> *and most unstable
+12:24:25 <Dot`> :P
+12:24:32 <Dot`> what you on atm?
+12:26:33 <Cane> Making mod list, gimme a sec.
+12:26:40 <Dot`> cool
+12:29:31 <Dot`> is it one of those "put this one first and half of that one second, then do this part and complete the other" things
+12:29:44 <Dot`> or just add one after another no reall issues
+12:32:34 <Cane> https://pastebin.com/Jtvj539p
+12:32:55 <Cane> Just install sequentially and it'll work.
+12:33:01 <Dot`> nice
+12:33:14 <Cane> In fact most of these you can install in random order and it'll still be fine, except for some graphics stuff.
+12:33:18 <Cane> I installed it in the sequence posted.
+12:34:10 <Dot`> so i need to dl 1.5 r2
+12:34:16 <Dot`> then use the r4 patch
+12:34:48 <Cane> Yep.
+12:34:59 <Cane> The r4 patch is pretty small.
+12:35:02 <Dot`> yours has been pretty stable the past 2 days
+12:35:11 <Dot`> looking promising
+12:35:23 <Cane> It crashes some times, but not due to Out Of Memory really.
+12:35:30 <Cane> Once or twice a session.
+12:35:41 <Cane> of course that's on my system, don't know how it'll be for you. =/
+12:37:02 <Dot`> haha, probablt a lot of crashes
+12:37:29 <Dot`> i havnt had a dorf fort game work in years and it takes at least 5 attempts to creat a small map to 500 years
+12:37:41 <Dot`> somethign in my systems hates it
+12:38:01 <Cane> Wow that sucks. =(
+12:38:05 <Cane> DF has never been a problem for me.
+12:38:07 <Cane> STALKER on the other hand...
+12:38:29 <Dot`> it is Masterwork i always try play, maybe thats it
+12:38:48 <Dot`> Stalkers main issue i have had is loadign times getting longer and longer
+12:39:23 <Cane> I've been astonished that STALKER loads very quickly for me right now.
+12:39:37 <Dot`> hopefull sometihng in the mods somewhere
+12:39:40 <Cane> I'm used to 1 minute load times, but the last couple of sessions it's loaded in 10 seconds.
+12:39:57 <Cane> And quickloading in the same map is like 3 seconds if that.
+12:40:09 <Cane> All hail SSD drives I suppose.
+12:40:21 <Dot`> yea actually, probably is the main thing
+12:41:01 <Cane> Anyway, if you're installing Structures Redux, install bump maps first (before anything else).
+12:41:19 <Cane> Even the readme for that says to install it before ANY OTHER MOD.
+12:41:26 <Cane> Probably just being safe. =P
+12:49:52 -!- Phearlock [~Phearlock@cm-84.215.228.107.getinternet.no] has joined #tlponies
+12:49:52 -!- mode/#tlponies [+v Phearlock] by Q
+12:49:58 <Dot`> phear <3
+12:50:18 <Phearlock> hey =)
+12:53:08 <Cane> Hai Phear. =)
+12:55:56 <Phearlock> Hi cane 
+12:56:05 <Phearlock> Still chilling and being norwegian?
+12:56:22 <Phearlock> My room was actually cold again yesterday.
+12:56:28 <Phearlock> It was terrible. Winter isn't far off now
+12:59:39 <Cane> Oh yes, winter is coming.
+13:00:06 <Cane> I've got my heater on and pointed at my feet at the moment. =D
+13:00:34 <Phearlock> Today is a bit warmer so haven't had to turn up the heater to setting #2
+13:00:42 <Phearlock> =P
+13:04:31 <BioHorse> fukin winter man
+13:04:38 <Dot`> Bio hest
+13:04:50 <Dot`> its not winter, its Autumn
+13:04:55 <Dot`> best season bio
+13:05:00 <Bio> i'd love me some hoodie weather
+13:05:08 <Bio> but its gonna be like 30 again
+13:05:34 <Bio> pls
+13:09:07 <Dot`> dont let the weather stop you Bio, wear what you want
+13:15:09 -!- ZK [~ZK@modemcable189.130-83-70.mc.videotron.ca] has joined #tlponies
+13:15:18 <Dot`> .roll d20 to boop zk
+13:15:26 <Dot`> rip
+13:15:59 <ZK> .roll d20 to boop Dot`
+13:16:02 <ZK> that hurts nose
+13:27:00 -!- DoT_ [~quassel@94.3.62.254] has joined #tlponies
+13:32:58 -!- Dot` [~quassel@94.3.62.254] has joined #tlponies
+13:40:12 <Dot`> cane,  iforgot how to add the mods
+13:40:31 <Cane> Copy-paste and overwrite.
+13:40:37 <Cane> Most of the folders will have a "gamedata" folder.
+13:40:41 <Cane> Run CoC once and it'll create that folder.
+13:40:42 <Cane> Ezpz.
+13:40:58 <Dot`> ah, didnt run it yet
+13:44:29 <Dot`> damn, structures ewdux is another 870 mb
+13:45:10 <Dot`> redux*
+13:51:42 <Cane> Yuuuup.
+13:51:51 <Cane> The first mods on the list are all pretty big.
+13:52:13 <Dot`> as long as they are not all that large, will be here all day if thats the case
+14:26:12 <Cane> Dot`, how's it going?
+14:27:03 <Dot`> dling the weather conversion mod
+14:31:59 <Cane> OWR is the last "big" one on the list. After that they're all tiny.
+14:32:21 <Dot`> half way through that one now
+14:32:31 <Cane> I've been trying to remember what I was going to tweak.
+14:32:42 <Cane> When I was streaming yesterday I suddenly remembered a thing I wanted to change, but then promptly forgot about it again.
+14:32:46 <Dot`> artifact occurance
+14:33:02 <Cane> No, although I may tweak that too.
+14:33:12 <Dot`> you mentioned wantign to tweak it
+14:33:30 <Cane> Yeah, this was something new. Don't think I mentioned it on stream, I think I just made a mental note.
+14:34:10 <Dot`> well that makes it tricky to hep cane!
+14:34:14 <Dot`> help even
+14:34:58 <Cane> I think it was weapons or trading related. I'm trying to remember.
+14:35:34 <Dot`> i was actually meaning to ask about weapon selling costs, but i havnt seen the numbers yet
+14:36:22 <Dot`> I tihnk selling most weapons really shouldnt be worth it as there are so many around, while ammo should be expensive
+14:36:35 <Dot`> but yea, aI havnt seen the current values, so it may already be like that
+14:37:10 <Cane> Very few weapons can be sold, they need to be above 80% durability which most won't be when they drop.
+14:37:17 <Cane> Some times it's worth repairing it and then selling it for a tiny profit.
+14:37:22 <Cane> But most of the time no.
+14:37:25 <Dot`> cool
+14:37:32 <Cane> That's base CoC, didn't even have to change that.
+14:43:09 -!- Rawr|Fone [~AndChat25@m83-185-92-75.cust.tele2.se] has joined #tlponies
+14:47:33 <Dot`> cane, your corpses drop money mod says 1.4
+14:47:39 <Dot`> still good for 1.5?
+14:47:59 <Cane> Yeah, the folder has a 1.4.14+ folder or whatever, the + folder works with any CoC above that.
+14:48:12 <Cane> CoC actually included native support for lootmoney in 1.5 beta.
+14:52:39 <Dot`> ok, i tihnk its all added, time to have it crash
+15:01:01 <Cane> Glhf!
+15:03:47 <Cane> If you want my ingame settings you can have that too. Recommend not using DX10 or above.
+15:04:39 -!- Rawr|Phone [~AndChat25@c-a6c7db54.020-164-6d6c6d4.cust.bredbandsbolaget.se] has joined #tlponies
+15:05:22 <Dot`> there is something jus slightly diffrent in how STALKER feels to any other fps
+15:05:35 <Dot`> just in movment and looking
+15:12:31 <Dot`> so start as a stalker in clear skies, seems easy, leave to first villiage right outside 
+15:12:35 <Dot`> has clear skies people
+15:12:58 <Dot`> step into building, step out, bandit comes aroudn the corner and shoots me
+15:13:10 <Dot`> 1 health, bleed to death immedaitly
+15:13:38 <Cane> Such is life in the zone.
+15:16:49 -!- Rawr|Fone [~AndChat25@m83-185-92-75.cust.tele2.se] has joined #tlponies
+15:23:23 <Dot`> i just got sniped by a zombie with a pistol
+15:23:52 <Dot`> turned around, fired 1 shot
+15:26:12 <Dot`> im apparenltly out of practice with this game
+15:27:14 <Cane> Hahah
+15:27:21 <Cane> You're totally ready for Iron Man runs.
+15:28:24 <Dot`> thast what im doing
+15:28:36 <Dot`> :P  i thought it the quickest way back into the game
+15:30:04 <Dot`> this spawn cane... im north of the red forest
+15:37:58 -!- tredc [webchat@90-230-30-217-no56.tbcn.telia.com] has joined #tlponies
+15:43:42 <Cane> Yeeeeep.
+15:43:50 <Cane> What faction?
+15:43:59 <Cane> The Red Forest trek has killed me every time I've tried it so far.
+15:44:07 <Cane> It might be the most dangerous place in the zone on Iron Man.
+15:44:26 <Cane> It's so hard to see shit in there, and there's Monolith all over the place and anomalies everywhere else.
+15:45:32 <Cane> God damn it what did I want to change?
+15:45:43 <Cane> Something to do with traders? Maybe frequency of certain items?
+15:45:58 <Golly> free icecream
+15:46:02 <Cane> Ooo.
+15:51:44 <Dot`> in jupiter cane as stalker
+15:51:54 <Cane> Jupiter's neast.
+15:51:56 <Cane> neat*
+15:52:05 <Cane> Lot of stuff to do. Scientists right next to base.
+15:52:10 <Cane> Anomalies out the ass.
+16:35:08 -!- BioPhone [~androirc@mobile-166-175-57-133.mycingular.net] has joined #tlponies
+16:35:59 <BioPhone> Horses
+16:37:03 <BioPhone> Test has flawless victory potential
+16:39:53 <ZK> good
+17:03:19 <Dot`> Bio <3
+17:06:40 -!- DoT|Phone [~Dot@94.3.62.254] has joined #tlponies
+17:11:19 -!- BioPon [~androirc@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+17:12:55 <Cane> Dot`, how game?
+17:13:53 <DoT|Phone> having supper. but going ok
+17:14:35 <DoT|Phone> save scummed a bit while relearning anomaly navigation
+17:15:00 <DoT|Phone> used all my medkits still
+17:15:35 <Bio> i bek
+17:15:37 <Bio> home
+17:15:45 <Bio> thinkin about getting sushi for lunch 
+17:15:46 <Bio> thoughts?
+17:16:46 <ZK> sushi is quite good
+17:16:55 <ZK> you should go to japan to get some, it tastes better there
+17:18:41 <DoT|Phone> bio. celebratory pizza
+17:19:50 <Bio> dats tomorrow
+17:24:17 <Bio> whats peopl up to
+17:25:24 <DoT|Phone> eating food. then back to not dying in stalker
+17:31:42 <Bio> noice
+17:31:43 <Bio> gl
+17:40:45 <ZK> i think dot will die in stalker
+18:01:04 <DoT|Phone> ty
+18:57:28 <ZK> let me know if i was right Dot`
+18:59:32 <Dot`> not yet
+19:00:21 -!- Runbunny [~Runbunny@91.100.28.10.generic-hostname.arrownet.dk] has joined #tlponies
+19:14:37 <Dot`> woops cane, sometimes i get caught up trying to kill something and forget it just takes 1 pistol shot to kill me
+19:23:43 <Dot`> WTF
+19:23:49 <Dot`> cane pls, that APC shot at me
+19:24:15 <Cane> If only you tuned in when I was doing my military run, I would have told you that would happen!
+19:24:30 <Dot`> well i was without internets
+19:24:39 <Dot`> i didnt die 
+19:24:48 <Dot`> but heart attack sim was at max
+19:31:17 -!- BioPon [~androirc@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+19:32:10 <Bio> hallo cane hallo dot
+19:32:14 <Bio> im bak from sushi
+19:32:16 <Bio> was yum
+19:34:39 -!- Rawr|Fone [~AndChat25@84-217-62-32.customers.ownit.se] has joined #tlponies
+19:56:16 <Bio> dot
+19:56:19 <Bio> look at this shit
+19:56:20 <Bio> https://clips.twitch.tv/FreezingPerfectEmuBleedPurple
+19:58:11 <Bio> hes nuts
+20:04:08 <Dot`> wow his feild of view is up high
+20:09:35 <Bio> nutty
+20:11:03 <Golly> https://twitter.com/pkrugg/status/910323504339238912
+20:11:54 <Dot`> Runbunny https://imgur.com/gallery/ma6wtio
+20:13:05 <Runbunny> What a cute cat.
+20:17:09 <Dot`> hahaha golly
+20:19:22 <Bio> my god, thats not a dog
+20:19:55 <Golly> some sort of gremlin perhaps
+20:25:08 <CockRoach|42> it's a yippy squirrel
+20:39:43 -!- Camail [~Camail@45.40.84.145] has joined #tlponies
+20:39:43 -!- mode/#tlponies [+v Camail] by Q
+20:42:29 <Camail> pls
+20:44:31 <Micen_> good evening
+21:02:15 <Dot`> Hey cam, micen
+21:11:54 -!- Crisium [webchat@dhcp-pa-173-233-14-80.consolidated.net] has joined #tlponies
+21:14:14 <Dot`> hey Crisium
+21:14:21 <Crisium> howdy
+21:52:49 <Dot`> lol cane, start with really nice shotgun, only enemy i am fighting is zombies
+21:53:14 <Dot`> then i have to try kill some zombies out on an island in a lake
+21:53:35 <Dot`> slowly lure some across to a crevice and while i am fighting them controller walks up behind me
+21:58:34 -!- skram [~skram@ip-231-146-106-77.eidsiva.net] has joined #tlponies
+21:59:11 <skram> frens
+22:00:47 <CockRoach|42> hors fran
+22:01:18 <skram> hors
+22:01:51 <Dot`> Jonas frend
+22:02:36 <skram> yes hello bjørnboi
+22:06:43 <Cane> Dot`, you gotta learn how to anticipate random bushes wanting to kill you.
+22:10:24 -!- tredc [webchat@90-230-30-217-no56.tbcn.telia.com] has joined #tlponies
+22:14:46 <Dot`> yea, im out of practice
+22:14:52 <skram> always be on guard in russia simulator 2017
+22:14:55 <Dot`> how was your day skrammen
+22:15:17 <skram> not that bad actually
+22:15:19 <skram> what did you do
+22:15:37 <Bio> I napped
+22:16:35 <skram> did you figure out how to raspberry yet though
+22:16:44 <Bio> no
+22:17:02 <skram> damnit bio
+22:17:08 <Crisium> Bio cant raspberry? what scrub
+22:17:19 <skram> i need to make the lights go blink
+22:17:20 <Bio> i cry every time
+22:21:22 <Dot`> blarg
+22:21:27 <Dot`> i ded again
+22:21:30 <Dot`> zombies AGAIN
+22:21:37 <Dot`> those bloody long range pistols
+22:22:33 <Dot`> how is the rasberry bio
+22:22:48 -!- Rawr|Fone [~AndChat25@84-217-62-32.customers.ownit.se] has joined #tlponies
+22:23:50 <Crisium> Cane oh no Stork's group for ASL
+22:23:57 <Crisium> group of Death
+22:24:03 <Crisium> but will be good to see Stork vs Jaedong 
+22:24:21 <Cane> Unless he pulls out some goddamned magic he is so freaking dead.
+22:24:32 <Cane> I was hoping for some more killer PvTs from him.
+22:24:54 <Cane> Instead we have an all-zerg group, a 3T-1Z group, and the group Bisu is 2-0ing without breaking a sweat.
+22:24:59 <Cane> And then there's Stork's group.
+22:25:00 <Crisium> stork can win any PvP, he has a strong chance if he plays rain, and he beat JD in exhibition a few weeks ago
+22:25:27 <Crisium> yeah not seeing Stork vs T is always disappointing
+22:25:35 <Bio> sitting in a bag on my desk dot
+22:25:40 <Crisium> yeah Bisu has the group of Life
+22:25:40 <Bio> i need a few more thing
+22:25:42 <Cane> I've been watching him play a lot on stream, his vs Z is so lacking right now. I really hope he pulls out some magic against JD again.
+22:26:05 <Cane> Also this is where Killer dies.
+22:26:06 <Bio> Jaedong fighting
+22:26:07 <Cane> 3 Terrans.
+22:26:09 <Bio> always
+22:26:21 <Crisium> but remember 2014 when killer was the terran splayer
+22:26:27 <Crisium> he just needs to rewind time before army
+22:26:37 <Cane> I want Shine and Larva to make it out of group B so badly. =D
+22:26:41 <Crisium> i remember killer made guardians cool again in 2014
+22:27:03 <Crisium> shine and larva would be good for unique games in Ro8
+22:27:33 <Cane> Goddamn I had so much fun watching Rain vs Ample/Sasin though.
+22:27:41 <Crisium> are you kidding
+22:27:44 <Crisium> corsairs vs ghosts
+22:27:56 <Cane> It was the most beautiful nonsensical thing I've ever seen.
+22:27:56 <Crisium> i was freaking out so much here lol when i watched it a few days ago
+22:27:58 <Crisium> so good
+22:28:04 <Crisium> once in a decade kind of game
+22:28:34 <Cane> I feel kinda bad for Ample, seems like he went Ghosts with Lockdown, BoxeR style, to try to beat the Carriers he was certain were coming his way.
+22:28:37 <Cane> And then LOL CORSAIRS
+22:28:49 <Crisium> he did get a lockdown on a carrier at one point tho :P
+22:28:55 <Crisium> but yeah it was wasted
+22:29:10 <Cane> Such a fun group.
+22:29:16 <Cane> Group F broke my heart though.
+22:29:19 <Crisium> we ALMOST got another great thing going on when FBH was going Bio, but snow just proxied him to death
+22:29:26 <Crisium> ALMOST bio vs protoss
+22:29:58 <Bio> ping
+22:29:58 <Cane> I wanted to see that build vs a regular build on that map. Seems like it was designed to punish the super greedy Nexus first builds that every Protoss and their dog do on that map right now.
+22:30:15 <Cane> Nexus first into get enough units to get a quick 3rd.
+22:30:16 <Bio> been a hot minute since i've been pinged by SC strats
+22:30:29 <Cane> And then the marines got proxied to hell.
+22:30:40 <Crisium> im always surprised we never see bio builds TBH.  i know why it is not standard, and i dont expect it to be, but youd think youd see it every 10 or 20 games just to keep the P guessing but you never ever do
+22:38:15 <Cane> Yeah, it's only to punish super greedy expansion builds. Protoss just has too much splash damage to make bio viable. Also, ping.
+22:40:22 <Bio> Bio is always viable imo
+22:40:36 <skram> yeah he's pretty great
+22:50:36 <Cane> I'd love to see more bio, but it doesn't show up too often.
+22:50:57 <Bio> solution is to play zerg, every game is bio
+22:53:49 <Dot`> cane, dont you love the scientists
+22:53:59 <Dot`> guide to easy anomaly and back, get stone blood
+22:54:06 <Dot`> next quest, give stone blood
+22:54:08 <Cane> Isn't it great?
+22:54:14 <Dot`> get veles detector
+22:54:16 <Cane> Easiest start in the game too.
+22:54:26 <Cane> If scientists ask you for an artifact, you give it.
+22:54:36 <Cane> Don't care if it's the most useful one you have at the moment, you're probably getting an SSP-99M for it.
+23:00:28 <Dot`> well now i feel cheated for 'only' getting a good detector
+23:30:39 <Dot`> skram
+23:31:26 <skram> yeah buddy
+23:31:51 <Dot`> what you up to
+23:32:07 <skram> looking at cats
+23:32:10 <skram> trying not to pass out
+23:32:32 <Dot`> Crisium, day9 bw in half an hour
+23:32:39 <Dot`> any good cats skram
+23:32:53 <skram> subpar
+23:33:06 <skram> how is russia simulator
+23:33:08 <Dot`> thats 2 days in a row skram
+23:33:17 <skram> its very disappointing
+23:33:32 <Dot`> i am done for the evening, probably over 10 deaths today
+23:33:50 <skram> only 10? those are rookie numbers
+23:33:53 <Dot`> but this latest run has had a good start, so just going to leave it as im tired
+23:34:42 <Dot`> probably more skram, my first death was me leaving the main clear skies base into probably the safest area on the map
+23:34:51 <Dot`> having a bandit step around a corner and 1 shot me
+23:35:00 <skram> well
+23:35:05 <skram> stop going round corners
+23:35:11 <skram> thats how they get you
+23:35:14 <Dot`> i didnt
+23:35:21 <Dot`> i nev er reached the corner
+23:35:32 <skram> just stay far away from them
+23:35:37 <skram> bushes too
+23:35:39 <skram> and campfires
+23:35:46 <skram> better stay inside actually
+23:35:48 <Dot`> and caves
+23:35:56 <Dot`> they have controllers in them
+23:36:02 <Dot`> that sneak up behind you
+23:36:14 <skram> shipwrecks too
+23:36:22 <skram> they have dudes with gauss rifles in them apparently
+23:36:36 <Dot`> and swamps, they have zombies that snipe you with pistols
+23:36:48 <Dot`> 1 shot fro macross lakes
+23:37:03 <skram> maybe you should just play forklift simulator 2016 instead
+23:40:00 <Dot`> i would run myself over
+23:41:50 <skram> im gonna try a sleep
+23:41:51 <skram> bbl
+23:42:11 <Dot`> later skram <3
+23:58:35 <Bio> fak
+23:58:43 <Bio> i did nothing today
+23:58:51 <Bio> and my head aches

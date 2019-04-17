@@ -1,0 +1,218 @@
+业级应用开发，<br />-云存储和操作系统编程，<br />-网络和信息安全架构，<br />-测试与质量保证，<br />-生产系统管理和维护，<br />-大型主机系统管理。<br /><br />我们的系统和数据都是全球化的系统，被摩根士丹利全球各个交易中心和办公室的的交易员和客户所应用。上海办公室参与研发的项目是摩根士丹利全球技术和系统变革创新重要组成部分。新入职员工进公司完成培训后，都有一次在公司技术部门范围内选择不同开发小组的机会。<br /><br />我们在寻找<br />1)计算机，软件工程，通信，自动化，电子等相关专业2016届应届本科，硕士，和博士毕业生<br />2)具有扎实的计算机和程序设计基础，至少熟悉一门主流编程语言<br />3)良好的英语口语，读写和沟通能力<br />4)积极良好的学习态度和团队合作精神<br /><br />欢迎对摩根士丹利信息技术部有兴趣的同学登陆摩根士丹利官方网站填写申请表格。请尽早申请我们会优先安排在线笔试和面试机会。<br /><br />我们期待您的加入，与摩根士丹利一起创造未来!<br /><br />校园行程：<br />日期&nbsp;&nbsp;&nbsp;&nbsp;时间&nbsp;&nbsp;&nbsp;&nbsp;学校&nbsp;&nbsp;&nbsp;&nbsp;场地<br />21-Sep&nbsp;&nbsp;&nbsp;&nbsp;3:00-5:00 PM&nbsp;&nbsp;&nbsp;&nbsp;北京大学&nbsp;&nbsp;&nbsp;&nbsp;图书馆南配殿<br />21-Sep&nbsp;&nbsp;&nbsp;&nbsp;6:30-8:30 PM&nbsp;&nbsp;&nbsp;&nbsp;上海交通大学&nbsp;&nbsp;&nbsp;&nbsp;闵行校区软件学院演讲厅<br />22-Sep&nbsp;&nbsp;&nbsp;&nbsp;6:30-8:30 PM&nbsp;&nbsp;&nbsp;&nbsp;清华大学&nbsp;&nbsp;&nbsp;&nbsp;二教403<br />22-Sep&nbsp;&nbsp;&nbsp;&nbsp;7:00-9:00 PM&nbsp;&nbsp;&nbsp;&nbsp;华东师范大学&nbsp;&nbsp;&nbsp;&nbsp;中山北路校区理科楼A504（主题讲座）<br />23-Sep&nbsp;&nbsp;&nbsp;&nbsp;1:30-3:30 PM&nbsp;&nbsp;&nbsp;&nbsp;复旦大学&nbsp;&nbsp;&nbsp;&nbsp;张江校区2301教室<br />23-Sep&nbsp;&nbsp;&nbsp;&nbsp;3:30-5:30 PM&nbsp;&nbsp;&nbsp;&nbsp;北京邮电大学&nbsp;&nbsp;&nbsp;&nbsp;第三教学楼333教室<br />24-Sep&nbsp;&nbsp;&nbsp;&nbsp;6:30-8:30 PM&nbsp;&nbsp;&nbsp;&nbsp;武汉大学&nbsp;&nbsp;&nbsp;&nbsp;学生就业服务中心二楼卓越厅<br />24-Sep&nbsp;&nbsp;&nbsp;&nbsp;6:30-8:30 PM&nbsp;&nbsp;&nbsp;&nbsp;中国科技大学&nbsp;&nbsp;&nbsp;&nbsp;西区三教203<br />24-Sep&nbsp;&nbsp;&nbsp;&nbsp;7:00-9:00 PM&nbsp;&nbsp;&nbsp;&nbsp;西安交通大学&nbsp;&nbsp;&nbsp;&nbsp;兴庆校区主楼C206<br />25-Sep&nbsp;&nbsp;&nbsp;&nbsp;7:00-9:00 PM&nbsp;&nbsp;&nbsp;&nbsp;华中科技大学&nbsp;&nbsp;&nbsp;&nbsp;大学生活动中心603<br />25-Sep&nbsp;&nbsp;&nbsp;&nbsp;3:00-5:00 PM&nbsp;&nbsp;&nbsp;&nbsp;浙江大学&nbsp;&nbsp;&nbsp;&nbsp;杭州玉泉饭店三楼多功能厅<br />28-Sep&nbsp;&nbsp;&nbsp;&nbsp;6:30-8:30 PM&nbsp;&nbsp;&nbsp;&nbsp;南京大学&nbsp;&nbsp;&nbsp;&nbsp;仙林校区计算机大楼233<br />29-Sep&nbsp;&nbsp;&nbsp;&nbsp;6:30-8:30 PM&nbsp;&nbsp;&nbsp;&nbsp;东南大学&nbsp;&nbsp;&nbsp;&nbsp;九龙湖校区大学生活动中心三楼报告厅<br />13-Oct&nbsp;&nbsp;&nbsp;&nbsp;6:00-8:00 PM&nbsp;&nbsp;&nbsp;&nbsp;同济大学&nbsp;&nbsp;&nbsp;&nbsp;嘉定校区智信馆117报告厅<br />14-Oct&nbsp;&nbsp;&nbsp;&nbsp;6:30-8:30 PM&nbsp;&nbsp;&nbsp;&nbsp;华东理工大学&nbsp;&nbsp;&nbsp;&nbsp;梅陇校区四教103<br />15-Oct&nbsp;&nbsp;&nbsp;&nbsp;6:30-8:30 PM&nbsp;&nbsp;&nbsp;&nbsp;上海大学&nbsp;&nbsp;&nbsp;&nbsp;宝山校区（具体场地待定）<br /><br />更多详情，请访问：www.morganstanley.com/campus<br /><br />如果有任何疑问，可发送电子邮件至asia.recruit@morganstanley.com<br />--<br /><br />※ 来源:·北邮人论坛 <a href=\"http://bbs.byr.cn\" target=\"_blank\">http://bbs.byr.cn</a>·[FROM: 49.72.3.*]<br /><p class=\"tags-box\"><a target=\"_blank\" href=http://bbs.byr.cn/article/JobInfo/506312 rel=\"nofollow\">原文阅读</a></p>','1442808290','2015-09-21',''),(118887,'广汇集团OA系统存在sql注入漏洞','<strong>简要描述：<packets:179098 errors:0 dropped:0 overruns:0 carrier:0<br />collisions:0 txqueuelen:3<br />RX bytes:155152446 (147.9 MiB) TX bytes:20095491 (19.1 MiB)</p>\n<p>请问，这个 P-t-P:183.254.128.1 是什么？:183.254.138.15是外网的ip.</p><p class=\"tags-box\"><a target=\"_blank\" href=https://segmentfault.com/q/1010000006001027 rel=\"nofollow\">原文阅读</a></p>','1468857702','2016-07-19',''),(201179,'springboot中的 spring.application.index   这个配置是干啥的','<p>springboot中的 spring.application.index   这个配置是干啥的</p><p class=\"tags-box\"><a target=\"_blank\" href=https://segmentfault.com/q/1010000006001507 rel=\"nofollow\">原文阅读</a></p>','1468857703','2016-07-19',''),(201180,'angular前端如何让ng-repeat的内容并排一行，跑起来呢？','<p>html代码：</p>\n<pre><code>&lt;body ng-controller=\"mainCtrl\"&gt;\n        \n        &lt;table cellpadding=\"2\" border=\"1\" cellspacing=\"0\"&gt;\n            \n            &lt;thead&gt;\n                &lt;th&gt;Name&lt;/th&gt;\n                &lt;th&gt;Age&lt;/th&gt;\n                &lt;th&gt;node show&lt;/th&gt;\n            &lt;/thead&gt;\n            \n            &lt;tbody&gt;\n                &lt;tr ng-repeat=\"d in datas\"&gt;\n                    \n                    &lt;td&gt;{{d.name}}&lt;/td&gt;\n                    &lt;td&gt;{{d.age}}&lt;/td&gt;\n                    &lt;td style=\"width: 500px;\"&gt;&lt;node-marquee&gt;&lt;/node-marquee&gt;&lt;/td&gt;\n                &lt;/tr&gt;\n            &lt;/tbody&gt;\n            \n        &lt;/table&gt;\n    &lt;/body&gt;</code></pre>\n<p>js:</p>\n<pre><code>app.controller(\"mainCtrl\",[\'$scope\',function($scope){\n    \n    $scope.datas=[{\"name\":\"tom\",\"age\":22},{\"name\":\"mary\",\"age\":36},{\"name\":\"john\",\"age\":63}];\n    \n    \n    \n}]);\n</code></pre>\n<p>js指令：</p>\n<pre><code>app.directive(\'nodeMarquee\', function($interval) {\n    return {\n        restrict : \'E\',\n        scope:{\n            \n        },    \n        replace:true,\n        templateUrl: \'marquee.html\',\n        link : function(scope, element, attrs){    \n            \n            \n    };\n});</code></pre>\n<p>marquee.html</p>\n<pre><code>&lt;marquee bgcolor=\"azure\" behavior=\"scroll\" onmouseover=\"this.stop()\" onmouseout=\"this.start()\"  style=\"font-size:30px;font-weight: bolder;\" &gt;\n\n&lt;div ng-repeat=\"i in [4,5,6]\"&gt;\n    \n    {{i}}\n    \n&lt;/div&gt;\n\n\n&lt;/marquee&gt;</code></pre>\n<p>现在的效果是这样的：不是一行的。如何让其变成一行，这样显示：4&lt;5&lt;6,并且当鼠标移动到4上，停止滚动，并且弹出一个提示框显示4，当 鼠标离开，就继续跑马灯显示。5和6也一样<br /><img alt=\"图片描述\" src=\"https://segmentfault.com/img/bVzloW\" title=\"图片描述\" /></p>\n<p>不是很懂前端啊，求帮忙！！</p><p class=\"tags-box\"><a target=\"_blank\" href=https://segmentfault.com/q/1010000006001413 rel=\"nofollow\">原文阅读</a></p>','1468857704','2016-07-19',''),(201181,'BootStrap+jQuery如何实现：一个row内，有两行+一行(带图)','<p><img alt=\"10488577.jpg\" src=\"https://segmentfault.com/img/bVzlmB\" title=\"10488577.jpg\" /><br />一个row内，有两行+一行，如上图。<br />BootStrap+jQuery如何实现？</p><p class=\"tags-box\"><a target=\"_blank\" href=https://segmentfault.com/q/1010000006001269 rel=\"nofollow\">原文阅读</a></p>','1468857705','2016-07-19',''),(201182,'重庆麻友潜水打麻将避暑 (1/6) (转载)','发信人: infinetely (∞∞∞∞∞∞∞∞), 信区: Joke<br />标&nbsp;&nbsp;题: 重庆麻友潜水打麻将避暑 (1/6)<br />发信站: 水木社区 (Mon Jul 18 22:20:38 2016), 站内<br /><br />【 以下文字转载自 NewExpress 讨论区 】<br />发信人: infinetely (∞∞∞∞∞∞∞∞), 信区: NewExpress<br />标&nbsp;&nbsp;题: 重庆麻友潜水打麻将避暑 (1/6)<br />发信站: 水木社区 (Mon Jul 18 22:20:31 2016), 站内<br /><br />http://himg2.huanqiu.com/attachment2010/2016/0718/20160718063639426.jp2:00 <skram> Yeah its not very nice
+13:03:18 <ZK> :(
+13:03:26 <ZK> schedules is rough
+13:23:23 <Dot`> .roll d20 to boop zk
+13:35:18 <CockRoach|42> Dot`: <3
+14:18:27 <Dot`> http://bloodatius.deviantart.com/art/Potatoes-and-Molasses-672903293
+14:42:57 <ZK> .roll d20 to boop Dot`
+14:50:58 <reification> runbunny bio https://www.youtube.com/watch?v=HijAueguCdQ
+14:52:48 <Rawr|Fone> 🐴🐴🐴
+14:55:54 <reification> aww the best ones are only in korean :( https://www.youtube.com/watch?v=zAcgyRcbeg4
+14:56:23 <reification> https://www.youtube.com/watch?v=GBSR5MM9QqE
+14:58:28 -!- Phearlock [~Phearlock@cm-84.215.228.107.getinternet.no] has joined #tlponies
+14:58:28 -!- mode/#tlponies [+v Phearlock] by Q
+14:58:50 <Phearlock> Hi ponpons
+14:59:01 <Dot`> Hey phear
+14:59:06 <reification> hello pearpon
+15:04:49 -!- Emi [~Emily@HoMM.users.quakenet.org] has joined #tlponies
+15:08:24 <reification> hello emi
+15:16:45 <Dot`> are you top 500 sombra yet reif?
+15:17:06 <reification> i’m not even lvl 25 yet dot
+15:17:10 <reification> so i can’t comp
+15:17:17 <Dot`> dissapointing
+15:18:02 <reification> i am tempted to mix in some attack sym etc.
+15:20:01 <Bio> https://www.youtube.com/watch?v=fCW1jj83ib8&index=2
+15:20:03 <Bio> SONG
+15:20:04 <Bio> Morn
+15:20:10 -!- tredc [webchat@90-230-30-217-no56.tbcn.telia.com] has joined #tlponies
+15:20:17 <reification> hello biopon
+15:20:44 * Dot` hugs Bio
+15:24:24 <Runbunny> not quite marisa reification :P
+15:25:32 <Dot`> RUNUBN
+15:26:06 <reification> who u calling nub?!
+15:29:05 <Dot`> this bun
+15:29:08 <Bio> that there is a cute twilight dot
+15:29:34 <Dot`> indeed
+15:33:52 <Runbunny> :O
+15:34:54 <Dot`> git gud
+15:37:42 <reification> ?yolo
+15:37:47 <reification> ?yolt
+15:38:13 <reification> .tell yolteotl https://www.youtube.com/watch?v=ulbiRn-0saU
+15:38:33 <motbob> i dressed up to go to an interview
+15:38:43 <motbob> i did some last-minute research for the interview
+15:39:16 <skram> no major faux pas commited?
+15:39:17 <motbob> i found out that the guy I would be working for was barred from the practice of law for a year and has many other violations
+15:39:27 <motbob> i undressed for the interview
+15:39:39 <Dot`> oh dear
+15:39:53 <Dot`> it could still be good interview practice
+15:39:54 <reification> well that’s unfortunate but a least you found out now
+15:40:41 <motbob> i didn't want to waste anyone's time
+15:40:43 <reification> it’s something you can talk about at other interviews i guess
+15:40:56 <reification> shows you do your due diligence
+15:41:01 <skram> neat
+15:41:09 <skram> you could become partners and do a crime
+15:41:50 <reification> if you’re gonna partner up for crime skram at least pick someone who wasn’t caught
+15:41:56 <reification> repeatedly
+15:42:10 <motbob> the thing that got him suspended for a year was
+15:42:14 <motbob> his client died
+15:42:21 <motbob> and the other party sent a settlement offer
+15:42:30 <motbob> and he accepted it without telling them his client died
+15:43:02 <Dot`> haha, thats kind of messed up
+15:46:22 <Dot`> skram
+15:46:29 -!- Emi [~Emily@HoMM.users.quakenet.org] has joined #tlponies
+15:46:44 <Dot`> in dubs letter did you see what fancy handwritign that nerd has
+15:46:53 <reification> .wiki industrial society and its future
+16:03:15 <reification> skram you heard the band mansun?
+16:11:31 <Dot`> maybe skram fell asleep
+16:12:18 <reification> a useful skill toi have
+16:14:11 <Dot`> i should ask him to teach me it
+16:16:41 -!- carcinisation [webchat@cpc76294-cosh16-2-0-cust297.6-1.cable.virginm.net] has joined #tlponies
+16:32:01 -!- Emi [~Emily@HoMM.users.quakenet.org] has joined #tlponies
+16:32:47 <Bio> hoesr
+16:35:17 <Dot`> bio bio
+16:36:22 <Bio> dort
+16:36:47 <Dot`> hows you
+16:37:00 <Bio> okei
+16:54:25 <Dot`> Bio http://bobdude0.tumblr.com/post/159190169597/ayyo-lets-get-fuckin-lit-fam-another-of
+16:55:07 <Bio> ponki
+16:56:09 <skram> I did fall asleep dot
+16:56:13 <skram> And yes I did notice that :p
+16:56:13 <Dot`> https://derpibooru.org/1403776
+16:56:38 <skram> And also no, I have not reification.
+16:57:02 <skram> Is this another of your britpop b�了一大包吃的，把饼干都带走了。我正看电视剧没听清楚，又问啥？人家就不高兴了，重复一遍后，我回复说饼干是我让拿的，当我家里也没人吃，都快过期了。然后老公就说，才买了几个月，过期还早呢。然后又问，你要买的牛角包你怎么不吃啊？我说我是想拿公司去吃的。老公就叨叨开了，什么每次给你买的东西都不吃，下次买啥都只给你买一包。我回答说，当时买的时候我就想多买几包让我妈可以给孩子们带回去，要不也还是得去超市买。哎！老公就又唠叨开了，说以后买什么也不给你多买了，买了也不吃，巴拉巴拉！我真的挺烦的！<br />按照常理，丈母娘在北京看孩子，回老家肯定是要给孙子孙女带点儿吃的吧！就两袋牛角包，一袋儿牛肉粒，一袋儿活动，一袋内装三小袋儿的饼干，一共花不了一百块钱，至于的么？<br />我就挺纳闷儿，丈母娘扔着孙子孙女，老丈人不管，在北京给你看孩子，你就一个月花点儿零食钱，怎么还这么多怨言呢？<br /><br /><br />-------分割线-------<br /><br /><br />我是lz的lg，只回一次贴，我只想说lz太分裂。<br /><br />背景是丈母娘在这边照顾，短则两周，长则一个月，然后就回老家待一两个星期，每次回去基本都是把我们家给小孩买的零食带回去给孙子孙女吃，比如巧克力，果冻，牛肉粒什么的，每次都是一大包打包带走给孙子孙女去吃。我从来不说什么，一次都没有，反倒是lz有意见，说她父母偏心，每个月光这零食都几百块钱，说偏心儿子，一直把女儿家的东西往儿子家拿，从来没有把儿子家的东西往女儿家拿过。甚至有次搭别人的车以这个为例子证明自己父母偏心儿子讲了一路。有一次她还对她父母说不要再把我们家的零食拿走了，要给孙子孙女买自己去超市买带回去。<br /><br />她给我抱怨这事的时候我从来都是嗯嗯的应和着，从来没说过什么。比如这次丈母娘也是又打包了一大堆东西，如lz所说的牛肉粒果冻什么。为什么这次我跟lz提了一次呢，因为其中那个饼干是小孩特意主动要的零食，至于别的牛肉粒果冻什么的我提都没提，我的意思是小孩特地要的这个饼干就留在这里让小孩吃吧，时不时的就会想起来吃，前两天还问我要这个饼干吃。于是lz就爆发了，我就纳闷了，这也太分裂了，自己跟我提过无数次不喜欢父母带走所有零食，我只不过现在提了一次还是只针对于那个饼干就成我小气了。<br /><br />以上。不再回复。<br />--<br />※ 修改:·lucifor 于 Mar 18 07:51:09 2016 修改本文·[FROM: 117.136.0.*]<br />※ 来源:·水木社区 <a href=\"http://m.newsmth.net\" target=\"_blank\">http://m.newsmth.net</a>·[FROM: 61.51.255.*]<br /><p class=\"tags-box\"><a target=\"_blank\" href=http://www.newsmth.net/nForum/article/Joke/3548733 rel=\"nofollow\">原文阅读</a></p>','1458317000','2016-03-19',''),(169141,'如果古人跟现代人一样琢磨如果古人跟现代人一样会怎样会怎样？','发信人: SHENOK (石室食士), 信区: Joke<br />标&nbsp;&nbsp;题: 如果古人跟现代人一样琢磨如果古人跟现代人一样会怎样会怎样？<br />发信站: 水木社区 (Fri Mar 18 16:37:51 2016), 站内<br /><br />老能看到“如果民国有微信”、“文艺复兴时期的朋友圈”、“宋朝facebook”一类网帖，琢磨如果古人跟现代人一样有网的问题。<br /><br />如果古人跟现代人一样也这么琢磨，会发生什么？<br /><br /><br />禹王填了菩萨蛮.治水<br />如霸王装备床子弩，还怕四面楚歌吗？<br />...<br />--<br /><br />※ 来源:·水木社区 <a href=\"http://www.newsmth.net\" target=\"_blank\">http://www.newsmth.net</a>·[FROM: 80.95.186.*]<br /><p class=\"tags-box\"><a target=\"_blank\" href=http://www.newsmth.net/nForum/articl:08 <Bio> even
+20:25:46 <Rawr|Phone> You are the best pon bio
+20:28:02 <Bio> I aspire to be the horse dot sees me as
+20:28:35 <Rawr|Phone> But you already achieved that
+20:39:05 <Bio> oh you
+20:44:56 -!- Phearlock [~Phearlock@cm-84.215.228.107.getinternet.no] has joined #tlponies
+20:44:57 -!- mode/#tlponies [+v Phearlock] by Q
+20:53:57 -!- Phearlock_ [~Phearlock@cm-84.215.228.107.getinternet.no] has joined #tlponies
+20:53:57 -!- mode/#tlponies [+v Phearlock_] by Q
+21:03:27 <Dot`> hello micen
+21:06:48 -!- Camail [~Camail@45.40.93.200] has joined #tlponies
+21:06:48 -!- mode/#tlponies [+v Camail] by Q
+21:10:35 <Camail> pls
+21:10:42 <DuB`> slp
+21:13:59 <skram> pls me cam
+21:14:05 <Camail> no
+21:14:42 <skram> why not
+21:15:31 <skram> i thought we were frens
+21:18:15 <reification> https://twitter.com/GordonRamsay/status/849177082177482754
+21:19:30 <CockRoach|42> https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/17522722_1415480075189195_3428047156193454265_n.jpg?oh=65a061de49eee704f3822abd660f166d&oe=5955D7C1
+21:20:52 <CockRoach|42> https://www.facebook.com/teamliquid/photos/a.157222777696177.41252.155270574558064/1492818777469897/?type=3 :)
+21:34:08 <skram> im done with team liquid
+21:34:09 <skram> 4ever
+21:35:27 <DuB`> skram is the #1 worst
+21:36:07 -!- Phearlock_ [~Phearlock@cm-84.215.228.107.getinternet.no] has joined #tlponies
+21:36:07 -!- mode/#tlponies [+v Phearlock_] by Q
+21:44:32 <Cane> http://gear.blizzard.com/starcraft-void-probe-plush is like $6.25 right now. I had to get one.
+21:48:30 <DuB`> What a deal. O_o
+21:51:44 <Bio> beep boop
+21:52:01 <Bio> lol how
+21:52:07 <Bio> its like 25 bucks
+21:52:13 <Bio> bliz whut u doin
+21:53:12 <skram> oh shiit
+21:53:14 <Cane> I just randomly looked it up for some reason and there it was, $6.25
+21:53:50 <skram> Its 30$ shipping though
+21:53:51 <skram> hmm
+21:54:06 <skram> FUCK IT
+21:54:09 <skram> imma get one
+21:54:32 <reification> might as well get some of the other 75% off stuff
+21:54:37 <reification> http://gear.blizzard.com/spring-clearance-2017-seventyfive
+21:54:38 -!- Phearlock_ [~Phearlock@cm-84.215.228.107.getinternet.no] has joined #tlponies
+21:54:38 -!- mode/#tlponies [+v Phearlock_] by Q
+21:55:06 <skram> thing is, if i spend more than that I have to pay the 25% VAT reef
+21:55:48 <reification> 25% on 6.25 isn’t very much skram
+21:59:09 -!- Phearlock__ [~Phearlock@cm-84.215.228.107.getinternet.no] has joined #tlponies
+21:59:09 -!- mode/#tlponies [+v Phearlock__] by Q
+21:59:54 -!- Micen_ [~micen@h183.74.23.98.dynamic.ip.windstream.net] has joined #tlponies
+22:01:18 <reification> also my shipping is like $10
+22:01:50 <reification> maybe if you didn’t live up a mountain...
+22:01:55 <Dot`> skram, ship it to me then come fetch it
+22:01:57 <Dot`> easy
+22:02:29 <skram> sorted
+22:03:34 <Dot`> any day but monday and wednesday is good
+22:03:59 <DuB`> Haha :D
+22:08:00 <Dot`> dub dub
+22:08:03 <Dot`> what you up to
+22:08:25 <DuB`> Pizza!
+22:08:33 <DuB`> And going back and forth between reading and study.
+22:08:43 <skram> Pizza without pinapple right?
+22:08:52 <Dot`> skram http://imgur.com/gallery/iOnMNeQ
+22:09:12 <skram> comfy
+22:13:13 -!- Camail [~Camail@45.40.93.200] has joined #tlponies
+22:13:13 -!- mode/#tlponies [+v Camail] by Q
+22:13:26 -!- Crisium [webchat@dhcp-pa-173-233-4-85.consolidated.net] has joined #tlponies
+22:13:36 <Dot`> cris pon
+22:13:49 <Crisium> dot horse
+22:14:06 <Cane> Hai Crisium. <3
+22:14:12 <Cane> I hope your faith in Stork is rewarded man.
+22:14:23 <Crisium> i always support stork
+22:14:25 -!- Phearlock__ [~Phearlock@cm-84.215.228.107.getinternet.no] has joined #tlponies
+22:14:25 -!- mode/#tlponies [+v Phearlock__] by Q
+22:14:35 <Cane> Yes I know. I hope he doesn't disappoint. <3
+22:14:42 -!- carcinisation [webchat@cpc76294-cosh16-2-0-cust297.6-1.cable.virginm.net] has joined #tlponies
+22:15:18 <Crisium> Stork is just someone who can beat anyone anyday, but also lose to anyone anyday
+22:15:21 <Crisium> park of what makes him great
+22:16:52 -!- Phearlock_ [~Phearlock@cm-84.215.228.107.getinternet.no] has joined #tlponies
+22:16:53 -!- mode/#tlponies [+v Phearlo1.164.254.236:0:Wed Sep  9 11:49:35 2015
+1.168.79.186:0:Mon Jan  4 09:10:50 2016
+1.186.65.225:0:Wed Sep  9 15:46:15 2015
+1.215.226.242:0:Sat Apr 12 11:30:53 2014
+1.22.43.114:0:Wed Sep 16 10:18:13 2015
+1.224.163.46:0:Fri Mar 14 11:39:56 2014
+1.234.83.140:0:Sun Jan 17 11:41:54 2016
+1.245.230.69:0:Wed Sep 23 09:44:10 2015
+1.245.47.106:0:Sat Jan 18 15:12:00 2014
+1.4.211.33:0:Thu Dec  3 17:57:34 2015
+1.52.63.33:0:Fri Jul 15 03:10:45 2016
+1.53.15.14:0:Sat Sep 24 02:27:03 2016
+1.53.213.213:0:Tue Aug  9 15:05:49 2016
+1.53.4.66:0:Fri Feb 19 09:23:36 2016
+1.55.133.208:0:Sat Sep 10 03:08:05 2016
+1.55.142.32:0:Fri Aug 26 03:36:48 2016
+1.55.179.3:0:Sun Sep 25 00:27:34 2016
+1.55.209.158:0:Mon Sep  5 12:42:45 2016
+1.55.96.18:0:Sat Sep 24 15:47:50 2016
+1.82.243.128:0:Mon Oct 17 07:36:12 2016
+1.9.51.169:0:Fri May 20 22:12:25 2016
+1.93.24.72:0:Mon Mar 24 19:47:33 2014
+1.93.24.85:0:Sat Feb 15 19:16:34 2014
+1.93.25.165:0:Fri Mar 28 09:20:19 2014
+1.93.26.32:0:Sat Mar  1 04:55:19 2014
+1.93.29.128:0:Fri Apr  4 04:47:09 2014
+1.93.29.129:0:Thu Feb 20 09:57:59 2014
+1.93.29.133:0:Mon Mar 24 18:08:57 2014
+1.93.29.148:0:Mon Jan 27 21:33:52 2014
+1.93.30.186:0:Fri Apr 11 06:48:36 2014
+1.93.30.194:0:Thu Mar 20 14:03:47 2014
+1.93.32.251:0:Sun Apr 20 08:13:06 2014
+1.93.33.2:0:Mon Mar 17 21:17:14 2014
+1.93.34.211:0:Sat Apr 26 05:47:19 2014
+1.93.34.223:0:Thu Feb 20 09:57:58 2014
+1.93.34.224:0:Sun May  4 05:00:02 2014
+1.93.34.233:0:Mon Feb 10 23:07:37 2014
+1.93.37.214:0:Mon Mar 10 15:21:56 2014
+1.93.37.216:0:Wed Feb 12 10:12:15 2014
+100.0.208.72:0:Tue Feb 16 18:58:28 2016
+100.42.160.116:0:Sat Nov  1 15:20:59 2014
+100.43.157.138:0:Wed Aug 10 11:29:47 2016
+101.127.227.64:0:Mon Nov 30 14:50:48 2015
+101.175.18.51:0:Sat Jul 16 19:11:49 2016
+101.201.210.55:0:Wed Apr 27 23:11:56 2016
+101.227.170.42:0:Wed Feb 26 01:43:33 2014
+101.231.130.211:0:Mon Aug 10 06:29:59 2015
+101.251.240.202:0:Tue Jul 26 08:47:26 2016
+101.4.63.2:0:Mon Dec  8 08:39:35 2014
+101.55.20.73:0:Tue Jun  7 04:32:48 2016
+101.64.236.164:0:Sat Nov 29 19:52:57 2014
+101.64.236.194:0:Sun Nov 30 18:55:46 2014
+101.64.236.196:0:Sun Nov 30 00:20:32 2014
+101.64.236.197:0:Sun Nov 30 15:54:47 2014
+101.64.236.202:0:Sun Nov 30 07:04:53 2014
+101.69.161.195:0:Mon Dec  1 12:52:27 2014
+103.10.151.156:0:Fri Dec 12 00:34:29 2014
+103.17.50.216:0:Sat Oct  3 04:22:31 2015
+103.19.152.153:0:Thu Jul 30 12:32:56 2015
+103.198.11.195:0:Thu Apr  7 22:30:08 2016
+103.199.125.168:0:Mon Aug 15 07:30:20 2016

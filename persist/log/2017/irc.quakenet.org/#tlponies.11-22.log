@@ -1,0 +1,359 @@
+��<br />3、熟悉iOS 5及以上版本系统，能独立开发高性能的iOS应用；<br />4、对移动开发有浓厚的兴趣，关注移动开发业内的新技术、新趋势；<br />5、投递简历请提供AppStore线上作品。 <br />三、 Android开发工程师<br />职责描述：<br />职位描述: <br />负责沪江基于Android平台的智能手机、平板设备的移动应用开发。<br />岗位要求：<br /><br /><br />任职要求:<br /><br />1、两年以上Andriod开发经验，作为主力工程师完整开发过一个以上Android应用的经验；<br /><br />2、精通Android UI布局，精通不同分辨率适配，熟悉多线程、SQLite数据库等操作；<br /><br />3、精通HTTP 通讯协议，有Restful API使用经验，熟悉JSON数据格式；<br /><br />4、熟悉Android OS系统体系结构、framework以及底层库等，熟悉Android的各种开源组件和Android界面设计规范；<br /><br />5、熟悉git，了解gitflow 。<br /><br />有音频、视频开发经验者优先。<br /><br />如果您对该工作岗位有意向的话，请与我联系。&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />邮箱：2764217649@qq.com&nbsp;&nbsp;<br />Q Q ：2764217649&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br />邮件题目请标明【姓名-应聘岗位】，请以附件形式添加个人简历。<br />--<br /><br />※ 来源:·北邮人论坛 <a href=\"http://bbs.byr.cn\" target=\"_blank\">http://bbs.byr.cn</a>·[FROM: 123.114.239.*]<br /><p class=\"tags-box\"><a target=\"_blank\" href=http://bbs.byr.cn/article/JobInfo/185295 rel=\"nofollow\">原文阅读</a></p>','1405656237','2014-07-18',''),(8347,'异或加密之美 #主流web弱算法科普文','<p>本文只是对异或算法的科普文 逆向dede漏洞的原作者是 @<a href=\"http://loudong.360.cn/vul/profile/uid/1893575\">my5t3ry</a> 而不是我<br />\n有些图片甚至直接借用 我不是抄袭狗 - -<br />\n哥就是抱在大牛的大腿上的那个人<br />\n研究对称算法的时候 对异或加密产生了性欲</p>\n<p>刚刚高考完  高中闭关结束  I AM BACK~ </p>\n<p>科普文 帮助新手对算法的理解吧 异或加密是web应用中十分流行的加密算法，通过将可信任（已安全过滤）的用户数据和加密key用算法加密，生成字符串再来传递以执行sql操作。</p>\n<p>但是这种算法极其不安全 因为在异或算法里面</p>\n<pre><code>A^K=E  \nE^A=K  \n</code></pre>\n<p><span id=\"more-2609\"></span></p>\n<p>有了A和E(加密前后的字符串)就等获得k，一旦我们知道了key 就能本地构造那个字符串（evilcode）进行攻击！<br />\n今天 我们研究DedeCMS(buy_action.php)</p>\n<p><img alt=\"2014071622331932510.png\" src=\"http://static.wooyun.org/201407/2014071622331932510.png\" /></p>\n<p>这是个简单的异或算法</p>\n<h2>0x01初识你的美，算法分析</h2>\n<hr />\n<pre><code>string[0]^key[0] \n</code></pre>\n<p>然后是</p>\n<pre><code>string[1]^key[1] \n</code></pre>\n<p>将他们添加到$code尾部，如此循环。这时会有两种情况。</p>\n<p><strong>case one</strong></p>\n<pre><code>$key长度（18）&lt;=$string长度  \n</code></pre>\n<p>那么当$k=$i=17，就取尽了$key，下一次执行会变成：</p>\n<pre><code>$i=18  $k=0  \n</code></pre>\n<p>也就是说 重新开始一遍位运算 示意图如下</p>\n<pre><code>key    |  i  a  m  a  k  e  y   i   m   \nstring |  i  a  m  a  s  r   i   n   g   \n</code></pre>\n<p>等于key被重复了多次直到string被完全加密!<br />\n<strong>case two</strong></p>\n<pre><code>$key长度（18）&gt;$string长度  \n</code></pre>\n<p>那么当</p>\n<pre><code>$k=$i=  strlen($string) -1\n</code></pre>\n<p>就取尽了$string，下一次执行会直接跳出，也就是说，此时的key都没完整进入$code。<br />\n示意图如下</p>\n<pre><code>key    |  i  a  m  a  k  (<Crisium> you idiots
+04:11:48 <Crisium> i hate 75% of OW players
+04:12:05 <Crisium> because they have a disease that prevents them from holding M1 on barriers
+04:12:09 <Crisium> primates
+04:12:34 <micen> that was fun 
+04:12:36 <micen> deathmatch
+04:13:41 <Crisium> Orisa's barrier is 900hp, and regens in 8 seconds, or 125hp/s
+04:14:00 <Crisium> 80% of the cast can out dps that, if not more
+04:14:18 <Crisium> but all the idiots, morons, refuse to shoot it
+04:14:20 <Crisium> i hate them all
+04:14:27 <DuB`> Cris
+04:14:29 <DuB`> Go sleep
+04:14:32 <Crisium> i am
+04:14:33 <DuB`> Let go of your hate!
+04:14:34 <Crisium> soon
+04:14:36 <DuB`> :P
+04:14:48 <Crisium> no one, shoudl EVER, not do at least 100 damage to an Orisa shield
+04:14:52 <Crisium> i hate them all
+04:14:58 <Crisium> they refuse to shoot it at all
+04:15:02 <Crisium> not even 1 damage
+04:15:06 <Crisium> they are scum
+04:15:18 <Crisium> the instead stare at the wall
+04:16:36 <micen> I need recommendations for books to read
+04:16:43 <micen> you all are nerds. give me some
+04:16:50 <micen> fantasy or scifi
+04:17:54 <Crisium> Sci Fi plot: your character does 160 damage per second, but you refuse to shoot a barrier that regens 125 hp/s because you'd rather pick your nose
+04:18:02 <Crisium> i call it: Overwatch my Teammates
+04:18:32 <Crisium> the sequal: everyone is an idiot
+04:18:47 <DuB`> yes yes
+04:20:54 <Crisium> ALWAYS shoot at a barrier unless you can get a pick
+04:21:06 <Crisium> if you don't, then unisntall the same
+04:21:09 <Crisium> good night
+04:21:11 <Crisium> farewell
+04:21:13 <Crisium> shoot barriers
+04:21:21 <Crisium> shoot barriers
+04:21:21 <Crisium> shoot barriers
+04:21:25 <Crisium> SHOOT BARRIERS
+04:26:51 <micen> I think Cris was mad at OW tonight
+04:36:18 <DuB`> A lil'
+04:38:16 <skram> its because overwatch fuckin sucks
+04:39:08 <DuB`> Hej now
+04:54:26 <BioHockey> YO
+04:54:32 <Bio> that was a good game
+04:59:31 <DuB`> Didja wonnered?
+05:09:10 <Bio> very much so
+05:09:14 <Bio> 8-3
+05:18:50 <DuB`> weooo
+08:15:40 <Rawr|Phone> 🐴🐴🐴
+08:27:46 -!- Rawr|Fone [~AndChat25@m83-185-88-80.cust.tele2.se] has joined #tlponies
+09:08:02 <Dot`> Mornign all <3
+09:12:49 <Rawr|Fone> Dot Dot Dot
+09:14:46 -!- Bio [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+09:14:54 <Dot`> Rawr rawr rawr
+09:14:55 <Dot`> <3
+09:17:20 <Rawr|Fone> <3
+09:20:00 -!- Rawr|Phone [~AndChat25@89.255.242.40] has joined #tlponies
+09:21:24 <Dot`> hows you rawr
+09:22:59 <Rawr|Phone> Great!
+09:23:04 <Rawr|Phone> How are you dot
+09:25:19 <Dot`> doing ok
+09:27:17 <Rawr|Phone> Good
+09:38:23 <Dot`> .tell runbunny https://imgur.com/gallery/YnFD34j
+10:32:15 -!- tredc [~qwe@c83-251-161-94.bredband.comhem.se] has joined #tlponies
+10:51:08 <Dot`> hey tredc
+10:51:49 <tredc> hi DoT`
+10:55:17 -!- Zounds [webchat@cpc108453-cowc8-2-0-cust8.14-2.cable.virginm.net] has joined #tlponies
+10:56:01 <Dot`> Zoonds@
+10:56:05 <Dot`> !
+10:57:01 <Zounds> hello
+10:57:20 -!- tredc [~qwe@c83-251-161-94.bredband.comhem.se] has joined #tlponies
+11:00:01 <CockRoach|42> pls calm
+11:02:12 -!- DoT_ [~quassel@90.214.186.173] has joined #tlponies
+11:04:04 <DoT_> intenret pls
+11:04:15 -!- tredc [~qwe@c83-251-161-94.bredband.comhem.se] has joined #tlponies
+11:24:11 <Zounds> How are you today dot
+11:27:19 -!- Camail [~Camail@45.40.84.145] has joined #tlponies
+11:27:19 -!- mode/#tlponies [+v Camail] by Q
+11:29:40 <DoT_> getting ready for 3 hours of work
+11:30:55 <DoT_> woohoo £21
+11:35:00 <Zounds> Better than £0
+11:35:13 <Dot`> is true
+11:36:21 -!- tredc [~qwe@c83-251-161-94.bredband.comhem.se] has joined #tlponies
+11:36:36 <Zounds> I know the feeling though, sometimes football shifts are 5 hours
+11:36:46 <Zounds> Kinda takes up a lot of your day waiting to go just for 5 hours
+11:37:55 <Dot`> right in the middle of the day, so cant get started on anything and struggle after to start anything
+11:39:16 <Zounds> Yah
+11:39:21 <Zounds> Give me an early start any day
+11:50:13 <Dot`> work work
+11:50:17 <Dot`> later horses
+11:50:41 <Camail> god reddit is useless
+11:58:07 <Zounds> Well I mostly agree but I wanna hear you rant
+11:58:59 <Camail> nah its just spammed with net neutrality posts
+11:59:09 <Camail> so its literally useless
+12:02:56 <Zounds> Ah, yeah
+12:03:22 -!- tredc [~qwe@c83-251-161-94.bredband.comhem.se] has joined #tlponies
+12:27:09 -!- BioSC [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+12:27:27 -!- tredc [~qwe@c83-251-161-94.bredband.comhem.se] has joined #tlponies
+12:33:56 -!- Golly [~Golly@1.92-221-121.customer.lyse.net] has joined #tlponies
+12:34:34 -!- tredc [~qwe@c83-251-161-94.bredband.comhem.se] has joined #tlponies
+13:01:27 -!- Bio [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+14:04:50 -!- BioSC [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+14:13:29 -!- BioHorse [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+14:19:18 <Rawr|Phone> Beep beep
+14:32:05 -!- BioSC [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+14:32:06 -!- reification [~reificati@cpc76294-cosh16-2-0-cust297.6-1.cable.virginm.net] has joined #tlponies
+14:32:06 -!- mode/#tlponies [+v reification] by Q
+14:33:08 <Zounds> hi rawr, reif
+14:33:38 <reification> hi zounds, tlpons
+14:34:12 <Zounds> pons are mostly sleeping / working at the moment
+14:34:15 <Zounds> pretty quiet here
+14:36:19 -!- tredc [~qwe@c83-251-161-94.bredband.comhem.se] has joined #tlponies
+14:46:31 <Rawr|Phone> Work is slow today
+14:48:42 -!- Bio [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+14:48:53 -!- tredc [~qwe@c83-251-161-94.bredband.comhem.se] has joined #tlponies
+15:03:28 <reification> .tell zk is this you with your fish? https://twitter.com/mofmofclub/status/926004682564165632
+15:09:35 <Dot`> i am home
+15:13:53 <reification> wb dotties
+15:17:12 <Rawr|Phone> Dot dot
+15:17:25 <Dot`> Rawr rawr
+15:17:25 <Dot`> <3
+15:18:31 <Dot`> .tell Phearlock https://thetinyapprentice.tumblr.com/post/167766874096/caution-low-flying-leaves
+15:18:37 <Dot`> mini horse!
+15:20:37 <Rawr|Phone> <3
+15:20:55 -!- tredc [~qwe@c83-251-161-94.bredband.comhem.se] has joined #tlponies
+15:44:01 <Phearlock> that's adorable dot
+15:44:07 <Dot`> it is!
+15:44:08 <Phearlock> tiny pone
+15:46:10 -!- tredc [~qwe@c83-251-161-94.bredband.comhem.se] has joined #tlponies
+15:46:43 <Dot`> still having trouble tredc :/
+15:46:45 <Dot`> sucks
+15:47:59 <tredc> its a lot better now...   its only about once every hour rather than every five minutes :/
+15:52:44 <reification> i should go investigate my crashes now too…
+15:52:47 -!- tredc [~qwe@c83-251-161-94.bredband.comhem.se] has joined #tlponies
+15:52:59 <Dot`> .tell skram https://imgur.com/gallery/BNra8Ko
+16:07:36 -!- skram [~skram@95.169.46.105] has joined #tlponies
+16:07:42 <Dot`> jonas
+16:08:21 <skram> bjørn
+16:09:37 <Dot`> hows you? better?
+16:10:39 <skram> ill be ok mr dot
+16:10:41 <skram> what you do
+16:10:53 <Dot`> my feet are cold, but otherwise im fine
+16:11:00 -!- BioSC [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+16:13:02 -!- tredc [~qwe@c83-251-161-94.bredband.comhem.se] has joined #tlponies
+16:16:54 <skram> did you put your socks on dot
+16:17:48 <Dot`> 2 pairs!
+16:18:46 -!- Rawr|Fone [~AndChat25@m83-185-86-115.cust.tele2.se] has joined #tlponies
+16:21:58 <Zounds> https://ncmares.deviantart.com/art/It-Is-NOT-A-Habit-606912184
+16:22:09 <Zounds> socks!
+16:23:20 <Phearlock> Butt socks
+16:31:47 <Zounds> socks and pons is just such a good combo
+16:32:04 <Zounds> there's a reason it's been a mainstay from almost the beginning
+16:47:41 -!- BioHorse [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+17:03:11 <BioHorse> horses?
+17:03:13 <Bio> hi
+17:03:17 <Bio> luv
+17:03:18 <Bio> <3
+17:03:27 <Dot`> Bio <3
+17:03:59 <Bio> dort
+17:06:03 -!- tredc [~qwe@c83-251-161-94.bredband.comhem.se] has joined #tlponies
+17:25:01 <reification> hello biohors
+17:32:20 <Bio> reif never stop linking dank maymays pls
+17:32:48 <reification> i don’t intend to bio
+17:35:23 <Bio> my man
+17:35:32 -!- DuB` [~DuB@66-219-235-64.dynamic.ip.veracitynetworks.com] has joined #tlponies
+17:35:38 <reification> though too many good twitter accounts are going protected/suspended in light of the upcoming banpocalypse :/
+17:35:41 <reification> hey dubbles
+17:36:19 <DuB`> G'morn!
+17:37:21 <Zounds> hey
+17:38:22 -!- tredc [~qwe@c83-251-161-94.bredband.comhem.se] has joined #tlponies
+17:39:15 <Dot`> Hey dub <3
+17:45:36 <reification> bio https://twitter.com/idlemeister_/status/933092034285416451
+17:46:49 <Bio> WELL THE DONT STOP COMING AND THEY DONT STOP COMING AND THEY DONT STOP COMING AND THEY...
+17:48:22 <reification> still THE BEST https://www.youtube.com/watch?v=5vRlJrkxsqo
+18:04:43 <reification> .tell zk https://twitter.com/TheEthicalGoth/status/933163440419622912
+18:13:07 <skram> Its SNOWING
+18:13:12 <skram> Its a WINTER WONDERLAND
+18:13:14 <Bio> oi oi oi
+18:13:15 <skram> YAY
+18:13:27 <Dot`> snow is nice
+18:13:41 <DuB`> SNOOO
+18:13:55 <skram> Get yer ass over here Dot`, we're going SLEDDING.
+18:14:08 <Dot`> sounds great
+18:28:06 -!- Golly [~Golly@1.92-221-121.customer.lyse.net] has joined #tlponies
+18:28:25 <DuB`> Wow, that's a LOT of snow, skram
+18:28:33 <DuB`> I'm jellus
+18:28:59 <skram> Its pretty great :D
+18:31:02 -!- tredc [~qwe@c83-251-161-94.bredband.comhem.se] has joined #tlponies
+18:31:39 <Zounds> pretty snow
+18:31:44 <Zounds> conceals the filth
+18:33:21 <Phearlock> It's pretty snowy here too skram
+18:33:31 <Phearlock> I removed a bunch of snow but there's still more
+18:33:56 <DuB`> Send me some!
+18:34:13 <DuB`> Our mountains need it, they look all brown and dead now that the fall colors have faded...
+18:34:26 -!- Zounds [webchat@cpc108453-cowc8-2-0-cust8.14-2.cable.virginm.net] has joined #tlponies
+18:34:44 <skram> You live in a desert though???
+18:35:08 <DuB`> And!?
+18:35:27 <Dot`> The arctic is a desert skram
+18:36:32 <skram> deserts are supposed to have cactuses and sun
+18:36:33 <skram> its the law
+18:36:39 <DuB`> Pff
+18:36:52 <DuB`> That's arizona.
+18:37:04 <DuB`> ... and the bottom half of utah, but I'm in the TOP half!
+18:37:26 <skram> ur the 50%
+18:37:30 -!- tredc [~qwe@c83-251-161-94.bredband.comhem.se] has joined #tlponies
+18:40:43 <DuB`> This spicy kimchi ramen is VERY spicy.
+18:40:45 <DuB`> My mouth hurts.
+18:41:08 <reification> you knew what you were getting into dub
+18:41:54 <skram> ill trade you a serving of spicy ramen for 3 buckets of snø
+18:42:29 <DuB`> Haha
+18:44:40 -!- Runbunny [~Runbunny@91.100.28.10.generic-hostname.arrownet.dk] has joined #tlponies
+18:44:45 <Dot`> Hey angel
+18:44:53 <Runbunny> Hai.
+18:45:14 <skram> Anders.
+18:45:17 -!- DoT|Phone [~Dot@90.214.186.173] has joined #tlponies
+18:45:32 -!- Crisium [~Crisium@c-73-174-51-128.hsd1.pa.comcast.net] has joined #tlponies
+18:46:16 <Zounds> how's your time off so far dub
+18:47:35 <Crisium> dub is on vacation!
+18:47:38 <Crisium> party it up
+18:47:59 <DuB`> Um!
+18:48:15 <DuB`> Playing a lot fo warframe but had to spend all day yesterday writing a paper.d
+18:48:24 <skram> turn doon for WAT?
+18:48:39 <skram> mr zounds would you like to attempt a overwatch
+18:48:58 <Crisium> ill OW too
+18:49:06 <Crisium> tho if im playing on EU ill just play mercy probably lul
+18:49:20 <Zounds> I can't ow right now skram sorry
+18:49:20 <skram> whats your rank these days cris
+18:49:23 <skram> aaw
+18:49:43 <Zounds> if you're still here in a bit I can
+18:49:50 <skram> probably
+18:49:51 <Crisium> 3300 right now
+18:50:04 <skram> kool, wanna do comp?
+18:50:05 <Crisium> season high of 3900 but iv been playing like trash since then lol
+18:50:15 <skram> we can go NA and ill do the supoortening
+18:50:24 <Crisium> but i like support
+18:50:26 <Crisium> how dare you
+18:50:38 <Zounds> I'll join you guys later if you don't mind a 3stack
+18:50:38 <skram> someone has to shoot shields, cris
+18:50:49 <Crisium> zen pretty good at it actually
+18:51:06 <Crisium> ill he up in a few mins
+18:52:19 <Zounds> I can do the dps or offtank thing
+18:53:09 -!- tredc [~qwe@c83-251-161-94.bredband.comhem.se] has joined #tlponies
+18:53:24 <Crisium> na man, triple support
+18:58:04 <Crisium> cant spectate skram's game
+18:58:06 <Crisium> feelsbadman
+18:59:03 <DoT|Phone> hanzo genji sym. go go
+19:00:09 -!- tredc [~qwe@c83-251-161-94.bredband.comhem.se] has joined #tlponies
+19:03:19 <DuB`> If you need a zarya/ana main just holler.
+19:03:21 <DuB`> Oh wait
+19:03:28 <DuB`> I haven't done placements, probaby can't play with ye
+19:06:09 -!- Crisium [~Crisium@c-73-174-51-128.hsd1.pa.comcast.net] has joined #tlponies
+19:06:45 <Crisium> ugh this is unplayable
+19:06:52 <Crisium> microstutter every second
+19:06:55 <skram> :((
+19:06:56 <Crisium> never done this before
+19:07:11 -!- tredc [~qwe@c83-251-161-94.bredband.comhem.se] has joined #tlponies
+19:08:24 <Crisium> cant even trick it.  still does it with v sync + triple buffering
+19:09:07 <Crisium> tried OCing the GPU, underclocking
+19:09:11 -!- BioSC [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+19:10:29 <Crisium> ahh it was MSI Afterburner
+19:10:32 <Crisium> need to uninstall that
+19:10:50 <Crisium> or remove from startup at least
+19:11:10 <DoT|Phone> very silly
+19:11:46 <skram> you wanna know what else is silly
+19:11:47 <skram> its u
+19:12:06 <Crisium> whos a silly pony
+19:12:13 <Crisium> skramjack
+19:12:21 <skram> who is u is appel jak
+19:14:24 -!- tredc [~qwe@c83-251-161-94.bredband.comhem.se] has joined #tlponies
+19:22:12 <Zounds> Applejack <3
+19:40:05 -!- tredc [~qwe@c83-251-161-94.bredband.comhem.se] has joined #tlponies
+19:50:05 <Dot`> im sleepy already skram
+19:51:34 -!- Camail [~Camail@45.40.84.145] has joined #tlponies
+19:51:34 -!- mode/#tlponies [+v Camail] by Q
+19:51:48 <Dot`> nah
+19:52:54 <skram> i will allow you the sleep, dot
+19:53:24 <Camail> dont do it
+19:53:27 <Camail> its a trap
+19:53:51 -!- tredc [~qwe@c83-251-161-94.bredband.comhem.se] has joined #tlponies
+20:02:03 <motbob> To the Moon 2 comes out in ~21 days
+20:09:17 <Camail> Nioh's port is so bad
+20:09:25 <Camail> I'm glad its playable but god damn
+20:39:29 -!- BioPhone [~androirc@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+20:39:43 <BioPhone> Pony
+20:42:59 <BioPhone> Neigh
+20:43:06 <Dot`> Bio
+20:43:46 -!- tredc [~qwe@c83-251-161-94.bredband.comhem.se] has joined #tlponies
+20:44:36 -!- carcinisation [webchat@cpc76294-cosh16-2-0-cust297.6-1.cable.virginm.net] has joined #tlponies
+20:48:30 <carcinisation> bio https://pbs.twimg.com/media/DOzonHmV4AEQbJN.jpg
+20:50:33 -!- tredc [~qwe@c83-251-161-94.bredband.comhem.se] has joined #tlponies
+20:55:57 <DuB`> Project Cars 2 -40% off!
+20:55:59 <DuB`> Yey
+20:58:02 -!- tredc [~qwe@c83-251-161-94.bredband.comhem.se] has joined #tlponies
+20:59:52 <BioPhone> Dub
+20:59:55 <BioPhone> PLS
+21:01:05 <DuB`> Cane: PC2 or Asetto Corsa? :P
+21:02:25 <Cane> PC2, it's really freaking good. Way better than 1.
+21:02:50 <Cane> Looks gorgeous, plays well, fun selection of cars.
+21:03:06 <DuB`> :D
+21:03:40 <DuB`> I'll just take the steam review indecision as people being elitist or something, it looks fine.
+21:03:40 <Cane> In terms of realism it's excellent. Go for Assetto Corsa if you desperately want that extra couple of percent of realism, but I have more fun in PC2 tbh.
+21:03:57 <DuB`> Yeah, that was basically my perception of the two.
+21:03:59 <DuB`> Thanks!
+21:04:34 <DuB`> Ooh, STEEP $20 too. I did enjoy just chilling 'n skiing around during the beta for that.
+21:05:00 <Cane> Aye, I noticed the Steam reviews as well and they're pretty unfair. I think it's simmers being elitist.
+21:05:31 <DuB`> Ye oke
+21:05:59 <Cane> What setup do you have? Mind that my enjoyment of PC2 comes from having a good wheel + pedals + shifter.
+21:06:20 <DuB`> Thrustmaster TMX is gonna be christmas. ;D
+21:06:33 <DuB`> Unless I find a better deal on a force feedback wheel.
+21:06:46 <Cane> Excellent.
+21:07:05 -!- tredc [~qwe@c83-251-161-94.bredband.comhem.se] has joined #tlponies
+21:07:11 <Cane> I've got the T300 Alcantara and it's pretty great.
+21:07:21 <DuB`> I haven't had a racing game since NFS:Shift on PS3, I'm way hype
+21:07:41 <Dot`> Dub, just get NFS underground
+21:07:44 <Dot`> sorted
+21:07:45 <DuB`> Haha
+21:07:58 <Cane> I use my wheel for all kinds of shit.
+21:08:08 <Cane> From sims like PC2 to arcade-y stuff.
+21:08:37 <Cane> I'm probably the only person in the world to have a highly specific and customized setup for playing Quarantine, the 1994 PC game, using wheel + pedals + TrackIR.
+21:11:10 <DuB`> ... ah.
+21:11:14 <DuB`> Do I want season pass, though?
+21:11:30 <DuB`> Didn't know there was DLC, shoot
+21:11:48 -!- Runbunny [~Runbunny@91.100.28.10.generic-hostname.arrownet.dk] has joined #tlponies
+21:12:13 <Runbunny> my irc client is acting weird.
+21:14:17 -!- tredc [~qwe@c83-251-161-94.bredband.comhem.se] has joined #tlponies
+21:17:46 <Cane> It's a sim, there's going to be tons of DLC. There's even more on AC and I don't own most of them.
+21:18:48 <DuB`> 4 tracks, 32 cars, all positive reviews
+21:18:59 <DuB`> Aw why the heck not, it's all just my PUBG skirt money anyway!
+21:25:15 -!- BioPhone [~androirc@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+21:28:39 <Camail> yo we should play gigantic
+21:28:46 <Camail> there's a new guy, have 0 clue what he even does
+21:38:15 <Zounds> The necromancer guy?
+21:38:17 <Zounds> or another new one
+21:44:08 <Camail> just that guy
+21:44:14 <Camail> but he wasnt out last time i played
+21:45:24 -!- Rawr|Phone [~AndChat25@84-217-62-32.customers.ownit.se] has joined #tlponies
+21:50:22 <Zounds> Yeah he seems kinda okay
+21:50:48 <Zounds> I didn't really feel like I was any kind of dark magister or necromancer or anything though
+21:50:54 <Zounds> Just kinda a basic spell damage dealer
+22:22:31 <Dot`> Skram
+22:28:59 <skram> Dot
+22:29:07 <Dot`> hows OW going?
+22:29:29 <skram> fairly decent actually
+22:30:21 <skram> zounds is carrying us
+22:30:31 <Zounds> kinda weird since I was away the last few games
+22:30:34 <Zounds> I guess I carried in spirit
+22:30:58 <Crisium> zounds OP
+22:31:22 <Dot`> Phearlock, this is the art for Druid circle of the shepard in XGtE
+22:31:25 <Dot`> https://i.imgur.com/6pZiN9Y.png
+22:31:32 -!- tredc [~qwe@c83-251-161-94.bredband.comhem.se] has joined #tlponies
+22:31:42 <Dot`> Zound sis good at game
+22:35:06 <Phearlock> awwww
+22:35:14 <Phearlock> Floofers!
+23:25:05 <BioSC> floofers?
+23:25:08 <BioSC> FLOOFERS
+23:48:33 <reification> bio dub https://twitter.com/mikarichey/status/933215828526243841
+23:50:10 -!- Bio [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+23:56:44 <reification> night all
+23:57:21 <Dot`> gnight reif
+23:59:25 -!- tredc [~qwe@c83-251-161-94.bredband.comhem.se] has joined #tlponies

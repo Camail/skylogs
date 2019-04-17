@@ -1,0 +1,75 @@
+20:07:22 :dreamhack.se.quakenet.org 001 sweetiebot :Welcome to the QuakeNet IRC Network, sweetiebot
+20:07:22 :dreamhack.se.quakenet.org 002 sweetiebot :Your host is dreamhack.se.quakenet.org, running version u2.10.12.10+snircd(1.3.4a)
+20:07:22 :dreamhack.se.quakenet.org 003 sweetiebot :This server was created Fri Jun 22 2012 at 20:47:31 CEST
+20:07:22 :dreamhack.se.quakenet.org 004 sweetiebot dreamhack.se.quakenet.org u2.10.12.10+snircd(1.3.4a) dioswkgxRXInP biklmnopstvrDcCNuMT bklov
+20:07:22 :dreamhack.se.quakenet.org 005 sweetiebot WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=15 MODES=6 MAXCHANNELS=50 MAXBANS=45 NICKLEN=15 :are supported by this server
+20:07:22 :dreamhack.se.quakenet.org 005 sweetiebot MAXNICKLEN=15 TOPICLEN=250 AWAYLEN=160 KICKLEN=250 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDducCNMT CASEMAPPING=rfc1459 NETWORK=QuakeNet :are supported by this server
+20:07:22 :dreamhack.se.quakenet.org 251 sweetiebot :There are 18 users and 16473 invisible on 29 servers
+20:07:22 :dreamhack.se.quakenet.org 252 sweetiebot 56 :operator(s) online
+20:07:22 :dreamhack.se.quakenet.org 253 sweetiebot 1 :unknown connection(s)
+20:07:22 :dreamhack.se.quakenet.org 254 sweetiebot 13756 :channels formed
+20:07:22 :dreamhack.se.quakenet.org 255 sweetiebot :I have 1565 clients and 1 servers
+20:07:22 :dreamhack.se.quakenet.org 375 sweetiebot :- dreamhack.se.quakenet.org Message of the Day - 
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :- 2015-3-16 3:08
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :-    _____                             _______              __    
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :-   |     \.----.-----.---.-.--------.|   |   |.---.-.----.|  |--.
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :-   |  --  |   _|  -__|  _  |        ||       ||  _  |  __||    < 
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :-   |_____/|__| |_____|___._|__|__|__||___|___||___._|____||__|__|
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :-                 DREAMHACK . SE . QUAKENET . ORG
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :- 
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :-   You're now connected to a server hosted by DreamHack with
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :-   sponsored bandwidth by TeliaSonera (AS3301) 
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :-   located in Stockholm, Sweden. 
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :- 
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :-                         = DISCLAIMER =
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :- 
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :-   IRC is a free media, the operators of this network take no
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :-   responsibility whatsoever for opinions expressed or actions
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :-   taken by users.
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :-   
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :-   By connecting to this server you give us the right to
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :-   probe your machine for open proxies/wingates.
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :- 
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :-   This network may NOT be used for:
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :- 
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :-   * Flooding (including flood/clonebots).
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :-   * Distribution of copyrighted material (eg, warez, mp3,
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :-     movies) or pornography.
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :-   * Channels dedicated to cheats designed to cause unfair
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :-     advantage in multiplayer games.
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :-   * Clones. Please contact info@quakenet.org if you require
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :-     more than five clients (LAN parties, bots, etc).
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :-   * Attempts to takeover existing channels or network services.
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :-   * Racism and/or Nazism.
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :-   * Spamming and/or advertising.
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :-   * Hacking (including Virus/Trojan distribution).
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :- 
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :-   Continued use of this server indicates acceptance of these
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :-   conditions.
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :- 
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :-                         = STAFF = 
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :- 
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :-   Admin -->     suom1              <suom1@dreamhack.se>
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :-                 jmh                <jmh@netsplit.fi>
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :- 
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :-   Oper  -->     shroud, qip, sel, sorcerer
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :- 
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :-                         = INFORMATION =
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :- 
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :-   Quakenet web page                       http://www.quakenet.org
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :-   Quakenet help page                  http://www.quakenet.org/faq
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :-   Quakenet servers                      http://staff.quakenet.org
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :- 
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :-   Network Channel                                           #feds
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :-   Help Channel                                              #help
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :-   
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :-   You can contact the staff on <irc@dreamhack.se>
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :- 
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :-   This network has channel services. Consult the webpage above
+20:07:22 :dreamhack.se.quakenet.org 372 sweetiebot :-   to find information on how to use and obtain these services.
+20:07:22 :dreamhack.se.quakenet.org 376 sweetiebot :End of /MOTD command.
+20:07:23 :dreamhack.se.quakenet.org 221 sweetiebot +i
+20:07:23 :dreamhack.se.quakenet.org 353 sweetiebot @ #tlponies :sweetiebot DuB` tredc Micen Micen|Droid +Camail carcinisation +Phearlock_ +reification skram Zounds Runbunny Dot` Bio @Q @Cane +Westy543 Twi Rarity motbob +CockRoach|42 Methos Emily
+20:07:23 :dreamhack.se.quakenet.org 366 sweetiebot #tlponies :End of /NAMES list.
+20:07:23 :dreamhack.se.quakenet.org 353 sweetiebot = #camtestinggg :@sweetiebot
+20:07:23 :dreamhack.se.quakenet.org 366 sweetiebot #camtestinggg :End of /NAMES list.

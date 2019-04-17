@@ -1,0 +1,161 @@
+sonthefly.com/wp/
+[Fri May 02 11:30:42.375283 2014] [:error] [pid 25477] [client 62.219.8.237:37507] PHP   3. require_once() /var/www/filmsonthefly/www/wp/wp-blog-header.php:16, referer: http://www.filmsonthefly.com/wp/
+[Fri May 02 11:30:42.375294 2014] [:error] [pid 25477] [client 62.219.8.237:37507] PHP   4. include() /var/www/filmsonthefly/www/wp/wp-includes/template-loader.php:74, referer: http://www.filmsonthefly.com/wp/
+[Fri May 02 11:30:42.375305 2014] [:error] [pid 25477] [client 62.219.8.237:37507] PHP   5. get_header() /var/www/filmsonthefly/www/wp/wp-content/themes/DynamiX/archive.php:9, referer: http://www.filmsonthefly.com/wp/
+[Fri May 02 11:30:42.375316 2014] [:error] [pid 25477] [client 62.219.8.237:37507] PHP   6. locate_template() /var/www/filmsonthefly/www/wp/wp-includes/general-template.php:35, referer: http://www.filmsonthefly.com/wp/
+[Fri May 02 11:30:42.375327 2014] [:error] [pid 25477] [client 62.219.8.237:37507] PHP   7. load_template() /var/www/filmsonthefly/www/wp/wp-includes/template.php:417, referer: http://www.filmsonthefly.com/wp/
+[Fri May 02 11:30:42.375338 2014] [:error] [pid 25477] [client 62.219.8.237:37507] PHP   8. require_once() /var/www/filmsonthefly/www/wp/wp-includes/template.php:441, referer: http://www.filmsonthefly.com/wp/
+[Fri May 02 11:30:42.375349 2014] [:error] [pid 25477] [client 62.219.8.237:37507] PHP   9. require() /var/www/filmsonthefly/www/wp/wp-content/themes/DynamiX/header.php:29, referer: http://www.filmsonthefly.com/wp/
+[Fri May 02 11:30:42.441566 2014] [:error] [pid 25550] [client 62.219.8.237:37415] PHP Warning:  Illegal string offset 'gallery' in /var/www/filmsonthefly/www/wp/wp-content/themes/DynamiX/header.php on line 26, referer: http://www.filmsonthefly.com/wp/
+[Fri May 02 11:30:42.441593 2014] [:error] [pid 25550] [client 62.219.8.237:37415] PHP Stack trace:, referer: http://www.filmsonthefly.com/wp/
+[Fri May 02 11:30:42.441614 2014] [:error] [pid 25550] [client 62.219.8.237:37415] PHP   1. {main}() /var/www/filmsonthefly/www/wp/index.php:0, referer: http://www.filmsonthefly.com/wp/
+[Fri May 02 11:30:42.441628 2014] [:error] [pid 25550] [client 62.219.8.237:37415] PHP   2. require() /var/www/filmsonthefly/www/wp/index.php:17, referer: http://www.filmsonthefly.com/wp/
+[Fri May 02 11:30:42.441640 2014] [:error] [pid 25550] [client 62.219.8.237:37415] PHP   3. require_once() /var/www/filmsonthefly/www/wp/wp-blog-header.php:16, referer: http://www.filmsonthefly.com/wp/
+[Fri May 02 11:30:42.441652 2014] [:error] [pid 25550] [client 62.219.8.237:37415] PHP   4. include() /var/www/filmsonthefly/www/wp/wp-includes/template-loader.php:74, referer: http://www.filmsonthefly.com/wp/
+[Fri May 02 11:30:42.441664 2014] [:error] [pid 25550] [client 62.219.8.237:37415] PHP   5. get_header() /var/www/filmsonthefly/www/wp/wp-content/themes/DynamiX/archive.php:9, referer: http://www.filmsonthefly.com/wp/
+[Fri May 02 11:30:42.441676 2014] [:error] [pid 25550] [client 62.219.8.237:37415] PHP   6. locate_template() /var/www/filmsonthefly/www/wp/wp-includes/general-template.php:35, referer: http://www.filmsonthefly.com/wp/
+[Fri May 02 11:30:42.441687 2014] [:error] [pid 25550] [client 62.219.8.237:37415] PHP   7. load_template() /var/www/filmsonthefly/www/wp/wp-includes/template.php:417, referer: http://www.filmsonthefly.com/wp/
+[Fri May 02 11:30:42.441698 2014] [:error] [pid 25550] [client 62.219.8.237:37415] PHP   8. require_once() /var/www/filmsonthefly/www/wp/wp-includes/template.php:441, referer: http://www.filmsonthefly.com/wp/
+[Fri May 02 11:30:42.441715 2014] [:error] [pid 25550] [client 62.219.8.237:37415] PHP Warning:  Illegal string offset 'gallerycat' in /var/www/filmsonthefly/www/wp/wp-content/themes/DynamiX/header.php on line 27, referer: http://www.filmsonthefly.com/wp/
+[Fri May 02 11:30:42.441724 2014] [:error] [pid 25550] [client 62.219.8.237:37415] PHP Stack trace:, referer: http://www.filmsonthefly.com/wp/
+[Fri May 02 11:30:42.441734 2014] [:error] [pid 25550] [client 62.219.8.237:37415] PHP   1. {main}() /var/www/filmsonthefly/www/wp/index.php:0, referer: http: 28 05:52:03 testsite sshd[14151]: message repeated 2 times: [ Failed password for root from 119.249.54.75 port 46915 ssh2]
+Oct 28 05:52:03 testsite sshd[14151]: Received disconnect from 119.249.54.75: 11:  [preauth]
+Oct 28 05:52:03 testsite sshd[14151]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=119.249.54.75  user=root
+Oct 28 05:52:05 testsite sshd[14163]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=119.249.54.75  user=root
+Oct 28 05:52:07 testsite sshd[14163]: Failed password for root from 119.249.54.75 port 48230 ssh2
+Oct 28 05:52:12 testsite sshd[14163]: message repeated 2 times: [ Failed password for root from 119.249.54.75 port 48230 ssh2]
+Oct 28 05:52:12 testsite sshd[14163]: Received disconnect from 119.249.54.75: 11:  [preauth]
+Oct 28 05:52:12 testsite sshd[14163]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=119.249.54.75  user=root
+Oct 28 05:52:14 testsite sshd[14165]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=119.249.54.75  user=root
+Oct 28 05:52:16 testsite sshd[14165]: Failed password for root from 119.249.54.75 port 51277 ssh2
+Oct 28 05:52:21 testsite sshd[14165]: message repeated 2 times: [ Failed password for root from 119.249.54.75 port 51277 ssh2]
+Oct 28 05:52:21 testsite sshd[14165]: Received disconnect from 119.249.54.75: 11:  [preauth]
+Oct 28 05:52:21 testsite sshd[14165]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=119.249.54.75  user=root
+Oct 28 05:52:23 testsite sshd[14167]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=119.249.54.75  user=root
+Oct 28 05:52:25 testsite sshd[14167]: Failed password for root from 119.249.54.75 port 57499 ssh2
+Oct 28 05:52:29 testsite sshd[14167]: message repeated 2 times: [ Failed password for root from 119.249.54.75 port 57499 ssh2]
+Oct 28 05:52:29 testsite sshd[14167]: Received disconnect from 119.249.54.75: 11:  [preauth]
+Oct 28 05:52:29 testsite sshd[14167]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=119.249.54.75  user=root
+Oct 28 05:52:29 testsite sshd[14169]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=116.31.116.44  user=root
+Oct 28 05:52:31 testsite sshd[14171]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=119.249.54.75  user=root
+Oct 28 05:52:31 testsite sshd[14169]: Failed password for root from 116.31.116.44 port 48235 ssh2
+Oct 28 05:52:32 testsite sshd[14171]: Failed password for root from 119.249.54.75 port 58377 ssh2
+Oct 28 05:52:36 testsite sshd[14169]: message repeated 2 times: [ Failed password for root from 116.31.116.44 port 48235 ssh2]
+Oct 28 05:52:36 testsite sshd[14169]: Received disconnect from 116.31.116.44: 11:  [preauth]
+Oct 28 05:52:36 testsite sshd[14169]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=116.31.116.44  user=root
+Oct 28 05:52:38 testsite sshd[14171]: message repeated 2 times: [ Failed password for root from 119.249.54.75 port 58377 ssh2]
+Oct 28 05:52:38 testsite sshd[14171]: Received disconnect from 119.249.54.75: 11:  [preauth]
+Oct 28 05:52:38 testsite sshd[14171]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=119.249.54.75  user=root
+Oct 28 05:52:40 testsite sshd[14173]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=119.249.54.75  user=root
+Oct 28 05:52:42 testsite sshd[14173]: Failed password for root from 119.249.54.75 port 36522 ssh2
+Oct 28 05:52:47 testsite sshd[14173]: message repeated 2 times: [ Failed password for root from 119.249.54.75 port 36522 ssh2]
+Oct 28 05:52:48 testsite sshd[14173]: Received disconnect from 119.249.54.75: 11:  [preauth]
+Oct 28 05:52:48 testsite sshd[14173]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=119.249.54.75  user=root
+Oct 28 05:52:49 testsite sshd[14175]: pam_unix(sshd:auth): authenticati<reification> laters tlp
+17:03:54 <skram> be careful mr reif
+17:04:23 <reification> runbunny https://pbs.twimg.com/media/DIZ-_SdXkAAGrjW.jpg:large
+17:04:54 <Runbunny> gg.
+17:05:24 <skram> anders
+17:05:34 <reification> bio https://twitter.com/touhoudottxt/status/902366727463370752
+17:18:14 -!- Yoltphone [~androirc@243.77.126.78.rev.sfr.net] has joined #tlponies
+17:19:56 <Yoltphone> Hi pones
+17:20:23 <CockRoach|42> hai yolt!
+17:21:07 <Yoltphone> How are you CR? :)
+17:22:51 <Runbunny> Jonas.
+17:25:24 <Micen_> Hello
+17:25:56 <Yoltphone> Hola!
+17:26:56 <Dot`> hello pons
+17:27:06 <Yoltphone> Dot <3
+17:27:17 <Micen_> .roll d20 to boop Yolt.
+17:27:27 <Yoltphone> My nose
+17:27:55 <Yoltphone> .roll d20 repair
+17:34:37 <Dot`> skram
+17:42:12 -!- Camail [~Camail@45.40.84.145] has joined #tlponies
+17:42:12 -!- mode/#tlponies [+v Camail] by Q
+17:42:12 <Dot`> Dub
+17:42:16 <Dot`> hej cam
+17:42:24 <DuB`> Wew srs nap
+17:42:40 <Dot`> i too napped dub
+17:42:44 <Dot`> are they contagious?
+17:42:51 <DuB`> Likely.
+17:43:04 <DuB`> Yawns are, and naps are pretty closely related to yawns.
+17:43:14 <Dot`> makes sense
+17:44:15 <Camail> dub go to school
+17:46:00 <DuB`> Next week!
+17:52:15 <Dot`> skram, are you still ok to dnd tomorow?
+17:58:23 <DuB`> Phew
+17:58:36 <DuB`> Amazon-ed what books I could, reserved the rest at campus bookstore.
+17:58:46 <DuB`> Think I'm about ready.
+18:02:12 -!- DoT|Phone [~Dot@94.3.62.254] has joined #tlponies
+18:10:03 <DuB`> Got my usual two things at taco bell that I get sometimes
+18:10:22 <DuB`> Someone was feeling generous and made them like twice as big as normal
+18:10:26 <DuB`> I'm stuffed. O_o
+18:12:30 <DuB`> .choose OW PUBG DESTINY OTHER
+18:12:36 <DuB`> YOU ALWAYS CHOOSE THAT SWOOTIE
+18:14:34 -!- BioSC [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+18:27:45 -!- Golly [~Golly@1.92-221-121.customer.lyse.net] has joined #tlponies
+18:33:27 <DoT|Phone> dub please
+18:33:35 <DuB`> dot wat
+18:33:38 <DuB`> y u phon
+18:33:54 <DoT|Phone> food
+18:34:38 <DuB`> Noice
+18:34:40 <DuB`> Enjoy~
+18:37:59 -!- tredc [webchat@90-230-30-217-no56.tbcn.telia.com] has joined #tlponies
+18:39:24 <Camail> DoT|Phone  when r u not phone
+18:39:59 <DoT|Phone> just now
+18:40:16 <Camail> no, yourare phone now
+18:40:19 <Camail> dont lie to me
+18:40:27 <Camail> if we want this relationship to grow it needs to be founded on truth
+18:40:44 <Camail> and terrible, guilty sex used to gain social ground on who gets to use the shower first
+18:42:56 -!- Micen|droid [~AndChat48@h16.210.18.98.dynamic.ip.windstream.net] has joined #tlponies
+18:43:02 <Golly> you dont even shower together?
+18:47:36 <Dot`> all part of the plan
+19:02:01 <Dot`> pon pon
+19:02:03 <Dot`> whast up all
+19:04:09 <Rawr|Fone> Dot
+19:04:15 <Rawr|Fone> I just got home
+19:04:55 -!- Micen|droid [~AndChat48@h16.210.18.98.dynamic.ip.windstream.net] has joined #tlponies
+19:05:17 <Dot`> how was ping pong
+19:09:47 <Rawr|Fone> It was very nice
+19:09:58 <CockRoach|42> did you get to GM?
+19:10:06 <Rawr|Fone> Maybe
+19:11:30 <CockRoach|42> pls be the best GM!
+19:22:33 -!- Bio [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+19:22:42 -!- micen|droid_ [~AndChat48@66-87-19-154.pools.spcsdns.net] has joined #tlponies
+19:23:11 -!- AndChat-484449 [~AndChat48@h16.210.18.98.dynamic.ip.windstream.net] has joined #tlponies
+19:35:41 <skram> Dot`
+19:35:46 <Dot`> Skram
+19:36:08 <skram> whatcha do
+19:36:27 <Dot`> not much, setitng up a dwarf fort game
+19:36:38 <Dot`> and you ser?
+19:38:44 <skram> I had a lil nap
+19:38:46 <skram> now im bored
+19:38:57 <Dot`> are you still ok for dnd tomorow skram?
+19:39:14 <skram> yes of course4
+19:42:03 <Camail> 4?
+19:42:04 <Camail> 4??????
+19:42:09 <Camail> ho dare you
+19:42:19 <Dot`> he counted more than 3
+19:42:26 <Camail> maybe he skipped 3
+19:42:28 <Camail> we cant know
+19:42:30 <motbob> dwarf 4tress
+19:42:32 <Camail> so we cant trust him
+19:42:49 <Dot`> 3 is the number to count and the number of counting shall be 3!
+19:42:52 <skram> calm down you knob gobbler
+19:44:33 <Dot`> skram, you are a miner dorf
+19:44:36 <Dot`> and me6.0 Mobile/10B350 Safari/8536.25"
+198.50.169.92 - - [31/Mar/2014:01:09:35 +0000] "GET /2008/02/26/knight-rider-2008-tv-film/ HTTP/1.0" 200 6834 "http://www.kublermdk.com/2008/02/26/knight-rider-2008-tv-film/" "Mozilla/5.0 (X11; U; Linux i686; it-IT; rv:1.9.0.2) Gecko/2008092313 Ubuntu/9.25 (jaunty) Firefox/3.8"
+198.50.169.92 - - [31/Mar/2014:01:09:37 +0000] "POST /wp-comments-post.php HTTP/1.0" 302 890 "http://www.kublermdk.com" "Mozilla/5.0 (X11; U; Linux i686; it-IT; rv:1.9.0.2) Gecko/2008092313 Ubuntu/9.25 (jaunty) Firefox/3.8"
+76.218.248.67 - - [31/Mar/2014:01:10:15 +0000] "GET /wp-content/uploads/2008/10/img_1327.jpg HTTP/1.1" 200 341491 "-" "Mozilla/5.0 (iPod; CPU iPhone OS 7_0_2 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) GSA/3.2.1.25875 Mobile/11A501 Safari/8536.25"
+78.159.227.142 - - [31/Mar/2014:01:10:42 +0000] "GET /2008/01/10/say-no-to-microsoft-offices-broken-file-format-as-an-iso-standard/ HTTP/1.0" 200 6725 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0)"
+107.155.79.215 - - [31/Mar/2014:01:11:09 +0000] "GET /2008/08/14/photo-of-the-week-004/ HTTP/1.1" 200 5735 "http://www.kublermdk.com/2008/08/14/photo-of-the-week-004/" "Mozilla/5.0 (Windows; U; Windows NT 5.1; pl; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3"
+107.155.79.215 - - [31/Mar/2014:01:11:10 +0000] "POST /wp-comments-post.php HTTP/1.1" 302 917 "http://www.kublermdk.com" "Mozilla/5.0 (Windows; U; Windows NT 5.1; pl; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3"
+37.24.195.218 - - [31/Mar/2014:01:11:51 +0000] "GET /2008/01/10/say-no-to-microsoft-offices-broken-file-format-as-an-iso-standard/ HTTP/1.0" 200 21263 "-" "Mozilla/4.0 (compatible; ICS)"
+37.24.195.218 - - [31/Mar/2014:01:12:13 +0000] "GET /2012/02/18/zeitgeist-movement-video-wall/ HTTP/1.0" 200 17704 "-" "Mozilla/4.0 (compatible; ICS)"
+108.241.22.209 - - [31/Mar/2014:01:14:34 +0000] "GET /wp-content/uploads/2008/06/4popped-collars.png HTTP/1.1" 200 574329 "http://www.neowin.net/forum/topic/788416-collar-up-or-down/page-2" "Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D167 Safari/9537.53"
+66.249.73.166 - - [31/Mar/2014:01:15:54 +0000] "GET /2008/07/17/photo-of-the-week-01/ HTTP/1.1" 200 5879 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+120.37.238.250 - - [31/Mar/2014:01:16:02 +0000] "GET /frame-sizes-web-widget/ HTTP/1.1" 200 5831 "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)"
+120.37.238.250 - - [31/Mar/2014:01:16:04 +0000] "POST /wp-comments-post.php HTTP/1.1" 302 895 "http://www.kublermdk.com/frame-sizes-web-widget/" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; .NET CLR 1.0.3705)"
+74.141.146.163 - - [31/Mar/2014:01:16:45 +0000] "GET /wp-content/uploads/2008/10/img_1298.jpg HTTP/1.1" 200 381023 "-" "Mozilla/5.0 (Linux; U; Android 4.1.2; en-us; LG-LS970 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30"
+175.44.61.162 - - [31/Mar/2014:01:18:05 +0000] "GET /frame-sizes-web-widget/ HTTP/1.1" 200 5832 "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; .NET CLR 2.0.50727 ; .NET CLR 4.0.30319)"
+175.44.61.162 - - [31/Mar/2014:01:18:06 +0000] "POST /wp-comments-post.php HTTP/1.1" 302 919 "http://www.kublermdk.com/frame-sizes-web-widget/" "Mozilla/4.0 (compatible; MSIE 6.0; Win

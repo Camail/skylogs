@@ -1,0 +1,555 @@
+P   4. include() /var/www/filmsonthefly/www/wp/wp-includes/template-loader.php:74
+[Wed Jun 11 06:08:05.669728 2014] [:error] [pid 3109] [client 66.249.70.196:43253] PHP   5. get_sidebar() /var/www/filmsonthefly/www/wp/wp-content/themes/DynamiX/page.php:15
+[Wed Jun 11 06:08:05.669742 2014] [:error] [pid 3109] [client 66.249.70.196:43253] PHP   6. locate_template() /var/www/filmsonthefly/www/wp/wp-includes/general-template.php:95
+[Wed Jun 11 06:08:05.669754 2014] [:error] [pid 3109] [client 66.249.70.196:43253] PHP   7. load_template() /var/www/filmsonthefly/www/wp/wp-includes/template.php:417
+[Wed Jun 11 06:08:05.669766 2014] [:error] [pid 3109] [client 66.249.70.196:43253] PHP   8. require_once() /var/www/filmsonthefly/www/wp/wp-includes/template.php:441
+[Wed Jun 11 06:08:05.669778 2014] [:error] [pid 3109] [client 66.249.70.196:43253] PHP   9. require() /var/www/filmsonthefly/www/wp/wp-content/themes/DynamiX/sidebar.php:12
+[Wed Jun 11 06:08:05.669799 2014] [:error] [pid 3109] [client 66.249.70.196:43253] PHP Warning:  Illegal string offset 'inskin' in /var/www/filmsonthefly/www/wp/wp-content/themes/DynamiX/lib/inc/page-constants.php on line 157
+[Wed Jun 11 06:08:05.669810 2014] [:error] [pid 3109] [client 66.249.70.196:43253] PHP Stack trace:
+[Wed Jun 11 06:08:05.669822 2014] [:error] [pid 3109] [client 66.249.70.196:43253] PHP   1. {main}() /var/www/filmsonthefly/www/wp/index.php:0
+[Wed Jun 11 06:08:05.669834 2014] [:error] [pid 3109] [client 66.249.70.196:43253] PHP   2. require() /var/www/filmsonthefly/www/wp/index.php:17
+[Wed Jun 11 06:08:05.669846 2014] [:error] [pid 3109] [client 66.249.70.196:43253] PHP   3. require_once() /var/www/filmsonthefly/www/wp/wp-blog-header.php:16
+[Wed Jun 11 06:08:05.669858 2014] [:error] [pid 3109] [client 66.249.70.196:43253] PHP   4. include() /var/www/filmsonthefly/www/wp/wp-includes/template-loader.php:74
+[Wed Jun 11 06:08:05.669870 2014] [:error] [pid 3109] [client 66.249.70.196:43253] PHP   5. get_sidebar() /var/www/filmsonthefly/www/wp/wp-content/themes/DynamiX/page.php:15
+[Wed Jun 11 06:08:05.669882 2014] [:error] [pid 3109] [client 66.249.70.196:43253] PHP   6. locate_template() /var/www/filmsonthefly/www/wp/wp-includes/general-template.php:95
+[Wed Jun 11 06:08:05.669894 2014] [:error] [pid 3109] [client 66.249.70.196:43253] PHP   7. load_template() /var/www/filmsonthefly/www/wp/wp-includes/template.php:417
+[Wed Jun 11 06:08:05.669906 2014] [:error] [pid 3109] [client 66.249.70.196:43253] PHP   8. require_once() /var/www/filmsonthefly/www/wp/wp-includes/template.php:441
+[Wed Jun 11 06:08:05.669918 2014] [:error] [pid 3109] [client 66.249.70.196:43253] PHP   9. require() /var/www/filmsonthefly/www/wp/wp-content/themes/DynamiX/sidebar.php:12
+[Wed Jun 11 06:08:06.051242 2014] [:error] [pid 3109] [client 66.249.70.196:43253] PHP Warning:  Illegal string offset 'gallerynpostexcerpt' in /var/www/filmsonthefly/www/wp/wp-content/themes/DynamiX/lib/inc/page-constants.php on line 115
+[Wed Jun 11 06:08:06.051299 2014] [:error] [pid 3109] [client 66.249.70.196:43253] PHP Stack trace:
+[Wed Jun 11 06:08:06.051318 2014] [:error] [pid 3109] [client 66.249.70.196:43253] PHP   1. {main}() /var/www/filmsonthefly/www/wp/index.php:0
+[Wed Jun 11 06:08:06.051333 2014] [:error] [pid 3109] [client 66.249.70.196:43253] PHP   2. require() /var/www/filmsonthefly/www/wp/index.php:17
+[Wed Jun 11 06:08:06.051346 2014] [:error] [pid 3109] [client 66.249.70.196:43253] PHP   3. require_once() /var/www/filmsonthefly/www/wp/wp-blog-header.php:16
+[Wed Jun 11 06:08:06.051359 2014] [:error] [pid 3109] [client 66.249.70.196:43253] PHP   4. include() /var/www/filmsonthefly/www/wp/wp-includes/template-loader.php:74
+[Wed Jun 11 06:08:06.051371 2014] [:error] [pid 3109] [client 66.249.70.196:43253] PHP   5. get_footer() /var/www/filmsonthefly/www/wp/wp-content/themes/DynamiX/page.php:102
+[Wed Jun 11 06:08:06.051384 2014] [:error] [pid 3109] [client 66.249.70.196:43253] PHP   6. locate_template() /var/www/filmsonthefly/www/wp/wp-includes/general-template.php:65
+[Wed Jun 11 06:08:06.051397 2014] [:error] [pid 3109] [clieicati@cpc76294-cosh16-2-0-cust297.6-1.cable.virginm.net] has joined #tlponies
+11:27:38 -!- mode/#tlponies [+v reification] by Q
+11:27:59 <skram> reef
+11:30:30 <reification> skram
+11:30:35 <skram> hallo
+11:30:43 <reification> hei
+11:45:47 <reification> skram dot https://pbs.twimg.com/media/DHJpBN1XoAAazTs.jpg
+11:47:57 <Dot`> hey reif
+11:55:48 <reification> hello dotties
+11:56:53 <Dot`> hows you
+11:57:17 <reification> https://twitter.com/GeneticJen/status/897153589193441281
+11:57:31 <reification> about to go eat homemade chicken soup
+11:57:33 <reification> how’s you?
+11:57:38 <Dot`> nice! 
+11:57:40 <Dot`> i am good
+12:04:42 <Dot`> cr!
+12:04:43 <Dot`> https://ichef.bbci.co.uk/news/976/cpsprodpb/2104/production/_97325480_78ffa932-8660-44ea-9c81-b182283e5489.jpg
+12:05:28 <reification> bonus spider facts for dot https://twitter.com/GeneticJen/status/872429462859771910
+12:06:05 <Dot`> i dont mind small spiders
+12:06:07 <Dot`> mostly
+12:07:51 <skram> what about butt spiders
+12:10:05 <Dot`> skram, who has been telling you about butt spiders
+12:12:46 <skram> they are common knowledge
+12:15:29 <Dot`> jonas pls
+12:15:49 <skram> whats wrong dot
+12:16:11 <Dot`> hello
+12:16:16 <skram> hey buddy
+12:16:21 <skram> no work today?
+12:16:28 <CockRoach|42> Dot`: dog!
+12:16:32 <Dot`> i fell asleep during artosis gam east night D:
+12:16:38 <Dot`> i missed all the artosis faces
+12:16:48 <skram> me too
+12:29:26 -!- Emily_ [~Emily@HoMM.users.quakenet.org] has joined #tlponies
+12:32:26 -!- ZK-phone [~ZK@ai126165009208.3.access-internet.ne.jp] has joined #tlponies
+12:32:47 <ZK-phone> Today i walked 22 km
+12:32:53 <ZK-phone> I am not used to it
+12:32:57 <ZK-phone> I am sore
+12:33:06 <Dot`> lol
+12:37:11 <ZK-phone> I am going to shower
+12:38:45 <ZK-phone> Also, bathroom has the jets to clean your butt, i want to try it
+12:41:08 <skram> japan is weird
+12:41:27 <Dot`> thats probably why dub like it so much
+12:41:31 <CockRoach|42> haha
+12:41:39 <CockRoach|42> https://miokomata.deviantart.com/art/Trashie-698753418
+12:42:02 <CockRoach|42> .tell phearlock https://miokomata.deviantart.com/art/Trashie-698753418
+12:57:10 <reification> .tell runbunny https://twitter.com/AcademiaObscura/status/897002380549648384
+13:02:22 <skram> i think wikt is in norway?
+13:02:39 <Dot`> what
+13:03:08 <skram> well he sent a snap from kristiansund
+13:03:22 -!- ZK-phone [~ZK@ai126198034043.60.access-internet.ne.jp] has joined #tlponies
+13:03:55 <ZK-phone> Jets up the butt to clean up poo is fun
+13:04:10 <ZK-phone> Dub must love Japan 
+13:06:58 <CockRoach|42> wikt is a bad hors :|
+13:21:52 <ZK-phone> He still here? 
+13:21:59 <Dot`> not for years
+13:26:42 <CockRoach|42> .tell phearlock https://miokomata.deviantart.com/art/Best-Friends-698694510
+13:27:02 <Dot`> lewd
+13:28:02 <CockRoach|42> just a pony sitting on another pony
+13:30:32 <reification> some ppl are just dirty minded cr|42
+13:31:21 <CockRoach|42> yeah
+13:32:16 <ZK-phone> Ok bed time
+13:32:21 <reification> night zk
+13:32:22 <CockRoach|42> night zk
+13:32:32 <ZK-phone> Bye  bye pones
+13:33:44 -!- tredc [webchat@90-230-30-217-no56.tbcn.telia.com] has joined #tlponies
+13:38:19 <Rawr|Fone> .tell DuB` https://imgur.com/gallery/ExUS6R2
+13:38:25 <Rawr|Fone> Dot skram
+13:38:28 <Rawr|Fone> ^
+13:40:20 <Dot`> daaawww
+13:43:43 <skram> what a weird cat
+13:51:42 <reification> https://imgur.com/gallery/vQ1j1
+14:01:08 <Dot`> what you up to skram
+14:02:23 <skram> im watching the game
+14:02:27 <skram> of thrones
+14:02:42 <Dot`> last ep was nice
+14:03:02 <skram> im still on season 6
+14:03:33 <skram> my friend jon is about to attack winterfell
+14:03:39 <skram> boy i sure hope that goes well
+14:04:12 <reification> that’s the show where nothing bad ever happens to anyone right?
+14:04:18 <skram> yup!
+14:09:23 -!- Golly [~Golly@1.92-221-121.customer.lyse.net] has joined #tlponies
+14:17:20 <Dot`> skram http://imgur.com/gallery/APTwD
+14:31:31 <skram> some eyebleach after this is pretty nice Dot`
+14:32:06 <Dot`> is GoT causing you nightmares skram
+14:32:19 <skram> its giving me anxiety
+14:32:48 <Dot`> they all die, just accept it and then no worries
+14:32:58 <skram> but jon is my friend, Dot`
+14:33:27 <Dot`> Jora the explorer is the only true best charcater
+14:33:43 <skram> thats fair
+14:34:51 <skram> even if he has leprosy
+14:58:46 <skram> Dot` im starting to think this Cersei person is a bit of a meanie
+14:59:11 <Dot`> she loves her family and thats what matters
+14:59:27 <skram> She killed most of it, one way or the other
+15:00:04 <Dot`> no ones perfect
+15:02:44 <skram> except hodor of course
+15:02:54 <Dot`> well yea
+15:15:06 -!- carcinisation [~smuxi@cpc76294-cosh16-2-0-cust297.6-1.cable.virginm.net] has joined #tlponies
+15:32:00 <Dot`> pon pon
+15:32:23 <carcinisation> pon
+15:35:53 -!- Runbunny [~Runbunny@91.100.28.10.generic-hostname.arrownet.dk] has joined #tlponies
+15:35:57 <Dot`> runbun!
+15:36:14 <carcinisation> hello bun
+15:36:21 <Runbunny> Hello.
+15:38:21 <Dot`> skram, i now have pakko as a cycle hero
+15:42:33 <skram> pakko is tiny and his face is dumb
+15:43:36 <Dot`> D:
+15:48:03 <Rawr|Fone> Quite rude
+15:48:08 <skram> I dont trust this littlefinger person Dot`o
+15:48:15 <skram> I think he is up to no good
+15:48:26 <skram> Anders.
+15:52:35 <Runbunny> Jonas.
+15:52:42 <Runbunny> did you check my snap?
+15:55:47 <skram> yes!
+15:55:52 <skram> that was a nice wall
+15:59:14 <Runbunny> Sure was.
+15:59:32 <Runbunny> .tell DuB` http://i.imgur.com/itsRY9V.jpg
+16:10:12 -!- Zounds [~chatzilla@cpc108453-cowc8-2-0-cust8.14-2.cable.virginm.net] has joined #tlponies
+16:10:12 -!- mode/#tlponies [+v Zounds] by Q
+16:10:12 <Dot`> rawr rawr
+16:10:16 <Dot`> Hej zounds
+16:10:21 <Zounds> ey dot
+16:10:52 <skram> Ay zounds
+16:12:47 <Zounds> hey skram
+16:14:04 <Dot`> what you up to today zounds
+16:14:56 <Zounds> Not much exciting dotman
+16:22:14 <carcinisation> drop stalber, win stalber, zone is primorsk. running sim, continous redzone, die in front of bike...
+16:22:41 <skram> what
+16:22:49 <carcinisation> pubg skram
+16:23:11 <carcinisation> game before was mystery locked room death by ak
+16:23:25 <Dot`> reif, i played a few rounds earlier and 3 bombing zones in a row on my head
+16:24:30 <carcinisation> yep that was "continuous redzone" :/
+16:29:12 <Dot`> i do really like fpp though, its gettign more like arma slowly
+16:29:22 <Dot`> without the clunkiness
+16:34:49 -!- Emily_ [~Emily@HoMM.users.quakenet.org] has joined #tlponies
+16:37:53 <carcinisation> fpp is more skillful
+16:38:19 <carcinisation> so i'm even worse at it
+16:38:34 <Dot`> i hear that a lot, but i dont see how it can be more skillfull
+16:38:39 <Dot`> its a diffrent skill
+16:38:43 <carcinisation> we should fpp squads now that's a thing
+16:41:15 <Dot`> we should sometime
+16:42:28 <carcinisation> fpp is more punishing on my inablility to see ppl fast
+16:43:25 <Dot`> but the game has a mmr system
+16:43:34 <Dot`> so you get put agionst people of simler inability
+16:44:46 <Bio> gud marnin
+16:44:49 <Dot`> biop
+16:45:12 <Bio> dotp
+16:46:38 <carcinisation> hello bio
+16:49:36 <Bio> hallo
+17:09:27 <Cane> https://clips.twitch.tv/HelplessPhilanthropicWaffleTheRinger
+17:10:17 <Dot`> poor rael
+17:10:35 <Bio> struggle def real
+17:10:41 <Dot`> when sc speedrun
+17:11:58 <Dot`> Gigantic has a 2.5 gb update apparently
+17:32:55 <Zounds> New hero?
+17:33:04 <Dot`> i think so
+17:33:14 <Zounds> neat
+17:34:36 <Dot`> yip, new hero
+17:34:44 <Dot`> i still prefer mozu
+17:37:40 -!- Golly [~Golly@1.92-221-121.customer.lyse.net] has joined #tlponies
+17:40:51 <skram> well
+17:40:55 <skram> ur a bit weird
+17:41:09 <Dot`> and?
+17:41:59 <Bio> we are all a bit weird, tbqh
+17:42:24 <skram> to be quite honest
+17:42:25 <skram> ?
+17:45:45 <Dot`> im sure it has something to do with total biscuit
+17:49:22 -!- Camail [~Camail@45.40.84.145] has joined #tlponies
+17:49:22 -!- mode/#tlponies [+v Camail] by Q
+17:49:56 <Dot`> buttest
+17:51:16 <Runbunny> reification, http://i.imgur.com/SyHd6ZZ.jpg
+17:51:19 <skram> dot has a keen eye for butts
+17:51:44 <Runbunny> Dot`, http://i.imgur.com/qm6Hc9o.jpg
+17:51:47 <Runbunny> Where is rawr?
+17:51:55 <Dot`> rawr pls
+17:52:25 -!- DuB` [DuB@66-219-212-247.dynamic.ip.veracitynetworks.com] has joined #tlponies
+17:52:27 <DuB`> HENLU
+17:53:09 <skram> Y HELO THAR
+17:54:27 <Runbunny> Hai Dub.
+17:54:33 <Dot`> Oh biy, its a dub
+17:54:45 <Dot`> boy
+17:54:46 <DuB`> y u .tell this ranbon
+17:54:48 <DuB`> So silly
+17:55:41 <Dot`> i think you will find you are the silly one dub
+17:55:46 <skram> You know what else is silly, DuB`?
+17:55:47 <DuB`> PFF
+17:55:48 <skram> Its you.
+17:55:51 <DuB`> NAW
+17:55:51 <skram> You are the silly.
+17:56:28 <skram> Dot` why does jora the explorer have leprosy
+17:56:36 <skram> I think I missed that part
+17:57:04 <Dot`> he was touched by a stone thing
+17:57:11 <skram> oh gosh no
+17:57:14 <skram> not the stone thing
+17:57:15 <Dot`> while on a boat if i recall
+17:57:27 <Dot`> one of the stone people
+17:58:13 <Runbunny> It's funny Dub :/
+17:59:08 <DuB`> :P
+18:01:40 <Camail> pls
+18:02:41 <carcinisation> i didn't even know you had a job here to do runbun...
+18:02:46 <Dot`> new hero in gigantic cam
+18:03:05 <Camail> i saw an update, its that one guy
+18:03:08 <Dot`> not a healer though :(
+18:03:17 <Camail> i imagine he's behind a pay wall right now
+18:03:20 -!- Rawr|Fone [~AndChat25@84-217-62-32.customers.ownit.se] has joined #tlponies
+18:03:27 <Dot`> nah, 13000 
+18:03:36 <Camail> yea
+18:03:38 <Dot`> so expensive but you can get him
+18:03:54 <skram> pssh
+18:03:57 <Camail> thats what i meant by the paywall, but yea
+18:03:58 <Camail> expected
+18:04:02 <Camail> did ramses go down to 10k
+18:04:06 <skram> thats only like 20 hours of gaming
+18:04:08 <skram> maybe a bit more
+18:04:12 <skram> maybe a lot more
+18:04:17 <Dot`> ah, i thought you meant actual money ruby things
+18:04:47 <Camail> I'm up to 6k again
+18:04:55 <Camail> dunno if i even want to buy another hero
+18:05:08 <Dot`> i also have pakko on rotation, so will try him when we play
+18:05:11 <Camail> i dont want to buy voden because run likes him, and i think you should try him maybe
+18:05:35 <Dot`> i tihnk i could enjoy voden
+18:08:32 <Camail> oh god last night i had a team where the ramses, on a team with all melee on reef, sprinted to the middle and sat there
+18:08:36 <Camail> it was a bad game
+18:08:52 <Zounds> If we stack gigantic lemme know
+18:09:04 <Camail> no i will keep it secret
+18:09:06 <Camail> secret stack
+18:09:09 <Camail> no zounds allowed
+18:09:20 <Runbunny> very quiet stack
+18:09:26 <skram> lets make our own stack zounds
+18:09:33 <skram> with blackjack and hookers
+18:09:52 <Zounds> Yes
+18:09:54 <Camail> OH, but i figured out a really good strat on reef, you attack f, and when they are running from e, you back up into that hallways conencting c and f
+18:10:07 <Camail> then you have a close ranged fight where their engagement is terrible
+18:10:13 <Camail> it works really well vs a team with a sniper
+18:10:34 <Camail> your ranged can sit behind the c rock and they have tog et up close
+18:11:16 <Zounds> Yeah i've seen that happen a few times naturally
+18:11:34 <Camail> thats where i got the idea, and it just seems to always go in the attackers favor
+18:11:58 <Zounds> I'm sure we'll find a way to change that
+18:14:07 <Camail> in general i am thinking about timing an attack, then engaging right before they get to you
+18:14:19 <Camail> you dont want to dive a 100% health active creature
+18:14:28 <Camail> there isnt enough time to kill it unless you dump focus
+18:14:40 <Zounds> I got the shadow cerberus btw
+18:14:49 <DuB`> https://i.imgur.com/T39Hk4h.gifv
+18:15:33 <Camail> thats useful
+18:15:36 <Camail> that fucker is hard to kill
+18:15:42 <Camail> both lvl 2 scouts are
+18:15:46 <Camail> they mvoe around so god damned much
+18:15:53 <Zounds> yeah the shadow cerberus in particular
+18:16:00 <Camail> also
+18:16:01 <Zounds> he's immune while doing his blink strikes I believe
+18:16:04 <Camail> you can hide underneath it while healing
+18:16:07 <Camail> which is INSANE
+18:17:01 <Camail> having on siren's point D is nice
+18:18:16 <Zounds> Takes 2 focus to evolve him compared to the regular cerberus
+18:18:24 <Zounds> I'll have to keep that in mind
+18:18:45 <Dot`> i have 11k currently
+18:18:57 <Dot`> i think before i buy a hero i will get one of the point things
+18:19:06 <skram> buy one you hate
+18:19:07 <Dot`> no decision yet though
+18:19:16 <Dot`> the skram tactic
+18:20:47 <DuB`> Get tripp skins.
+18:20:50 <DuB`> Or a DRAGON!
+18:21:12 <DuB`> I wanna OW or pubgame today~
+18:21:45 <Dot`> does a dragon use 3 focus to get? because i can do that most games then :P
+18:21:56 <Zounds> One of them does but they're rubbish
+18:22:42 <Dot`> thats sad zounds
+18:22:46 <DuB`> Oh? :o
+18:22:47 <DuB`> Drat.
+18:24:17 <Zounds> New guy seems interesting
+18:24:21 <Zounds> I'll try him out if we play later
+18:27:55 <Dot`> https://www.twitch.tv/starcraft
+18:28:08 <Dot`> snute vs demu
+18:31:13 <Dot`> snuta!
+18:34:46 <Camail> Dot`  if you wanted to you can move your hollow knight save to the steam folder
+18:34:51 <Camail> thats what i did way back then
+18:36:19 <Dot`> nah, im working back through it, a lot is going far quicker and its a nce refresher
+18:36:42 <Camail> yea i figured, just wanted to point out that it works
+18:36:45 <Dot`> but i am really confused how i fell to the spider place early on last time
+18:36:50 <Bio> got 89% done so far
+18:36:55 <Camail> there's like 3 entrances
+18:36:57 <Bio> big bit left
+18:37:12 <Dot`> i have been thorugh the city, the kngdom edge, the waterworks and the place under there, and the resting grounds already
+18:37:51 <Dot`> last time while wondering around the greenpath or jellyfish land i fell in a large hole
+18:38:03 <Bio> that happens
+18:38:03 <Dot`> before i even had my first nail upgrade
+18:38:20 <Dot`> now i have looked and cant find that way in
+18:38:42 <DuB`> I NA oberwaj now~
+18:38:47 <Dot`> gl dub
+18:38:50 <Bio> dub pls
+18:38:54 <Camail> yea dot its in the fungal wastes
+18:39:18 <Camail> i believe you can just fall in
+18:39:34 <Camail> its not somewhere you wanna be early game
+18:39:54 <Dot`> yea, you go along a low passage which leads to a temple or something and the ground falls away
+18:40:05 <Dot`> and i fell, and it was awefull
+18:40:06 <Dot`> haha
+18:40:19 <Camail> the burrowing bugs are very annoying if you cant kill them quick
+18:40:28 <Bio> thats the only thing I didn't like about the game. All the random suprise pits into spikes
+18:40:45 <Dot`> fun times bio
+18:40:57 <Bio> mostly in spider hell hole
+18:41:10 <Camail> that entire area is about surprise attacks
+18:41:19 <Dot`> StarCraft Remastered Launch Event
+18:41:19 <Dot`> Day 2   19m
+18:41:24 <Bio> Oh, and they nailed that asthetic
+18:41:32 <Bio> I don't have to like it xD
+18:41:46 <Camail> yea its rough
+18:42:08 <Camail> bio the worst part is the glitch that a certain pit trap was bugged to respawn you out of world
+18:42:12 <Camail> yea i hit that one
+18:42:27 <Dot`> lol, was that the bug i had to grab the update for
+18:42:29 <Camail> and had to revert a lot of progress
+18:42:36 <Camail> one of the bugs
+18:42:48 <Camail> that and not getting any arena rewards
+18:42:54 <Dot`> ouch
+18:43:01 <Bio> fun. one time i got knocked into a wall and was floating around in places
+18:43:08 <Dot`> spooky
+18:43:11 <Bio> exit to screen fixed it
+18:43:12 <Camail> i had to download a hack to reset the first arena
+18:43:38 <Camail> wasnt an issue though because i had the final nail
+18:43:42 <Camail> which has a siiiiiick design
+18:43:47 <Bio> first 2 arenas worked for me, still struggling on arena 3
+18:44:00 <Camail> the trial of the fool was my final 1%
+18:44:03 <Bio> thou now i have more badges and all the upgrades
+18:44:09 <Camail> i only did it to complete the bestiary
+18:44:19 <Camail> its just long, really
+18:44:39 <Bio> yeh, i'll give it a try again
+18:44:58 <Camail> the badge that gives you quick healing is useful
+18:49:32 <Camail> charm*
+18:55:47 <Cane> https://www.twitch.tv/day9tv is live, 5 minutes until day 2 of the launch event begins.
+19:09:22 <Cane> Let's go White-Ra!
+19:11:51 <Dot`> WHITE RA
+19:17:43 <Dot`> boom
+19:20:57 <Dot`> hmmmm
+19:21:29 <tredc> gg
+19:22:32 <Cane> gg
+19:22:42 <Cane> I really want him to at least win one freaking game!
+19:29:04 -!- Oatsmaster [~Oatsmaste@ip68-5-138-160.oc.oc.cox.net] has joined #tlponies
+19:30:58 <Runbunny> DuB`, This is how you birb? https://www.youtube.com/watch?v=UcEdRM3se6w
+19:34:03 <Zounds> Camail: are you playing some or just checking the new guy?
+19:34:16 <Camail> checking new guy and also testing some zandora stuff
+19:34:20 <Camail> but i can play if you want
+19:34:37 <Zounds> I'll be up for some games shortly
+19:34:43 <Camail> we wont be able to get a stack cuz broodwar
+19:35:16 <Zounds> They're just dead weight anyway
+19:35:33 <Bio> savage af fam
+19:36:28 <DuB`> Runbunny bahahahah
+19:36:30 <DuB`> I love this
+19:37:02 <Runbunny> It's very birb
+19:37:09 <Camail> brb
+19:41:01 <Golly> conga conga congaaaa
+19:42:13 <Zounds> Gonna delay the discord if you don't mind Camail
+19:42:19 <Zounds> talking to my bro atm :P
+19:42:20 <Camail> I'm not even in
+19:42:35 <Camail> dont feel like using headphones atm
+19:42:58 <Cane> Bleh, figures.
+19:43:56 <tredc> gg
+19:44:09 <Dot`> gg :/
+19:51:02 <Bio> birb
+19:58:02 <Camail> Zounds  at the end the ramses walked up to our active hero because we were 80/80
+19:58:07 <Camail> and sitracted him for 1 second
+19:58:10 <Camail> didnt engage, just walked up
+19:58:16 <Camail> I literally talked about that yesterday
+19:58:31 <Camail> and got the rampage
+19:58:40 <Zounds> Yeh
+19:58:54 <Camail> zounds we need to play with new players again
+19:58:59 <Camail> i prefer when enemies know nothing
+19:59:02 <Zounds> I couldn't hit anything in melee range to be honest
+19:59:17 <Camail> lag or misses?
+19:59:22 <Zounds> lag I hope
+19:59:26 <Camail> cuz knossus is opssible the most damaging hero
+19:59:42 <Zounds> Just seemed to whiff everything
+20:00:09 <Camail> arbitersssss
+20:00:27 <Zounds> I like to wreck face as knossos but it wasn't happening that time
+20:00:38 <Zounds> I seem to lag a lot in this game but no other
+20:00:40 <Camail> i evne built for you
+20:00:44 <Camail> with my damage buff
+20:00:46 <Camail> T_T
+20:00:53 <Zounds> We both suffered similar fates ^^
+20:01:57 <Dot`> this duo que not wanting anyone else, so mean
+20:04:36 <Cane> Artosis> Gonna be Ventrilo. I don't even know what Discord is, man. I think that's a bad guy in My Little Pony.
+20:05:36 <Dot`> haha
+20:05:43 <Dot`> i went to the bathroom, must have missed it :/
+20:14:30 <carcinisation> laters tlp
+20:14:35 <Golly> pvp Zzzzzzz
+20:20:01 <Camail> anyone else wanna get in the stack?
+20:20:33 <Zounds> Oru pretty strong hero
+20:20:38 <Zounds> Finally a caster I like in this game
+20:20:52 <Camail> well we also crushed them
+20:21:05 <Camail> our team fights were way better
+20:21:18 <Camail> becaues they have vadasi + xenobia = no damage
+20:21:23 <Camail> those games are autolose
+20:21:29 <Zounds> True true
+20:21:44 <Zounds> I managed to snipe the enemy gaurdian to finish the game there at the end
+20:21:57 <Zounds> his ultimates execute thingy also applies to enemy guardians it seems
+20:22:09 <Camail> we were gonna get it, i dove with full health at the end
+20:22:15 <Camail> its so hard to stop a 5v5 in the last wound
+20:22:52 <Zounds> Need some horses for the stack though
+20:23:12 <Camail> dub is playing ow
+20:23:16 <Camail> dot is watching new old game
+20:23:25 <Camail> skram is a buttface
+20:23:55 <Zounds> I was gonna join dub but then I saw arcade and sighed at his casualness
+20:24:02 <Camail> lul
+20:24:59 <Zounds> what about Runbunny
+20:25:07 <Runbunny> What about me?
+20:25:10 <Zounds> wanna play gigantic?
+20:26:04 <DuB`> It's event time, zounds!
+20:26:07 <DuB`> Gotta get my 9
+20:26:24 <Runbunny> sure
+20:26:43 <Zounds> yay
+20:26:48 <Zounds> I understand DuB` 
+20:26:50 <Camail> k, ddcrurd term
+20:27:28 <Dot`> i can still play with stack :/
+20:27:37 <Dot`> i was watching but white ra is out :(
+20:27:53 <Camail> fiiiiine
+20:28:20 <Zounds> I'll be in discord soonish
+20:30:14 <Zounds> I was playing a bit of sc remastered earlier
+20:30:16 <Zounds> looks real nice
+20:30:29 <Zounds> Though I do regret playing through all the BW campaigns last month
+20:30:36 <Zounds> since It isn't so fun to do them again :P
+20:31:44 <tredc> gg
+20:31:48 <Zounds> The ladder and profile pages were not working for me though
+20:32:07 <Zounds> and for a bunch of other folk
+20:33:05 <Dot`> we have room for 1 more next game
+20:33:33 <skram> i havATBJS)"
+www.fernbyfilms.com:80 183.60.214.8 - - [09/May/2014:01:45:19 +0000] "GET /uk/2010/08/02/vale-dan-resin/ HTTP/1.1" 301 487 "-" "Mozilla/5.0 (compatible; EasouSpider; +http://www.easou.com/search/spider.html)"
+www.fernbyfilms.com:80 199.21.99.72 - - [09/May/2014:01:45:19 +0000] "GET /2012/08/12/vale-mel-stuart/feed/ HTTP/1.1" 200 923 "-" "Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)"
+www.fernbyfilms.com:80 173.242.122.10 - - [09/May/2014:01:45:22 +0000] "GET /2011/07/18/movie-review-easy-a-mini-review/ HTTP/1.1" 200 14533 "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) )"
+www.fernbyfilms.com:80 66.249.70.3 - - [09/May/2014:01:45:23 +0000] "GET /2008/07/22/movie-review-the-dark-knight-late-post/?chatcatcher_intense_debate=true&callback=chatcatcher_plugin.insert_tweets HTTP/1.1" 200 17351 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+www.fernbyfilms.com:80 192.0.84.33 - - [09/May/2014:01:45:23 +0000] "HEAD / HTTP/1.1" 200 315 "-" "jetmon/1.0 (Jetpack Site Uptime Monitor by WordPress.com)"
+www.fernbyfilms.com:80 66.249.70.3 - - [09/May/2014:01:45:24 +0000] "GET /2012/03/29/movie-review-the-fall/?chatcatcher_intense_debate=true&callback=chatcatcher_plugin.insert_tweets HTTP/1.1" 200 17570 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+www.fernbyfilms.com:80 72.76.247.21 - - [09/May/2014:01:45:27 +0000] "GET /wp-content/uploads/2008/11/cap007.jpg HTTP/1.1" 200 16864 "https://www.google.com/" "Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D167 Safari/9537.53"
+www.fernbyfilms.com:80 190.79.128.140 - - [09/May/2014:01:45:24 +0000] "POST /2011/07/18/movie-review-easy-a-mini-review/trackback/ HTTP/1.0" 200 579 "http://www.fernbyfilms.com/2011/07/18/movie-review-easy-a-mini-review/" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) )"
+www.fernbyfilms.com:80 27.153.137.10 - - [09/May/2014:01:45:33 +0000] "GET /2014/04/16/movie-review-grand-piano/ HTTP/1.1" 200 18670 "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"
+www.fernbyfilms.com:80 27.153.137.10 - - [09/May/2014:01:45:35 +0000] "POST /wp-comments-post.php HTTP/1.1" 302 559 "http://www.fernbyfilms.com/2014/04/16/movie-review-grand-piano/" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"
+www.fernbyfilms.com:80 198.52.215.202 - - [09/May/2014:01:45:38 +0000] "GET /2013/02/15/movie-review-django-unchained/ HTTP/1.1" 200 20879 "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; .NET CLR 1.0.3705)"
+www.fernbyfilms.com:80 172.245.7.174 - - [09/May/2014:01:45:39 +0000] "GET /2008/10/25/the-top-ten-worst-movie-conventions-cliches/ HTTP/1.0" 200 30116 "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; FunWebProducts; .NET CLR 1.1.4322; PeoplePal 6.2)"
+www.fernbyfilms.com:80 210.22.59.58 - - [09/May/2014:01:45:43 +0000] "POST /2013/02/15/movie-review-django-unchained/trackback/ HTTP/1.0" 200 542 "http://www.fernbyfilms.com/2013/02/15/movie-review-django-unchained/" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; .NET CLR 2.0.50727 ; .NET CLR 4.0.30319)"
+www.fernbyfilms.com:80 112.111.173.73 - - [09/May/2014:01:46:05 +0000] "GET /2013/11/04/movie-review-the-uninvited-2009/ HTTP/1.1" 200 17999 "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"
+www.fernbyfilms.com:80 203.35.216.82 - - [09/May/2014:01:46:01 +0000] "POST /wp-admin/admin-ajax.php HTTP/1.1" 200 533 "http://www.fernbyfilms.com/wp-admin/admin.php?page=stats&view=postviews&summarize&numdays=-1" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30)"
+www.fernbyfilms.com:80 112.111.173.73 - - [09/May/2014:01:46:06 +0000] "POST /wp-comments-post.php HTTP/1.1" 302 566 "http://www.fernbyfilms.com/2013/1115 <DuB`> Can I be a gothic loli?
+22:26:18 <Camail> or as close to happy as he can be
+22:26:19 <DuB`> Those are the best ones.
+22:26:22 <DuB`> I need a frilly dress.
+22:26:24 <Dot`> Dont want to disspoint him dub! start gettign ready
+22:26:35 <skram> I dont know what those are but im not going to google it
+22:26:53 <Dot`> skram, you are anime, you know already
+22:26:56 <Camail> its a loli, but emo
+22:26:59 <Camail> basically
+22:27:06 <skram> oh ok
+22:27:12 <Camail> gothic lolita is a fashion style
+22:27:29 <Camail> the idea is to mix innocence and macabre aesthetics 
+22:27:39 <Rawr|Fone> This is why jesus is not coming back
+22:27:46 <Camail> which is, when you think about it, kinda fucked
+22:27:51 <Camail> rawr! perfect
+22:27:54 <Camail> put on this dress
+22:28:02 <Dot`> runbun gets 2?
+22:28:03 <DuB`> Just in time!
+22:28:06 <Rawr|Fone> Pls
+22:28:08 <Camail> harem anime
+22:28:08 <DuB`> lol!
+22:28:20 <Camail> dot's small
+22:28:21 <Camail> him too
+22:28:24 <Camail> he can be tsundere
+22:28:39 <Camail> rawr obviously yandere
+22:28:40 <DuB`> tsuntsuntsundere
+22:28:44 <Camail> and dub is the slutty one
+22:29:02 <Rawr|Fone> I don't know what all these words mean
+22:29:24 <DuB`> nan da to
+22:29:45 <skram> https://www.youtube.com/watch?v=K7wNpStFPA0
+22:29:59 <Rawr|Fone>  Please speak either american or scandinavian
+22:30:26 <Dot`> i dont know enough anime to give cam a title in all this
+22:30:48 <skram> I dont think there are words in our language for such depravity, rawr.
+22:31:03 <Rawr|Fone> Probably true
+22:32:16 <DuB`> Cam needs to be an oujou so he can properly OHOHOHO
+22:33:08 <skram> google tells me oujou means death or royal castle
+22:33:27 <DuB`> Ojou*
+22:33:53 <skram> yeah still makes little sense
+22:34:22 <DuB`> http://tvtropes.org/pmwiki/pmwiki.php/Main/NoblewomansLaugh
+22:34:24 <Camail> rich girl
+22:34:50 <Dot`> lol
+22:34:52 <skram> anime is fucking weird
+22:35:00 <Camail> some of it is
+22:35:04 <DuB`> You say this about many things, skram.
+22:35:08 <DuB`> Including AMERICA.
+22:35:09 <Camail> more accurately its manga
+22:35:28 <Camail> the weirdest part about japan entertainment is how aggressively multi media it is
+22:35:32 <Dot`> LOL that scarab
+22:35:34 <Dot`> bugged
+22:35:37 <DuB`> D:
+22:35:44 <DuB`> No splat D:
+22:36:08 <Dot`> awwww
+22:36:09 <DuB`> The scarabs!
+22:36:11 <DuB`> They do nothing!
+22:36:14 <Dot`> such sadness
+22:37:45 <Dot`> MUT MUTTS
+22:38:30 <DuB`> ded deds
+22:39:47 <Dot`> overlords popping is great
+22:41:45 <Dot`> zerg hives are pretty fancy 
+22:41:53 <Dot`> Doom drop?
+22:42:00 <Camail> I'm so fucking bummed about n0thing
+22:42:16 <Dot`> CARRIERS
+22:42:48 <Dot`> thats 1 later disruption
+22:42:52 <Dot`> late*
+22:43:56 <Cane> What is this game
+22:44:31 <DuB`> Rampant Hydras!
+22:44:37 <DuB`> Into Carrier Blob
+22:45:31 <Dot`> disrution over mist stuff = no combat zone
+22:46:13 <Dot`> hydra hydra hydra
+22:47:56 <Dot`> GG
+22:48:03 <tredc> gg
+22:48:53 <skram> who are the 2 dudes on the left
+22:52:43 <Dot`> i forget
+22:56:49 <tredc> gg
+22:57:14 <Cane> gg
+23:08:12 <tredc> gg
+23:08:39 <Camail> the other guy on the couch is one of the observers
+23:09:39 <DuB`> Ye, schamtoo
+23:09:45 <DuB`> Also twitch staff
+23:09:52 <skram> is youtube ded for anyone else
+23:10:27 <DuB`> Nawp
+23:11:11 <skram> hmm
+23:14:45 <Bio> i can't fuckin do this trial of the fool
+23:15:00 <Bio> every time i get to the wall bouncing part and just fuckin die
+23:17:17 <reification> night all
+23:21:42 <Camail> yea bio its frustrating 
+23:21:49 <Camail> i did literally everything else first
+23:23:48 <Bio> I like having the quicker sword art charge, since the slash kills a bunch of enemies in one hit
+23:23:51 <Bio> but man
+23:23:57 <Bio> tuff
+23:25:09 <Camail> sword range, sword speed, and quick regen are what i relied on
+23:26:51 -!- motbob_ [~motbob@47.42.239.25] has joined #tlponies
+23:41:28 <tredc> gg
+23:59:35 <Bio> jee jee

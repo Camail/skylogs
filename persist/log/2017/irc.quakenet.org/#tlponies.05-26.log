@@ -1,0 +1,426 @@
+.
+bhggroup.cn.	86400	IN	NS	dns13.hichina.com.
+bhbyd.cn.	86400	IN	NS	f1g1ns2.dnspod.net.
+bhbyd.cn.	86400	IN	NS	f1g1ns1.dnspod.net.
+bhgbm.com.cn.	86400	IN	NS	f1g1ns2.dnspod.net.
+bhgbm.com.cn.	86400	IN	NS	f1g1ns1.dnspod.net.
+bhg-hypermarket.cn.	86400	IN	NS	dns18.hichina.com.
+bhg-hypermarket.cn.	86400	IN	NS	dns17.hichina.com.
+bhfunds.com.cn.	86400	IN	NS	dns14.hichina.com.
+bhfunds.com.cn.	86400	IN	NS	dns13.hichina.com.
+bhgift.cn.	86400	IN	NS	f1g1ns1.dnspod.net.
+bhgift.cn.	86400	IN	NS	f1g1ns2.dnspod.net.
+bhfkyy031.cn.	86400	IN	NS	f1g1ns1.dnspod.net.
+bhfkyy031.cn.	86400	IN	NS	f1g1ns2.dnspod.net.
+bhfcix.com.cn.	3600	IN	NS	ns5.dnsdun.net.
+bhfcix.com.cn.	3600	IN	NS	ns2.dnsdun.com.
+bhgbx.com.cn.	86400	IN	NS	f1g1ns1.dnspod.net.
+bhgbx.com.cn.	86400	IN	NS	f1g1ns2.dnspod.net.
+bhfz.com.cn.	7200	IN	NS	dns1.iidns.com.
+bhfz.com.cn.	7200	IN	NS	dns2.iidns.com.
+bhfz.com.cn.	7200	IN	NS	dns3.iidns.com.
+bhfz.com.cn.	7200	IN	NS	dns4.iidns.com.
+bhfz.com.cn.	7200	IN	NS	dns5.iidns.com.
+bhfz.com.cn.	7200	IN	NS	dns6.iidns.com.
+bhfkyy023.cn.	86400	IN	NS	f1g1ns1.dnspod.net.
+bhfkyy023.cn.	86400	IN	NS	f1g1ns2.dnspod.net.
+b-health.com.cn.	7200	IN	NS	ns1.51dns.com.
+b-health.com.cn.	7200	IN	NS	ns2.51dns.com.
+bhggzy.cn.	86400	IN	NS	dns32.hichina.com.
+bhggzy.cn.	86400	IN	NS	dns31.hichina.com.
+bhgd.com.cn.	3600	IN	NS	ns4.myhostadmin.net.
+bhgd.com.cn.	3600	IN	NS	ns5.myhostadmin.net.
+bhgd.com.cn.	3600	IN	NS	ns6.myhostadmin.net.
+bhgd.com.cn.	3600	IN	NS	ns1.myhostadmin.net.
+bhgd.com.cn.	3600	IN	NS	ns2.myhostadmin.net.
+bhgd.com.cn.	3600	IN	NS	ns3.myhostadmin.net.
+bhgf.cn.	7200	IN	NS	dns1.iidns.com.
+bhgf.cn.	7200	IN	NS	dns2.iidns.com.
+bhgf.cn.	7200	IN	NS	dns3.iidns.com.
+bhgf.cn.	7200	IN	NS	dns4.iidns.com.
+bhgf.cn.	7200	IN	NS	dns5.iidns.com.
+bhgf.cn.	7200	IN	NS	dns6.iidns.com.
+bhfhh.org.cn.	86400	IN	NS	f1g1ns1.dnspod.net.
+bhfhh.org.cn.	86400	IN	NS	f1g1ns2.dnspod.net.
+bhgjylcwz1199.cn.	7200	IN	NS	ns1.51dns.com.
+bhgjylcwz1199.cn.	7200	IN	NS	ns2.51dns.com.
+bhgmall.cn.	60	IN	CNAME	b.dcoin.co.
+bhgjylc1199.cn.	7200	IN	NS	ns1.51dns.com.
+bhgjylc1199.cn.	7200	IN	NS	ns2.51dns.com.
+bhfkyy046.cn.	86400	IN	NS	f1g1ns1.dnspod.net.
+bhfkyy046.cn.	86400	IN	NS	f1g1ns2.dnspod.net.
+bhcyts.cn.	600	IN	NS	ns5.cnmsn.net.
+bhcyts.cn.	600	IN	NS	ns6.cnmsn.net.
+bhghotels.com.cn.	3600	IN	NS	ns17.xincache.com.
+bhghotels.com.cn.	3600	IN	NS	ns18.xincache.com.
+bhebiao.com.cn.	7200	IN	NS	ns1.51dns.com.
+bhebiao.com.cn.	7200	IN	NS	ns2.51dns.com.
+bhedv.com.cn.	7200	IN	NS	ns1.51dns.com.
+bhedv.com.cn.	7200	IN	NS	ns2.51dns.com.
+bheem.cn.	3600	IN	NS	ns2.dnsdun.net.
+bheem.cn.	3600	IN	NS	ns6.dnsdun.com.
+bhfkyy020.cn.	86400	IN	NS	f1g1ns1.dnspod.net.
+bhfkyy020.cn.	86400	IN	NS	f1g1ns2.dnspod.net.
+bh99.cn.	300	IN	NS	ns1.goodnic.net.
+bh99.cn.	300	IN	NS	ns2.goodnic.net.
+bh.gov.cn.	86400	IN	NS	ns1.sfn.cn.
+bh.gov.cn.	86400	IN	NS	ns2.sfn.cn.
+bhh.cn.	60	IN	CNAME	b.dcoin.co.
+bhfkyy045.cn.	86400	IN	NS	f1g1ns2.dnspod.net.
+bhfkyy045.cn.	86400	IN	NS	f1g1ns1.dnspod.net.
+bhgjyl-bb.cn.	600	IN	NS	c.dnspod.com.
+bhgjyl-bb.cn.	600	IN	NS	a.dnspod.com.
+bhgjyl-bb.cn.	600	IN	NS	b.dnspod.com.
+bhakqa.cn.	86400	IN	NS	f1g1ns2.dnspod.net.
+bhakqa.cn.	86400	IN	NS	f1g1ns1.dnspod.net.
+bhghg.cn.	7200	IN	NS	ns1.51dns.com.
+bhghg.cn.	7200	IN	NS	ns2.51dns.com.
+bgzwak.cn.	86400	IN	NS	f1g1ns1.dnspod.net.
+bgzwak.cn.	86400	IN	NS	f1g1ns2.dnspod.net.
+bgsqvy.cn.	86400	IN	NS	f1g1ns1.dnspod.net.
+bgsqvy.cn.	86400	IN	NS	f1g1ns2.dnspod.net.
+bhgjylwz0022.cn.	7200	IN	NS	ns1.51dns.com.
+bhgjylwz0022.cn.	7200	IN	NS	ns2.51dns.com.
+bh.gx.cn.	86400	IN	NS	ns2.sedoparking.com.
+bh.gx.cn.	86400	IN	NS	ns1.sedoparking.com.
+bgu.edu.cn.	3600	IN	NS	ibm-c.
+bhfkyy033.cn.	86400	IN	NS	f1g1ns1.dnspod.net.
+bhfkyy033.cn.	86400	IN	NS	f1g1ns2.dnspod.net.
+bhealthy.cn.	86400	IN	NS	dns32.hichina.com.
+bhealthy.cn.	86400	IN	NS	dns31.hichina.com.
+bhgis.com.cn.	86400	IN	NS	dns10.hichina.com.
+bhgis.com.cn.	86400	IN	NS	dns9.hichina.com.
+bhgjylc-dp.cn.	600	IN	NS	a.dnspod.com.
+bhgjylc-dp.cn.	600	IN	NS	b.dnspod.com.
+bhgjylc-dp.cn.	600	IN	NS	c.dnspod.com.
+bhfw.net.cn.	86400	IN	NS	ns2.alidns.com.
+bhfw.net.cn.	86400	IN	NS	ns1.alidns.com.
+bhgjd.cn.	86400	IN	NS	dns10.hichina.com.
+bhgjd.cn.	86400	IN	NS	dnse today as well
+08:04:03 <CockRoach|42> woho!
+08:07:01 <Rawr|Fone> It was close though
+08:07:43 <Rawr|Fone> I won 3-2 after being behind 0-2
+08:07:59 <Rawr|Fone> And having to catch up 2-8 in the fourth set
+08:10:53 <Dot`> morning all
+08:11:01 <Rawr|Fone> Dot dot dot
+08:11:09 <Dot`> Rawr awr rawr
+08:11:10 <Dot`> <3
+08:11:11 <Rawr|Fone> <3
+08:23:47 <Rawr|Fone> How are you dot
+08:25:02 <Dot`> tired rawr
+08:25:06 <Dot`> more work today
+08:25:09 <Dot`> hows ping pong
+08:25:16 <Rawr|Fone> See above
+08:25:26 <Dot`> nice  <3
+08:31:48 <Rawr|Fone> <3
+08:32:41 <CockRoach|42> is your next game at 14, Rawr|Fone?
+08:40:15 <Rawr|Fone> No, it depends on when the other groups finish
+08:40:22 <CockRoach|42> ah
+08:40:25 <Rawr|Fone> The next event starts at 14
+08:40:33 <Rawr|Fone> Which is another group stage
+08:56:17 <Dot`> does it go through the weekend rawr?
+08:56:40 <Rawr|Fone> I'm playing tomorrow as well
+09:19:13 <Runbunny> Dot`, http://i.imgur.com/PKragkf.jpg
+09:19:20 <Runbunny> Rawr yoy may look as well.
+09:19:37 <Rawr|Fone> Thanks
+09:27:42 -!- tredc [webchat@90-230-30-217-no56.tbcn.telia.com] has joined #tlponies
+09:29:58 <Dot`> i like this
+09:31:30 -!- Westy543 [~Westy543@c-73-189-129-4.hsd1.ca.comcast.net] has joined #tlponies
+09:31:30 -!- mode/#tlponies [+v Westy543] by Q
+09:42:34 <Dot`> almost time for me to go :(
+09:43:48 <CockRoach|42> pls dot
+09:44:17 <Dot`> it cant be helped 
+09:48:09 -!- Yolteotl [webchat@243.77.126.78.rev.sfr.net] has joined #tlponies
+09:48:18 <CockRoach|42> yolo!
+09:48:24 <CockRoach|42> you just missed dot :|
+09:48:33 <Yolteotl> D:
+09:48:37 <Yolteotl> I don't care, he is the worst
+09:48:46 <Yolteotl> You are here at least!
+09:48:50 <CockRoach|42> i am!
+09:49:04 <Yolteotl> 34Â°C here today
+09:49:11 <Yolteotl> so hot
+09:49:11 <CockRoach|42> that is a bit excessive
+09:49:23 <Yolteotl> I may die in my own juice
+09:49:34 <CockRoach|42> that would be quite bothersome :/
+09:50:06 <Yolteotl> yes :D 
+09:50:42 <Yolteotl> I need to buy some beer
+09:50:56 <CockRoach|42> :)
+09:51:15 <Yolteotl> its a very long week end here in france
+09:51:23 <Yolteotl> thursday was public holiday
+09:51:39 <Yolteotl> and most of companies are closed today
+09:51:43 <CockRoach|42> i've been off since wednesday
+09:51:48 <Yolteotl> :D
+09:52:00 <Yolteotl> you are lazier than french then!
+09:52:12 <CockRoach|42> but we work more the rest of the time!
+09:52:19 <Yolteotl> lies
+09:52:24 <CockRoach|42> most likely :(
+09:52:39 <Yolteotl> :P we are way more efficient 
+09:52:40 <Yolteotl> hihi
+09:53:25 <Yolteotl> I may move to USA in some months
+09:53:29 <CockRoach|42> :O
+09:53:33 <Yolteotl> not sure though
+09:54:52 <CockRoach|42> nice :)
+09:56:39 <Yolteotl> I would finish all my weekend naked at Las Vegas
+09:56:58 <Yolteotl> everything will go well
+09:59:08 <CockRoach|42> :D
+10:07:31 <CockRoach|42> oh yeah, them fightin' herds was released yesterday
+10:10:23 <CockRoach|42> seems to only be for backers :/
+10:45:33 <Rawr|Fone> Semi final once again
+10:45:49 <CockRoach|42> :O
+10:46:22 <CockRoach|42> time to hop off
+11:01:26 -!- CellRoach [~AndChat14@m83-185-243-89.cust.tele2.se] has joined #tlponies
+11:08:53 <Rawr|Fone> I am in the final
+12:05:41 -!- CellRoach [~AndChat14@m83-185-243-89.cust.tele2.se] has joined #tlponies
+12:06:47 <CellRoach> Slowly making my way to the outer reaches of Gothenburg 
+12:08:26 -!- mode/#tlponies [+vvvvvv Bio CellRoach Emily GGMethos Golly Micen] by Cane
+12:08:26 -!- mode/#tlponies [+vvvvvv Rarity Rawr|Fone Runbunny skram sweetiebot tredc] by Cane
+12:08:26 -!- mode/#tlponies [+vv Twi Yolteotl] by Cane
+12:10:07 <CellRoach> Go cane
+12:10:13 <CellRoach> Hi
+12:15:34 -!- CellRoach [~AndChat14@m83-185-243-89.cust.tele2.se] has joined #tlponies
+12:33:08 <CellRoach> Rawr|Fone: look out for someone wearing a black shirt with a unicorn and the text "I will kill you" :)
+12:42:38 <Rawr|Fone> I have black clothes, long hair and several visible tattoos
+12:42:46 <Rawr|Fone> Playing at table 16
+12:43:50 <CellRoach> There didn't seem to be a lot of spots for watchers 
+13:57:38 -!- tredc [webchat@90-230-30-217-no56.tbcn.telia.com] has j                                                                                                                                                                                                                                                                                                                                    þ•Y¦j 
+ 1434557146                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                þ•Z¥j 
+ 1434557142                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                þ•[¤j 
+ 1434557141                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                þ•\£j 
+ 1434557140                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                þ•]¢j 
+ 1434557138                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                þ•^¡j 
+ 1434557137                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                þ•_ j 
+ 1434557136                                                                                 celebrate your victory rawr
+17:32:52 <reification> enough for two presidents :O
+17:33:19 <DoT|Phone> that's a good thing Rawr
+17:33:46 <Rawr|Fone> Thanks reefpon
+17:33:46 <DoT|Phone> I am having brownie and ice cream
+17:34:14 <Rawr|Fone> It's pretty nice dot
+17:34:31 <reification> weather report http://webcomicname.com/image/161018179114
+17:41:20 <DuB`> RAWR WIN?
+17:41:23 <DuB`> FAMOUS?
+17:42:22 <DuB`> Dot` y u no terrarer
+17:43:10 <skram> dub y u no terrarer
+17:43:17 <DuB`> i do tho
+17:43:29 <skram> is wrong terrarer
+17:44:10 <DoT|Phone> i am phone dub
+17:45:43 <DuB`> o
+17:57:22 <skram> how did you turn into a phone dot
+17:57:52 <reification> it was probably a wizard
+17:57:59 <reification> you canâ€™t trust them
+17:59:46 <skram> good point
+18:02:10 <Dot`> just waitign for wizards head to re-appear on troll body, or golem
+18:06:26 -!- DoT|Phone [~Dot@90.197.150.83] has joined #tlponies
+18:09:54 -!- DoT|Phone1 [~Dot@90.197.150.83] has joined #tlponies
+18:31:37 -!- Rawr|Phone [~AndChat25@195-67-134-170.customer.telia.com] has joined #tlponies
+18:41:46 <Runbunny> Dub Dub.
+18:46:38 <Zounds> it's too hot boys
+18:46:55 <skram> Way too hot
+18:47:09 <skram> I had to do manual labor in the sun today
+18:47:27 <Zounds> =(
+18:49:23 <Zounds> I'll be sharing your pain tomorrow
+18:49:32 <Zounds> no manual labour but large crowds for 10 hours
+18:51:59 <skram> Whatcha doin
+18:52:13 <Zounds> working at a music festival
+18:52:22 <skram> ooh
+18:52:53 <skram> that does not sound like much fun
+18:53:26 <Zounds> sometimes it's not too bad but in this heat I think it will suck
+18:54:48 <Dot`> zounds, that too long to be around ppl
+18:55:00 <skram> not everyone is scared of people Dot` :p
+18:55:13 <Dot`> not scared, just dislike
+18:55:15 <Zounds> they're not people though they're attendees
+18:55:18 <Zounds> or punters as we call them
+18:56:23 <skram> fair enough :p
+18:56:58 <Zounds> the bag searching is going to be a bottleneck probably
+18:57:17 <Dot`> did you get a new bunch of security breifings zounds
+18:58:12 <Zounds> I didn't but area managers did
+18:58:18 <Zounds> all I got was an email :p
+18:59:14 <Zounds> I like to think we're not nearly as incompetant as the guys in manchester but we'll see
+18:59:43 <Zounds> the fact that guy hit after the concert was over resonates with the sorta relaxed atmosphere we often feel at the end
+19:01:48 <skram> I believe in you Zounds
+19:22:05 <DuB`> Runbunny hai
+19:22:43 -!- Camail [~Camail@45.40.93.200] has joined #tlponies
+19:22:43 -!- mode/#tlponies [+v Camail] by Q
+19:24:01 <Runbunny> Dub Dub.
+19:24:08 <Dot`> shej cam
+19:24:11 <Dot`> hej
+19:24:22 <Camail> yo
+19:24:35 <Runbunny> Hai Camail.
+19:24:43 <Camail> hi roonboon
+19:26:39 <DuB`> Cam we beat wormguy
+19:26:41 <DuB`> Twice!
+19:26:48 <Camail> nice
+19:26:49 <DuB`> And got some a buncha helltsone.
+19:26:53 <Camail> i assume you fight him underground now
+19:26:55 <DuB`> Because bio OP lava waders ez.
+19:27:10 <Camail> did you go into lava and let him kill himself?
+19:27:22 <DuB`> Naw, fought aboveground.
+19:27:42 <Camail> oh also if you really really wanna cheese it make a spawn house with the nurse in it
+19:27:49 <Camail> infinite health
+19:28:00 <Camail> makes every boss in the game way easier
+19:28:06 <DuB`> Gotta fight skelly now.
+19:28:09 <DuB`> He's hard.
+19:28:19 <Camail> I'll log on for that
+19:28:23 <DuB`> Weeee died. :P
+19:28:32 <Camail> did you fight at th edungeon
+19:28:34 <Camail> or on the platforms
+19:28:42 <Camail> because fighting him on the dungeon is hard
+19:28:49 <DuB`> Around dungeon.
+19:28:50 <Camail> but when you have platforms its more manageable
+19:28:59 <Camail> he follows you everywhere
+19:29:07 <DuB`> Didn't realize head is ACTUALLY invincible in expert mode.
+19:29:19 <DuB`> Also apparently you can't go far from dungeon or he one-shots you on expert.
+19:29:25 <Runbunny> witness Dot.
+19:29:36 <Camail> you can build the platforms around the dungeon
+19:29:39 <Runbunny> I am going for a run and it's going to be horrible.
+19:29:43 <Camail> but using natural terrain sucks
+19:29:48 <Camail> run dont
+19:29:51 <Camail> sit inside and watch hentai
+19:30:03 <Dot`> runbun, WITNESS
+19:30:06 <Camail> buy a toothbrush with ur waifu printed on it
+19:32:53 <Dot`> skram, rawr http://imgur.com/gallery/8dXGW
+19:33:31 <Rawr|Phone> .tell Dot` <3
+19:33:40 <skram> DuB`, are you doing a hardcore run like cane or are you COWARDS?
+19:34:04 -!- carcinisation [~smuxi@cpc76294-cosh16-2-0-cust297.6-1.cable.virginm.net] has joined #tlponies
+19:34:40 <DuB`> We are cowards who have already died quite a lot of times.
+19:35:03 <skram> disgraceful
+19:37:09 <DuB`> MY PLANTS JUST ARRIVED
+19:37:10 <DuB`> WEE
+19:38:16 <skram> Just go into a forest and pick a babby tree and steal it????
+19:38:19 <skram> Or even better
+19:38:26 <skram> Plant a PINECONE.
+20:07:43 <carcinisation> but wouldn't he need a baby pinecone?
+20:08:08 <Dot`> skram, i dont like being tired, cant even plej games because bad
+20:08:27 <carcinisation> i'll play pubg with you shortly dot?
+20:08:35 <carcinisation> then you won't be the bad one :p
+20:08:44 <Dot`> no, i was just trying to play 
+20:08:58 <Dot`> its too frustrating, i am just messing everything up
+20:09:25 <carcinisation> when you start work after time of not work you will be very tired
+20:09:36 <skram> Naps, Dot`
+20:09:37 <skram> do them
+20:09:38 <carcinisation> unless maybe you have dub "work" :p
+20:09:53 <carcinisation> also no evening coffee!
+20:10:28 <Dot`> this is all i get when i try naps skram
+20:10:29 <Dot`> https://en.wikipedia.org/wiki/Hypnic_jerk
+20:10:49 <Dot`> always have, even before coffee
+20:11:25 <carcinisation> and i was about to copypaste the line about caffeine in that wiki page...
+20:11:36 <Dot`> i guessed you would
+20:12:05 <carcinisation> well it says you get less as you get old
+20:12:13 <carcinisation> so something to look forward to :p
+20:12:14 <Dot`> im very old
+20:12:15 <skram> Dot is already old
+20:12:22 <Dot`> https://www.twitch.tv/gauntletsc2
+20:12:24 <Dot`> neeb pls
+20:12:51 <Dot`> this map looks weird
+20:13:14 <Dot`> .tell phearlock incase you missed it https://derpibooru.org/1444365
+20:13:20 <DuB`> carcinisation,  I do actual work now!
+20:13:33 <carcinisation> waow
+20:13:37 <DuB`> Lotsa hours, too.
+20:13:42 <DuB`> Not just sundays anymore.
+20:13:54 <Dot`> dub, does this work involve doing things?
+20:14:59 <carcinisation> got 26k heals last game
+20:15:22 <DuB`> Yes dot.
+20:15:37 <carcinisation> and ignored ppl who whined about overtime res not getting everyone
+20:15:39 <Dot`> what you do dubbs?
+20:15:51 <DuB`> Wake up at 4am and clean things. :P
+20:16:00 <Dot`> do you clean bathrooms?
+20:16:02 <carcinisation> yes sure i'll just walk through their entire team to find the perfect spot
+20:16:11 <DuB`> ... with a bunch of friends, so it's not so bad.
+20:16:14 <carcinisation> i'm sure nothing bad will happen on the way
+20:16:16 <DuB`> Sometimes, dot.
+20:16:27 <Dot`> character building dub
+20:16:53 <DuB`> Ye
+20:16:54 <DuB`> Um
+20:17:06 <DuB`> Might go repot my lil' china elm now.
+20:17:09 <DuB`> Sunny day 'n all.
+20:17:11 <carcinisation> what kind of char are you building dub?
+20:17:17 <DuB`> TOILET CHARACTER.
+20:17:38 <skram> janitorial duties would be the domain of a Druid I would think
+20:18:00 <carcinisation> the call of nature and all that :p
+20:18:31 <Dot`> Dub is basicly playing Dustforce irl
+20:19:33 <DuB`> wah
+20:20:06 <DuB`> Hey, they crew I work with are awesome and find me dates and buy pizza all the time and we go see movies together.
+20:20:09 <DuB`> I enjoy it. :P
+20:20:19 <Dot`> very social
+20:20:44 <Dot`> and dub, Dustforce is a fun game
+20:20:45 <skram> My coworker sometimes brings me coffee from the coffeemachine
+20:20:48 <skram> wanna swap?
+20:20:59 <Dot`> my manager says hello
+20:21:03 <Dot`> and likes soccer
+20:21:08 <Dot`> i dont
+20:21:31 <Dot`> so after 1 day I am out of conversation pieces
+20:21:42 <DuB`> lolol
+20:21:50 <carcinisation> maybe he likes cricket too?
+20:21:59 <Dot`> how does that help e reif
+20:22:10 <Dot`> i only know esports
+20:22:29 <carcinisation> but south africa is good at cricket and rugby
+20:22:41 <Dot`> and killing eachother
+20:23:08 <Dot`> and corruption
+20:23:25 <Golly> high praise
+20:23:29 <carcinisation> i was limiting it to recognised sports dot
+20:23:51 <Dot`> I am sure robbing is some kind of speedrun
+20:24:35 <DuB`> Heh
+20:24:39 <DuB`> Anyway, plant time now.
+20:24:40 <DuB`> weee
+20:25:13 <Bio> asdf
+20:25:16 <Bio> ;asdlkgnlskh
+20:25:19 <Bio> i dun wanna
+20:26:40 <Camail> https://www.twitch.tv/teamsp00ky
+20:27:04 <Dot`> https://xkcd.com/1842/
+20:39:37 <Runbunny> ugh
+20:39:51 <skram> whats wrong buddy
+20:40:37 <Runbunny> I am really out of shape
+20:41:26 <skram> round is a shape
+20:41:36 <Bio> delete the gym, lawyer facebook, hit up
+20:42:42 <skram> delete the lawyer, facebook the gym, hit
+20:43:03 <Dot`> bio
+20:43:24 <Bio> dot
+20:43:46 <Dot`> hows your dice doing
+20:44:20 <Bio> they relax in their bag
+20:45:47 <Runbunny> objection?
+20:46:55 <Bio> *DESK SLAM*
+20:46:56 <Dot`> *Desk Slam!*
+20:47:02 <BioWork> jaksldnghakldhnjkmsfldgnhjklfd
+20:47:03 <Dot`> i am slow today
+20:47:07 <Dot`> later bio 
+20:55:07 <skram> Dot` is just 3 sloths in a trench coat
+20:57:17 <Dot`> things htat my manager may believe after watching me work a till
+20:58:21 <skram> if he gives you any abuse, just say shitty things about his sports ball team
+20:58:51 <skram> about how they didnt win the sports ball trophy cup championship
+20:59:52 <Dot`> http://imgur.com/gallery/BAu4ZIA
+21:00:49 <skram> is that why hippos kill so many people
+21:00:58 <skram> because they're adorable i mean
+21:02:13 <Dot`> yes
+21:11:02 -!- tredc [webchat@90-230-30-217-no56.tbcn.telia.com] has joined #tlponies
+21:24:32 <Runbunny> I thought Dot was 3 otters.
+21:41:24 <Dot`> that would be nice
+21:48:36 <DuB`> Repotted, trimmed, and fertilzed!
+21:48:42 <DuB`> That was nice.
+21:57:24 <Dot`> good dub
+21:57:57 <DuB`> Also
+21:58:08 <DuB`> Turns out seaweed-based liquid fertilizer doesn't smell great. :P
+22:00:25 <Dot`> what a suprise :P
+22:00:46 <DuB`> My living room smells like a fish market!
+22:05:50 <Micen> anyone for some Overwatch?
+22:06:22 <carcinisation> can join you after current comp game
+22:08:58 <DuB`> I will after shower!
+22:08:59 <Micen> ill hop on europe
+22:09:25 <Micen> sitting in discord
+22:15:40 -!- Crisium [webchat@dhcp-pa-67-20-254-14.consolidated.net] has joined #tlponies
+22:15:46 <Dot`> cris pon <3
+22:16:13 <CockRoach|42> .roll d20 to pone
+22:20:47 <Crisium> howdy
+22:21:37 <Crisium> does anyone want the path of exile stuff from twitch prime?
+22:21:49 <Crisium> i think Camail played that game one time
+22:22:31 <Camail> ehh kinda did, i have prime but idc really
+22:22:32 -!- Rawr|Fone [~AndChat25@host-95-195-145-73.mobileonline.telia.com] has joined #tlponies
+22:22:50 -!- Rawr|Phone [~AndChat25@195-67-134-170.customer.telia.com] has joined #tlponies
+22:23:29 <Crisium> if anypon wants the key ask me and they shall receive
+22:26:14 <carcinisation> micen?
+23:41:08 <BioWork> asdf
+23:41:13 <Bio> I am return
+23:41:17 <Dot`> bio
+23:41:33 <Bio> Dot`
+23:43:05 <Dot`> hows you
+23:43:28 <Bio> okey
+23:43:50 <Bio> bek from work
+23:43:58 <Bio> eating leftovers

@@ -1,0 +1,350 @@
+m 37.48.77.131: 11: Bye Bye [preauth]
+Sep 11 05:27:38 bovz128 sshd[15626]: Invalid user admin from 121.14.212.10
+Sep 11 05:27:38 bovz128 sshd[15626]: input_userauth_request: invalid user admin [preauth]
+Sep 11 05:27:38 bovz128 sshd[15626]: pam_unix(sshd:auth): check pass; user unknown
+Sep 11 05:27:38 bovz128 sshd[15626]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=121.14.212.10 
+Sep 11 05:27:40 bovz128 sshd[15626]: Failed password for invalid user admin from 121.14.212.10 port 54207 ssh2
+Sep 11 05:27:41 bovz128 sshd[15626]: pam_unix(sshd:auth): check pass; user unknown
+Sep 11 05:27:42 bovz128 sshd[15626]: Failed password for invalid user admin from 121.14.212.10 port 54207 ssh2
+Sep 11 05:27:42 bovz128 sshd[15626]: pam_unix(sshd:auth): check pass; user unknown
+Sep 11 05:27:44 bovz128 sshd[15626]: Failed password for invalid user admin from 121.14.212.10 port 54207 ssh2
+Sep 11 05:27:44 bovz128 sshd[15626]: Connection closed by 121.14.212.10 [preauth]
+Sep 11 05:27:44 bovz128 sshd[15626]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=121.14.212.10 
+Sep 11 05:30:18 bovz128 sshd[15628]: Received disconnect from 119.249.54.66: 11:  [preauth]
+Sep 11 05:42:02 bovz128 sshd[15630]: Received disconnect from 119.249.54.83: 11:  [preauth]
+Sep 11 06:05:03 bovz128 sshd[15632]: Received disconnect from 119.249.54.88: 11:  [preauth]
+Sep 11 06:13:00 bovz128 sshd[15634]: Received disconnect from 221.194.47.249: 11:  [preauth]
+Sep 11 06:21:37 bovz128 sshd[15636]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=113.122.34.134  user=root
+Sep 11 06:21:39 bovz128 sshd[15636]: Failed password for root from 113.122.34.134 port 50316 ssh2
+Sep 11 06:21:39 bovz128 sshd[15636]: Connection closed by 113.122.34.134 [preauth]
+Sep 11 06:23:47 bovz128 sshd[15638]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=121.14.212.10  user=root
+Sep 11 06:23:50 bovz128 sshd[15638]: Failed password for root from 121.14.212.10 port 54207 ssh2
+Sep 11 06:23:52 bovz128 sshd[15638]: Failed password for root from 121.14.212.10 port 54207 ssh2
+Sep 11 06:23:54 bovz128 sshd[15638]: Failed password for root from 121.14.212.10 port 54207 ssh2
+Sep 11 06:23:54 bovz128 sshd[15638]: Connection closed by 121.14.212.10 [preauth]
+Sep 11 06:23:54 bovz128 sshd[15638]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=121.14.212.10  user=root
+Sep 11 06:34:07 bovz128 sshd[15640]: Received disconnect from 37.48.77.131: 11: Bye Bye [preauth]
+Sep 11 06:39:03 bovz128 sshd[15642]: Did not receive identification string from 40.84.193.100
+Sep 11 06:40:57 bovz128 sshd[15643]: Did not receive identification string from 125.212.234.99
+Sep 11 06:46:47 bovz128 sshd[15644]: fatal: no matching cipher found: client aes256-cbc,rijndael-cbc@lysator.liu.se,aes192-cbc,aes128-cbc,arcfour128,arcfour,3des-cbc,none server aes128-ctr,aes192-ctr,aes256-ctr,aes128-gcm@openssh.com,aes256-gcm@openssh.com,chacha20-poly1305@openssh.com [preauth]
+Sep 11 07:32:52 bovz128 sshd[15646]: Received disconnect from 62.210.250.111: 11: Bye Bye [preauth]
+Sep 11 07:41:05 bovz128 sshd[15648]: Did not receive identification string from 125.212.234.99
+Sep 11 07:41:08 bovz128 sshd[15649]: Invalid user support from 125.212.234.99
+Sep 11 07:41:08 bovz128 sshd[15649]: input_userauth_request: invalid user support [preauth]
+Sep 11 07:41:08 bovz128 sshd[15649]: pam_unix(sshd:auth): check pass; user unknown
+Sep 11 07:41:08 bovz128 sshd[15649]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=125.212.234.99 
+Sep 11 07:41:11 bovz128 sshd[15649]: Failed password for invalid user support from 125.212.234.99 port 59750 ssh2
+Sep 11 07:41:11 bovz128 sshd[15649]: Received disconnect from 125.212.234.99: 11: Closed due to user request. [preauth]
+Sep 11 07:46:17 bovz128 sshd[15651]: Did not receive identification string from 125.212.234.99
+Sep 11 07:46:23 bovz128 sshd[15652]: Invalid user support from 125.212.234.99
+Sep 11 07:46:ht
+09:27:16 <CockRoach|42> http://imgur.com/gallery/M0PLQrI
+09:28:48 <Dot`> right, back just now pons, enjoy
+09:29:13 <Zounds> cya dot
+09:29:44 <Zounds> I don't think they could have made the south african "just now" any more confusing
+09:31:18 <Rawr|Fone> Maybe it is just dot
+09:31:51 <Zounds> He should assimilate the UK use of just now or GET OUT
+09:34:36 <Runbunny> Dot`, https://g.redditmedia.com/AESUfQaDKyL46BU9zcPxOwmwalZEbruxyp8dePVguoI.gif?w=720&fm=mp4&mp4-fragmented=false&s=411e9d7ac01dbba8b64102862004bd75
+09:35:44 <Rawr|Fone> Yes zounds
+09:36:15 <CockRoach|42> http://imgur.com/gallery/Lvgfc
+09:39:15 <Runbunny> Rawr|Fone, https://i.redditmedia.com/3DC5iJ7XMVLFBpi8Y4jBd0IXqibxrgthoQ5QObB57Ns.jpg?w=940&s=494fee3bf7088ac21bb5509d188293fb
+09:40:33 <Rawr|Fone> Thanks runbun
+09:43:45 <CockRoach|42> .tell Dot` http://imgur.com/gallery/M6xky
+09:51:33 -!- reification [~reificati@cpc76294-cosh16-2-0-cust297.6-1.cable.virginm.net] has joined #tlponies
+09:51:33 -!- mode/#tlponies [+v reification] by Q
+09:53:58 <Rawr|Fone> Reef reef
+09:59:41 * Zounds boops reif
+10:11:38 <reification> hello rawr zounds
+10:14:43 <Zounds> how's your alt account sombra maining going reif?
+10:15:07 <Zounds> I really want to play a larger variety of characters but always end up on the same ones
+10:22:18 -!- DoT_ [~quassel@94.13.115.194] has joined #tlponies
+10:24:39 <reification> it has been paused while i got used to new mouse settings
+10:33:04 <Runbunny> DoT_, http://i.imgur.com/IFwQSOu.mp4
+11:02:03 <Zounds> Which way you going with sensitivity reif
+11:02:05 <Zounds> high or low? :P
+11:05:05 <reification> have to move mouse like 6 times further now
+11:10:24 -!- ZK [~ZK@modemcable189.130-83-70.mc.videotron.ca] has joined #tlponies
+11:11:19 <Zounds> If you have the desk space for it you'll get used to it very quickly
+11:11:20 <Runbunny> Reif is using pro player sens now
+11:11:49 <reification> i had to get a much bigger mousepad zounds
+11:13:19 <reification> i was doing a lot better 76 vs pharah in qp yesterday
+11:13:55 <Zounds> Nice
+11:14:11 <Zounds> I've been adjusting my sensitivity for years, it's an ongoing process
+11:14:33 <Zounds> 1600dpi with 1.80 in Overwatch settings atm
+11:14:45 <Runbunny> I turned mine a bit down when I started playing a lot of cs
+11:15:00 <Runbunny> but I have never bothered to figure out the actual numbers.
+11:18:05 <Zounds> Yeah it depends on the game
+11:18:48 <Zounds> There's a lot of close range fast moving targets in overwatch so going really really low is going to cause some problems unless you've got a mouse bungee or something
+11:19:37 <Zounds> in a game like CS you've already done 90% of the aiming before someone even appears
+11:22:47 <Zounds> Low sens was good for me in tribes ascend since I played sentinel half the time
+11:22:57 <Zounds> fast, long range yet predictable dots to click on
+11:34:12 <Micen_> I havent thought about Tribes in years.
+12:00:54 -!- Golly [~Golly@1.92-221-121.customer.lyse.net] has joined #tlponies
+12:24:16 <Runbunny> I did it!
+12:24:51 <Runbunny> I completed all my weekly lootboxes. I am fairly certain it is the first time I have ever done that.
+12:28:47 <reification> if ppl want to hots later i can
+12:43:37 <Golly> https://youtu.be/3NQWP7npOSw?t=315
+12:46:30 <reification> lots of dinoflask material in there
+13:07:20 <micen|droid_> Reif, when were you wanting to hots? 
+13:29:41 <DoT_> I am home ponies
+13:29:44 <DoT_> hows it going here
+13:31:05 <reification> i have shopping to do for an hour, anytime after that should be ok micen
+13:38:00 -!- Phearlock [~Phearlock@cm-84.215.228.107.getinternet.no] has joined #tlponies
+13:38:00 -!- mode/#tlponies [+v Phearlock] by Q
+13:38:13 <Phearlock> Afternoon
+13:38:27 <DoT_> Phear pon <#
+13:38:28 <DoT_> <3
+13:39:13 <Phearlock> Did you guys catch the cool space stuff today? I wasn't online to link
+13:39:26 <DoT_> i only just got home
+13:39:34 <Phearlock> you gotta look at the cool space stuff
+13:39:53 <Phearlock> https://gfycat.com/WaryAcidicHorsemouse
+13:39:56 <micen|droid_> I missed it too.
+13:39:59 <DoT_> i love space stuff
+13:40:00 <Phearlock> ha target=\"_blank\" href=http://tech.163.com/15/0130/09/AH6S45EF00094OE0.html rel=\"nofollow\">原文阅读</a></p>','1422590626','2015-01-30',''),(60945,'亚马逊Q4盈利超华尔街预期 盘后暴涨13%','网易科技讯 1月30日消息，据国外媒体报道，亚马逊今天公布了截至12月31日的2014年第四季度及全年财报。报告显示，该公司第四季度的盈利出了华尔街分析师预期，原因是在关键的假日销售季节，其在北美的销售大幅增长。通常，第四季度为亚马逊贡献约三分之一营收。该公司宣布该季度的净利润为2.14亿美元，摊薄后每股收益为0.45 ......<p class=\"tags-box\"><a target=\"_blank\" href=http://tech.163.com/15/0130/09/AH6RDTNL000915BF.html rel=\"nofollow\">原文阅读</a></p>','1422590627','2015-01-30',''),(60946,'线上线下两套“游戏规则”让传统进口商欲说还休','蓝之馨[“我们在推广的时候花了很多钱，而我们推广什么，网上就会立即卖同款产品。因为无需缴税，也并不花费推广费用，他们的价格更便宜，这样长期发展的话会危害整个商业环境。”]想一想，在海淘、海外代购等跨境电商大发展的时代，除了较高的租金、人力成本，还有什么会让传统进口商感到焦虑？答案是线上、线下两套“游戏 ......<p class=\"tags-box\"><a target=\"_blank\" href=http://tech.163.com/15/0130/02/AH622CK4000915BF.html rel=\"nofollow\">原文阅读</a></p>','1422590628','2015-01-30',''),(60947,'中期协发征求意见稿：期货公司有望实现网络开户','杨柳晗[目前期货公司对于客户的竞争非常激烈，但多数期货公司争取客户还是依靠营业部覆盖，而网络开户实现之后，期货公司将突破营业部在地域上的限制，对于降低成本有很大的帮助]中国期货业协会（下称“中期协”）1月29日发布《期货公司互联网开户规则（征求意见稿）》（下称《规则》），期货公司网络开户有望得以实现。互  ......<p class=\"tags-box\"><a target=\"_blank\" href=http://tech.163.com/15/0130/01/AH61GJ8E000915BF.html rel=\"nofollow\">原文阅读</a></p>','1422590629','2015-01-30',''),(60948,'上海资信设计研发NFCS系统 或破解P2P征信难题?','刘冬近年来，我国互联网金融蓬勃发展，为解决小微企业、中低收入人群的融资问题提供了新的途径。相对传统信贷业务而言，互联网金融风险水平和业务成本更高，在高速发展的过程中尤其需要征信系统的支撑。日前，上海资信有限公司设计开发、实现P2P借贷行业信息共享的网络金融征信系统(NFCS)获得上海金融创新奖。“网络征信国  ......<p class=\"tags-box\"><a target=\"_blank\" href=http://tech.163.com/15/0130/01/AH61AJCL000915BF.html rel=\"nofollow\">原文阅读</a></p>','1422590630','2015-01-30',''),(60949,'中国要求外国公司提供源代码 加强国内网络安全','网易科技讯&nbsp;1月30日消息，据《纽约时报》报道，有消息称，中国政府出台了新的法规，该新法规要求向中国的银行出售电脑设备的公司向中国官方提供秘密的源代码，提交快速的审计报告。这份长达22页的法规于去年年末获准通过。这是中国政府首次出台这方面的法规，而且预期在未来数月之内还会出台一系列政策。中央政府表示  ......<p class=\"tags-box\"><a target=\"_blank\" href=http://tech.163.com/15/0130/01/AH5V4NBT000915BF.html rel=\"nofollow\">原文阅读</a></p>','1422590631','2015-01-30',''),(60950,'中国概念股周四早盘多数上涨 酷6传媒大跌14%','网易科技讯 1月29日消息，美股周四早盘高开，财报情况好坏参半，首申失业救济人数好于预期，降至2000年以来的最低水平，但分析师认为假日与天气是此种情况成因。截至发稿，道琼斯工业平均指数报17,211.80点，上涨20.43点，涨幅为0.12%。标准普尔500指数报1,996.91点，下跌5.25点，跌幅为0.26%。纳斯达克综合指i got no skins
+16:32:00 <Bio> of note
+16:32:05 <Bio> cuz im retired
+16:32:06 <Bio> ez
+16:32:20 <Bio> pubg is moar fun anyways
+16:32:21 <Bio> =P
+16:35:23 <Bio> speaking of
+16:35:26 <Bio> dub get game
+16:35:27 <Bio> pls
+16:35:28 <Bio> thx
+16:58:00 <Rawr|Fone> 🐴🐴🐴
+16:58:11 <Dot`> rawr rawr rawr
+16:58:13 <Dot`> <3
+16:58:24 <Rawr|Fone> Dot dot dot
+16:58:26 <Rawr|Fone> <3
+17:04:57 <Bio> Man i'm tired of having half my team leave in the first min
+17:16:25 <Dot`> pon pon
+17:16:28 <Dot`> dub pls
+17:30:00 <ZK> watchin the vods from yesterday
+17:30:02 <ZK> they good
+17:30:11 <Dot`> NEEB
+17:31:31 <ZK> major played well
+17:31:32 <ZK> neeb so good
+17:31:36 <ZK> he destroyed nerchio
+17:40:35 <Bio> top 5 in squads
+17:40:37 <Bio> dot halp
+17:40:40 <Bio> i'm no gud
+17:41:03 <Dot`> i job look and then supper
+17:41:06 <Dot`> after that i game
+17:41:56 <Bio> com to america, i can get u job
+17:42:03 <Bio> may not be great job, but i can get u job
+17:43:23 <Dot`> i cant even get interviews for custoemr service jobs
+17:44:17 -!- DoT|Phone1 [~Dot@94.13.115.194] has joined #tlponies
+17:47:08 <Bio> lol dropped in shipyards rubberbanded to death
+17:47:10 <Bio> neat game
+17:47:50 <ZK> its cause you in britishland
+17:47:56 <ZK> in na land you waould get interviews
+17:48:03 <ZK> also, why do you want customer service job
+17:48:28 <Yolteotl> DoT, britain is looking for a prime minister
+17:48:38 <Yolteotl> you should ask this job
+17:52:42 <carcinisation> i would vote for dot
+17:54:04 <DoT|Phone1> Reif. you said have to have lived in the UK for 3 years
+17:55:03 <carcinisation> the problem yolo is you can't really pull a macron in the uk
+17:55:31 <carcinisation> you need an established party
+17:56:12 <carcinisation> well it is prob the best chance in decades
+17:56:55 <carcinisation> since the SDP 
+18:00:15 <carcinisation> beats your curve dub https://gfycat.com/gifs/detail/SadMemorableKingfisher
+18:28:24 -!- Phearlock_ [~Phearlock@cm-84.215.228.107.getinternet.no] has joined #tlponies
+18:28:24 -!- mode/#tlponies [+v Phearlock_] by Q
+18:28:57 <DoT|Phone1> ferlak
+18:29:12 <Phearlock_> yes
+18:32:24 <DoT|Phone1> How's your day been
+18:32:40 <Phearlock_> chill
+18:32:58 <carcinisation> micen you here?
+18:39:14 <Bio> Afk sec
+18:41:04 <Phearlock_> http://hiccupsthenoodle.deviantart.com/art/First-Smooches-678127899 shippu ship
+18:44:35 <CockRoach|42> i am quite ok with this
+18:45:12 <CockRoach|42> nyaa.se seems to be offline :[[[[
+18:47:13 <carcinisation> :O
+18:47:28 <carcinisation> weebpolacypse
+18:47:31 <CockRoach|42> or is my internets being wonky?
+18:48:08 <carcinisation> http://www.isup.me/nyaa.se
+18:50:15 <CockRoach|42> oh yeah, that is a thing
+18:56:13 <Bio> annie may was a mistake
+19:00:44 <CockRoach|42> Phearlock_: dont look http://68.media.tumblr.com/e508fcf4d989c77996a0762d55617ff9/tumblr_oownm3FTE11uv73y9o1_1280.png
+19:01:04 <Bio> that looks like twidash
+19:01:08 <Bio> mmhmm
+19:01:09 <Phearlock_> Why not?
+19:01:21 <CockRoach|42> :)
+19:01:24 <Bio> just checking, and yeah
+19:01:26 <CockRoach|42> indeed it is, Bio
+19:01:26 <Bio> its stil otp
+19:01:39 <Phearlock_> cute smoochy ponies <3
+19:01:42 <Bio> after all this time too
+19:01:55 <CockRoach|42> good ships never sink
+19:05:35 <Phearlock_> Yeah, all the old ships are still wonderful
+19:05:45 <Phearlock_> and there's even good new ones <3
+19:13:48 -!- Camail [~Camail@45.40.93.200] has joined #tlponies
+19:13:48 -!- mode/#tlponies [+v Camail] by Q
+19:15:26 <Zounds> Tom x Boulder still in our hearts
+19:19:15 <Camail> dot new sam jack came out, time to watch
+19:21:00 <ZK> i just found ifnal worm, now to get final nail upgrade :D
+19:22:17 <Runbunny> Rawr|Fone, https://www.youtube.com/watch?v=UcqfgLnaIbU
+19:27:25 <Camail> ZK  you should go back to the worms in a little bit
+19:27:33 <Camail> reloading the game/area gives you the final step
+19:30:08 <ZK> final step?
+19:32:32 <Camail> well, final conclusion
+19:32:39 <ZK> ooooh ok
+19:32:49 <ZK> im looking for dream essence stuff
+19:32:52 <Camail> that's a bit redundant, just conclusion
+19:33:02 <Camail> dream essence you get from two main avanues
+19:33:11 <Camail> dream bosses and tombstone fight things
+19:33:34 <Camail> me, being the RP grim reaper, also slashed every spirit i could find
+19:34:30 <Camail> have you finished any other npc stroylines?
+19:34:32 <ZK> oh yea, i slashed those too
+19:34:35 <Dot`> dub dub
+19:34:40 <ZK> i just killed the nailmaster
+19:34:42 <ZK> so did that
+19:34:46 <Camail> RIP
+19:34:48 <Camail> fun fact
+19:34:51 <Camail> you can let him live
+19:34:56 <Dot`> shame
+19:34:59 <ZK> oh well
+19:35:05 <ZK> i like putting my nail through stuff
+19:35:08 <Dot`> Bio plej?
+19:35:10 <Camail> and he goes to move in with the painter nail master
+19:35:10 <ZK> like spirits
+19:35:20 <ZK> ohhh, thats what that dude is for
+19:35:28 <Camail> well he also teaches you a move
+19:35:35 <Camail> which is quite good
+19:36:01 <Camail> There are quite a few npc storylines, now that i think about it
+19:36:05 <ZK> i dont remember the painter dude teaching anything?
+19:36:12 <Camail> yea he taught you a nail art
+19:36:20 <Camail> there are three teachers
+19:36:23 <ZK> oh yea, im thinking of another npc i think
+19:36:30 <Dot`> oh right, the painter
+19:36:36 <Dot`> i too was thinking of mask man zk
+19:36:37 <Camail> yea
+19:36:44 <ZK> oh mask man, yea thats who
+19:36:51 <Camail> the painte ris all about exploring new skills after mastering his life's goal
+19:37:05 <Camail> the nailsmith wants to die because after mastering his life's skill he has nothing to live for
+19:37:18 <Camail> if you dont kill him and force him to live on, he moves in with the nailmaster and adopts his life philosophy
+19:37:23 <Camail> its really cool
+19:37:26 <Camail> i killed him tho
+19:37:28 <Camail> found that online
+19:38:03 <Dot`> that is nice
+19:38:07 <ZK> i just looked at mas maker, i remember unmasking him
+19:38:08 <Camail> it's like, the only happy end to an npc storyline
+19:38:19 <Camail> how did you unmask him?
+19:38:24 <Camail> i never did anything with the mask maker
+19:38:26 <ZK> i think donw attack
+19:38:33 <Camail> ok dont tell me anymore
+19:38:35 <Camail> gonna go do it
+19:38:43 <Dot`> i dot know cam, the grandpa worm story ends happy for him
+19:38:58 <ZK> map maker doesnt end happy?
+19:39:01 <ZK> guess ill go see him
+19:40:57 <Camail> oh right he's fine
+19:41:29 <Camail> but its not as strong, there are certai things in other stroylines that you really want to happen
+19:41:35 <Camail> and the exact opposite happens
+19:41:42 <Camail> the map guy just finished his map and went to sleep
+19:41:48 <Camail> and his wife is still there doing nothing
+19:41:56 <Camail> even though she want to adventure more
+19:42:20 <Camail> also i totally found new dialog
+19:42:26 <Camail> zk did you do the true ending yet?
+19:42:45 <ZK> didnt do any ending yet
+19:42:48 <ZK> wanted to get stuff
+19:43:08 <ZK> hm 85% completion
+19:44:10 <ZK> ok final colosseum challenge
+19:45:20 <Runbunny> Do the flower thing.
+19:46:17 <ZK> flowe thing?
+19:47:19 <Runbunny> flower thing!
+19:47:25 <Dot`> Floer thing!
+19:47:55 <ZK> i lost
+19:49:00 <Bio> i was doing a solo
+19:49:04 <Bio> got like 35th
+19:49:05 <Bio> rip
+19:49:15 <Runbunny> camp more houses.
+19:49:20 <Bio> thats boring
+19:49:43 <Bio> I murdered 3 people
+19:49:46 <Runbunny> more davaii then.
+19:49:50 -!- Rawr|Phone [~AndChat25@host-95-195-153-205.mobileonline.telia.com] has joined #tlponies
+19:49:51 <Bio> one dude got 2tapped
+19:53:10 <Camail> ok so the mask maker is interesting
+19:53:17 <Camail> lots more to say with his mask off
+19:59:15 <ZK> im bad at this
+19:59:21 <ZK> 3rd level of colosseum hard
+20:01:58 <Bio> Dot`]
+20:06:06 <Dot`> Bio
+20:08:38 <Bio> i'm ready for more shoots
+20:08:52 <Bio> pretty sure i've had more kills with shootguns than rifles today
+20:09:16 <Bio> did in a squad 1v4 at skool
+20:09:22 <Bio> with the pump
+20:12:54 <ZK> the colosseum damnit
+20:13:05 <Bio> ferlok
+20:13:11 <Bio> u wanna plej bugp
+20:20:43 <Camail> ZK  you can do other stuff before that, the trial of the fool is just 1%, doesnt do much else
+20:23:08 <Zounds> did you win your ow skram
+20:23:25 <skram> uh i won a bit and then lost a bit
+20:23:28 <skram> climbed 100 sr tho
+20:24:27 -!- tredc [webchat@90-230-30-217-no56.tbcn.telia.com] has joined #tlponies
+20:25:52 <Zounds> sounds pretty good man
+20:27:13 -!- Rawr|Fone [~AndChat25@84-217-62-32.customers.ownit.se] has joined #tlponies
+20:42:05 <ZK> found failed champion
+20:42:13 <ZK> other moment i have trouble beating
+20:42:49 <Dot`> .roll d20 to boop skram
+20:45:16 <skram> sup dot
+20:45:39 <ZK> my xbox controller b button died?
+20:45:40 <ZK> damn
+20:48:17 <Dot`> hows it going skram
+20:48:35 <skram> good enough Dot`
+20:48:37 <skram> how about you
+20:48:42 <Dot`> im ok
+20:49:03 <Dot`> playing battlegrounds with bio, you shhould steal the game form someone
+20:50:13 <skram> i dun want to dot
+20:55:48 <Camail> ZK  there's also a dream boss for the broken vessel
+21:07:40 <Dot`> rawr http://imgur.com/gallery/bZpQ1
+21:13:26 -!- Crisium [webchat@dhcp-pa-67-20-236-51.consolidated.net] has joined #tlponies
+21:32:32 <Dot`> cris pon
+21:33:37 <Crisium> howdy dot
+21:33:57 * skram slaps Crisium around a bit with a large trout
+21:34:14 <Crisium> oof
+21:34:37 <skram> LOOK AT MY FISH CRIS
+21:35:08 <Crisium> nu
+21:35:26 <skram> friendship status: terminated :(
+21:38:03 <Crisium> we'll just go on an adventure to a mysterious land together to rekindle it
+21:41:09 <ZK> so for dream fights, fraile orbs dont break
+21:41:14 <ZK> so that seems like itll help
+21:47:21 <ZK> yep, second try
+21:47:23 <ZK> that helped
+22:09:54 <ZK> WTF
+22:10:02 <ZK> Camail, why did you tell me to go back and visit worms
+22:10:06 <ZK> wut is this
+22:10:12 <Camail> lul
+22:10:33 <Camail> G O O D E N D
+22:15:57 <Bio> decent games
+22:16:02 <Bio> to begin and end
+22:38:16 <Dot`> PON
+22:38:34 <Crisium> pon
+22:47:39 -!- DoT|Phone [~Dot@94.13.115.194] has joined #tlponies
+22:49:00 -!- DoT|Phone1 [~Dot@94.13.115.194] has joined #tlponies
+22:52:19 <Dot`> hows all
+22:57:16 <Bio> pon
+22:58:51 <skram> i tried stardew valley again Dot`
+22:58:57 <skram> its still incredibly boring
+22:59:03 <Dot`> its relaxing in a stressfull way
+22:59:31 <ZK> stresfful?
+22:59:33 <Dot`> you just dont understand turnips skram
+22:59:39 <skram> i dont get any enjoyment from tending to imaginary turnips Dot`
+23:00:06 <Dot`> yea zk, you have a time limit each day to get as much done as you can
+23:08:04 <Dot`> hows the dorfs bio\
+23:09:59 <Bio> they wander
+23:10:01 <Bio> and ding
+23:10:02 <Bio> dig
+23:12:17 -!- Golly [~Golly@1.92-221-121.customer.lyse.net] has joined #tlponies
+23:38:01 <Camail> skram you ever play an mmo?
+23:39:11 <Camail> also you're constantly changing crops and managing your time for talking to the people of the town
+23:39:26 <Camail> if you wanna min max you spend all your time planting turnips, i guess
+23:39:38 <Camail> also multiplayer is still a thing that's happening
+23:39:46 <Camail> so EVENTUALLY we can all play
+23:39:56 <Camail> ?abigail
+23:40:07 <Camail> we can all experience the pedophilia
+23:40:57 <Camail> ugh no I'm imagining a dumb pedo harem anime
+23:41:01 <Camail> which 100% ahs to exist
+23:41:03 <Camail> and its making me sad
+23:41:48 <Bio> theres probably 12 of tehm
+23:48:15 <ZK> whit palace is hard
+23:48:47 <skram> a lot cam
+23:49:13 <skram> i dont know, i just dont have the patience for grinding any more

@@ -1,0 +1,208 @@
+com:80 199.30.20.15 - - [28/Mar/2014:21:27:31 +0000] "GET /2008/12/16/movie-review-robin-hood-men-in-tights/ HTTP/1.1" 200 14820 "-" "msnbot-media/1.1 (+http://search.msn.com/msnbot.htm)"
+www.fernbyfilms.com:80 157.55.33.146 - - [28/Mar/2014:21:27:32 +0000] "GET /category/film-general/obituary/page/2/ HTTP/1.1" 200 24867 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)"
+www.fernbyfilms.com:80 178.33.218.228 - - [28/Mar/2014:21:27:35 +0000] "GET /2014/03/07/movie-review-the-bourne-identity-2002/ HTTP/1.1" 200 17453 "-" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.116 Safari/537.36"
+www.fernbyfilms.com:80 60.182.34.129 - - [28/Mar/2014:21:27:32 +0000] "POST /2013/12/27/movie-review-the-lone-ranger/trackback/ HTTP/1.1" 200 623 "http://www.fernbyfilms.com/2013/12/27/movie-review-the-lone-ranger/" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; .NET CLR 1.0.3705)"
+www.fernbyfilms.com:80 60.182.34.129 - - [28/Mar/2014:21:27:40 +0000] "GET /2013/12/27/movie-review-the-lone-ranger/ HTTP/1.1" 200 19789 "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"
+www.fernbyfilms.com:80 173.8.234.225 - - [28/Mar/2014:21:27:48 +0000] "GET /wp-content/uploads/2009/02/X-Men-2-Review-Logo-v5.1.jpg HTTP/1.1" 200 293304 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36"
+www.fernbyfilms.com:80 65.55.52.111 - - [28/Mar/2014:21:28:10 +0000] "GET /wp-content/plugins/collapsible-comments/ccomments.js?ver=4.0 HTTP/1.1" 200 1256 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)"
+www.fernbyfilms.com:80 94.23.101.182 - - [28/Mar/2014:21:28:14 +0000] "GET /category/film-general/obituary/ HTTP/1.1" 200 15034 "http://www.fernbyfilms.com/" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.116 Safari/537.36"
+www.fernbyfilms.com:80 121.205.238.251 - - [28/Mar/2014:21:28:20 +0000] "GET /wp-fakerayban.php HTTP/1.1" 404 38870 "-" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.71 Safari/537.36"
+www.fernbyfilms.com:80 203.35.216.82 - - [28/Mar/2014:21:28:25 +0000] "GET /wp-content/uploads/2014/02/12-Years-A-Slave-Review-Logo-50x50.jpg HTTP/1.1" 304 174 "-" "Mozilla/4.0 (compatible;)"
+www.fernbyfilms.com:80 24.77.197.228 - - [28/Mar/2014:21:28:26 +0000] "GET /wp-content/uploads/2008/10/gc08.jpg HTTP/1.1" 200 38457 "https://www.google.ca/" "Mozilla/5.0 (iPod; CPU iPhone OS 6_1_5 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B400 Safari/8536.25"
+www.fernbyfilms.com:80 66.249.73.49 - - [28/Mar/2014:21:28:28 +0000] "GET /wp-content/uploads/2050/01/Posession-Begins-Tall-Widget.jpg HTTP/1.1" 200 29529 "-" "Googlebot-Image/1.0"
+www.fernbyfilms.com:80 46.246.42.119 - - [28/Mar/2014:21:28:31 +0000] "GET /2013/12/31/vale-wojciech-kilar/ HTTP/1.1" 200 12310 "-" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.71 Safari/537.36"
+www.fernbyfilms.com:80 46.246.42.119 - - [28/Mar/2014:21:28:31 +0000] "GET /2008/10/16/movie-review-the-hitcher/ HTTP/1.1" 200 14099 "-" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.71 Safari/537.36"
+www.fernbyfilms.com:80 192.0.84.33 - - [28/Mar/2014:21:28:39 +0000] "HEAD / HTTP/1.1" 200 315 "-" "jetmon/1.0 (Jetpack Site Uptime Monitor by WordPress.com)"
+www.fernbyfilms.com:80 46.4.232.170 - - [28/Mar/2014:21:28:51 +0000] "GET /mkoutlet.html HTTP/1.1" 200 9173 "http://www.fernbyfilms.com/" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.116 Safari/537.36"
+www.fernbyfilms.com:80 208.89.209.155 - - [28/Mar/2014:21:28:52 +0000] "GET /wp-login.php?action=register HTTP/1.0" 302 520 "http://www.fernbyfilms.com/" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.116 Safari/537.36"
+www.fernbyfilms.com:80 208.89.209.155 - - [28/Mar/2014:21:28:55 +0000] "GET /wp-login.php?registrfor root from 221.229.172.114 port 43063 ssh2
+Aug 29 12:07:27 bovz128 sshd[32230]: Failed password for root from 221.229.172.114 port 43063 ssh2
+Aug 29 12:07:27 bovz128 sshd[32230]: Received disconnect from 221.229.172.114: 11:  [preauth]
+Aug 29 12:07:27 bovz128 sshd[32230]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=221.229.172.114  user=root
+Aug 29 12:08:06 bovz128 sshd[32232]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=221.229.172.114  user=root
+Aug 29 12:08:08 bovz128 sshd[32232]: Failed password for root from 221.229.172.114 port 63407 ssh2
+Aug 29 12:08:11 bovz128 sshd[32232]: Failed password for root from 221.229.172.114 port 63407 ssh2
+Aug 29 12:08:13 bovz128 sshd[32232]: Failed password for root from 221.229.172.114 port 63407 ssh2
+Aug 29 12:08:13 bovz128 sshd[32232]: Received disconnect from 221.229.172.114: 11:  [preauth]
+Aug 29 12:08:13 bovz128 sshd[32232]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=221.229.172.114  user=root
+Aug 29 12:08:52 bovz128 sshd[32234]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=221.229.172.114  user=root
+Aug 29 12:08:54 bovz128 sshd[32234]: Failed password for root from 221.229.172.114 port 32424 ssh2
+Aug 29 12:08:56 bovz128 sshd[32234]: Failed password for root from 221.229.172.114 port 32424 ssh2
+Aug 29 12:08:58 bovz128 sshd[32234]: Failed password for root from 221.229.172.114 port 32424 ssh2
+Aug 29 12:08:59 bovz128 sshd[32234]: Received disconnect from 221.229.172.114: 11:  [preauth]
+Aug 29 12:08:59 bovz128 sshd[32234]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=221.229.172.114  user=root
+Aug 29 12:09:39 bovz128 sshd[32236]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=221.229.172.114  user=root
+Aug 29 12:09:41 bovz128 sshd[32236]: Failed password for root from 221.229.172.114 port 61616 ssh2
+Aug 29 12:09:43 bovz128 sshd[32236]: Failed password for root from 221.229.172.114 port 61616 ssh2
+Aug 29 12:09:45 bovz128 sshd[32236]: Failed password for root from 221.229.172.114 port 61616 ssh2
+Aug 29 12:09:45 bovz128 sshd[32236]: Received disconnect from 221.229.172.114: 11:  [preauth]
+Aug 29 12:09:45 bovz128 sshd[32236]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=221.229.172.114  user=root
+Aug 29 12:10:27 bovz128 sshd[32238]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=221.229.172.114  user=root
+Aug 29 12:10:29 bovz128 sshd[32238]: Failed password for root from 221.229.172.114 port 43223 ssh2
+Aug 29 12:10:31 bovz128 sshd[32238]: Failed password for root from 221.229.172.114 port 43223 ssh2
+Aug 29 12:10:34 bovz128 sshd[32238]: Failed password for root from 221.229.172.114 port 43223 ssh2
+Aug 29 12:10:34 bovz128 sshd[32238]: Received disconnect from 221.229.172.114: 11:  [preauth]
+Aug 29 12:10:34 bovz128 sshd[32238]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=221.229.172.114  user=root
+Aug 29 12:11:18 bovz128 sshd[32240]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=221.229.172.114  user=root
+Aug 29 12:11:20 bovz128 sshd[32240]: Failed password for root from 221.229.172.114 port 51308 ssh2
+Aug 29 12:11:22 bovz128 sshd[32240]: Failed password for root from 221.229.172.114 port 51308 ssh2
+Aug 29 12:11:25 bovz128 sshd[32240]: Failed password for root from 221.229.172.114 port 51308 ssh2
+Aug 29 12:11:25 bovz128 sshd[32240]: Received disconnect from 221.229.172.114: 11:  [preauth]
+Aug 29 12:11:25 bovz128 sshd[32240]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=221.229.172.114  user=root
+Aug 29 12:12:07 bovz128 sshd[32242]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=221.229.172.114  user=root
+Aug 29 12:12:09 bovz128 sshd[32242]: Failed password for root from 221.229.172.114 port 39057 ssh2
+Aug 29 12:12:11 bovz128 sshd[3224t a visa already?
+15:02:39 <ZK> im canadian
+15:02:50 <ZK> basically dont need one, I can land there then get one
+15:03:03 <DoT|Phone> lol. cool
+15:03:12 <ZK> people looooooove canadians =D
+15:05:16 <Runbunny> Dot`, http://i.imgur.com/BzwaM0G.jpg
+15:12:43 <DoT|Phone> Runbun!
+15:25:49 <Runbunny> Dot!
+15:32:43 -!- DoT|Phone1 [~Dot@94.3.62.254] has joined #tlponies
+15:43:48 <Dot`> i am home
+15:45:31 <ZK> yay^
+15:45:37 <ZK> with uncle?
+15:46:00 <Dot`> yea, he is here till wednesday
+15:46:09 <ZK> whats his opinion on pony?
+15:46:21 <Dot`> i dont actually know
+15:46:34 <ZK> but you can still be your friend?
+15:47:31 <Dot`> it would seem so
+15:48:43 <ZK> woo
+16:24:15 -!- tredc [webchat@90-230-30-217-no56.tbcn.telia.com] has joined #tlponies
+16:59:17 <skram> Dot`
+17:21:05 <BioHorse> skol
+17:37:29 <ZK> bio so classy
+17:46:52 -!- Camail [~Camail@45.40.84.145] has joined #tlponies
+17:46:52 -!- mode/#tlponies [+v Camail] by Q
+17:53:08 <ZK> hi camail
+17:54:11 <reification> runbunny https://twitter.com/aru_terra/status/906875815861698562
+17:54:48 <Runbunny> Me!
+17:54:51 <Runbunny> :3
+17:55:10 <Runbunny> Neko.
+17:55:34 <Runbunny> that butt does look kinda weird though
+17:55:40 <Runbunny> „Åä„Åó„Çä
+17:56:39 <reification> well cam arived so it seemed appropriate 
+17:56:49 <Camail> pls
+18:00:09 <ZK> this cam seems to be a butt
+18:06:00 <Camail> no u
+18:07:39 <reification> oshiri means butt; oshiri means you get a behind
+18:18:40 <reification> .tell dub` https://twitter.com/cerezo1212/status/906214244642721792
+18:28:50 <reification> https://twitter.com/ProgressBar2017/status/906614188134498307
+18:31:29 <Dot`> Skram!
+18:31:43 <motbob> NICE
+18:35:22 <Dot`> .tell Bio http://i.imgur.com/txSr7M9.png
+18:49:15 <Dot`> cane https://andypriceart.deviantart.com/art/SCIENCE-Luna-and-Tiberius-commission-703950003
+18:49:18 <Dot`> SCIENCE
+18:50:51 <Dot`> rawr raw rrawr
+18:53:34 -!- Bio [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+18:53:38 <Dot`> BIO
+18:53:56 <Rawr|Fone> Dot do tdot
+18:54:01 <Dot`> <3
+18:54:05 <Rawr|Fone> <3
+18:54:14 <Dot`> hows you
+18:54:24 <Rawr|Fone> Great!
+18:54:33 <Rawr|Fone> How was your day dot
+18:55:36 <Dot`> it was good rawr
+18:57:24 <Rawr|Fone> Good
+19:07:53 <reification> .wiki skeleton army
+19:34:52 <motbob> [dota] http://i.imgur.com/83msv1x.png
+19:54:50 <skram> bj√∏rn
+20:07:52 <Runbunny> .wiki emu war
+20:34:35 <reification> .tell runbunny http://www.animemaru.com/single-helpful-review-discovered-on-steam-visual-novel/
+20:38:40 -!- Phearlock [~Phearlock@cm-84.215.228.107.getinternet.no] has joined #tlponies
+20:38:40 -!- mode/#tlponies [+v Phearlock] by Q
+20:38:51 -!- Phearlock_ [~Phearlock@cm-84.215.228.107.getinternet.no] has joined #tlponies
+20:38:51 -!- mode/#tlponies [+v Phearlock_] by Q
+20:39:14 <reification> hello double phear
+20:40:19 <Phearlock> Hello!
+20:40:23 <Phearlock> I pressed the button twice
+20:40:36 <Phearlock> My doppelganger has been banished
+20:40:48 <Phearlock> How are u pon pons?
+20:41:19 <reification> dissapointed you don‚Äôt have a duplicator :p
+20:41:19 <ZK> Good.
+20:42:12 <reification> how‚Äôs you?
+20:42:41 -!- tredc [webchat@90-230-30-217-no56.tbcn.telia.com] has joined #tlponies
+20:43:21 <Micen|droid> I am doing okay.
+20:43:41 <Micen|droid> You doing good Phear
+20:44:36 <Phearlock> Work was pretty slow today so was a bit bored
+20:44:38 <Phearlock> but otherwise good
+20:44:45 <Phearlock> have a pizza in the oven
+20:44:52 <Phearlock> Can stay up late
+20:45:03 <Phearlock> Livin the nerd lyfe
+20:46:55 <Micen|droid> You get to that story I sent? 
+20:47:38 <Phearlock> no
+20:47:39 <Phearlock> D=
+20:47:47 <Phearlock> I'm behind on my pony everything
+20:48:01 <Micen|droid> Shame
+20:53:23 <Phearlock> yes =(
+20:59:37 <Micen|droid> Its okay Pheae
+21:22:33 <Dot`> i am back again
+21:22:35 <Dot`> Skram?
+21:22:41 <Dot`> please stop avoidiing me
+21:23:34 -!- Bio [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+21:23:40 <Dot`> Bio bio
+21:23:47 -!- Camail_Phone [~camailpho@143.43.104.175] has joined #tlponies
+21:23:49 <Camail_Phone> No
+21:23:57 <Dot`> maybe
+21:24:02 <Camail_Phone> Fine
+21:28:18 <Dot`> Phearlock https://derpicdn.net/img/2016/10/7/1266728/large.png
+21:29:15 <Camail_Phone> Dub needs to watch the fight game, it is relevant to his interest
+21:29:28 <Dot`> Dub is being bad and is not here
+21:29:33 <Camail_Phone> Ikr
+21:30:26 <Camail_Phone> Juri is da best
+21:30:49 <Phearlock> That's a pretty pony dot <3
+21:31:08 <Phearlock> https://amarynceus.deviantart.com/art/Daily-Doodle-446-703882245 What??? this isn't Twilestia
+21:31:10 <Dot`> .tell crisium https://tyuubatu.deviantart.com/art/S7E18-703910917
+21:31:27 <Phearlock> preeeetty cute though
+21:31:42 <Camail_Phone> Sweetie hasnt been kicked off irc in quite awhile
+21:31:59 <Dot`> i know, she is doing well
+21:32:07 <Dot`> i meant to actually mention it to you a while ago
+21:32:18 <Dot`> good stuff
+21:32:31 <Camail_Phone> I dunno what changed in the server
+21:32:33 -!- BioSC [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+21:32:35 <Camail_Phone> Probably nothing
+21:38:52 <Dot`> .tell runbunny http://imgur.com/gallery/eZzaKmz
+21:47:33 -!- Raelcun [~Raelcun@Raelcun.users.quakenet.org] has joined #tlponies
+21:47:34 -!- mode/#tlponies [+v Raelcun] by Q
+21:47:44 <Raelcun> http://i.imgur.com/UIj4c4a.jpg today I learned Cthulhu knows how to squat like slav
+21:48:16 <Dot`> Hey rael!
+21:48:24 <Raelcun> What's up DoT
+21:48:25 <Dot`> and i will remember this information, it may come of use
+21:48:29 <Phearlock> What a chill guy
+21:49:29 -!- micen|droid_ [~AndChat48@h163.5.17.98.dynamic.ip.windstream.net] has joined #tlponies
+21:49:31 <reification> http://i0.kym-cdn.com/photos/images/original/001/293/281/855.jpg
+21:53:16 <Raelcun> I really wish all the Irma coverage didn't switch instantly to Florida instead of covering what's going on in Barbuda and the caribean
+21:53:26 <Raelcun> Barbuda might realistically never be the same they got hit so hard
+21:54:00 <Dot`> the bits i have seen have been grim 
+21:54:40 <Dot`> but yea, its a lot about florida man now it seems
+21:55:12 <Raelcun> Realistically this isn't even that bad for Florida they've dealt with this before
+21:55:22 <Raelcun> IT weakened before it hit shore because that's what hurricanes do
+21:55:48 <Raelcun> But the islands weren't big enough for that to happen
+21:58:31 <Dot`> Poor Haiti caugtht part of it from what i saw
+21:58:51 <reification> about the last place that needs it‚Ä¶
+21:59:10 <Raelcun> Most of the Caribean got hit pretty hard. Cuba got spared most of it and iss the best off iirc
+21:59:31 <Raelcun> Caribbean*
+22:05:18 <Dot`> When is GDQ for island relief please rael
+22:05:38 <Raelcun> We couldn't really do one with registration and game submission going on
+22:05:43 <Raelcun> and we couldn't push it back further
+22:06:06 <Raelcun> plus everyone who had just done HRDQ was still a recovering from that and not wanting to kill themselves doing 2 mini events into sumbissions
+22:06:14 <Dot`> its rough, just after all the fund raisers for the first hurricane, the second hits
+22:09:53 <Dot`> what else you been up to rael
+22:10:13 <Raelcun> Watching a lot of starcraft, waitting for more starcraft, being lazy
+22:10:26 <Dot`> i like the possibilty of shield battery
+22:10:41 <Raelcun> Is shield battery still at hing?
+22:10:48 <Raelcun> SC:R did everything they were planning to do
+22:10:58 <Dot`> no no
+22:11:03 <Dot`> real shield battery in sc2
+22:11:08 <Raelcun> ohhh
+22:11:11 <Raelcun> I meant brood war
+22:11:16 <Raelcun> that's why I said starcraft not sc2
+22:11:43 <Raelcun> I stopped paying attention to sc2 ages ago when it became clear blizzard had no idea what made starcraft fun to watch when LOTV came out and their subsequent attempts to fix it
+22:12:05 <Dot`> ah, i havnt really diffrentiated lately, been watchign a bit of both
+22:12:28 <Raelcun> I wound up on the starcraft subreddit the other day due to the sea nonsense and aws shocked at how everything had like 6 comments
+22:12:30 <Raelcun> place is dead
+22:12:45 <Dot`> you know david kim left?
+22:12:49 <Raelcun> yup
+22:12:57 <Raelcun> so did chris metzen
+22:13:05 <Raelcun> can we have a rewri                                                                                    ôwmX    ôc∂                                   ø3  ssh:notty                           root                            153.99.182.16                                                                                                                                                                                                                                                           õwmX    ôc∂                                   ø3  ssh:notty                           root                            153.99.182.16                                                                                                                                                                                                                                                           ùwmX    ôc∂                                   ƒ3  ssh:notty                           root                            153.99.182.16                                                                                                                                                                                                                                                           ÆwmX    ôc∂                                   ƒ3  ssh:notty                           root                            153.99.182.16                                                                                                                                                                                                                                                           ±wmX    ôc∂                                   ƒ3  ssh:notty                           root                            153.99.182.16                          

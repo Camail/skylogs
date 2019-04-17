@@ -1,0 +1,426 @@
+2:30:22 bvm1 sshd[923]: Failed password for invalid user openvpn from 77.88.208.134 port 47113 ssh2
+Apr 21 02:30:22 bvm1 sshd[924]: Received disconnect from 77.88.208.134: 11: Bye Bye
+Apr 21 02:30:24 bvm1 sshd[925]: Invalid user openvpn from 77.88.208.134
+Apr 21 02:30:24 bvm1 sshd[926]: input_userauth_request: invalid user openvpn
+Apr 21 02:30:24 bvm1 sshd[925]: pam_unix(sshd:auth): check pass; user unknown
+Apr 21 02:30:24 bvm1 sshd[925]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=77.88.208.134 
+Apr 21 02:30:26 bvm1 sshd[925]: Failed password for invalid user openvpn from 77.88.208.134 port 48692 ssh2
+Apr 21 02:30:26 bvm1 sshd[926]: Received disconnect from 77.88.208.134: 11: Bye Bye
+Apr 21 02:30:27 bvm1 sshd[927]: Invalid user rheal from 77.88.208.134
+Apr 21 02:30:27 bvm1 sshd[928]: input_userauth_request: invalid user rheal
+Apr 21 02:30:27 bvm1 sshd[927]: pam_unix(sshd:auth): check pass; user unknown
+Apr 21 02:30:27 bvm1 sshd[927]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=77.88.208.134 
+Apr 21 02:30:30 bvm1 sshd[927]: Failed password for invalid user rheal from 77.88.208.134 port 50322 ssh2
+Apr 21 02:30:30 bvm1 sshd[928]: Received disconnect from 77.88.208.134: 11: Bye Bye
+Apr 21 02:30:32 bvm1 sshd[929]: Invalid user rheal from 77.88.208.134
+Apr 21 02:30:32 bvm1 sshd[930]: input_userauth_request: invalid user rheal
+Apr 21 02:30:32 bvm1 sshd[929]: pam_unix(sshd:auth): check pass; user unknown
+Apr 21 02:30:32 bvm1 sshd[929]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=77.88.208.134 
+Apr 21 02:30:33 bvm1 sshd[929]: Failed password for invalid user rheal from 77.88.208.134 port 52237 ssh2
+Apr 21 02:30:34 bvm1 sshd[930]: Received disconnect from 77.88.208.134: 11: Bye Bye
+Apr 21 02:30:35 bvm1 sshd[931]: Invalid user rheal from 77.88.208.134
+Apr 21 02:30:35 bvm1 sshd[932]: input_userauth_request: invalid user rheal
+Apr 21 02:30:35 bvm1 sshd[931]: pam_unix(sshd:auth): check pass; user unknown
+Apr 21 02:30:35 bvm1 sshd[931]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=77.88.208.134 
+Apr 21 02:30:37 bvm1 sshd[931]: Failed password for invalid user rheal from 77.88.208.134 port 53772 ssh2
+Apr 21 02:30:37 bvm1 sshd[932]: Received disconnect from 77.88.208.134: 11: Bye Bye
+Apr 21 02:30:39 bvm1 sshd[933]: Invalid user roosevelt from 77.88.208.134
+Apr 21 02:30:39 bvm1 sshd[934]: input_userauth_request: invalid user roosevelt
+Apr 21 02:30:39 bvm1 sshd[933]: pam_unix(sshd:auth): check pass; user unknown
+Apr 21 02:30:39 bvm1 sshd[933]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=77.88.208.134 
+Apr 21 02:30:41 bvm1 sshd[933]: Failed password for invalid user roosevelt from 77.88.208.134 port 55234 ssh2
+Apr 21 02:30:41 bvm1 sshd[934]: Received disconnect from 77.88.208.134: 11: Bye Bye
+Apr 21 02:30:42 bvm1 sshd[935]: Invalid user roosevelt from 77.88.208.134
+Apr 21 02:30:42 bvm1 sshd[936]: input_userauth_request: invalid user roosevelt
+Apr 21 02:30:42 bvm1 sshd[935]: pam_unix(sshd:auth): check pass; user unknown
+Apr 21 02:30:42 bvm1 sshd[935]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=77.88.208.134 
+Apr 21 02:30:44 bvm1 sshd[935]: Failed password for invalid user roosevelt from 77.88.208.134 port 56685 ssh2
+Apr 21 02:30:45 bvm1 sshd[936]: Received disconnect from 77.88.208.134: 11: Bye Bye
+Apr 21 02:30:46 bvm1 sshd[937]: Invalid user roosevelt from 77.88.208.134
+Apr 21 02:30:46 bvm1 sshd[938]: input_userauth_request: invalid user roosevelt
+Apr 21 02:30:46 bvm1 sshd[937]: pam_unix(sshd:auth): check pass; user unknown
+Apr 21 02:30:46 bvm1 sshd[937]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=77.88.208.134 
+Apr 21 02:30:49 bvm1 sshd[937]: Failed password for invalid user roosevelt from 77.88.208.134 port 42151 ssh2
+Apr 21 02:30:49 bvm1 sshd[938]: Received disconnect from 77.88.208.134: 11: Bye Bye
+Apr 21 02:30:51 bvm1 sshd[939]: In then mysterious instadeath D:
+10:42:11 <Rawr|Fone> You need to never close the stream then
+10:42:20 <Rawr|Fone> So you technically never join
+10:42:51 <reification> clever rawr
+10:46:30 -!- carcinisation [~smuxi@cpc76294-cosh16-2-0-cust297.6-1.cable.virginm.net] has joined #tlponies
+11:04:35 <Rawr|Fone> 🐴🐴🐴
+11:10:26 <CockRoach|42> https://imgur.com/gallery/OLIRDGQ
+11:14:12 -!- ZK [~ZK@modemcable189.130-83-70.mc.videotron.ca] has joined #tlponies
+11:26:20 -!- Rawr|Phone [~AndChat25@m83-185-81-121.cust.tele2.se] has joined #tlponies
+11:39:16 <DoT|Phone> cane please
+11:51:57 -!- DoT|Phone [~Dot@85.255.236.124] has joined #tlponies
+11:53:50 -!- DoT|Phone1 [~Dot@212.44.46.104.ip.redstone-isp.net] has joined #tlponies
+11:54:23 <DoT|Phone1> blarg
+11:55:14 -!- BioSC [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+11:55:17 <Rawr|Phone> Dot
+11:55:21 <Rawr|Phone> Snela
+12:21:21 <DoT|Phone1> I'm trying Rawr
+12:28:55 -!- DoT|Phone1 [~Dot@148.252.129.2] has joined #tlponies
+12:28:57 -!- skram [~skram@ip-231-146-106-77.eidsiva.net] has joined #tlponies
+12:29:08 <DoT|Phone1> AAAHH!
+12:29:22 <skram> BJØRN!
+12:29:56 <DoT|Phone1> Skram
+12:30:06 <DoT|Phone1> Hello you
+12:31:15 <skram> Hey buddy
+12:31:19 <skram> What you up to
+12:31:24 <DoT|Phone1> in a car
+12:31:38 <skram> is it a nice car?
+12:31:39 <DoT|Phone1> was just at R.A.F museum
+12:31:43 <DoT|Phone1> it is
+12:31:43 <skram> neat
+12:32:13 <carcinisation> hei skram
+12:32:24 <skram> Hallo reif!
+12:32:44 <skram> I was at a job interview today
+12:32:52 <skram> For a position equal to the one I have
+12:32:56 <skram> At the place I currently work
+12:34:11 <carcinisation> and the pay?
+12:34:13 <DoT|Phone1> weird
+12:34:30 <skram> the same
+12:34:47 <DoT|Phone1> why Skram
+12:34:52 <carcinisation> does it involve less or more fires?
+12:34:53 <skram> difference is that i have a 1 year contract and the other job is indefinite
+12:35:01 <skram> more hopefully
+12:35:18 <skram> the fire nearly went out forever last tuesday :P
+12:35:26 <carcinisation> :O
+12:35:32 <DoT|Phone1> lol
+12:35:39 <skram> when pressure relief valves dont open, things get a bit scary
+12:36:13 -!- Bio [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+12:36:22 <carcinisation> don't worry skram i'm sure the pressure will find another way to release :p
+12:36:59 <skram> You really want that to happen in a controlled manner :p
+12:48:50 <DoT|Phone1> Jonas
+12:49:02 <DoT|Phone1> gl getting the job you already have
+12:49:33 <skram> thanks buddy
+12:53:15 -!- BioSC [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+13:29:20 <BioSC> asdf
+13:29:23 <BioSC> mornen
+13:29:41 <skram> ghjk
+13:29:45 <skram> hallo bio
+13:29:58 <DoT|Phone1> hi bio
+13:30:17 <reification> hello memepon
+13:38:48 <BioSC> Kappa
+13:43:29 <DoT|Phone1> how's bio
+13:43:46 <Bio> just woke
+13:43:51 <Bio> need covfefe
+13:49:51 <DoT|Phone1> coffee get
+13:51:14 <Bio> yes
+13:51:19 <Bio> warm and good
+13:55:57 -!- carcinisation [~smuxi@cpc76294-cosh16-2-0-cust297.6-1.cable.virginm.net] has joined #tlponies
+14:00:45 <carcinisation> https://i.redd.it/f3nuxee3etlz.jpg
+14:01:07 <skram> accurate
+14:02:36 <Bio> http://www.themasters.gg/manila-2017/news/EE-Chair-Auction-For-A-Cause
+14:02:39 <Bio> memez
+14:08:03 <Bio> pagb patch day
+14:08:12 <Bio> fog dot!
+14:08:16 <Bio> we can see even less!
+14:09:35 <DoT|Phone1> New pew pew
+14:16:20 -!- tredc [webchat@90-230-30-217-no56.tbcn.telia.com] has joined #tlponies
+14:19:15 <carcinisation> i won't be hampered anyomre by my inability to see enemies at distance :p
+14:20:34 -!- DoT|Phone [~Dot@85.255.236.93] has joined #tlponies
+14:39:08 -!- Micen [~micen@h58.53.91.75.dynamic.ip.windstream.net] has joined #tlponies
+14:56:27 -!- DoT|Phone [~Dot@85.255.236.93] has joined #tlponies
+14:56:48 <DoT|Phone> pon pon
+14:56:58 <Bio> neigh
+14:57:14 -!- DoT|Phone1 [~Dot@85.255.236.93] has joined #tlponies
+15:02:00 -!- DuB` [~DuB@66-219-235-64.dynamic.ip.veracitynetworks.com] has joined #tlponies
+15:02:02 <DuB`> Ohayou~
+15:02:18 <DuB`> DoT|Phone1 y u phon
+15:02:29 <Rawr|Phone>13817747843465=1455661601
+13817747833453=1455660940
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            :08:00 <DoT|Phone1> bio pon
+18:10:04 <Bio> dot hors
+18:10:21 <DoT|Phone1> how's the day
+18:10:28 <Bio> gud
+18:10:33 <Bio> skol is done for the week
+18:10:48 <DoT|Phone1> nice
+18:10:59 <skram> but bio
+18:11:02 <skram> is only thursday
+18:13:47 <Bio> YES!
+18:14:01 <DoT|Phone1> what a life!
+18:16:16 -!- carcinisation [~smuxi@cpc76294-cosh16-2-0-cust297.6-1.cable.virginm.net] has joined #tlponies
+18:25:18 -!- Rawr|Fone [~AndChat25@m83-185-95-223.cust.tele2.se] has joined #tlponies
+18:25:59 -!- Rawr|Phone [~AndChat25@84-217-62-32.customers.ownit.se] has joined #tlponies
+18:26:27 <DoT|Phone1> Rawr Rawr
+18:26:39 <Rawr|Phone>  Dot Dot
+18:26:43 <Rawr|Phone> ❤❤
+18:27:01 <DoT|Phone1> <3
+18:27:47 <DoT|Phone1> how's ping pong
+18:28:10 <Rawr|Phone> Just got home
+18:28:13 <Rawr|Phone> It went well
+18:28:24 <Rawr|Phone> I have a tournament this weekend
+18:28:27 <DoT|Phone1> Good
+18:28:58 <DoT|Phone1> win please
+18:29:44 <Rawr|Phone> I'll do my best
+18:29:49 <Rawr|Phone> 🏓🏓🏓
+18:30:05 <DoT|Phone1> that's blank Rawr
+18:30:27 <Rawr|Phone> 🏓🏓🏓🏓🏓🏓🏓🏓🏓🏓🏓
+18:30:38 <DoT|Phone1> aahhhh
+18:30:59 <DoT|Phone1> panic
+18:31:20 <Rawr|Phone> It's a table tennis thing
+18:31:49 <DoT|Phone1> picnic
+18:33:35 <DoT|Phone1> Rawr. you are causing me anxiety
+18:33:50 <Rawr|Phone> Please dot
+18:34:26 <Rawr|Phone> 🐴🐴🐴
+18:38:54 <DoT|Phone1> they are nice horses
+18:40:30 <Bio> Doing me a frighten
+18:41:31 <Rawr|Phone> 🤔
+18:43:10 <DoT|Phone1> D:
+18:44:15 <Rawr|Phone> 😲
+18:53:53 <DoT|Phone1> ?pancakes
+19:00:02 <ZK> ooooooooohhhhhhhhh
+19:00:10 <ZK> sc2 day9 announcer!
+19:00:18 <CockRoach|42> :OOO
+19:01:02 <ZK> YAYYYYYYYY
+19:01:26 <ZK> your mineral patch just went kaput
+19:01:47 <ZK> oh god
+19:01:50 <ZK> artosis pylon jokes
+19:03:37 -!- DoT|Phone1 [~Dot@185.69.144.250] has joined #tlponies
+19:03:41 <Bio> b
+19:03:57 <DoT|Phone1> A
+19:04:12 <ZK> DoT DoT DoT
+19:04:17 <ZK> Day9 announcer pack!
+19:04:41 <DoT|Phone1> nice !
+19:14:20 <motbob> https://streamable.com/l43nj
+19:18:14 -!- BioSC [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+19:18:26 <BioSC> internet ples
+19:21:17 <DoT|Phone1> Bork Bork
+19:21:40 <Rawr|Phone> Dot Dot
+19:21:51 <Rawr|Phone> 🏓🏓
+19:24:17 <DoT|Phone1> why you do this Rawr
+19:24:25 <Rawr|Phone> 😘😘😘
+19:24:34 <DoT|Phone1> no
+19:27:49 <Rawr|Phone> Dot snela
+19:27:55 <Rawr|Phone> 😇😇😇
+19:34:04 <DoT|Phone1> skarpning
+19:39:27 <Rawr|Phone> 📱📱📱
+19:39:56 <carcinisation> on my irc client it looks like rawr loves lego blocks
+19:40:20 <Rawr|Phone> Might be true
+19:40:37 <skram> of course he does
+19:40:45 <BioSC> rawr does like to play with legos
+19:40:51 <BioSC> you know
+19:40:54 <BioSC> cuz he's like 11
+19:41:21 <skram> that was like 7 years ago i think
+19:41:25 <skram> at this point hes older than me
+19:41:27 <carcinisation> runbun might take it personally if he didn't
+19:42:38 <carcinisation> i mean denmark is vikings, pastries, bacon and legos right?
+19:43:06 <Rawr|Phone> Are you frozen in time skram
+19:43:17 <Rawr|Phone> Yes reef reef
+19:43:26 <DoT|Phone1> who doesn't like Lego
+19:43:40 <carcinisation> ppl who step on them
+19:44:05 <DoT|Phone1> bio. Lego is a name and can not be a plural
+19:44:08 <DoT|Phone1> please
+19:44:31 <Rawr|Phone> Wow dot
+19:44:34 <Rawr|Phone> What a nerd
+19:44:42 <DoT|Phone1> I try
+19:44:56 <Rawr|Phone> 👌
+19:44:59 <skram> lego is a noun dot
+19:45:00 <skram> pls
+19:45:02 <skram> language changes
+19:45:14 <carcinisation> usually for the worse
+19:57:17 <skram> careful
+19:57:25 <skram> your oldness is showing :p
+19:59:07 -!- tredc [webchat@90-230-30-217-no56.tbcn.telia.com] has joined #tlponies
+20:02:18 <BioSC> asdf
+20:02:20 <BioSC> what do
+20:09:40 <DuB`> do readin'
+20:09:50 <Runbunny> Jonas.
+20:09:55 <Runbunny> Er det du?
+20:12:39 <BioSC> readin is for nerds
+20:12:42 <BioSC> lets shoot people in the head
+20:15:03 <skram> Anders
+20:15:06 <skram> Her er jeg.
+20:19:15 <DuB`> Cannot shoots heads
+20:19:21 <DuB`> Gotta reed buks
+20:24:44 <Runbunny> It's good to know where you are Skram.
+20:25:03 <Runbunny> You can always look down at your feet and say "Here I am".
+20:25:25 -!- DoT|Phone [~Dot@185.69.144.250] has joined #tlponies
+20:25:37 <DoT|Phone> what you up to Skram
+20:26:01 <DuB`> He
+20:26:05 <DuB`> is being where he is
+20:26:42 <BioSC> dub y u abandon meh
+20:26:54 <BioSC> BUTT Y THO
+20:27:00 <DuB`> I do not!
+20:27:06 <DuB`> Here I am!
+20:28:00 <BioSC> gon 5ever
+20:30:03 <DoT|Phone> life is so cruel bio
+20:30:30 <DuB`> Nuh uh
+20:30:32 <DuB`> Life is gud
+20:30:35 <BioSC> nevr plej
+20:30:38 <BioSC> always sad
+20:33:44 <DoT|Phone> bio. I have orange juice
+20:33:50 <DoT|Phone> gud stuff
+20:33:59 <Bio> yes, so long as its pure
+20:35:18 <DoT|Phone> bio going all Nazi on the orange juice
+20:40:26 <carcinisation> i don't think the nazis liked the juice at all dot :p
+20:40:42 <DuB`> Well no wonder they were so awful.
+20:42:01 <DoT|Phone> cleanse all juice
+20:42:35 <Bio> pulp is literally hitler 
+20:44:50 <skram> tf is wrong with u
+20:45:08 <carcinisation> so not a fan bio https://www.youtube.com/watch?v=yuTMWgOduFM
+20:45:32 <skram> this is pretty good
+20:45:36 <skram> needs a vaporwave remix tho
+20:46:10 <DuB`> ...
+20:46:35 <skram> yes good evening to you as well dub
+20:47:05 <DoT|Phone> vaporwave is bad Skram
+20:47:08 <DoT|Phone> please
+20:48:12 <skram> you dont know anything bjørn
+20:48:24 <skram> also yes but thats sort of the point
+20:48:26 <skram> in a way
+20:49:01 <DuB`> ...
+20:49:22 <skram> DID YOU FORGET YOUR LETTERS AGAIN JAKOB
+20:49:22 <Bio> hitler
+20:50:02 <DuB`> skram sshhh
+20:50:14 <skram> dont shush your elders
+20:50:32 <DuB`> 2 old 2 talk
+20:50:56 <skram> u cheeky bugger
+20:51:22 <DuB`> I am learning about
+20:51:38 <skram> butts?
+20:51:40 <DuB`> Reporting Intercorporate Investments and Cosolidation of Wholly Owned Subsidiaries with No Differential
+20:52:02 <skram> how interesting
+20:52:02 <Runbunny> Dub I am playing overwatch O:
+20:52:05 <Runbunny> Aren't you proud?
+20:52:23 <DuB`> Yay!
+20:52:26 <DuB`> I wanna D:
+20:53:15 <skram> then do
+20:54:01 <DuB`> nu
+20:55:41 <DoT|Phone> do it dub
+20:57:23 <DuB`> Dot pls a be a gud influence.
+20:57:25 <DuB`> Not bad!
+21:01:13 <DoT|Phone> gaming with friends is what matters
+21:01:32 <DoT|Phone> we are social creatures
+21:03:14 <Golly> we could all be figments of your imagination
+21:03:18 <DuB`> This is why I'm going back to campus in 2 hours for GROUP work. :P
+21:03:31 <DuB`> Golly: I have a pretty great imagination, then.
+21:03:54 <Golly> beep boop
+21:06:43 -!- Phearlock [~Phearlock@cm-84.215.228.107.getinternet.no] has joined #tlponies
+21:06:43 -!- mode/#tlponies [+v Phearlock] by Q
+21:06:50 <DuB`> perlok
+21:07:04 <Phearlock> Hello ponypons
+21:07:06 <Phearlock> and dub
+21:08:51 <skram> hallo pearlok
+21:09:32 <carcinisation> hello phear
+21:10:27 -!- DoT|Phone1 [~Dot@85.255.236.139] has joined #tlponies
+21:10:30 <DoT|Phone1> hello Phear pon
+21:10:38 <DuB`> ponyons
+21:11:40 <Phearlock> https://68.media.tumblr.com/931918485d62f8c17aa65f4b265d12a2/tumblr_owafdkNZiq1vqo9ebo1_1280.jpg
+21:11:42 <Phearlock> moonpon
+21:15:40 <DuB`> Pretty [y]/n
+21:16:25 <skram> thank
+21:17:42 <Phearlock> http://royalsketchbook.tumblr.com/post/165310311059/10-minutes-later-rarity-what-have-i-done-i I love celestias expression in panel 3/4
+21:17:47 <Phearlock> Silly princess <3
+21:18:34 <skram> :3
+21:19:43 <skram> im a mercy main now DuB`
+21:19:43 <skram> btw
+21:20:08 <DoT|Phone1> that celly Phear
+21:20:22 <DuB`> Reasonable, skram.
+21:20:26 <DuB`> She IS #1 pretty.
+21:20:27 <DoT|Phone1> mercy is best Skram
+21:21:17 <DuB`> Official Battle Mercy 
+21:21:20 <DuB`> Soon(tm)
+21:22:10 <skram> almost as pretty as lucio
+21:22:33 <DuB`> ...
+21:22:38 <DuB`> skram y u wrong so much.
+21:22:52 <DoT|Phone1> practice
+21:22:55 <DuB`> Bio help this boi
+21:23:01 <skram> fuk all y'all
+21:23:17 <Phearlock> that's pretty gay skram
+21:23:34 <Bio> skarm do what you want, you are an independant mansir
+21:23:47 <Phearlock> I respect your overwatch sexuality though
+21:23:51 <Phearlock> it's ok
+21:24:04 <skram> its only gay if you kiss
+21:24:12 <Bio> > Insert Halloween Mercy copypasta here
+21:24:37 <motbob> i'm only familiar with one mercy copypasta
+21:25:06 <motbob> having to do with torment, perfection etc.
+21:25:16 <motbob> idk if that's the halloween copypasta
+21:27:10 <DuB`> This is what I think of your lucio preference skram https://i.pinimg.com/originals/e0/2e/40/e02e40984ef527cc59a93b693c2b932c.jpg
+21:27:18 <DuB`> #1 is CLEAR
+21:30:33 <carcinisation> https://www.reddit.com/r/Overwatch/comments/4w6fnc/comprehensive_guide_to_the_sounds_mercys_heels/
+21:31:22 <skram> HOW DARE YOU??
+21:31:57 <Zounds> Mercy pretty good
+21:32:02 <Zounds> Mei will always be #1 in my heart though
+21:32:21 <DuB`> Mercy = #1 pretty, mei = #1 cute
+21:32:22 <DuB`> ez
+21:32:34 <skram> im just waiting for the hero with the scottish accent
+21:33:27 <Zounds> Can't be worse than tf2 demoman
+21:34:47 <carcinisation> isn't luna in dota scottish?
+21:35:03 <DuB`> LEEWWWNA
+21:35:17 <Zounds> I don't know her voice
+21:36:27 <Zounds> Nah she's N.Irish for sure now that I hear it
+21:37:57 <skram> irish yea
+21:38:10 <skram> demoman is the greatest video game character of all time
+21:38:22 <Zounds> He has great lines but a terrible voice
+21:38:48 <skram> thats exactly how they talk in scotland
+21:38:56 <skram> trust me, i read scottishpeopletwitter all the time
+21:39:08 <Zounds> I should read those to you one day skram so you know how it sounds
+21:39:29 <DuB`> Ooh ooh ooh
+21:39:32 <DuB`> That sounds fun. :P
+21:39:43 <carcinisation> reddit claims lone druid is the scottish one
+21:41:10 <Zounds> Hmm
+21:41:13 <Zounds> yeah I'd say so
+21:42:34 <Zounds> Not entirely authentic I'd say but not a bad approximation
+21:43:28 <skram> you should zounds
+21:44:55 <DoT|Phone1> only when I get home Zounds
+21:45:05 <DoT|Phone1> I need to hear it
+21:45:24 <Zounds> :P
+21:45:51 <Zounds> I'll be revealing my power level then
+21:53:40 <DoT|Phone1> sounds perfect
+21:55:37 <carcinisation> hopefully i shall be doing some hiking in scotland next year
+21:57:49 <DoT|Phone1> pick me up on the way please
+21:58:57 <Zounds> Pretty good place for it
+21:59:03 <Zounds> I'm off to bed pons o/
+21:59:05 <Zounds> have a good night
+21:59:11 <carcinisation> nn zounds
+21:59:15 <Zounds> nn sugarsphere
+21:59:25 <Golly> https://clips.twitch.tv/CloudyBlitheSnakeHassanChop
+22:24:44 -!- Micen|droid [~AndChat48@66-87-101-126.pools.spcsdns.net] has joined #tlponies
+22:25:42 <Micen|droid> Good evening
+22:25:51 <CockRoach|42> hi Micen|droid
+22:26:13 <Micen|droid> Sadday :(
+22:26:24 <Micen|droid> My computer died on me
+22:26:29 <DoT|Phone1> hi Micen
+22:26:46 <DoT|Phone1> ?ohdear
+22:26:49 <Micen|droid> Well motherboard gave up
+22:26:55 <CockRoach|42> :(
+22:27:10 <Micen|droid> Refuses to run usb devices
+22:27:20 <Micen|droid> Which are all my devices
+22:27:31 <CockRoach|42> that sounds like a bit of a bother
+22:27:39 <Micen|droid> Only slightly. 
+22:28:05 <Micen|droid> Th 
+22:29:08 <Micen|droid> That and its obsolete hardware anyway.
+22:29:18 <Micen|droid> Im hsv
+22:29:22 <Micen|droid> L
+22:29:33 <Micen|droid> Wow,I can't type for crap today
+22:30:10 <Micen|droid> Oh here is a thing that should be saved. 
+22:30:40 <Micen|droid> https://www.youtube.com/watch?v=tb8pB0sAFHs
+22:30:44 <CockRoach|42> :D
+22:31:08 <Micen|droid> Bye dub
+22:32:10 <DuB`off> c 
+22:32:11 <DuB`off> ya
+22:32:23 <DoT|Phone1> gnight dub
+22:33:15 <Bio> dub
+22:33:16 <Bio> why
+22:33:24 <DuB`off> stoody
+22:33:32 <DuB`off> With OTHER PEOPLE
+22:33:33 <Bio> don't be a nerd
+22:33:46 <CockRoach|42> https://www.youtube.com/watch?v=xG0HuCLv9oE
+22:33:53 <Bio> I just finished the burgers
+22:38:30 <Micen|droid> Were they
+22:39:01 <Micen|droid> https://youtu.be/6ZZh7bOvBlI ? 
+22:40:28 <Bio> they were, though a bit too rare for my taste
+22:40:32 <Bio> pan was a bit too hot
+22:40:49 <Bio> oh well, they will be just right tomorrow for leftovers
+22:40:57 <Micen|droid> Too rare. Is that a thing? 
+22:41:01 <Bio> yes
+22:41:15 <Bio> bordering on undercooked
+22:41:39 <Bio> though i like mine with only a little pink in the middle, as opposed to steak
+22:44:32 <Micen|droid> Okay
+22:44:58 <Bio> these cucumber fries that came with it are butt
+22:45:43 <Bio> oh well, i have a shake now to eat
+22:47:55 -!- Camaike Gecko) GSA/4.0.0.29643 Mobile/11D201 Safari/9537.53"
+lightsview.com.au:80 60.242.73.8 - - [27/May/2014:17:59:17 +1000] "GET /wp-content/uploads/2013/07/pool-1400x731.jpg HTTP/1.1" 200 239854 "http://www.lightsview.com.au/" "Mozilla/5.0 (iPad; CPU OS 7_1_1 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) GSA/4.0.0.29643 Mobile/11D201 Safari/9537.53"
+lightsview.com.au:80 60.242.73.8 - - [27/May/2014:17:59:18 +1000] "GET /wp-content/themes/lightsview/assets/img/arrowSmall.png HTTP/1.1" 200 852 "http://www.lightsview.com.au/" "Mozilla/5.0 (iPad; CPU OS 7_1_1 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) GSA/4.0.0.29643 Mobile/11D201 Safari/9537.53"
+lightsview.com.au:80 60.242.73.8 - - [27/May/2014:17:59:18 +1000] "GET /wp-content/themes/lightsview/assets/img/socialIcons.png HTTP/1.1" 200 3344 "http://www.lightsview.com.au/" "Mozilla/5.0 (iPad; CPU OS 7_1_1 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) GSA/4.0.0.29643 Mobile/11D201 Safari/9537.53"
+lightsview.com.au:80 60.242.73.8 - - [27/May/2014:17:59:18 +1000] "GET 

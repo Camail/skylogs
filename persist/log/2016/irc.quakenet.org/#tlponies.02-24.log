@@ -1,0 +1,562 @@
+00:00:05 <Camail> make ?zk a list of ?'s about you
+00:00:13 <Camail> that can divide into others
+00:00:16 <ZK> i dont think i ahve taht many
+00:00:18 <ZK> ?zk
+00:00:22 <Camail> lol
+00:00:23 <ZK> oh right
+00:00:31 <Camail> I remember that
+00:00:32 <Camail> good times
+00:00:37 <ZK> .r zk + zkfanfics
+00:00:37 <DoT`> that was there wasnt it
+00:00:44 <ZK> ?zk
+00:01:58 <Camail> .r fuckface zk
+00:02:07 <ZK> .r fuckface + Camail
+00:03:53 <Camail> .r ultimatefuckface zk, and definitely not anyone after this colon:
+00:04:03 <Camail> food time
+00:21:34 <Bio> pon
+00:23:30 <DoT`> bio pon
+00:40:44 <DoT`> http://pixelkitties.deviantart.com/art/Taco-Tuesday-Tactical-Team-503643063
+00:56:17 <DoT`> whats up pons
+00:56:26 <DoT`> <sweetiebot> zk fuckface
+00:56:30 <DoT`> wat
+00:56:38 <DoT`> thats not what i copied
+00:56:42 <ZK> wassup?
+00:56:44 <DoT`> http://www.deviantart.com/art/Ragnarok-592599071
+00:56:50 <DoT`> thats what i copied
+00:56:55 <ZK> copied from what?
+00:57:02 <DoT`> ctrl c
+00:57:08 <ZK> oh
+00:57:12 <ZK> ?dot
+00:57:16 <DoT`> irc was being silly
+00:57:18 <ZK> ?dot`
+00:57:49 <DoT`> >.>
+00:58:18 <ZK> i thought it was doorman
+00:58:30 <DoT`> it was
+00:59:48 <Camail> it hoguht it was doormat
+00:59:57 <ZK> oh it was?
+01:00:10 <Camail> maybe
+01:00:12 <Camail> at one point
+01:00:33 <DoT`> zk wrote doormat
+01:00:46 <ZK> that does sound like a possibility
+01:07:22 <DoT`> rawr
+01:07:44 -!- Phearlock [~Phearlock@cm-84.211.141.30.getinternet.no] has joined #tlponies
+01:07:44 -!- mode/#tlponies [+v Phearlock] by Q
+01:07:51 <DoT`> hello again phear
+01:08:21 <ZK> silly phear
+01:14:22 <Rawr|Phone> Dot
+01:16:40 <DoT`> just making sure you didnt go to sleeo at a reasnable time
+01:18:54 <Camail> dot go to sleep pls
+01:19:12 <DoT`> soon
+01:28:56 <DuB`> You can now replay twitch chat with vods? :O
+01:29:02 <DuB`> TRULY relive the moment~
+01:30:09 <Camail> dub leave
+01:30:19 <DuB`> 5 min break.
+01:30:20 <Camail> be a good student (TM)
+01:30:27 <DuB`> My hand is cramping. >.>
+01:30:33 <DuB`> Too many kanji!
+01:30:53 -!- Golly [~Golly@1.92-221-121.customer.lyse.net] has joined #tlponies
+01:33:48 <Rawr|Phone> Nvr sleep dot
+01:39:04 -!- Raelcun__ [~Raelcun@75-22-122-173.lightspeed.clmboh.sbcglobal.net] has joined #tlponies
+01:39:06 -!- mode/#tlponies [+v Raelcun__] by Q
+01:50:34 <DoT`> gnight all <3
+01:52:45 <Camail> oh cris i dunno if you did this, but putting -fullscreen -borderless in sf5 launch options is the only way to make borderless windowed
+01:52:48 <Camail> its super dumb
+01:53:05 <Camail> it makes alt tabbing a million times easier
+01:53:21 <Camail> for some reason sf5 takes a lot of time to alt tab in fullscreen for me
+01:57:17 -!- Crisium [webchat@dhcp-pa-67-20-245-248.consolidated.net] has joined #tlponies
+02:00:03 -!- Crisium_ [webchat@dhcp-pa-67-20-245-248.consolidated.net] has joined #tlponies
+02:07:09 <motbob> https://www.youtube.com/watch?v=rVlhMGQgDkY gg
+02:32:53 -!- Camail [~Camail@38.69.8.163] has joined #tlponies
+02:32:53 -!- mode/#tlponies [+v Camail] by Q
+02:43:36 <Camail> so ded
+02:52:29 -!- FlutterAi_ [~FlutterAi@adsl-98-93-47-43.owb.bellsouth.net] has joined #tlponies
+02:59:34 <Cane> Camail, does -fullscreen -borderless add frame lag at all?
+03:00:10 <Camail> i dont know? I'm running just fine
+03:00:22 <Cane> Well, I know for USF4, vsync on adds like 3 frames to input lag.
+03:00:40 <Camail> you can force v sync off
+03:00:54 <Camail> the engine.ini in the appdata folder for sf5 is where you put it
+03:01:09 <motbob> why would vsync add 3 frames...
+03:01:10 <Camail> tbf i dont KNOW if that works but i saw it online
+03:01:39 <Camail> 3 frames is an arbitrary number for 'some lag'
+03:02:16 <Camail> v sync fucks with framerate and streetfighters have their engine tied to framerate
+03:02:22 <Camail> so its generally not a good idea to use
+03:02:36 <Camail> and my generally i mean never
+03:02:54 <motbob> how do you link framerate to the engine in an online game
+03:03:04 <Camail> ggpo
+03:03:08 <Camail> rollback netcode
+03:03:21 <Camail> also offline is more important than online from a pure gameplay perspective
+03:03:58 <Camail> street fighters must run at 60 fps
+03:04:07 <Camail> anything more, or less, actually ruins it
+03:05:03 <Camail> so people with bad computers cant play and will have terrible rollbacks online
+03:07:55 <motbob> https://www.youtube.com/watch?v=wJhzkwTvglY
+03:08:35 <Camail> Crisium_  there's a  1 frame window where you can actually use mk sbk in that crackfiend combo...for like 10 more damage
+03:08:47 <motbob> SFV is really beautiful to watch, I think much more so than SF4
+03:08:53 <Camail> yea
+03:09:01 <Camail> tbf sf4 came out in 2008
+03:09:35 <motbob> Some games just sort of grab you. I watched 120 seconds of Dota 2 and was grabbed. This was the early beta in 2011.
+03:10:04 <Crisium_> Whats amazing is that they managed to make Banana Hair Ken in SFV look good by comparison to the He-Man Ken of SF4
+03:10:22 <Camail> I liked the way it looked
+03:10:26 <Camail> sf4, that is
+03:10:40 <Camail> when i first saw it i dont really rmemeber what i thought
+03:10:52 <Camail> other than 'I want to learn what these people are doing'
+03:11:48 <Camail> man pr rog was so sad when he lost the first round
+03:12:07 <Crisium_> watching that vid now motbob
+03:12:08 <Camail> rashid is marvel
+03:12:49 <Crisium_> pr rog could have won round 1 if he did ex FBA instead of ex Roll to end his stun combo
+03:12:58 <Crisium_> i think it would have done enough extra damage
+03:13:00 <Camail> i dunno why there's that weird slow down at the end
+03:13:28 <Crisium_> well, with all the scaling its hard to say
+03:13:37 <Crisium_> but he did not do optimal punish
+03:13:49 <Camail> god i hate bieng in the lab against birdie, his idle animation has him picking his nose and throwing a booger at you
+03:13:54 <Camail> which has a hitbox
+03:14:08 <Camail> so when I'm not doing anytihng i just get to hear THAT all the time
+03:14:56 <Crisium_> i havcent played sfv since saturday, maybe i should try again tomorrow
+03:17:21 <motbob> why does the stun mechanic exist?
+03:17:35 <Crisium_> now thats a good question actually
+03:17:46 <Crisium_> in SF2 it was actually random
+03:17:53 <Crisium_> sometimes a combo would stun sometimes it wouldnt
+03:18:15 <Crisium_> i think its too make the player track something else besides health and meter
+03:18:26 <Crisium_> other games use guard break if you block too much, but i dont like that
+03:18:28 <motbob> it could probably be justified nowadays from a spectator standpoint
+03:19:20 <Camail> I mean, initial reasons? i dunno
+03:19:31 <Camail> but it adds a variable to the game that's fun
+03:19:32 <Crisium_> in SF3 i would use often prioritize high stun moves over damage
+03:19:53 <Camail> if someone's close to stun it changes both players options
+03:20:00 <Camail> all of a sudden every hit turns into a full combo
+03:20:02 <Crisium_> any combo you have to take into account damage, position, and also stun - either one could be more important than the other at that time
+03:20:09 <Camail> or maybe your character has a combo that does 100% stun
+03:20:18 <Camail> it happened in kof 13
+03:20:56 <Camail> or you have moves that do a lot of stun
+03:22:00 <Crisium_> https://www.youtube.com/watch?v=zwFIkuxVN1U&feature=youtu.be&t=3s
+03:22:28 <Camail> I guess in its most basic form it encourages offense 
+03:22:48 <Camail> and encourages smart defense
+03:23:02 <Crisium_> https://www.youtube.com/watch?v=yNrsnnQjRcs
+03:23:03 <Camail> in a way that isnt just "you fail = you die"
+03:23:24 <Crisium_> also that SF4 zangief anti air that does 500 stun or whatever
+03:23:28 <Crisium_> lol
+03:23:31 <Camail> j.hp
+03:23:41 <Camail> on hugo he could do 2 in a combo
+03:37:28 <motbob> With characters and outfits being unlocked via fight money, I don't think it'll be long before the lower levels of matchmaking are saturated with bot.
+03:37:28 <motbob> s
+03:39:24 <Crisium_> god i hope not
+04:29:15 -!- Wikt [~Wikt@213.108.153.51] has joined #tlponies
+04:29:15 -!- mode/#tlponies [+o Wikt] by Q
+04:40:04 <motbob> https://www.youtube.com/watch?v=d_t0CNJUOsM you should watch this if you haven't watched sc2 for a while
+04:55:37 <Cane> Welp, Team Four Star got DMCA'd, again. Channel's gone.
+04:57:02 <Cane> They just have to constantly contest strikes on their content. They always end up succeeding but by the time the content is no longer flagged they've lost a ton of revenue.
+04:57:08 <Cane> Going Pateron was the smartest thing they could have done.
+05:04:09 <Crisium_> RIP DBZA
+05:11:52 -!- Camail [~Camail@38.69.8.163] has joined #tlponies
+05:11:52 -!- mode/#tlponies [+v Camail] by Q
+06:40:22 -!- Frigo [~Frigo@catv-80-99-5-67.catv.broadband.hu] has joined #tlponies
+06:44:54 -!- DoT|Phone [~Dot@0546f392.skybroadband.com] has joined #tlponies
+07:32:53 -!- DoT|Phone [~Dot@0546f392.skybroadband.com] has joined #tlponies
+07:35:29 -!- skram [~skram@ip-92-146-106-77.eidsiva.net] has joined #tlponies
+07:35:29 -!- mode/#tlponies [+v skram] by Q
+08:38:56 -!- DoT|Phone [~Dot@0546f392.skybroadband.com] has joined #tlponies
+09:02:59 -!- tredc [webchat@90-224-53-116-no56.tbcn.telia.com] has joined #tlponies
+09:05:00 -!- DoT|Phone [~Dot@0546f392.skybroadband.com] has joined #tlponies
+09:17:40 -!- DoT|Phone [~Dot@0546f392.skybroadband.com] has joined #tlponies
+09:17:40 -!- Golly [~Golly@1.92-221-121.customer.lyse.net] has joined #tlponies
+09:22:30 -!- Saurabhinator [webchat@58.174.177.17] has joined #tlponies
+09:23:53 -!- Runbunny [~Runbunny@62.61.130.232.generic-hostname.arrownet.dk] has joined #tlponies
+09:26:49 <Saurabhinator> http://i.imgur.com/xZpzKh0.jpg
+09:26:51 <Saurabhinator> squadgoals
+09:35:35 <Runbunny> .choose slack work
+09:35:40 <Runbunny> yay.
+09:35:47 <Runbunny> I'll try again tomorrow then :D
+09:48:49 -!- DoT|Phone [~Dot@0546f392.skybroadband.com] has joined #tlponies
+09:52:58 -!- DoT` [~Dot@0546f392.skybroadband.com] has joined #tlponies
+09:53:05 <DoT`> morning all
+10:02:47 <DoT`> http://www.twitch.tv/gsl
+10:07:20 -!- DoT|Phone1 [~Dot@0546f392.skybroadband.com] has joined #tlponies
+10:15:25 -!- Golly [~Golly@1.92-221-121.customer.lyse.net] has joined #tlponies
+10:17:23 <Saurabhinator> http://i.imgur.com/9FP0luk.jpg
+10:17:58 <DoT`> saura <3
+10:18:03 <DoT`> lol
+10:21:01 <Saurabhinator> i  booked myself a gym personal training session
+10:21:10 <Saurabhinator> with some huge buff black dude
+10:22:35 <DoT`> nice, try not to die please
+10:30:24 <Saurabhinator> i failed my DL today tho
+10:30:33 <Saurabhinator> only got 4 reps out of the 105kg
+10:30:47 <Saurabhinator> but my bench press is past the 70kg mark so thats going for me
+10:47:27 -!- Lynda [~Lynda@Lynda.users.quakenet.org] has joined #tlponies
+10:47:27 -!- mode/#tlponies [+v Lynda] by Q
+10:47:28 <Lynda> hi
+10:47:48 <DoT`> hey lyn
+10:53:31 <Lynda> http://www.dotabuff.com/matches/2174556028 deathless game and 29-29 score, but then my team threw it
+10:53:32 <Lynda> oh well
+10:54:41 <Lynda> Alch 1.1k GPM
+10:56:47 <DoT`> such is dota
+10:59:08 <Lynda> indeed
+10:59:09 <Lynda> http://gfycat.com/FatalConsciousDoctorfish
+11:02:59 -!- Yolteotl [webchat@253.73.126.78.rev.sfr.net] has joined #tlponies
+11:03:21 <DoT`> yolt <3
+11:04:40 <Saurabhinator> that alch
+11:09:44 <Yolteotl> hi pones :)
+11:10:09 <Yolteotl> dot <3
+11:11:05 <DoT`> intristing gsl map
+11:11:11 <DoT`> flames and stuff
+11:15:19 <Yolteotl> it's burning
+11:15:29 <Yolteotl> it should do a draw after 30min
+11:15:43 <DoT`> i see so, its falling to the planet
+11:15:48 <DoT`> lol
+11:18:14 <Saurabhinator> this stream wont loda for me
+11:18:34 <Yolteotl> excuses saura
+11:18:57 <Saurabhinator> i can have dot testify to how crap our internet is
+11:20:20 <DoT`> its very third world
+11:22:01 <Yolteotl> lies
+11:22:08 <Yolteotl> toss shit is trong :P
+11:28:34 <Yolteotl> CHICKEN MANIA TIME
+11:28:47 <Yolteotl> PLZ
+11:30:16 -!- Frigo [~Frigo@catv-80-99-5-67.catv.broadband.hu] has joined #tlponies
+11:33:20 <DoT`> poor yolt, always hopeful
+11:33:23 <Yolteotl> D:
+11:33:34 <Yolteotl> I saw the ads each time between first and second game
+11:33:36 <Yolteotl> at work
+11:43:13 <Yolteotl> that was bad
+11:43:17 <Yolteotl> terran can't loose
+11:45:19 <DoT`> terran please
+11:45:34 <Yolteotl> did you watch the three failed nydus?
+11:46:20 <DoT`> yolt, he must won
+11:46:22 <DoT`> win
+11:46:37 <DoT`> gg
+11:46:44 <Yolteotl> he did  :p
+12:01:39 <Yolteotl> AOA
+12:03:31 <Saurabhinator> this is me
+12:03:32 <Saurabhinator> https://symmetricstrength.com/lifter/Saurabhinator
+12:03:51 <Saurabhinator> m'boiz
+12:03:54 <Saurabhinator> ima sleep
+12:04:01 <Saurabhinator> enjoy ur starcraft
+12:10:31 <CockRoach|42> .roll d20 to pon pon
+12:11:36 <DoT`> hey cr
+12:12:00 <CockRoach|42> hi dots
+12:19:44 <Yolteotl> gogogo bunny
+12:23:59 <DoT`> gg
+12:24:12 <tredc> gg
+12:34:53 <DoT`> poor marines
+12:36:06 <Yolteotl> dot, I added a virtual keyboard for my stream :D
+12:42:02 <Yolteotl> http://imgur.com/jmZoE1k
+12:42:18 <Yolteotl> I should change the design to be more ui integrate :P
+12:42:42 <DoT`> how fancy!
+12:43:02 <DoT`> i must go to government silly thing now
+12:43:11 <DoT`> 30 minutse drive for 5 minute meeting :/
+12:43:12 <Yolteotl> you'll be able to see what key i'm spamming
+12:43:14 <DoT`> then back
+12:43:17 <Yolteotl> have fun dot <3
+12:43:24 <DoT`> haha
+12:55:33 <Bio> skool cancel
+12:55:44 <Bio> its like slushing out right now
+12:57:56 <Bio> but hey, work isn't, haha
+12:59:10 <Bio> mornin pons
+13:32:15 <skram> i went to get a MOT-thing for my car
+13:32:24 <skram> sooo much rust
+13:32:35 <skram> dude at the shop told me to not even bother
+13:32:37 <skram> rip
+13:32:57 <Bio> rip car
+13:35:37 <skram> i need a new car now bio. do you have one?
+13:35:58 <Bio> yeh
+13:36:02 <Bio> but i gotta use it
+13:36:06 <Bio> to go to biowork
+13:36:10 <BioWork> ansdlg;ash
+13:36:15 <skram> aaw
+13:36:20 <BioWork> T_T
+13:36:28 <skram> send moni pls
+13:38:10 <BioWork> i spend all moni on snaks and skool T_T
+13:38:13 <BioWork> bb 2h
+13:38:16 <BioWork> njaonwsjreeqpobruqaperbuiqeryt
+13:38:22 <BioWork> .tell DoT` <3
+13:38:23 <skram> gl bio
+13:42:22 <Runbunny> skram you can have my car.
+13:42:30 <Runbunny> It's a sæbekasse bil.
+13:42:39 <skram> i dont know what that is anders
+13:43:27 <Rawr|Phone> Don't trust him skram
+14:06:20 <DoT`> I have been adult today
+14:06:31 <DoT`> now tracksuit pants time
+14:07:21 <DoT`> rawr http://i.imgur.com/A0xxo21.jpg
+14:13:05 <Rawr|Phone> Dot dot dot
+14:13:34 <DoT`> <3
+14:14:19 <DoT`> skram Runbunny http://imgur.com/gallery/LlmS8sm
+14:14:47 <Rawr|Phone> <3
+14:16:28 <DoT`> http://imgur.com/gallery/UvSxH3S
+14:17:52 <Runbunny> That's amazing.
+14:19:17 <Rawr|Phone> So is your face
+14:20:44 -!- reification [~reificati@cpc76294-cosh16-2-0-cust297.6-1.cable.virginm.net] has joined #tlponies
+14:20:44 -!- mode/#tlponies [+v reification] by Q
+14:20:59 <reification> irc works again :D
+14:21:46 <reification> .roll d20 for lifting
+14:25:17 <DoT`> woooo
+14:25:19 <DoT`> hey reif
+14:25:29 <reification> hey dotties
+14:27:08 <DoT`> http://imgur.com/gallery/ExUS6R2
+14:28:03 <DoT`> http://imgur.com/gallery/ncAPUUM
+14:31:42 <DoT`> https://www.reddit.com/r/starcraft/comments/47bo3r/who_is_responsible_for_this_3/
+14:50:30 <DoT`> http://imgur.com/gallery/uQUWHIL
+14:54:26 <DoT`> there is more cute rawr http://imgur.com/gallery/0wVjN
+15:12:53 <DoT`> http://imgur.com/gallery/Astt55j
+15:22:13 <DoT`> http://magnaluna.deviantart.com/art/Smileeee-592782316
+15:22:23 <DoT`> yolt
+15:26:45 <Rawr|Phone> Dot dot dot
+15:27:15 <DoT`> rawrasaur <3
+15:40:03 <Rawr|Phone> Such a pon dot <3
+15:45:35 <DoT`> what you up to rawr?
+15:49:15 <Rawr|Phone> Not much
+15:49:27 <Rawr|Phone> How are you today dot?
+15:49:33 <DoT`> im doing fine
+15:56:31 <Rawr|Phone> Good to hear
+16:03:20 * skram pokes DoT`
+16:03:23 <skram> ????
+16:03:27 <DoT`> oi you
+16:03:36 <skram> oi me
+16:03:39 <DoT`> <3
+16:03:49 <skram> <3
+16:03:55 <skram> hows your face today
+16:04:26 <DoT`> its doing ok, you?
+16:05:28 <skram> well enough
+16:06:46 <Phearlock> Yay back from tired-day
+16:07:00 <skram> hallo mr. ferlok
+16:07:01 <Phearlock> Time to sit in front of my computer playing civ 5 and eating cookies.
+16:07:11 <DoT`> what a life
+16:07:46 <Phearlock> Nothing better after not sitting down for houuuuurs
+16:07:46 <skram> i am envious of you
+16:08:20 <Phearlock> I have 4 cookies skram, if you come over you can have one
+16:08:24 <Phearlock> or two, if you're fast
+16:08:41 <Phearlock> Probably shorter to go to the store and get cookies though
+16:09:13 <skram> I would, but I cant. I had PKK today and my old mitsubishi was pronounced dead
+16:09:23 <skram> She was only 21 years old ;_;
+16:09:32 <Phearlock> F=
+16:09:36 <Phearlock> F *
+16:10:32 <DoT`> awww
+16:11:00 <reification> TT
+16:21:02 <skram> Sooo now I need a new one. Can you get me a red one DoT`? I hear they are the fastest.
+16:21:23 <DoT`> they are
+16:22:39 <DoT`> the problem is catching them
+16:22:54 <skram> any tips`
+16:22:56 <skram> ?
+16:23:00 <DoT`> plan well
+16:23:10 <DoT`> they are attracted to flames
+16:23:11 <skram> do i need the special mittens
+16:23:27 <DoT`> they can be hot
+16:23:43 <skram> i dont want one thats on fire though
+16:23:55 <DoT`> pick carefully
+16:25:59 <Golly> dont forget the stripes
+16:30:42 <Phearlock> And cat ears
+16:34:55 <BioWork> i bek
+16:35:32 <Bio> seagull's stream is simply titled memes
+16:35:37 <Bio> right to the point
+16:36:42 <Rawr|Phone> Sounds like a good stream
+16:37:12 <skram> DoT` did you buy the operation pass in csgo
+16:37:32 <DoT`> Bio got it for me!
+16:37:46 <DoT`> and bio is back
+16:37:52 <skram> come online and help me with the stupid coop mission?
+16:38:18 <DoT`> ok fine
+16:38:26 <skram> yay
+16:38:39 <Bio> skrma u can do coop with people who don't have op
+16:39:04 <skram> i dont have any friends Bio
+16:39:07 <skram> except DoT` here
+16:39:09 <Bio> horse pls
+16:45:59 <DoT`> skrams hax was found and he got kicked
+16:46:04 <skram> sssh
+17:02:07 <Micen> hello
+17:07:22 <DoT`> HEY MICEN
+17:07:52 <Micen> Hey. How is it hanging?
+17:08:48 <DoT`> is good
+17:09:15 <Micen> This is good. My brother bought me Divinity Original Sin and iu fianlly installed it. I am excite. 
+17:10:00 <Micen> I was having a blast doing some Co-op with him, but he never seemed to want to play it after like our second time. 
+17:14:39 <Bio> pone
+17:15:01 <Micen> horse.
+17:15:40 <Bio> neiiiiigh
+17:18:27 <CockRoach|42> http://i.imgur.com/BYRPQRq.webm
+17:23:39 -!- Yolteotl [webchat@253.73.126.78.rev.sfr.net] has joined #tlponies
+17:25:22 <Yolteotl> re pones
+17:25:23 <Yolteotl> <3
+17:25:35 <Phearlock> lol CR
+17:25:47 <Phearlock> cats xD
+17:25:52 <Micen> cats are dum
+17:25:58 <Micen> cute, but dum
+17:26:07 <Phearlock> Very silly creatures.
+17:26:09 <Micen> scary, but dum 
+17:26:24 <Phearlock> I love cats though
+17:26:30 <Phearlock> They're my kind of dum
+17:26:43 <Micen> as do I, cats are cool
+17:26:47 <Phearlock> Also, been a long time since I played civ 5
+17:26:56 <Phearlock> What a nice relaxing game.
+17:27:19 <Micen> my favroite Cats: https://upload.wikimedia.org/wikipedia/en/0/03/Aybabtu.png
+17:27:21 <Phearlock> Gunboat diplomacy is best diplomacy.
+17:27:37 <Yolteotl> http://www.twitch.tv/yolteotl
+17:28:20 <CockRoach|42> http://imgur.com/a/wbBfv
+17:32:17 <Phearlock> I remember seeing this, so cute
+17:43:52 -!- Micen [~Micen@h176.241.17.98.dynamic.ip.windstream.net] has left #tlponies
+17:47:57 -!- Rawr|Fone [~Rawr@host-95-195-149-1.mobileonline.telia.com] has joined #tlponies
+17:58:16 -!- skram [~skram@ip-92-146-106-77.eidsiva.net] has joined #tlponies
+17:58:16 -!- mode/#tlponies [+v skram] by Q
+17:59:34 <skram> DoT` is better than me at cs
+17:59:41 <skram> i dont know what cam is whining about all the time
+18:00:23 <DoT`> pff, i am bad
+18:00:32 <DoT`> i died 7 times to your 3 that one round S:
+18:00:33 <DoT`> D:
+18:01:16 <skram> yes but you killed like all of them
+18:01:25 <skram> i liked the sneaky beaky mission tho
+18:01:47 <DoT`> it was fun
+18:03:03 <Bio> ooo
+18:03:11 <Bio> we gotta do =sneak mission doot
+18:03:43 <DoT`> http://imgur.com/gallery/OFeLE
+18:03:50 <DoT`> later pon, i have a sore head
+18:04:01 <DoT`> but we will <3
+18:04:01 <Bio> okei
+18:04:08 <Bio> i got nothing else to do today
+18:04:12 <Bio> snow dey
+18:08:38 <DoT`> yay
+18:11:02 -!- Mag_ [~Mag@107.92-221-99.customer.lyse.net] has joined #tlponies
+18:12:20 <DoT`> http://www.twitch.tv/basetradetv
+18:12:22 <DoT`> pengu
+18:12:31 <DoT`> mut muts
+18:14:19 <skram> i sold a thing on steam
+18:14:27 <skram> thats like 3 extra dollars in my dragon lore fund
+18:14:29 <skram> woo
+18:15:04 <DoT`> riches!
+18:17:11 <DoT`> dam, its 4 zerg bracket :/
+18:32:54 <DoT`> gg pengu
+18:33:01 -!- DoT|Phone [~Dot@0546f392.skybroadband.com] has joined #tlponies
+18:33:05 <DoT|Phone> http://i.imgur.com/kJ5N3RY.gifv
+18:33:15 <DoT|Phone> Rawr
+18:33:44 <DoT|Phone> cane
+18:37:03 <Rawr|Fone> Dot
+18:46:10 <reification> ooh pengu is 1-1
+18:49:43 <reification> the banes :D
+18:54:25 <reification> and again
+18:54:33 <reification> so many ded lings <3
+19:02:31 <DoT|Phone> pengu winning?
+19:07:35 <reification> not this game
+19:15:24 <reification> gg
+19:15:30 <reification> 2-3 :(
+19:15:47 <DoT|Phone> aww
+19:16:13 -!- Phearlaptop [~Phearlock@cm-84.211.141.30.getinternet.no] has joined #tlponies
+19:16:13 -!- mode/#tlponies [+v Phearlaptop] by Q
+19:27:05 <DoT|Phone> pity they are all zerg
+19:28:35 <DoT|Phone> Watch Wardiii with me on Twitch! http://www.twitch.tv/wardiii
+19:28:41 <DoT|Phone> silly phone
+19:28:48 <DoT|Phone> all I wanted was the link
+19:37:47 <DoT|Phone> Rawr Rawr Rawr
+19:47:31 <DoT|Phone> bunny noo
+19:48:27 <DoT|Phone> gg
+20:18:48 <DoT|Phone> pon pon
+20:18:53 <DoT|Phone> bio
+20:22:07 <reification> you let bunny lose dot D:
+20:25:28 <Bio> yesh
+20:27:16 <DoT|Phone> it was awful Reif
+20:27:21 <DoT|Phone> how's you bio
+20:31:15 <Bio> neigh
+20:34:14 <Rawr|Fone> Dot dot dot
+20:34:34 -!- Frigo [~Frigo@catv-80-99-5-67.catv.broadband.hu] has joined #tlponies
+20:40:07 <DoT|Phone> scary fungal
+20:40:24 <DoT|Phone> bio so hors
+20:42:25 <Bio> http://magnaluna.deviantart.com/art/Smileeee-592782316
+20:43:21 <Bio> http://rains-scribbles.tumblr.com/post/139884439193/havent-uploaded-in-a-while-so-have-this-quick-ish
+20:48:26 <DoT|Phone> pon
+20:48:47 <Rawr|Fone> Dot
+20:53:39 <Phearlaptop> I luv that twiluna
+20:53:49 <Phearlaptop> Good thinking twi
+20:55:51 <CockRoach|42> http://xduskstarx.deviantart.com/art/Chryssi-591969620
+20:56:37 <CockRoach|42> http://xduskstarx.deviantart.com/art/RD-Sombra-Timeline-587605860
+20:57:40 <CockRoach|42> http://toki-reatle.deviantart.com/art/Gilda-471804574
+21:00:27 <CockRoach|42> https://vine.co/v/izFJTFxi9nl
+21:06:31 <DoT|Phone> I dozed off
+21:07:05 <Rawr|Fone> Dot snela
+21:07:06 <Rawr|Fone> No sleep
+21:07:31 <CockRoach|42> he wont sleep anytime soon now :)
+21:16:07 <Rawr|Fone> Probably will
+21:20:35 <DoT|Phone> 10 minutes sleep means I'm now good till 2 am
+21:22:13 <Bio> silly horse
+21:22:46 -!- Crisium [webchat@dhcp-pa-67-20-245-248.consolidated.net] has joined #tlponies
+21:23:38 <Crisium> http://www.equestriadaily.com/2016/02/twilights-wings-are-getting-massive.html
+21:24:31 <Crisium> amaze http://www.telva.com/pasarelas/albumes/2016/02/22/maria-escote-madrid-fashion-week-otono-invierno-2016-2017/index-34.html
+21:26:11 <DoT`> Bio skram, which hors wants to co-op?
+21:26:42 <DoT`> Crisium, <3
+21:26:47 <Crisium> hi
+21:27:04 <DoT`> true amaz 
+21:29:03 <DoT`> come on bunny D:
+21:31:41 -!- Crisium_ [webchat@dhcp-pa-67-20-245-248.consolidated.net] has joined #tlponies
+21:33:01 -!- DoT|Phone1 [~Dot@0546f392.skybroadband.com] has joined #tlponies
+21:33:37 <DoT`> rawr http://imgur.com/gallery/yAMfm
+21:35:21 <Bio> dotpon
+21:35:30 <DoT`> bayu
+21:35:39 <Bio> com
+21:35:45 <Bio> we sneakypons
+21:37:02 <DoT`> NOOO
+21:37:03 <DoT`> bunny
+21:37:10 <reification> D:
+21:37:36 <Yolteotl> ponypony
+21:40:24 <CockRoach|42> .tellm Cane Yolteotl | http://paperdrop.deviantart.com/art/luna-592833416
+21:47:11 <Rawr|Fone> 🐴🐴🐴
+21:49:35 -!- DoT|Phone [~Dot@0546f392.skybroadband.com] has joined #tlponies
+21:54:35 -!- DoT|Phone [~Dot@0546f392.skybroadband.com] has joined #tlponies
+22:01:23 <reification> nice hold by lilbow
+22:06:52 -!- DoT|Phone1 [~Dot@0546f392.skybroadband.com] has joined #tlponies
+22:14:42 <DoT`> we killed things with pistols
+22:14:46 <DoT`> and i got shot
+22:14:58 <CockRoach|42> animootion! http://i.imgur.com/IfGLDQx.gif
+22:15:06 * CockRoach|42 3pro5lyfe
+22:15:19 <DoT`> :D
+22:15:24 <DoT`> you made this?
+22:15:27 <CockRoach|42> yes
+22:15:33 <Bio> I made this
+22:15:36 <CockRoach|42> :8
+22:15:38 <CockRoach|42> :[
+22:15:39 <DoT`> this is a cute danger noodle
+22:19:11 <Crisium> nice animu Bio
+22:19:16 <Crisium> Kappa
+22:19:29 <CockRoach|42> the worst
+22:19:30 <Crisium> trying to steal CRs stuff
+22:19:59 <DoT`> i tihnk its just happy coincidence they both had the same idea and did it so close together
+22:20:30 <CockRoach|42> of course :)
+22:22:27 <DoT`> nerchio has salt
+22:22:44 <DoT`> how dare lilbow try hard
+22:22:55 <DoT`> gg
+22:23:30 <Yolteotl> he is french dot
+22:26:14 <DoT`> yolteoleol
+22:28:03 <DoT`> http://kta1540.deviantart.com/art/RaRa-RaRaRa-LyRa-592796430
+22:30:45 <DoT`> .tell dub` Where you!
+22:30:49 <reification> playing FTOPS free pass daily (5x entry) with 4250 entries
+22:30:56 -!- Rawr|Phone [~Rawr@81-233-7-47-no34.tbcn.telia.com] has joined #tlponies
+22:31:03 <reification> currently 1st and 4th of 59 remaining :D
+22:31:16 <DoT`> \o/
+22:31:42 <DoT`> lilbow D:
+22:31:44 <DoT`> oh well
+22:31:48 <reification> i may have been a bit lucky to beat QQ 3 times in about 5mins on one table
+22:32:17 <DoT`> gg
+22:32:31 -!- motbob [~motbob@x-128-101-215-216.reshalls.umn.edu] has joined #tlponies
+22:32:35 <DoT`> Hey mots
+22:32:40 <motbob> http://56.media.tumblr.com/0c16f219836fd9aaad11d5ec6d629be6/tumblr_o32drxvRY71ra1vfao1_1280.jpg
+22:32:49 <DoT`> hat wars!
+22:33:50 <DoT`> aww, Pengwin went out in ting cup
+22:34:06 <CockRoach|42> :(
+22:34:07 -!- Mag_ [~Mag@107.92-221-99.customer.lyse.net] has joined #tlponies
+22:34:09 <Rawr|Phone> Not in our hearts
+22:34:26 <DoT`> rawr, you see the dog rating?
+22:34:32 <Rawr|Phone> Yes
+22:34:36 <DoT`> good
+22:34:37 <Rawr|Phone> It was good
+22:34:41 <DoT`> http://alasou.deviantart.com/art/The-loudest-warrior-592837700
+22:48:02 <DoT`> http://imgur.com/gallery/nCsNY1a  rawr
+22:49:50 <reification> made it with both entries :D
+22:50:18 <Rawr|Phone> That is pretty cute dot
+22:51:08 <reification> it’s the flappy ear what does it
+22:51:23 <DoT`> like your face rawr
+22:51:34 <Rawr|Phone> Oh you :3
+22:57:18 <DoT`> .tell cane http://paperdrop.deviantart.com/art/luna-592833416
+22:59:48 <DoT`> http://veggie55.deviantart.com/art/Twilight-Discovers-The-Library-579959299
+23:02:11 <Rawr|Phone> Dot dot dot
+23:02:25 <DoT`> rawr rawr rawr
+23:02:35 <DoT`> <3
+23:03:58 <Rawr|Phone> <3
+23:09:13 -!- Raelcun [~Raelcun@75-22-122-173.lightspeed.clmboh.sbcglobal.net] has joined #tlponies
+23:09:15 -!- Raelcun [~Raelcun@Raelcun.users.quakenet.org] has joined #tlponies
+23:09:15 -!- mode/#tlponies [+v Raelcun] by Q
+23:28:33 <DoT`> pon pon
+23:28:35 <DoT`> whats up
+23:31:18 <reification> https://www.youtube.com/watch?v=bFl5pEe-7uo
+23:33:45 <Rawr|Phone> Beep beep
+23:35:37 <DoT`> lol daredevils
+23:49:26 <DoT`> http://dennyvixen.deviantart.com/art/Valkyria-592787476
+23:59:53 <DoT`> .roll d20 to boop bio

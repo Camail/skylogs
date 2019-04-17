@@ -1,0 +1,201 @@
+/wp-cron.php?doing_wp_cron=1358232416.9424569606781005859375 HTTP/1.0" 200 406 "-" "WordPress/3.4.2; http://zeitgeist-info.com"
+www.zeitgeist-info.com:80 209.85.238.164 - - [15/Jan/2013:17:16:55 +1030] "GET /feed/ HTTP/1.1" 200 12362 "-" "Feedfetcher-Google; (+http://www.google.com/feedfetcher.html; 23 subscribers; feed-id=15927026598615049724)"
+www.zeitgeist-info.com:80 69.12.216.20 - - [15/Jan/2013:17:17:23 +1030] "POST /wp-cron.php?doing_wp_cron=1358232443.9865779876708984375000 HTTP/1.0" 200 406 "-" "WordPress/3.4.2; http://zeitgeist-info.com"
+www.zeitgeist-info.com:80 41.204.146.104 - - [15/Jan/2013:17:17:22 +1030] "GET /article/2011/01/factors-affecting-behaviour/ HTTP/1.1" 200 13720 "http://www.google.co.tz/url?sa=t&rct=j&q=factors%20that%20affect%20human%20behaviour&source=web&cd=2&ved=0CDEQFjAB&url=http%3A%2F%2Fzeitgeist-info.com%2Farticle%2F2011%2F01%2Ffactors-affecting-behaviour%2F&ei=E_v0UL25DaKM0AXzuoHYCg&usg=AFQjCNGv73msyxpc8S772Zuvqn4MlfNS9w" "Mozilla/5.0 (Windows NT 6.1; rv:16.0; WUID=9d21eb7260b809d826e45090ecc0e3f2; WTB=2937) Gecko/20100101 Firefox/16.0"
+www.zeitgeist-info.com:80 41.204.146.104 - - [15/Jan/2013:17:17:28 +1030] "GET /wp-content/themes/lightword/style.css?ver=2.0.0.6 HTTP/1.1" 200 4793 "http://zeitgeist-info.com/article/2011/01/factors-affecting-behaviour/" "Mozilla/5.0 (Windows NT 6.1; rv:16.0; WUID=9d21eb7260b809d826e45090ecc0e3f2; WTB=2937) Gecko/20100101 Firefox/16.0"
+www.zeitgeist-info.com:80 41.204.146.104 - - [15/Jan/2013:17:17:28 +1030] "GET /wp-content/themes/lightword/original.css?ver=2.0.0.6 HTTP/1.1" 200 708 "http://zeitgeist-info.com/article/2011/01/factors-affecting-behaviour/" "Mozilla/5.0 (Windows NT 6.1; rv:16.0; WUID=9d21eb7260b809d826e45090ecc0e3f2; WTB=2937) Gecko/20100101 Firefox/16.0"
+www.zeitgeist-info.com:80 41.204.146.104 - - [15/Jan/2013:17:17:29 +1030] "GET /wp-content/plugins/sociable-30/sociable.css?ver=5.13 HTTP/1.1" 200 1206 "http://zeitgeist-info.com/article/2011/01/factors-affecting-behaviour/" "Mozilla/5.0 (Windows NT 6.1; rv:16.0; WUID=9d21eb7260b809d826e45090ecc0e3f2; WTB=2937) Gecko/20100101 Firefox/16.0"
+www.zeitgeist-info.com:80 41.204.146.104 - - [15/Jan/2013:17:17:30 +1030] "GET /wp-content/plugins/google-calendar-widget/wiky.js?ver=1.0 HTTP/1.1" 200 5215 "http://zeitgeist-info.com/article/2011/01/factors-affecting-behaviour/" "Mozilla/5.0 (Windows NT 6.1; rv:16.0; WUID=9d21eb7260b809d826e45090ecc0e3f2; WTB=2937) Gecko/20100101 Firefox/16.0"
+www.zeitgeist-info.com:80 41.204.146.104 - - [15/Jan/2013:17:17:30 +1030] "GET /wp-content/plugins/google-calendar-widget/ko-calendar.js?ver=3.4.2 HTTP/1.1" 200 5531 "http://zeitgeist-info.com/article/2011/01/factors-affecting-behaviour/" "Mozilla/5.0 (Windows NT 6.1; rv:16.0; WUID=9d21eb7260b809d826e45090ecc0e3f2; WTB=2937) Gecko/20100101 Firefox/16.0"
+www.zeitgeist-info.com:80 41.204.146.104 - - [15/Jan/2013:17:17:30 +1030] "GET /wp-content/plugins/google-calendar-widget/date.js?ver=alpha-1 HTTP/1.1" 200 8540 "http://zeitgeist-info.com/article/2011/01/factors-affecting-behaviour/" "Mozilla/5.0 (Windows NT 6.1; rv:16.0; WUID=9d21eb7260b809d826e45090ecc0e3f2; WTB=2937) Gecko/20100101 Firefox/16.0"
+www.zeitgeist-info.com:80 41.204.146.104 - - [15/Jan/2013:17:17:30 +1030] "GET /wp-includes/js/comment-reply.js?ver=3.4.2 HTTP/1.1" 200 791 "http://zeitgeist-info.com/article/2011/01/factors-affecting-behaviour/" "Mozilla/5.0 (Windows NT 6.1; rv:16.0; WUID=9d21eb7260b809d826e45090ecc0e3f2; WTB=2937) Gecko/20100101 Firefox/16.0"
+www.zeitgeist-info.com:80 41.204.146.104 - - [15/Jan/2013:17:17:30 +1030] "GET /wp-content/plugins/google-calendar-widget/ko-calendar.css HTTP/1.1" 200 598 "http://zeitgeist-info.com/article/2011/01/factors-affecting-behaviour/" "Mozilla/5.0 (Windows NT 6.1; rv:16.0; WUID=9d21eb7260b809d826e45090ecc0e3f2; WTB=2937) Gecko/20100101 Firefox/16.0"
+www.zeitgeist-info.com:80 41.204.146.104 - - [15/Jan/2013:17:17:31 +1030] "GET /wp-content/plugins/add-post-to-facebook-plugin/facebook.css HTTP/1.1" 500 637 "http://zeitgeist-info.com/article/2011/01/factors-affecting-behaviour/" "Mozilla/5.0 (Windows NT<DuB`> D:
+05:54:50 <DuB`> Havin' some hot cocao instead
+05:54:56 <DuB`> Friggin MMM MMM
+05:57:54 <skram> hey dub whats your most listened song this year
+06:00:10 <DuB`> RŒûŒüL - „Ç≥„Éé„É®Loading 
+06:00:12 <DuB`> :P
+06:06:06 <skram> what the h e c k is this
+06:09:06 <DuB`> REOL
+06:18:54 <Camail> dub we were so close
+06:19:05 <Camail> to getting a juri in ccup
+06:22:16 <DuB`> Ooh
+06:22:19 <DuB`> gimme linku
+06:29:32 -!- DoT_ [~quassel@90.214.186.173] has joined #tlponies
+06:57:30 <Rawr|Fone> Horses
+06:57:34 <Rawr|Fone> Morning
+07:02:15 -!- Rawr|Phone [~AndChat52@m83-185-86-32.cust.tele2.se] has joined #tlponies
+07:14:07 <Rawr|Phone> .tell DuB` why so rude
+07:55:54 -!- Phearlock_ [~Phearlock@cm-84.215.228.107.getinternet.no] has joined #tlponies
+07:55:54 -!- mode/#tlponies [+v Phearlock_] by Q
+08:00:22 -!- Dot` [~quassel@90.214.186.173] has joined #tlponies
+08:05:54 <Dot`> Mornign all
+08:06:44 <skram> good morning bj√∏rn
+08:09:35 <Dot`> <3
+08:13:52 -!- DoT_ [~quassel@90.214.186.173] has joined #tlponies
+08:13:57 <DoT_> its too cold for the intenret this morning it seems
+08:16:34 <DoT_> skram, my uncle is in shorts...  its like -3 and we are going to go outside 
+08:17:06 <skram> is your uncle a manly man
+08:17:26 <DoT_> well i guess
+08:19:56 <DoT_> this is the uncle that climbed my kiliminjaro
+08:20:26 <skram> is that the same uncle who drives race cars
+08:20:47 <DoT_> no
+08:21:19 <skram> your family is cooler than me
+08:21:30 <DoT_> this is my uncle stu who is  a strucyual engineer and brews bis own beer
+08:21:36 <DoT_> structual
+08:22:00 <skram> does he enjoy disco
+08:22:16 <DoT_> hmmm, i dont know 
+08:22:17 <DoT_> yet
+08:22:23 <DoT_> i must go, we are going for a run/jog apparently
+08:22:25 <DoT_> im going to die
+08:22:32 <skram> sounds exhausting
+08:22:54 <skram> bring water and a sattelite phone
+08:25:29 <Rawr|Phone> üëå
+08:36:21 -!- DoT|Phone [~Dot@85.255.234.174] has joined #tlponies
+08:36:31 <DoT|Phone> ponies
+08:36:42 <DoT|Phone> it's cold
+08:37:18 <skram> put some clothes on
+08:38:35 <DoT|Phone> Oh
+08:38:58 <DoT|Phone> what you up to Skram
+09:36:03 -!- Dot` [~quassel@90.214.186.173] has joined #tlponies
+09:49:52 -!- DoT|Phone [~Dot@host81-154-55-252.range81-154.btcentralplus.com] has joined #tlponies
+09:50:09 <DoT|Phone> 5k jog complete
+09:50:18 <DoT|Phone> it was snowing
+09:54:55 <DoT|Phone> Skram
+09:58:55 -!- DoT|Phone1 [~Dot@host81-154-55-252.range81-154.btcentralplus.com] has joined #tlponies
+09:59:01 <DoT|Phone1> useless WiFi
+10:10:36 -!- DoT|Phone [~Dot@90.214.186.173] has joined #tlponies
+10:15:17 <Dot`> rawr rawr
+10:16:18 <Rawr|Phone> Dot dot
+10:20:08 <CockRoach|42> pls be calm pons
+10:24:14 -!- DoT_ [~quassel@90.214.186.173] has joined #tlponies
+10:24:18 <DoT_> blarg intenret
+10:27:19 <CockRoach|42> http://www.bbc.co.uk/news/uk-england-birmingham-42271150
+10:27:33 <CockRoach|42> it's like uk is becoming more like murrica after brexit
+10:27:46 <DoT_> reif has family there
+10:28:30 <CockRoach|42> .tell reification pls http://www.bbc.co.uk/news/uk-england-birmingham-42271150
+10:38:20 <Dot`> .tell skram https://imgur.com/gallery/aWs66
+10:49:08 <Dot`> RAWR https://imgur.com/gallery/EpczQ
+10:50:24 <Dot`> .tell runbunny https://imgur.com/gallery/ZIgeb
+10:51:11 <Rawr|Phone> Thanks dot
+11:35:36 -!- Golly [~Golly@1.92-221-121.customer.lyse.net] has joined #tlponies
+11:38:22 -!- BioSC [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+11:39:14 -!- micen [~micen@h68.52.172.72.dynamic.ip.windstream.net] has joined #tlponies
+11:39:20 <micen> Good morning 
+11:39:50 <micen> https://www.humblebundle.com/store/homefront free for another 6 hours if anyone wants it. 
+11:47:17 <Dot`> Hey micen
+12:11:15 <Dot`> http://atowncalledbedlam.tumblr.com/post/168341220581/pretty-pile-of-pies
+12:18:56 -!- reification [~reificati@cpc76294-cosh16-2-0-cust297.6-1.cable.virginm.net] has joined #tlponies
+12:18:56 -!- mode/#tlponies [+v reification] by Q
+12:19:16 <Dot`> hey reif
+12:31:14 <reification> hello dotties
+12:31:47 -!- BioHorse [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+12:31:51 <reification> lunch is delayed due to lack of potatoes :(
+12:32:04 <Dot`> oh dear
+12:34:30 <reification> cr|42 that cementing microwave to head thing happened in wolverhampton which explains a lot
+12:48:21 <CockRoach|42> :D
+13:19:59 <Dot`> ponies
+13:21:25 -!- tredc [~qwe@c83-251-161-94.bredband.comhem.se] has joined #tlponies
+13:30:18 <Dot`> time for town
+13:30:20 <Dot`> later all
+13:36:44 -!- skram [~skram@109.203.11.251] has joined #tlponies
+13:39:47 -!- BioHorse [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+13:41:50 -!- tredc [~qwe@c83-251-161-94.bredband.comhem.se] has joined #tlponies
+14:03:44 -!- BioSC [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+14:50:54 -!- Bio [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+14:56:51 -!- tredc [~qwe@c83-251-161-94.bredband.comhem.se] has joined #tlponies
+15:41:26 -!- BioSC [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+15:45:30 -!- tredc [~qwe@c83-251-161-94.bredband.comhem.se] has joined #tlponies
+15:58:16 <Rawr|Phone> üê¥üê¥üê¥
+15:58:35 <CockRoach|42> .roll d20 to boop Rawr|Phone
+15:58:49 <Rawr|Phone> .roll d20 to tickle cr
+15:59:08 <CockRoach|42> :O
+16:06:06 <Dot`> hello horses
+16:07:49 <skram> Bj√∏rn!
+16:07:55 <skram> Did you survive your jog
+16:07:56 <Dot`> Jonas!
+16:07:59 <Dot`> yes, barely
+16:08:36 <Dot`> you doing ok skram?
+16:08:57 <skram> pretty good now that you're here
+16:10:10 <Dot`> oh you
+16:10:59 -!- tredc [~qwe@c83-251-161-94.bredband.comhem.se] has joined #tlponies
+16:12:02 <skram> what sort of shenanigans are you up to
+16:12:09 <skram> did you figure out if your uncle is disco stu yet
+16:16:57 <Dot`> hmmm, no
+16:17:04 <Dot`> i will do my best to find out
+16:17:44 <skram> please do
+16:17:59 -!- tredc [~qwe@c83-251-161-94.bredband.comhem.se] has joined #tlponies
+16:23:31 <Dot`> .tell phearlock https://thetinyapprentice.tumblr.com/post/168355782400
+16:23:49 <Dot`> skram https://i.imgur.com/2gsp95b.jpg
+16:24:03 -!- tredc [~qwe@c83-251-161-94.bredband.comhem.se] has joined #tlponies
+16:24:27 <skram> entirely true
+16:39:20 <skram> .tell dub` https://i.imgur.com/9b1pMmo.mp4
+16:40:44 -!- BioHorse [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+16:42:54 <skram> .tell dub` https://www.youtube.com/watch?v=QRg_8NNPTD8
+16:43:30 -!- tredc [~qwe@c83-251-161-94.bredband.comhem.se] has joined #tlponies
+17:04:47 -!- BioSC [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+17:20:33 -!- DuB` [~DuB@66-219-235-64.dynamic.ip.veracitynetworks.com] has joined #tlponies
+17:20:35 <DuB`> Ohayou~
+17:22:39 -!- tredc [~qwe@c83-251-161-94.bredband.comhem.se] has joined #tlponies
+17:24:09 <Dot`> Hey dubs
+17:24:45 <Dot`> Hey Bio
+17:26:05 <BioSC> GMORN
+17:26:07 <BioSC> caps
+17:26:08 <DuB`> skram what is this druid ish
+17:26:09 <BioSC> hi
+17:26:14 <Bio> asdf
+17:26:19 <CockRoach|42> pls be less rowdy
+17:26:27 <Bio> nehj
+17:26:30 <CockRoach|42> :(
+17:26:42 <Bio> my last day of werk was today
+17:26:46 <Bio> now to do a new work
+17:26:54 <Dot`> woohoo
+17:27:19 <Dot`> Bio, if you want to do character bg thing, i have time now
+17:28:59 <Bio> ok
+17:29:01 <Bio> gimme sec
+17:29:23 -!- tredc [~qwe@c83-251-161-94.bredband.comhem.se] has joined #tlponies
+17:30:17 <CockRoach|42> https://www.youtube.com/watch?v=4SMqaeYDnL4
+17:37:36 <Rawr|Phone> üò≠üî´
+17:37:57 -!- Zounds [webchat@cpc108453-cowc8-2-0-cust8.14-2.cable.virginm.net] has joined #tlponies
+17:38:04 <Dot`> Zoonds!
+17:38:05 <Zounds> https://i.imgur.com/CgJMVAZ.gifv cutepons
+17:38:15 <Dot`> :D
+17:38:26 <Dot`> this is a great gif
+17:38:38 <Zounds> When is the hiatus done dot
+17:38:41 <Zounds> I need some pon in my life
+17:39:01 <DuB`> You could just be like me and have like 2-3 seasons to catch up on.
+17:39:05 <DuB`> Plenty of pon!
+17:39:27 <Zounds> hmm quite a few good things ahead of you if you ever get around to it
+17:40:05 <Zounds> 20 mins a week of stuff stretched over so many characters though
+17:40:07 <Zounds> it's not enough
+17:40:18 <DuB`> no spa
+17:40:28 <Zounds> Some .ÉË Ä QTªtz .Ñ  Ä QTªtã .Ö ¯ Ä QTªtå .Ü   Ä QTªtå .á Ä QTªtæ .à  Ä QTªt¿ .â  Ä QTªt¿ .ä   Ä QTªt¿ .ã( Ä QTªt¬ .å 0 Ä QTªt√ .ç 8 Ä QTªt√ .é @ Ä QTªt– .èH Ä QTªt– .ê P Ä QTªt– .ë X Ä QTªt– .í ` Ä QTªt— .ìh Ä QTªt— .î p Ä QTªt· .ï x Ä QTªt· .ñ Ä Ä QTªt‚ .óà Ä QTªtË .ò ê Ä QTªtË .ô ò Ä QTªtË .ö † Ä QTªtË .õ® Ä QTªu# .ú ∞ Ä QTªu# .ù ∏ Ä QTªu# .û ¿ Ä QTªu$ .ü» Ä QTªu$ .† – Ä QTªu$ .° ÿ Ä QTªu% .¢ ‡ Ä QTªu% .£Ë Ä QTªu% .§  Ä QTªu% .• ¯ Ä QTªuÅ .¶   Ä QTªuä .ß Ä QTªuä .®  Ä QTªuä .©  Ä QTªuä .™   Ä QTªuã .´( Ä QTªuç .¨ 0 Ä QTªué .≠ 8 Ä QTªué .Æ @ Ä QTªuè .ØH Ä QTªuè .∞ P Ä QTªuè .± X Ä QTªuè .≤ ` Ä QTªuê .≥h Ä QTªuê .¥ p Ä QTªuê .µ x Ä QTªuê .∂ Ä Ä QTªuë .∑à Ä QTªuí .∏ ê Ä QTªuí .π ò Ä QTªuî .∫ † Ä QTªuî .ª® Ä QTªuî .º ∞ Ä QTªuî .Ω ∏ Ä QTªuõ .æ ¿ Ä QTªuú .ø» Ä QTªuú .¿ – Ä QTªuú .¡ ÿ Ä QTªuú .¬ ‡ Ä QTªuú .√Ë Ä QTªuú .ƒ  Ä QTªu® .≈ ¯ Ä QTªu© .∆   Ä QTªu™ .« Ä QTªu≥ .»  Ä QTªu≥ .…  Ä QTªu≥ .    Ä QTªu‰ .À( Ä QTªu‰ .Ã 0 Ä QTªu‰ .Õ 8 Ä QTªu‰ .Œ @ Ä QTªu‰ .œH Ä QTªuÂ .– P Ä QTªuÂ .— X Ä QTªuÂ .“ ` Ä QTªuÂ .”h Ä QTªuÂ .‘ p Ä QTªuÊ .’ x Ä QTªuÊ .÷ Ä Ä QTªuÊ .◊à Ä QTªuÊ .ÿ ê Ä QTªuÊ .Ÿ ò Ä QTªuÁ .⁄ † Ä QTªuÁ .€® Ä QTªuÁ .‹ ∞ Ä QTªuÁ .› ∏ Ä QTªuÁ .ﬁ ¿ Ä QTªuË .ﬂ» Ä QTªuË .‡ – Ä QTªuË .· ÿ Ä QTªuÙ .‚ ‡ Ä QTªuı .„Ë Ä QTªuı .‰  Ä QTªu˜ .Â ¯ Ä QTªu˘ .Ê   Ä QTªv .Á Ä QTªv .Ë  Ä QTªv .È  Ä QTªv .Í   Ä QTªv .Î( Ä QTªv .Ï 0 Ä QTªv .Ì 8 Ä QTªv .Ó @ Ä QTªv .ÔH Ä QTªv . P Ä QTªv .Ò X Ä QTªv .Ú ` Ä QTªv .Ûh Ä QTªvX .Ù p Ä QTªw .ı x Ä QTªw% .ˆ Ä Ä QTªw& .˜à Ä QTªw& .¯ ê Ä QTªw& .˘ ò Ä QTªw& .˙ † Ä QTªw' .˚® Ä QTªw' .¸ ∞ Ä QTªw' .˝ ∏ Ä QTªw' .˛ ¿ Ä QTªw' .ˇ» Ä QTªw1 /  – Ä QTªw1 / ÿ Ä QTªwû / ‡ Ä QTªw¶ /Ë Ä QTªw¶ /  Ä QTªw® / ¯ Ä QTªw© /   Ä QTªw© / Ä QTªw© /  Ä QTªw© /	  Ä QTªw© /
+   Ä QTªw™ /( Ä QTªw™ / 0 Ä QTªw´ / 8 Ä QTªw´ / @ Ä QTªw´ /H Ä QTªw´ / P Ä QTªw´ / X Ä QTªw´ / ` Ä QTªw€ /h Ä QTªw‹ / p Ä QTªwı / x Ä QTªx= / Ä Ä QTªx= /à Ä QTªx= / ê Ä QTªx= / ò Ä QTªx= / † Ä QTªx= /® Ä QTªxP / ∞ Ä QTªxP / ∏ Ä QTªxP / ¿ Ä QTªxP /» Ä QTªxP /  – Ä QTªxR /! ÿ Ä QTªxS /" ‡ Ä QTªxS /#Ë Ä QTªxS /$  Ä QTªxg /% ¯ Ä QTªxg /&   Ä QTªxh /' Ä QTªxh /(  Ä QTªxh /)  Ä QTªxi /*   Ä QTªxl /+( Ä QTªxl /, 0 Ä QTªxm /- 8 Ä QTªxm /. @ Ä QTªxm //H Ä QTªxn /0 P Ä QTªxn /1 X Ä QTªxn /2 ` Ä QTªxn /3h Ä QTªxn /4 p Ä QTªx† /5 x Ä QTªx† /6 Ä Ä QTªx† /7à Ä QTªx† /8 ê Ä QTªx† /9 ò Ä QTªx° /: † Ä QTªx° /;® Ä QTªx° /< ∞ Ä QTªx° /= ∏ Ä QTªxƒ /> ¿ Ä QTªxƒ /?» Ä QTªxƒ /@ – Ä QTªxƒ /A ÿ Ä QTªxÕ /B ‡ Ä QTªxÕ /CË Ä QTªxÕ /D  Ä QTªxÕ /E ¯ Ä QTªy /F   Ä QTªy /G Ä QTªy /H  Ä QTªy /I  Ä QTªy /J   Ä QTªy /K( Ä QTªy  /L 0 Ä QTªy# /M 8 Ä QTªy, /N @ Ä QTªy, /OH Ä QTªy, /P P Ä QTªy- /Q X Ä QTªy. /R ` Ä QTªy/ /Sh Ä QTªy/ /T p Ä QTªy1 /U x Ä QTªy1 /V Ä Ä QTªy1 /Wà Ä QTªy1 /X ê Ä QTªy= /Y ò Ä QTªy= /Z † Ä QTªy= /[® Ä QTªy= /\ ∞ Ä QTªy? /] ∏ Ä QTªy? /^ ¿ Ä QTªy? /_» Ä QTªy? /` – Ä QTªy? /a ÿ Ä QTªyh /b ‡ Ä QTªyÑ /cË Ä QTªyÑ /d  Ä QTªyÑ /e ¯ Ä QTªyÖ /f   Ä QTªyÜ /g Ä QTªyÜ /h  Ä QTªyá /i  Ä QTªyá /j   Ä QTªyû /k( Ä QTªyû /l 0 Ä QTªyû /m 8 Ä QTªyû /n @ Ä QTªyü /oH Ä QTªy† /p P Ä QTªy† /q X Ä QTªy† /r ` Ä QTªy◊ /sh Ä QTªy◊.
+23:27:01 -!- tredc [~qwe@c83-251-161-94.bredband.comhem.se] has joined #tlponies
+23:34:54 <Dot`> dub
+23:36:52 <DuB`> dot
+23:37:35 <Dot`> what you up to
+23:41:43 <Bio> neigh
+23:41:51 <Bio> time to go
+23:41:54 <BioGone> bbl
+23:42:01 <Dot`> gone 5ever?
+23:42:07 <Dot`> bye bio!
+23:42:14 <BioGone> 6evr
+23:42:20 <Dot`> D:
+23:43:26 <DuB`> Doin' nuffin
+23:43:35 <micen> neigh 
+23:45:27 <Dot`> .tell zounds https://ii-art.deviantart.com/art/Spirit-of-Hearth-s-Warming-Past-Applejack-717214178
+23:46:05 <micen> Horses!
+23:46:34 <Dot`> hest
+23:46:38 -!- tredc [~qwe@c83-251-161-94.bredband.comhem.se] has joined #tlponies
+23:51:45 <skram> very good
+23:53:48 -!- tredc [~qwe@c83-251-161-94.bredband.comhem.se] has joined #tlponies
+23:55:45 <Dot`> skram, have you rethought your position on healing word
+23:55:53 <skram> no
+23:56:00 <Dot`> ok
+23:56:08 <skram> should i?
+23:56:16 <micen> Skram, what is your positon on healing word?
+23:56:44 <Dot`> its ranged and a bonus action, and ony a possible 2 less healing
+23:57:01 <skram> but dot i need my guiding bolt
+23:58:01 -!- Micen|Droid_ [~Micen@99-203-5-213.pools.spcsdns.net] has joined #tlponies

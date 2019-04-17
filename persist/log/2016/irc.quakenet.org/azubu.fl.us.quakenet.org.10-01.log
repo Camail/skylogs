@@ -1,0 +1,75 @@
+21:32:54 :azubu.fl.us.quakenet.org 001 sweetiebot :Welcome to the QuakeNet IRC Network, sweetiebot
+21:32:54 :azubu.fl.us.quakenet.org 002 sweetiebot :Your host is azubu.fl.us.quakenet.org, running version u2.10.12.10+snircd(1.3.4a)
+21:32:54 :azubu.fl.us.quakenet.org 003 sweetiebot :This server was created Sun 31 Jan 2016 at 00:14:21 GMT
+21:32:55 :azubu.fl.us.quakenet.org 004 sweetiebot azubu.fl.us.quakenet.org u2.10.12.10+snircd(1.3.4a) dioswkgxRXInP biklmnopstvrDcCNuMT bklov
+21:32:55 :azubu.fl.us.quakenet.org 005 sweetiebot WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=15 MODES=6 MAXCHANNELS=20 MAXBANS=45 NICKLEN=15 :are supported by this server
+21:32:55 :azubu.fl.us.quakenet.org 005 sweetiebot MAXNICKLEN=15 TOPICLEN=250 AWAYLEN=160 KICKLEN=250 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDducCNMT CASEMAPPING=rfc1459 NETWORK=QuakeNet :are supported by this server
+21:32:55 :azubu.fl.us.quakenet.org 251 sweetiebot :There are 25 users and 27004 invisible on 41 servers
+21:32:55 :azubu.fl.us.quakenet.org 252 sweetiebot 66 :operator(s) online
+21:32:55 :azubu.fl.us.quakenet.org 253 sweetiebot 3 :unknown connection(s)
+21:32:55 :azubu.fl.us.quakenet.org 254 sweetiebot 22772 :channels formed
+21:32:55 :azubu.fl.us.quakenet.org 255 sweetiebot :I have 1047 clients and 1 servers
+21:32:55 :azubu.fl.us.quakenet.org 375 sweetiebot :- azubu.fl.us.quakenet.org Message of the Day - 
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :- 2016-1-30 19:40
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :- ................................................................................
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :- 
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :- MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWNNNXXXXXXXXXNNWWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :- MMMMMMMMMMMMMMMMMMMMMMMMWWNX0OkxxdooolllllloooddxkO0KXWWMMMMMMMMMMMMMMMMMMMMMMMM
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :- MMMMMMMMMMMMMMMMMMMMMMMN0xollcccccllccccccccllccllcllodk0KNWMMMMMMMMMMMMMMMMMMMM
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :- MMMMMMMMMMMMMMMMMMMMMMMWX0kdolcccclccclllccclcccllcccccclldk0XWMMMMMMMMMMMMMMMMM
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :- MMMMMMMMMMMMMMMNK0XMMMMMMMWNKOxolcclcccclllcclcllccccccccllclok0NWMMMMMMMMMMMMMM
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :- MMMMMMMMMMMMWN0xlo0WMMMMMMMMMMWX0kdllccllllcllcllllcccclllcclccldOXWMMMMMMMMMMMM
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :- MMMMMMMMMMMN0dlccoKWMMMMMMMMMMMMMWNKOxollccllccccccllcccccclccclclokXWMMMMMMMMMM
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :- MMMMMMMMMN0dlccccoKWMMMMMMMMMMMMMMMMMWX0OkdllcllccccclcccllccccccclloONMMMMMMMMM
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :- MMMMMMMWXklccllcco0WMMMMMMMMMMMMMMMMMMMMMWNKOxolcccccccccccccccclccccldKWMMMMMMM
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :- MMMMMMWKdlccccccco0WMMMMMMMMMMMMMMMMMMMMMMMMMWX0kdlcclcllccccccccccllcloONMMMMMM
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :- MMMMMW0ollcclcccco0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMWNKOxollllccccccclllllcclkNMMMMM
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :- MMMMWOolcllcccccco0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWX0kdlccccllcclllclcclkNMMMM
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :- MMMW0olcccccccccco0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWNKOdolllllclccllcllkNMMM
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :- MMWKdllcccccccclco0WMMMMMMMMMMMNKOKNWMMMMMMMMMMMMMMMMMMMMMMWX0xolcclccllclco0WMM
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :- MMNklcccccccccccco0WMMMMMMMMMMMKoclox0XNWWMMMMMMMMMMMMMMMMMMMMWNKkdollllcclldXMM
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :- MW0occcccccclcccco0WMMMMMMMMMMMKocccclodxkKNWMMMMMMMMMMMMMMMMMMMMMNXOxolllcclOWM
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :- MNklclccccccccccco0WMMMMMMMMMMMKocccclllllldk0XWMMMMMMMMMMMMMMMMMMMMMWX0kdllcdXM
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :- MXdccllcccccccccco0WMMMMMMMMMMMKoccccllccllllloxOKNWMMMMMMMMMMMMMMMMMMMMWNKOxxKW
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :- MKdcccccccccccccco0WMMMMMMMMMMMKocccccclcllccllclldk0XWMMMMMMMMMMMMMMMMMMMMMWNNM
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :- MKocclcccccclcccco0WMMMMMMMMMMM0occccccllcclccllcllcloOWMMMMMMMMMMMMMMMMMMMMMMMM
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :- MKoccllccccclcccco0WMMMMMMMMMMMKocccccclccclcclllclldkKWMMMMMMMMMMMMMMMMMMMMMMMM
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :- MKdlcclcccccccccco0WMMMMMMMMMMMKoccccccllllclccloxOKNWMMMMMMMMMMMMMMMMMMMMMMMMMM
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :- MNxlcllcccccccccco0WMMMMMMMMMMMKocccclllllclldk0XWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :- MWOlcllcccccccccco0WMMMMMMMMMMM0occcccclloxOKNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :- MMXdcclccccllcccco0WMMMMMMMMMMMKocclldk0KXWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :- MMWOlcccllccccccco0WMMMMMMMMMMMXxdxOKNWMMMMMMMMMMMMMMMMMMWWWNXKK000000KKXNWWMMMM
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :- MMMNklllllccccccco0WMMMMMMMMMMMMNNWMMMMMMMMMMMMMMMMMWWXKOkxdoollllclllllood0NMMM
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :- MMMMXxllccccllccco0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWX0kxollcccccccclllcclllco0WMMM
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :- MMMMWXxllccllllcco0WMMMMMMMMMMMMMMMMMMMMMMMMMMWXOxolcccclccccccccllcllcclo0WMMMM
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :- MMMMMWXxlccllcccco0WMMMMMMMMMMMMMMMMMMMMMMMWN0xolcccllllccclllccclcllclldKWMMMMM
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :- MMMMMMMNOolccllcco0WMMMMMMMMMMMMMMMMMMMMMWXOdlccccccccccccccccccccclcclxXWMMMMMM
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :- MMMMMMMMWKxlllccco0WMMMMMMMMMMMMMMMMMMWX0OollcccccccccccccccccccclccldONMMMMMMMM
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :- MMMMMMMMMMNOdlcccoKWMMMMMMMMMMMMMMMMMN0dllccccccccccccccclcccllccllokXWMMMMMMMMM
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :- MMMMMMMMMMMWXOdlco0WMMMMMMMMMMMMMMMMNklccccccllllccccccllcclcclclokKWMMMMMMMMMMM
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :- MMMMMMMMMMMMMWN0xdKWMMMMMMMMMMMMMMMXxlllcccccllcccccccccclccllldOXWMMMMMMMMMMMMM
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :- MMMMMMMMMMMMMMMMWNNMMMMMMMMMMMMMMMXxlllllcclcccclccccccccclldkKNMMMMMMMMMMMMMMMM
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :- MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNklcllllllccccccllccclloxOKNWMMMMMMMMMMMMMMMMMM
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :- MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKoccccclllcccclllodxk0KNWMMMMMMMMMMMMMMMMMMMMMM
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :- MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWXOkkkkxkkkkkkO00KXNWMMMMMMMMMMMMMMMMMMMMMMMMMMM
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :- MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWWWWWWWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :- 
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :-  You are connected to: azubu.fl.us.quakenet.org
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :-  Sponsor: Azubu, http://www.azubu.tv/
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :-  Server location: Miami, United States
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :-  Administrator: meeb <meeb@QuakeNet.org>
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :-  Ports: 6667 (IRC)
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :-  Alternate ports: 6666, 6668, 6669, 8080
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :- 
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :-  By connecting to QuakeNet you agree to by our network rules, please read them
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :-  at: https://www.quakenet.org/help/rules/main-rules
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :- 
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :-  For more information please read our website at: https://www.quakenet.org/
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :- 
+21:32:55 :azubu.fl.us.quakenet.org 372 sweetiebot :- ................................................................................
+21:32:55 :azubu.fl.us.quakenet.org 376 sweetiebot :End of /MOTD command.
+21:32:55 :azubu.fl.us.quakenet.org 221 sweetiebot +i
+21:32:55 :azubu.fl.us.quakenet.org 332 sweetiebot #tlponies :Welcome to 6#tlponies, a community from TeamLiquid and beyond who are fans of 6MLP:FiM, 6eSports, and 6gaming! | TLP Resources: Type 12?tlp in chat | 12?streams | Today's PMV: 12https://www.youtube.com/watch?v=lsJxLTgKIoQ
+21:32:55 :azubu.fl.us.quakenet.org 333 sweetiebot #tlponies Nal_rA|Cane 1470054997
+21:32:55 :azubu.fl.us.quakenet.org 353 sweetiebot @ #tlponies :sweetiebot +Camail carcinisation Micen|Droid_ +reification DoT|Phone tredc DuB` +Phearlock +ZK motbob +skram Yolteotl @Wikt_ @Q +Westy543 +Golly +GGMethos +Emily Dot` Rawr|Phone +FlutterAi_ +Twi +Rarity +CockRoach|42
+21:32:55 :azubu.fl.us.quakenet.org 366 sweetiebot #tlponies :End of /NAMES list.

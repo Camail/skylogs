@@ -1,0 +1,649 @@
+nken-module-broker-npcdmod
+Breaks: shinken (<< 2~), shinken-common (<< 2~), shinken-core (<< 2~)
+Description: Shinken npcdmod module
+Homepage: http://shinken.io/package/npcdmod
+Description-md5: c267588c81dd5ae97dec9cecd53da09d
+Section: net
+Priority: optional
+Filename: pool/main/s/shinken-mod-npcdmod/shinken-mod-npcdmod_1.0.1-1_all.deb
+Size: 16714
+MD5sum: 7724238d1aab64ff7f6bd84b92d07fc6
+SHA1: decfb9d263298ba356c7dc8126908e9d920fa9c2
+SHA256: 0d91fb3f80985974b7e32e6e0a4c2b31edcd79dec2c2daf7108f96e1eea1f7a1
+
+Package: shinken-mod-nsca
+Version: 1.4.1-1
+Installed-Size: 110
+Maintainer: Shinken Debian packages maintainers <pkg-shinken-maint@lists.alioth.debian.org>
+Architecture: all
+Replaces: shinken-module-arbiter-nsca
+Depends: shinken-common
+Conflicts: shinken-module-arbiter-nsca
+Breaks: shinken (<< 2~), shinken-common (<< 2~), shinken-core (<< 2~)
+Description: Shinken nsca module
+Homepage: http://shinken.io/package/nsca
+Description-md5: 4210d57c6d64169ecb49c07e80f77e2b
+Section: net
+Priority: optional
+Filename: pool/main/s/shinken-mod-nsca/shinken-mod-nsca_1.4.1-1_all.deb
+Size: 19176
+MD5sum: ae8e7ab43161c6506c0d9af5662be786
+SHA1: ba632945fe70063314b5c51d8dff065522c72d15
+SHA256: 4a2cbe9fb75ad924ddc185b38ec5b17b194ea6549fb9099c572b641708923077
+
+Package: shinken-mod-pickle-retention-file-generic
+Version: 1.4.1-2
+Installed-Size: 103
+Maintainer: Shinken Debian packages maintainers <pkg-shinken-maint@lists.alioth.debian.org>
+Architecture: all
+Replaces: shinken-module-retention-picklefile
+Depends: shinken-common
+Conflicts: shinken-module-retention-picklefile
+Breaks: shinken (<< 2~), shinken-common (<< 2~), shinken-core (<< 2~)
+Description: Shinken pickle-retention-file-generic module
+Homepage: http://shinken.io/package/pickle-retention-file-generic
+Description-md5: 05744f13827026b0f5be8449b787f887
+Section: net
+Priority: optional
+Filename: pool/main/s/shinken-mod-pickle-retention-file-generic/shinken-mod-pickle-retention-file-generic_1.4.1-2_all.deb
+Size: 15572
+MD5sum: d8204de1f62b5761f76ff4ac758377d5
+SHA1: dc28e9a11236f51b31fdc35f82a9cba4df9025ec
+SHA256: bba75289373f0d4785e83dd0259b08d15b503a9ad1b445ee3906585653ee12ca
+
+Package: shinken-mod-retention-mongodb
+Version: 1.4.1-1
+Installed-Size: 108
+Maintainer: Shinken Debian packages maintainers <pkg-shinken-maint@lists.alioth.debian.org>
+Architecture: all
+Depends: shinken-common, python-pymongo
+Recommends: mongodb-server
+Breaks: shinken (<< 2~), shinken-common (<< 2~), shinken-core (<< 2~)
+Description: Shinken retention-mongodb module
+Homepage: http://shinken.io/package/retention-mongodb
+Description-md5: fc5863b1d4a11d8a093e85fd3f5d0bee
+Section: net
+Priority: optional
+Filename: pool/main/s/shinken-mod-retention-mongodb/shinken-mod-retention-mongodb_1.4.1-1_all.deb
+Size: 17886
+MD5sum: 19c82ab80e1779596cc8998281944788
+SHA1: 8ca8d8e43419f137e7dd81714fb6a97f94049bbe
+SHA256: 85d113762e3900c22b21f5782d8cd7a83fc76554d259d70bc8f100025478a917
+
+Package: shinken-mod-simple-log
+Version: 1.4.1-2
+Installed-Size: 102
+Maintainer: Shinken Debian packages maintainers <pkg-shinken-maint@lists.alioth.debian.org>
+Architecture: all
+Replaces: shinken-module-simple-log
+Depends: shinken-common
+Conflicts: shinken-module-simple-log
+Breaks: shinken (<< 2~), shinken-common (<< 2~), shinken-core (<< 2~)
+Description: Shinken simple-log module
+Homepage: http://shinken.io/package/simple-log
+Description-md5: a25fdd72f6bfb3232cfaf22a2e294f91
+Section: net
+Priority: optional
+Filename: pool/main/s/shinken-mod-simple-log/shinken-mod-simple-log_1.4.1-2_all.deb
+Size: 15484
+MD5sum: 27821d4a1965a0f5be077532c034d601
+SHA1: d22cdd3c07a60d70184bef187513c079590b05f1
+SHA256: 436125b2d8fdfaa4ca44a8619164a76d4889b9d5b2a52b90b5f6a21da5e6a39d
+
+Package: shinken-mod-ui-graphite
+Version: 1.0.1-1
+Installed-Size: 109
+Maintainer: Shinken Debian packages maintainers <pkg-shinken-maint@lists.alioth.debian.org>
+Architecture: all
+Replaces: shinken-module-broker-webui-graphite
+Depends: shinken-common
+Conflicts: shinken-module-broker-webui-graphite
+Breaks: shinken (<< 2~), shinken-common (<< 2~), shinken-core (<< 2~)
+Description: Shinken ui-graphite mnsideration
+03:24:26 <skram> its like 4 years old
+03:24:28 <Camail> especially because nvidia made a response to the budget gpu amd released
+03:24:32 <Crisium> you could stick with ivy bridge for a bit more
+03:24:42 <Bio> I dunno Dot`, most of the shit we were stuck on seemed like strange interactions and remembering the 100 of things we could do
+03:24:45 <Bio> with items
+03:25:03 <Crisium> skram just get a new gpu
+03:25:28 <Crisium> you COULD get an all new build, but unless your budget is very large, youd get more value just upgrading GPU
+03:25:37 <Crisium> since you said "budget" ill assume you're not aiming for the stars
+03:25:51 <skram> got like 500 dollarinos
+03:25:54 <skram> so no
+03:26:01 <Crisium> GTX 1070
+03:26:04 <Crisium> call it a day after that
+03:26:15 <Crisium> re-evaluate CPU + MOBO + RAM in a few years
+03:26:48 <Crisium> dunno what rune stone to usd evaluations are, but 1070 is under $400 here
+03:26:49 <skram> so do you think gpu is the biggest bottleneck at this point?
+03:26:57 <Crisium> for gaming, yes
+03:27:07 <skram> could i play witcher3 at like medium
+03:27:08 <Crisium> for other things, no
+03:27:18 <Crisium> with a 1070 you could play ultra ish
+03:29:06 <skram> cheapest I could find is 505 dollars
+03:29:17 <skram> soo maybe go for that then
+03:29:20 <Crisium> well there you go
+03:29:24 <Dot`> bio, knowing the rules helsps understandig item interaction
+03:29:41 <skram> ...If it can physically fit inside my tower that is
+03:29:50 <Crisium> there is a mini version if you need it
+03:29:53 <Crisium> might cost more
+03:30:19 <Crisium> https://www.techpowerup.com/223807/gigabyte-unveils-the-geforce-gtx-1070-itx-graphics-card
+03:30:25 <skram> Eh, ill just bring out the hacksaw
+03:30:38 <Crisium> i assume the fewer fans and smaller heatsink the louder tho
+03:31:54 <skram> how much does manufacturer matter
+03:32:08 <skram> im assuming all 1070 cards have the same parts/speccs
+03:32:31 <Crisium> 1) noise and power consumption 2) warrenty 3) factory overclocks
+03:32:44 <Crisium> warranty*
+03:32:47 <Crisium> what is engrish
+03:33:03 <DuB`> skram do you have any more lovely "maching a clock in a home shop"-esque video series hanging around?
+03:33:05 <Crisium> i have no idea what is best
+03:33:05 <Bio> YOU CALLIN ME A SCRUB DAWT
+03:33:07 <Bio> <3
+03:33:28 <Crisium> some US sights use cowboy talk to determine best card
+03:33:30 <Crisium> https://www.google.com/search?q=gtx+1070+roundup
+03:33:32 <Crisium> round em up
+03:33:37 <Crisium> us sites*
+03:33:38 <Dot`> .butt bio
+03:33:42 <Crisium> again, english is hard
+03:34:10 <DuB`> OH, I HAVE BW TO GO WATCH.
+03:34:13 <DuB`> Weee~
+03:34:24 <skram> DuB`: THere's always Colinfurze's channel. None as lovingly edited as clickspring though.
+03:34:29 <Dot`> bio, i think its silly to trust ME to recall all the rules
+03:34:44 <DuB`> I want to marry clickspring.
+03:35:16 <Dot`> like how i interpreted boons :P
+03:35:30 <DuB`> Probably the only person who could make me watch 5 hours of home machining and then want to spend an hour of my morning researching various escapement designs.
+03:35:42 <DuB`> Grasshopper escapements are wild!
+03:36:49 <skram> I do have some parts laying around that I was never able to make work, even though I sent them in to the store who promptly told me it was working properly
+03:38:05 <DuB`> Stork v Jaedong VOD time, woop woop~
+03:38:57 <Crisium> *restrain from saying anything*
+03:39:02 <Crisium> *maybe i said too much already*
+03:39:21 <DuB`> Eh, I'm already spoiled. Still hype. :D
+03:39:24 <skram> Crisium: A 4th generation i5 will not work with a 3rd generation motherboard y/n?
+03:39:31 <skram> I have no idea about any of this stuff anymore.
+03:39:38 <motbob> use pc part picker
+03:39:56 <Crisium> look up your specific mobo
+03:40:02 <Crisium> manufacturer should have it on the website
+03:40:24 <Crisium> you have a spare haswell i5?
+03:40:58 <skram> Yes. Though I dont know if it works or not.
+03:41:09 <Crisium> i dont think so
+03:41:29 <Crisium> yeah, haswell is lga 1150, ivy bridge is 1155
+03:42:06 <skram> Oh dang
+03:42:23 <DuB`> O_o
+03:42:30 <DuB`> This is why I haven't built my own pc.
+03:42:35 <Crisium> theres usually only 5-10% improvement per intel generation, its not the biggest deal
+03:44:01 <Crisium> as in, 1070 + your ivybridge > than if you bought new mobo +1060 or rx 480
+03:48:08 <DuB`> Off to find food out in the cold.
+03:48:33 <skram> Yeah, think i'll just get the gpu
+03:49:25 <DuB`off> Ooh, fun.
+03:50:11 <skram> I built a PC for my dad about 2 years ago for his office, but I never got the damn thing running
+03:50:29 <motbob> that's bad
+03:51:46 <skram> It would bluescreen right after installing OS, sometimes during the restart stage, but I couldnt figure out WHY
+03:52:05 <skram> The bluescreens all had different messages that would point to different things
+03:52:35 <skram> Which I thought would mean a faulty mb, which I sent in to gigabyte
+03:52:44 <skram> Who sent it back to me and told me it was working properly
+03:52:52 <skram> So either they're wrong or the cpu is dead
+03:53:08 <Crisium> if you get 1070, cause you going from amd to nvidia make sure you use DDU right before you install it http://www.guru3d.com/files-details/display-driver-uninstaller-download.html
+03:53:46 <skram> cool
+04:02:14 <skram> thanks cris
+04:03:22 <Crisium> np
+04:31:29 <Bio> hors
+04:48:26 -!- Camail_ [~Camail@45.40.93.200] has joined #tlponies
+04:48:27 -!- mode/#tlponies [+v Camail_] by Q
+04:53:20 <Camail_> ok maybe my internet will calm the fuck down
+05:13:56 <Bio> noice
+06:30:41 -!- DoT|Phone [~Dot@90.196.173.100] has joined #tlponies
+07:37:55 -!- Golly [~Golly@1.92-221-121.customer.lyse.net] has joined #tlponies
+09:07:53 -!- Golly [~Golly@1.92-221-121.customer.lyse.net] has joined #tlponies
+09:15:48 <Camail> .tell dot` was fun, if I'm on tomorrow I'd be cool with finishing that game
+09:16:45 <DuB`off> ASDF
+09:47:07 <Rawr|Fone> FDSA
+09:55:48 <CockRoach|42> .roll d20 to boop Rawr|Fone
+09:56:12 <Rawr|Fone> .roll d20 to tickle cr
+09:56:15 <Rawr|Fone> Ok
+09:56:17 <Rawr|Fone> Nice
+09:56:18 <CockRoach|42> :[
+10:05:37 -!- Runbunny [~Runbunny@91.100.28.10.generic-hostname.arrownet.dk] has joined #tlponies
+10:05:49 <Runbunny> Hai.
+10:06:05 <Runbunny> I took a shower and I have done all I need to do today.
+10:08:22 <CockRoach|42> mission success!
+10:11:58 <Runbunny> Indeed!
+10:12:06 <Runbunny> What a day it has been.
+10:12:19 <CockRoach|42> must've been exhausting
+10:12:24 <CockRoach|42> time for a nap?
+10:33:12 -!- tredc [webchat@90-230-30-217-no56.tbcn.telia.com] has joined #tlponies
+10:40:01 -!- Oatsmaster [~Oatsmaste@bb42-60-77-6.singnet.com.sg] has joined #tlponies
+10:59:43 <Dot`> morning all
+11:08:00 <Rawr|Fone> Dot Dot Dot
+11:10:11 <CockRoach|42> morning dot
+11:10:18 <CockRoach|42> happy rawrday, rawr :D
+11:10:34 <Rawr|Fone> Thanks
+11:16:22 <Dot`> rawr rawr!
+11:16:25 <Dot`> <3
+11:16:34 <Rawr|Fone> <3
+11:17:15 <Dot`> <3
+11:37:00 <Runbunny> Dot.
+11:37:12 <Dot`> Runbunny
+11:38:43 <Runbunny> Nearly ready to end dark souls.
+11:38:52 <Dot`> \o/
+11:38:59 <Dot`> death count?
+12:25:19 <Dot`> pon pon
+12:39:10 -!- DoT|Phone1 [~Dot@90.196.173.100] has joined #tlponies
+12:41:24 -!- Phearlock [~Phearlock@cm-84.215.224.171.getinternet.no] has joined #tlponies
+12:41:24 -!- mode/#tlponies [+v Phearlock] by Q
+12:41:38 <Phearlock> Hey there ponpons
+12:41:40 -!- Golly [~Golly@1.92-221-121.customer.lyse.net] has joined #tlponies
+12:41:47 <Dot`> hej phear <3
+12:51:16 -!- DoT|Phone [~Dot@90.196.173.100] has joined #tlponies
+12:53:04 -!- DoT|Phone2 [~Dot@90.196.173.100] has joined #tlponies
+12:54:06 -!- DoT|Phone [~Dot@90.196.173.100] has joined #tlponies
+13:22:14 <Dot`> rawr rawr rawr
+13:22:29 <Rawr|Fone> Dot dot dot
+13:22:37 <Dot`> <3
+13:22:39 <Dot`> hows you
+13:22:47 <Rawr|Fone> <3
+13:22:53 <Rawr|Fone> Goooood
+13:23:00 <Dot`> good
+13:23:05 <Rawr|Fone> How are you dot
+13:23:38 <Dot`> im doing ok
+13:24:35 <Dot`> Phearlock: http://askpun.tumblr.com/post/155827094896/anypony-smart-enough-to-see-through-the-disguise
+13:24:45 <Dot`> sunbeam normalhorse seems like a great pony
+13:24:56 <Phearlock> Yes
+13:26:51 <Phearlock> https://lh3.googleusercontent.com/-juvTH1DAM7w/WHlT_wiPxmI/AAAAAAABw58/N-7YzI0HxY8/s2000/RoyalHugsbyAlexCroft19911484346343908.jpg this is so cute too
+13:28:12 <Dot`> d'aaawwww
+13:28:27 <Dot`> how do ponies manage it phear
+13:28:46 <Phearlock> If only I knew
+13:30:34 -!- DoT|Phone [~Dot@90.196.173.100] has joined #tlponies
+13:41:01 <Runbunny> I am not sure Dot. I didn't really count.
+13:46:21 <Dot`> oh dear
+14:01:58 <Dot`> .tell skram http://imgur.com/gallery/A2zZV
+14:02:00 <Dot`> look runbun
+14:04:43 <Dot`> http://www.deviantart.com/art/Amity-657293740
+14:06:42 <Dot`> .tell cane https://www.reddit.com/r/gaming/comments/5nqqid/exploration_in_stalker/
+14:06:50 <Cane> Oh hi.
+14:06:58 <Dot`> hey cane <3
+14:07:13 <Cane> LOL HI CHIMERA
+14:11:21 <Phearlock> It's so happy to see you
+14:11:54 <Cane> Good puppy! <3
+14:11:57 <Cane> Daddy loves you too.
+14:19:09 <Runbunny> Would you look at that.
+14:33:10 -!- ZK [~ZealotKil@modemcable114.242-81-70.mc.videotron.ca] has joined #tlponies
+14:33:10 -!- mode/#tlponies [+v ZK] by Q
+14:33:18 <Dot`> .roll d20 to boop zk
+14:34:35 <ZK> d
+14:34:41 <ZK> .roll d20 to boop Dot`
+14:34:46 <ZK> nerchio threw! :D
+14:34:54 <Dot`> i saw haha
+14:35:14 <ZK> scarlett maru was pretty sad though
+14:35:33 <ZK> stephano losing to the korean is not that surprising though :P
+14:40:44 <ZK> well, showtime and neeb are the two foreigners that have the most chances of beating a korean terran
+14:41:37 <Dot`> yea
+14:41:57 <Dot`> and scarlett, but she is out
+14:42:41 <ZK> well, she got destroyed by that korean terran
+14:42:47 <ZK> maru was good
+14:53:38 -!- tredc [webchat@90-230-30-217-no56.tbcn.telia.com] has joined #tlponies
+15:19:23 -!- reification [~reificati@cpc76294-cosh16-2-0-cust297.6-1.cable.virginm.net] has joined #tlponies
+15:19:23 -!- mode/#tlponies [+v reification] by Q
+15:19:31 <Dot`> hey reif
+15:19:45 <reification> hello dotties
+15:27:39 <Dot`> hows it going
+15:35:38 <reification> poorly
+15:36:00 <Dot`> D:
+15:36:03 <Dot`> you sick?
+15:36:48 <reification> nope
+15:37:04 <reification> just not having much luck :/
+15:37:18 <Dot`> :(
+15:37:20 <Dot`> <3
+15:39:43 -!- Phearlock [~Phearlock@cm-84.215.224.171.getinternet.no] has joined #tlponies
+15:39:43 -!- mode/#tlponies [+v Phearlock] by Q
+16:04:58 <Cane> Dot`, why you no Overwatch with me any more? I miss you. <3
+16:05:01 <Cane> It's just been me and Zounds lately.
+16:05:20 <Dot`> no invites to stacks D:
+16:05:50 <Cane> I'm not used to organizing this shit!
+16:05:59 <Dot`> haha
+16:06:15 <Dot`> you could always join when we board game
+16:06:20 <Dot`> you have tts
+16:14:10 -!- Zounds [~chatzilla@cpc108453-cowc8-2-0-cust8.14-2.cable.virginm.net] has joined #tlponies
+16:14:10 -!- mode/#tlponies [+v Zounds] by Q
+16:14:12 <Zounds> Hey
+16:14:28 <Dot`> Hey zounds
+16:15:31 <Zounds> Hiya
+16:15:37 <Zounds> How was the eldritch stuff yesterday?
+16:15:53 <Dot`> long
+16:16:07 <Dot`> its hwat happens when 1 in 5 knows the rules :P
+16:16:28 <Dot`> we had fun but at 2 am we still hadnt finished and put it on hold
+16:16:40 <Zounds> D:
+16:16:51 <Dot`> the game should take 2-4 hours
+16:17:10 <Dot`> we where on 6 and probably still at least 1 from finishing 
+16:17:25 <Dot`> it was rough
+16:22:38 <reification> https://twitter.com/bcrypt/status/820044550559281154
+16:24:08 <Dot`> nice
+16:24:50 -!- Golly [~Golly@1.92-221-121.customer.lyse.net] has joined #tlponies
+16:25:19 <Zounds> There's probably an old god who manifests in the form of a group of players never fully grasping a tabletop games rules
+16:25:33 <Dot`> haha
+16:25:51 <Dot`> it would help zounds if at least one other had OPENED the rules pdf
+16:35:59 <Yolteotl> oh come on, my soccer team lost
+16:36:10 <Dot`> yolt, you should have scored
+16:36:18 <Yolteotl> https://twitter.com/stefj67/status/820279847893213184 look how the opposite guy was mean :(
+16:36:46 <Yolteotl> the referee did not see the action
+16:45:47 <Dot`> rude
+16:48:03 <Yolteotl> :(
+16:53:23 -!- skram [~skram@ip-58-146-106-77.eidsiva.net] has joined #tlponies
+16:53:28 <Dot`> jonas <3
+16:54:01 <skram> bj√∏rn <3
+16:54:56 <Dot`> how was sleep?
+16:55:39 <skram> good enough i suppose :p
+17:02:20 <reification> http://argumate.tumblr.com/post/15510                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    ˛ÃΩB3 
+ 1429372901                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ˛ÃæA3 
+ 1429372900                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ˛Ãø@3 
+ 1429372898                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ˛Ã¿?3 
+ 1429372897                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ˛Ã¡>3 
+ 1429372896                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ˛Ã¬=3 
+ 1429372895                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    :42:27 <skram> Eeeh, I sorta disagree on that because I dont like spending 30 minutes debating one move
+17:42:38 <skram> but if we git gud it will probably take us way less time to find moves
+17:42:54 <skram> and that would probably make it more fun
+17:42:55 <skram> i think
+17:43:20 <DuB`> My thoughts are that I can only play any games at all on the OCCAISIONAL fri+sat, and really can't do 7 hour sessions of anything anymore.
+17:43:59 * Zounds baps Cane
+17:44:03 <Dot`> dub, as i said to skram, a game of 4-6 people SHOULD take a max of 4 hours
+17:44:03 <skram> fair enough
+17:45:13 <Dot`> dub, we can play one with us 3 and see how that goes? or we can play pandemic? or even any other game someone wants
+17:45:28 <skram> regardless we should finish the one we currently got going
+17:45:30 <skram> at some point
+17:45:40 <Dot`> ya
+17:46:00 <Dot`> i think it will end soon and not well :P
+17:46:06 <DuB`> I would also like to OW for the first time all week before EU zZz. >_>
+17:46:55 <skram> that reminds me
+17:47:03 <skram> i should play a game of comp before i lose all rank
+17:50:59 <Phearlock> https://www.youtube.com/watch?v=7WimRhydggo T-4 mins for space
+17:51:10 <Phearlock> No explosions yet which is great
+17:51:17 <DuB`> Oooooh
+17:51:21 <DuB`> SPESS
+17:54:56 <Dot`> SPAAAACE
+17:56:41 <DuB`> Still no explosion!
+17:57:12 <Phearlock> I love this thermal cam
+17:57:14 <Phearlock> such fire
+17:57:17 <Phearlock> whoosh
+17:57:29 <DuB`> Pretty good for 40km, too. >_>
+17:59:38 <DuB`> Oh, this one is landing too?
+17:59:40 <DuB`> HYPU
+18:01:32 <Phearlock> This is some great footage
+18:02:51 <DuB`> Need some window wipers on that reentry cam. :P
+18:03:38 <Phearlock> haha
+18:03:42 <DuB`> LANDED
+18:03:54 <Dot`> smooth
+18:04:11 <Phearlock> Right in the middle too this time
+18:04:26 <DuB`> #science
+18:11:48 <skram> oh dang
+18:12:02 <skram> I think I lost like 200 rating due to inactivity
+18:13:26 <DuB`> rip
+18:13:27 <Rawr|Fone> Way to go skram
+18:13:32 <reification> skram pls
+18:20:41 <Bio> horse?
+18:20:51 <Bio> i woke up
+18:21:27 <reification> well done bio
+18:22:03 <Dot`> Bio pon <3
+18:31:24 <Bio> hai dot
+18:32:46 <Dot`> hows you
+18:33:27 <Bio> I dgood
+18:34:05 <Bio> woke up late
+18:34:17 <Phearlock> Dis scrub with 17 deaths in mario already
+18:34:21 <Phearlock> (ok it's a really hard mario)
+18:35:33 <DuB`> Cool game.
+18:35:35 <DuB`> Would not play.
+18:35:37 <Bio> good 4 agdq getting another mil
+18:38:24 <Bio> Klappa
+18:38:57 <skram> Dot` what you up to
+18:39:18 <Dot`> supper soon
+18:39:29 <Dot`> ran a bit late today
+18:39:29 <skram> ok
+18:39:34 <skram> we flip tables after that?
+18:39:53 <Dot`> sure
+18:40:10 <reification> my dinner has been delayed due to forgetting it was frozen
+18:40:18 <skram> ah
+18:40:21 <skram> that does happen sometimes
+18:40:24 <reification> fortunately there are microwaves
+18:40:33 <Dot`> dub dub, that thor D.va should be a goliath
+18:40:47 <DuB`> Yeh
+18:40:56 <Dot`> i like them
+18:41:07 <Dot`> http://www.deviantart.com/art/Color-picture-Patreon-reward-657353638
+18:41:14 <DuB`> Actually~
+18:41:20 <Dot`> BIO http://www.deviantart.com/art/Twilight-657308978
+18:41:25 <DuB`> "Tbh I referenced Goliath, Thor, and Viking for the meka design. I just called it Thor cos the color scheme was closest to it imo."
+18:41:32 <Dot`> haha
+18:41:43 <Dot`> well that makes sense
+18:42:11 <skram> On the subject of super chill youtube video things DuB`: https://www.youtube.com/channel/UCarxZ8bKjfFzUOgN5LjYOhQ
+18:42:50 <skram> You should watch this: https://www.youtube.com/watch?v=7M3-ut_U3MA
+18:44:04 <Dot`> and what board game you want to plej skram?
+18:44:25 <skram> I have no idea
+18:44:33 <skram> We could do EH again or figure something out
+18:51:44 <DoT|Phone> cool
+18:51:58 <DoT|Phone> .roll d20 to boop bio
+19:29:49 -!- tredc [webchat@90-230-30-217-no56.tbcn.telia.com] has joined #tlponies
+19:32:26 -!- reification [~reificati@cpc76294-cosh16-2-0-cust297.6-1.cable.virginm.net] has joined #tlponies
+19:32:26 -!- mode/#tlponies [+v reification] by Q
+19:32:34 <skram> reef
+19:32:46 <reification> skarm
+19:33:15 <reification> .r howsyou http://webcomicname.tumblr.com/post/155807327609
+19:34:29 <skram> oh no
+19:34:48 <DuB`> Ooh, TAS next.
+19:35:02 <skram> did you watch the thing i linked you dub
+19:35:07 <DuB`> Yah.
+19:35:40 <skram> is this relevant to your interests
+19:36:49 <DuB`> A bit! :P
+19:37:51 <Bio> MUTHAFUCKIN TASBOT
+19:37:58 * Bio slaps DuB` around a bit with a large trout
+19:38:05 <DuB`> yslaptho
+19:39:01 <Bio> JUST 3EXCITE
+19:39:22 <DoT|Phone> Skram
+19:39:29 <DoT|Phone> when plej
+19:40:27 <skram> as soon as you get back buddy
+19:45:03 <Bio> NEIGH
+19:46:46 <Bio> LO
+19:46:49 <Dot`> i here
+19:46:57 <Bio> what would you tell people who are 2 scared to play darksouls
+19:46:59 <Bio> ...
+19:47:04 <Bio> its just a videogame?>
+19:47:15 <Dot`> why scared?
+19:47:40 <Dot`> its not a horror game, there are not spooky situations or  jump scares
+19:48:08 <Bio> idk, was an intreview question on a g d q
+19:48:27 <Dot`> weird
+19:48:55 <motbob> dark souls has a mythos at this point
+19:49:13 <motbob> so it's understandable that people would be scared of it
+19:51:25 <Zounds> Trial and error and common sense wins the day
+19:51:32 <reification> https://www.youtube.com/watch?v=dWja_zn_ftc
+19:54:06 <Dot`> i in discord skram
+19:54:23 <Bio> waht u horses up to
+19:54:28 <Dot`> no idea yet
+19:55:29 <Dot`> join
+19:55:55 <Bio> i'll play for a little bit.
+19:56:21 <Bio> wanna plej other gaems
+19:56:34 <Bio> rael being silly on the donation reader
+19:58:48 <CockRoach|42> tasbot coming up!
+19:58:52 <Dot`> Runbunny http://imgur.com/gallery/vHJwiZp
+19:59:45 <Runbunny> What a cute cat.
+20:00:28 <Bio> TASBOT
+20:00:34 <CockRoach|42> pls bio
+20:01:51 <Bio> PLS CR
+20:01:54 <Bio> IS TASBOT
+20:02:03 <CockRoach|42> H.Y.P.E!
+20:02:11 <CockRoach|42> it's going to be ok
+20:02:31 <Dot`> http://imgur.com/gallery/91XtF
+20:04:08 <CockRoach|42> that is a very nice looking cat
+20:05:57 <Phearlock> Whoo
+20:10:05 <CockRoach|42> graduis, finally :D
+20:13:20 <CockRoach|42> nuclear!
+20:15:20 <Golly> aliens are going to be so confused when we show up
+20:15:28 <CockRoach|42> haha
+20:19:47 <Bio> Oh tasbot
+20:19:49 <Bio> u so funny
+20:19:56 <CockRoach|42> :)
+20:22:35 <Phearlock> interrupting tasbot to post pony https://derpicdn.net/img/2017/1/14/1339439/large.png
+20:24:58 -!- Rawr|Phone [~AndChat25@host-95-199-132-6.mobileonline.telia.com] has joined #tlponies
+20:27:06 <Golly> IE? wheres netscape
+20:27:40 <Cane> God damn I adore TASBot so much.
+20:28:03 <Phearlock> Yes!
+20:32:23 <Cane> HOW
+20:32:27 <Phearlock> ok
+20:32:32 <Phearlock> Wow
+20:32:32 <Bio> askldgnlasdg
+20:33:03 -!- Camail [~Camail@45.40.93.200] has joined #tlponies
+20:33:03 -!- mode/#tlponies [+v Camail] by Q
+20:33:06 <Cane> HOW
+20:33:41 <Camail> THEY ARE
+20:33:46 <Camail> RUNNING MARIO
+20:33:48 <Camail> IN ZELDA
+20:33:50 <Camail> THE FUCK
+20:33:57 <Bio> ALJKLSNDGLS:DFH
+20:34:00 <Phearlock> v0v
+20:34:05 <Bio> HOW CAN ONE TASBOT HAVE THIS MUCH POWER
+20:34:13 <Phearlock> I wonder how much of the game they programmed
+20:34:29 <Camail> i didnt know they found ACE in a link to the past
+20:36:28 <Camail> well they couldnt have programmed the game itself, or else the glitches wouldn't work
+20:36:52 <Camail> unless they are literally the best programmers in the world
+20:37:00 <Cane> WHAT
+20:37:26 <Camail> yea its some sort of emulator
+20:37:32 <Camail> jesus
+20:38:11 <Cane> They made TASBot compile a fucking emulator in Zelda. What the fuck, world.
+20:39:05 <Phearlock> This is why you should be scared of sentient AI
+20:39:08 <Phearlock> This right here
+20:39:33 <Cane> NotLikeTHis
+20:43:08 <Camail> booo cake joke booooo
+20:43:17 <CockRoach|42> :)
+20:46:59 <Camail> wait...
+20:47:06 <Bio> ...
+20:47:17 <Camail> wait this isn't... the fuck, the fuck...?
+20:47:23 <Golly> :p
+20:47:25 <Camail> JAMES CHEN?
+20:47:26 <Camail> WHAT
+20:47:34 <Camail> WHAT THE FUCKW HY IS JAMES CHEN CALLING IN?
+20:47:44 <Camail> I AM SO CONFUSED
+20:47:48 <Cane> LOL WTF
+20:48:01 <CockRoach|42> haha
+20:48:12 <Runbunny> What is going on?
+20:48:12 <Camail> why the fuck is james chen being called on skype by tasbot
+20:48:15 <Camail> what the fuck
+20:48:17 <CockRoach|42> didnt tasbot call james?
+20:48:25 <Camail> yea
+20:48:51 <Cane> I DON'T KNOW WHAT'S GOING ON ANY MORE
+20:48:58 <Camail> wait where is he
+20:49:02 <Camail> is ther a tourny going on
+20:49:06 <Camail> oh wait no
+20:49:09 <Camail> he's at agdq???????
+20:49:11 <Phearlock> yes
+20:49:39 <Camail> why is james chen at agdq!?!?!?
+20:52:01 <Camail> lmao
+20:52:05 <Camail> using 3 consoles
+20:52:05 <Cane> This is some ridiculous shit, hahahaha
+20:52:11 <Camail> to make one emulator
+20:52:16 <Camail> HOW DO THEY TOP THIS
+20:52:19 <CockRoach|42> that is quite impressive :)
+20:52:25 <Camail> do they just build an actual person next year
+20:52:35 <Bio> i feel like we say this every time
+20:52:40 <Bio> but they always do
+20:53:04 <CockRoach|42> they seem to be able to impress us each year :)
+20:53:20 <Phearlock> Probably make TASbot play BW vs Flash or something
+20:53:26 <CockRoach|42> haha
+20:53:31 <Camail> well is the anywhere to go
+20:53:35 <Camail> that actually means anything
+20:53:44 <Camail> like..after this you are just using old chips to do w/e you want
+20:53:55 <Camail> is it even a console if you push farther
+20:53:57 <CockRoach|42> Phearlock: that should be suggested to them :)
+20:55:29 <Bio> last 4 games
+20:55:41 <Bio> ds3, windwaker, supermetroid, then undertale
+20:55:43 <Golly> i saw a raelcun
+20:55:50 <reification> yep
+20:55:53 <Camail> nah that was nuclear backwards 
+20:55:55 <Phearlock> I'll probably sleep after windwaker
+20:56:29 <Bio> nucleaR
+20:58:51 <Cane> TASBot is always fantastic.
+20:58:52 <Phearlock> Biblethump
+20:58:56 <Cane> Those people are wizards.
+20:59:06 <Camail> this zelda design might be my favorite ever, this and twilight princess https://pbs.twimg.com/media/C2CAsghUkAIxohq.jpg
+20:59:36 <Bio> I kinda liked skyward swords too
+20:59:37 <Phearlock> is nice
+21:03:42 -!- reimeuk [~reificati@cpc76294-cosh16-2-0-cust297.6-1.cable.virginm.net] has joined #tlponies
+21:03:42 -!- mode/#tlponies [+v reimeuk] by Q
+21:04:32 <Camail> SS was really good but I wanted a bit more complexity
+21:04:58 -!- carcinisation [webchat@cpc76294-cosh16-2-0-cust297.6-1.cable.virginm.net] has joined #tlponies
+21:05:06 <Camail> unfortunately i didnt see it much because i really didnt enjoy the game
+21:07:01 <Bio> https://i.kinja-img.com/gawker-media/image/upload/s--0ggOdXOT--/c_scale,f_auto,fl_progressive,q_80,w_800/18j15jdwxc23kjpg.jpg
+21:07:33 <Camail> i forgot about the birds, those were cool too
+21:07:46 <Camail> links desin was really nice as well
+21:08:23 <Camail> but blue costumes are my aesthetic fetish, thats probably a substantial reason i like botw more
+21:10:15 <Bio> yeh
+21:13:59 <Camail> https://pbs.twimg.com/media/C2BvEyYUAAUhzqA.jpg
+21:16:46 <Camail> oh hey they're in the dulles again
+21:16:59 <Camail> glad they have a stable venue
+21:17:24 <Camail> its pretty nice too, easy transport, but waiting for the shuttles in winter kiiiinda fucking sucks
+21:30:29 <Bio> lol
+21:30:33 <Bio> Its lit fam
+21:41:16 <Rawr|Phone> üê¥üê¥üê¥
+21:44:47 <Dot`> RAWR RAWR
+21:45:02 <Rawr|Phone> DOT DOT
+21:45:21 <Phearlock> Reset imho
+21:45:59 <Bio> LOL
+21:46:02 <Bio> read donations
+21:46:35 <Dot`> lol
+21:46:44 <Dot`> rawr <3
+21:46:49 <Dot`> how was day
+21:46:55 <Rawr|Phone> <3
+21:47:01 <Rawr|Phone> It was a good day
+21:47:23 <Dot`> good
+21:48:29 <Rawr|Phone> How was your day dot
+21:50:39 <Dot`> its good rawr
+21:51:49 -!- Oatsmaster [~Oatsmaste@bb42-60-77-6.singnet.com.sg] has joined #tlponies
+21:52:24 <Rawr|Phone> Great dot
+21:54:52 <Dot`> good
+21:58:02 <Bio> dort dort
+21:58:26 <Dot`> bayo!
+21:58:32 <Dot`> what happned to DS?
+22:00:17 <DuB`> DS went RIP.
+22:00:41 <DuB`> Crashed while out of bounds and lost save file, or something.
+22:03:00 <Bio> loaded a save file to not have to do tha tlong trick again
+22:05:37 <Dot`> silly person
+22:05:39 <Dot`> where skram
+22:06:30 <Dot`> rawr http://imgur.com/gallery/n6aU0jt
+22:09:36 <motbob> my 50 y.o. aunt is hyped for BotW
+22:10:15 <Bio> that good huh?
+22:10:42 <motbob> i am hyped too, it's been 15 YEARS since a zelda without a shit art style or shit motion controls
+22:11:53 <Bio> twilight princess?
+22:12:36 <Bio> I thought you could play that without wii control
+22:12:40 <motbob> i don't think the art style was good at all
+22:12:45 <Bio> o
+22:12:51 <Dot`> Phearlock: http://captainpudgemuffin.deviantart.com/art/Princess-Grooming-Commission-657367867
+22:13:02 <Phearlock> I saw =D
+22:13:07 <Dot`> have to check
+22:13:09 <Phearlock> Catlestia
+22:13:16 <Dot`> cant risk you missing it
+22:13:30 <Dot`> thats sunbeam normalhorse
+22:13:33 <Bio> its been a while then
+22:13:38 <Bio> windwaker was 2002
+22:13:52 <Bio> skyward was 2011
+22:15:29 <motbob> i wonder how long the tutorial in this game will be
+22:15:45 <Dot`> skram http://imgur.com/gallery/0H22r
+22:16:11 <motbob> in twilight princess the boring parts were like three hours
+22:16:21 <motbob> i didn't even get past the boring parts of skyward
+22:19:20 <Bio> yeah, it was kinda forgettable
+22:19:24 <Bio> don't really remember the story
+22:19:33 <Bio> something about flying islands
+22:28:13 -!- carcinisation [webchat@cpc76294-cosh16-2-0-cust297.6-1.cable.virginm.net] has joined #tlponies
+22:35:12 <skram> Dot`
+22:35:23 <Dot`> skram
+22:39:23 -!- Rawr|Fone [~AndChat25@host-95-199-132-6.mobileonline.telia.com] has joined #tlponies
+22:42:27 <Bio> BibleThump
+22:43:24 <Bio> almost 1.4 milli
+22:43:31 <Bio> lotta dosh
+22:44:48 <Dot`> money
+22:58:07 <Bio> 4 hours of windwaker
+22:58:13 <Bio> 1.5 hours of metroid
+22:58:19 <Bio> 1.5 horus of undertale
+23:27:39 <Rawr|Fone> üê¥üê¥üê¥
+23:30:36 <Dot`> rawr pon
+23:30:57 <Rawr|Fone> Dot pon
+23:31:02 <Rawr|Fone> What a pon
+23:32:05 <Dot`> http://imgur.com/gallery/xyIfl
+23:35:00 <Rawr|Fone> <3
+23:54:02 <Bio> y u take away my grabby ability
+23:54:20 <Dot`> ?
+23:55:30 <Bio> guess i just got laggy
+23:57:16 * Phearlock grabs Bio
+23:57:23 <Phearlock> huuuug

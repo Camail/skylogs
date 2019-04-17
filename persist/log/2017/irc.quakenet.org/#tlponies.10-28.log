@@ -1,0 +1,151 @@
+s.com:80 112.5.252.10 - - [06/May/2014:10:02:18 +0000] "GET /2013/11/06/movie-review-apollo-18/ HTTP/1.1" 200 18345 "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) )"
+www.fernbyfilms.com:80 112.5.252.10 - - [06/May/2014:10:02:21 +0000] "POST /wp-comments-post.php HTTP/1.1" 302 557 "http://www.fernbyfilms.com/2013/11/06/movie-review-apollo-18/" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)"
+www.fernbyfilms.com:80 112.5.252.10 - - [06/May/2014:10:02:23 +0000] "GET /2013/11/06/movie-review-apollo-18/ HTTP/1.1" 200 18289 "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) )"
+www.fernbyfilms.com:80 65.55.52.108 - - [06/May/2014:10:02:33 +0000] "GET /2010/11/16/battle-los-angeles-trailer-unleashed/ HTTP/1.1" 200 12646 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)"
+www.fernbyfilms.com:80 114.30.96.210 - - [06/May/2014:10:02:28 +0000] "POST /wp-admin/admin-ajax.php HTTP/1.1" 200 584 "http://www.fernbyfilms.com/wp-admin/post.php?post=30837&action=edit" "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0"
+www.fernbyfilms.com:80 91.188.117.228 - - [06/May/2014:10:02:35 +0000] "GET /wp-cheaprayban.php HTTP/1.1" 404 37504 "http://www.fernbyfilms.com/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:22.0) Gecko/20100101 Firefox/22.0"
+www.fernbyfilms.com:80 91.188.117.228 - - [06/May/2014:10:02:37 +0000] "GET /wp-login.php?action=register HTTP/1.1" 302 557 "http://www.fernbyfilms.com/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:22.0) Gecko/20100101 Firefox/22.0"
+www.fernbyfilms.com:80 91.188.117.228 - - [06/May/2014:10:02:38 +0000] "GET /wp-login.php?registration=disabled HTTP/1.1" 200 1958 "http://www.fernbyfilms.com/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:22.0) Gecko/20100101 Firefox/22.0"
+www.fernbyfilms.com:80 202.103.243.122 - - [06/May/2014:10:02:41 +0000] "GET /wp-cheaprayban.php HTTP/1.0" 404 37402 "http://www.fernbyfilms.com/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:22.0) Gecko/20100101 Firefox/22.0"
+www.fernbyfilms.com:80 202.103.243.122 - - [06/May/2014:10:02:42 +0000] "GET /wp-login.php?action=register HTTP/1.0" 302 520 "http://www.fernbyfilms.com/wp-cheaprayban.php" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:22.0) Gecko/20100101 Firefox/22.0"
+www.fernbyfilms.com:80 202.103.243.122 - - [06/May/2014:10:02:43 +0000] "GET /wp-login.php?registration=disabled HTTP/1.0" 200 1922 "http://www.fernbyfilms.com/wp-cheaprayban.php" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:22.0) Gecko/20100101 Firefox/22.0"
+www.fernbyfilms.com:80 202.103.243.122 - - [06/May/2014:10:02:44 +0000] "GET /wp-cheaprayban.php HTTP/1.0" 404 37402 "http://www.fernbyfilms.com/" "PHP/5.2.10"
+www.fernbyfilms.com:80 202.103.243.122 - - [06/May/2014:10:02:45 +0000] "POST /xmlrpc.php HTTP/1.0" 200 453 "http://www.fernbyfilms.com/wp-cheaprayban.php" "PHP/5.2.10"
+www.fernbyfilms.com:80 114.30.96.210 - - [06/May/2014:10:02:43 +0000] "POST /wp-admin/admin-ajax.php HTTP/1.1" 200 584 "http://www.fernbyfilms.com/wp-admin/post.php?post=30837&action=edit" "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0"
+www.fernbyfilms.com:80 195.194.188.5 - - [06/May/2014:10:02:51 +0000] "GET /wp-content/uploads/2008/10/tkamb3.jpg HTTP/1.1" 200 41854 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)"
+www.fernbyfilms.com:80 54.211.68.214 - - [06/May/2014:10:02:55 +0000] "GET /2008/11/02/movie-review-sleeping-beauty/ HTTP/1.1" 200 16557 "-" "Pinterest/0.1 +http://pinterest.com/"
+www.fernbyfilms.com:80 180.148.32.218 - - [06/May/2014:10:02:53 +0000] "GET /wp-content/uploads/2010/02/ice_age_3_9.jpg HTTP/1.1" 200 252814 "https://www.google.co.in/" "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36"
+www.fernbyfilms.com:80 66.249.70.3 - - [06/May/2014:10:02:58 +0000] "GET /2010/02/21/movie-review-lakeview-terrace/ HTTP/1.1" 200 15020 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.googletspeed.stlsmo.sbcglobal.net] has joined #tlponies
+12:33:51 <Dot`> bio
+12:56:16 -!- DoT|Phone [~Dot@90.221.97.136] has joined #tlponies
+12:58:09 <Dot`> rawr rawr
+12:58:12 <Dot`> hows ping pong today?
+12:59:18 <Dot`> .tell Bio https://derpicdn.net/img/view/2016/1/8/1062241.gif
+13:25:28 <Rawr|Phone> Dot 
+13:25:36 <Rawr|Phone> Pretty good
+13:25:44 <DoT|Phone> Rawr
+13:25:51 <Rawr|Phone> Dot
+13:26:01 <DoT|Phone> good
+13:28:46 <Rawr|Phone> How are you today
+13:28:55 <Rawr|Phone> Any exciting pllans
+13:28:56 <Rawr|Phone> Plans
+13:42:45 <Rawr|Phone> Dot pls
+13:44:00 <Dot`> none at all rawr
+13:47:05 <Rawr|Phone> D:
+13:48:08 <DoT|Phone> Going to work on my arduino a bit. otherwise just trying to stay warm
+13:51:33 <Rawr|Phone> That sounds exciting
+13:51:43 <Rawr|Phone> What are you going to do with it
+13:51:59 <reification> are you making a body for sweetie?
+13:54:03 <DoT|Phone> nothing exciting Rawr. just testing bits atm
+13:54:18 <DoT|Phone> please
+13:54:45 <Rawr|Phone> Maybe we just have different definitions of what is exciting
+13:54:52 -!- DoT_ [~quassel@90.221.97.136] has joined #tlponies
+13:55:10 <reification> https://pbs.twimg.com/media/DNLPid2U8AAqn_3.jpg
+13:58:43 -!- DoT__ [~quassel@90.221.97.136] has joined #tlponies
+14:01:09 -!- carcinisation [webchat@cpc76294-cosh16-2-0-cust297.6-1.cable.virginm.net] has joined #tlponies
+14:23:10 -!- micen|droid_ [~AndChat48@h108.73.23.98.dynamic.ip.windstream.net] has joined #tlponies
+14:34:32 <Rawr|Phone> üê¥üê¥üê¥
+14:34:36 <DoT__> rawr rawr
+14:34:51 <Rawr|Phone> DoT__ DoT__
+14:34:57 <Rawr|Phone> I'm home
+14:35:04 <Dot`> good
+14:35:09 <Rawr|Phone> Time to prepare for my costume
+14:36:05 <Dot`> be the spookiest you can be rawr
+14:36:18 <Rawr|Phone> I will try
+14:36:24 -!- tredc [webchat@90-230-30-217-no56.tbcn.telia.com] has joined #tlponies
+14:36:30 <Rawr|Phone> Not gonna be too spooky though
+14:44:31 -!- Zounds [~chatzilla@cpc108453-cowc8-2-0-cust8.14-2.cable.virginm.net] has joined #tlponies
+14:44:31 -!- mode/#tlponies [+v Zounds] by Q
+14:44:40 <Dot`> zoonds
+14:44:53 <Zounds> My little ponies!
+14:47:05 <Rawr|Phone> The zoooonds pon
+14:49:07 -!- Rawr|Fone [~AndChat25@84-217-62-32.customers.ownit.se] has joined #tlponies
+14:54:07 -!- Bio [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+15:05:46 -!- DoT_ [~quassel@90.221.97.136] has joined #tlponies
+15:08:58 -!- DoT__ [~quassel@90.221.97.136] has joined #tlponies
+15:22:29 -!- DuB` [~DuB@66-219-235-64.dynamic.ip.veracitynetworks.com] has joined #tlponies
+15:22:32 <DuB`> OHAYOU
+15:27:40 <Rawr|Fone> DuB`
+15:27:44 <Rawr|Fone> HELLO
+15:29:20 <DuB`> <3
+15:30:47 <tredc> pony!
+15:32:14 <DuB`> Two words I will never spell correctly the first time: embarrrarasssing and occcassssionally.
+15:35:33 <DoT__> Dub Dub!
+15:35:55 <DoT__> dammit! i missed the start of pony
+15:36:06 <DoT__> will need to watch when it gets uploaded
+15:36:44 <DuB`> Dot Dot!
+15:37:20 <DuB`> Are your headphones still borke?
+15:37:40 <Dot`> yes
+15:37:47 <Dot`> and replacment still hasnt arrived
+15:39:59 <Rawr|Fone> Sad life
+15:40:03 <Dot`> yes
+15:40:22 <DuB`> I should send you some Sennheiser momentums so you can match me 'n skram.
+15:40:23 <DuB`> ;D
+15:50:54 <Dot`> skram is sending me one of his spare headsets
+15:50:58 <Dot`> not as fancy
+15:51:01 <Dot`> but still good
+15:52:16 <DuB`> Oh good!
+15:52:31 <Dot`> some turtle sometihng, i have been told they are nice
+15:53:10 <DuB`> Turtle beach
+15:53:19 <DuB`> "Gamer headsets" hehe
+15:53:20 <Dot`> yea
+15:53:23 <DuB`> But ye not bad
+15:53:31 <DuB`> With mic?
+15:53:35 <Dot`> better than nothing
+15:53:35 <DuB`> That'd be nice.
+15:54:14 <Dot`> wait, is gaming headset a bad or good thign whnen it comes to headsets
+15:54:23 <Dot`> likea gaming seat is bad but a gaming screen is good
+15:54:31 <DuB`> Haha
+15:54:56 <Dot`> im not hip enough for all these talk dub
+15:54:58 <DuB`> They're fine, I'd just rather have headphone headphones than gaming headphones
+15:55:18 <Dot`> i wouldnt even know the diffrence
+15:55:51 <Dot`> except cringey advertising 
+15:55:53 <DuB`> Sennheiser/AudioTechnica vs Razer/SteelSeries/                                                                                                                                                                                                                                ˇMÕ2≤  
+ 1417711106                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ˇMŒ1≤  
+ 1417711105                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ˇMœ0≤  
+ 1417711103                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ˇM–/≤  
+ 1417711102                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ˇM—.≤  
+ 1417711101                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ˇM“-≤  
+ 1417711100                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ˇM”,≤  
+ 1417711097                                                                                                                                                                                    5 <DuB`> skram
+20:33:08 <Dot`> i tohught you where leaving dub 
+20:33:12 <Dot`> but your still here
+20:33:20 <DuB`> I did!
+20:33:23 <DuB`> I came back!
+20:33:40 <Dot`> \o/
+20:37:54 <Dot`> now what you going to do
+20:38:27 <DuB`> Hmm
+20:38:30 <DuB`> Destiny or warframe
+20:38:34 <DuB`> Study later
+20:41:41 <Dot`> https://xkcd.com/1908/
+21:01:37 <Dot`> you get anything in the steam sale dub
+21:06:09 <DuB`> Didn't know there was one. :o
+21:06:22 <Dot`> is halloween sale
+21:06:44 <DuB`> I shall look.
+21:08:44 <DuB`> Don't see anything I want for now
+21:16:24 <skram> Im gonna get darkest dungeon
+21:16:59 <Dot`> then stream it
+21:17:02 <Zounds> Try not to be consumed by eldritch horrors skram
+21:17:26 <skram> im not a streamer person dot
+21:18:27 <skram> im gonna get a dinner
+21:19:47 <Dot`> skram pls
+21:21:07 <Zounds> let the man enjoy his game in peace dotman
+21:21:21 <Zounds> Without the judging eye hanging over them :P
+21:21:25 <Dot`> oh not that, its too late for supper now
+21:21:33 <Dot`> but also i do want to judge him
+21:27:54 <Zounds> I'm off for the night
+21:28:00 <Zounds> nn pons
+21:28:21 <reification> https://twitter.com/PadraigBelton/status/923826743198314498
+21:38:50 <reification> bio https://twitter.com/mkonnikova/status/924299484871270400
+21:43:16 <Dot`> .tell zounds https://egophiliac.deviantart.com/art/darkest-timeline-700404476
+21:45:45 <skram> Supper? Dot pls, I woke up like 5 hours ago
+21:45:50 <skram> i should be having lunch at this time
+21:49:38 <Dot`> anarchy
+21:51:28 <reification> i had dinner at 8 today, that‚Äôs plenty of mealtime anarchy for me
+22:18:18 <skram> dot what you do
+22:32:36 <reification> night all
+22:39:02 -!- Camail [~Camail@45.40.84.145] has joined #tlponies
+22:39:03 -!- mode/#tlponies [+v Camail] by Q
+22:39:41 <Camail> dot not
+22:39:45 <Camail> no never
+22:57:40 <Dot`> pls

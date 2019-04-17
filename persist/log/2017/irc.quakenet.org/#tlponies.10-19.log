@@ -1,0 +1,295 @@
+ompatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; GTB7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)"
+app.teachertime.com.au:80 153.107.33.153 - - [16/Mar/2012:12:14:02 +1100] "GET /scripts/foundation/forms.jquery.js HTTP/1.1" 200 1002 "http://app.teachertime.com.au/content/429" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; GTB7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)"
+app.teachertime.com.au:80 153.107.33.153 - - [16/Mar/2012:12:14:03 +1100] "GET /scripts/foundation/jquery.customforms.js HTTP/1.1" 200 1592 "http://app.teachertime.com.au/content/429" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; GTB7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)"
+app.teachertime.com.au:80 153.107.33.153 - - [16/Mar/2012:12:14:03 +1100] "GET /scripts/foundation/jquery.placeholder.min.js HTTP/1.1" 200 987 "http://app.teachertime.com.au/content/429" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; GTB7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)"
+app.teachertime.com.au:80 153.107.33.153 - - [16/Mar/2012:12:14:03 +1100] "GET /images/theme/site/teachertime.ico HTTP/1.1" 200 1691 "-" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; GTB7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)"
+app.teachertime.com.au:80 66.249.68.195 - - [16/Mar/2012:12:14:11 +1100] "GET /content/553 HTTP/1.1" 200 3665 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+app.teachertime.com.au:80 66.249.68.195 - - [16/Mar/2012:12:14:18 +1100] "GET /content/601 HTTP/1.1" 200 3677 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+app.teachertime.com.au:80 66.249.68.195 - - [16/Mar/2012:12:14:28 +1100] "GET /content/581 HTTP/1.1" 200 3686 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+app.teachertime.com.au:80 66.249.68.195 - - [16/Mar/2012:12:14:38 +1100] "GET /content/600 HTTP/1.1" 200 3679 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+app.teachertime.com.au:80 66.249.68.195 - - [16/Mar/2012:12:14:38 +1100] "GET /content_app/308/preview/3.png HTTP/1.1" 200 74887 "-" "Googlebot-Image/1.0"
+app.teachertime.com.au:80 66.249.68.195 - - [16/Mar/2012:12:14:47 +1100] "GET /content/572 HTTP/1.1" 200 3657 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+app.teachertime.com.au:80 66.249.68.195 - - [16/Mar/2012:12:14:57 +1100] "GET /content/599 HTTP/1.1" 200 3678 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+app.teachertime.com.au:80 66.249.68.195 - - [16/Mar/2012:12:15:07 +1100] "GET /content/564 HTTP/1.1" 200 3674 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+app.teachertime.com.au:80 66.249.68.195 - - [16/Mar/2012:12:15:16 +1100] "GET /content/571 HTTP/1.1" 200 3613 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+app.teachertime.com.au:80 66.249.68.195 - - [16/Mar/2012:12:15:26 +1100] "GET /content/596 HTTP/1.1" 200 3600 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+app.teachertime.com.au:80 66.249.68.195 - - [16/Mar/2012:12:15:36 +1100] "GET /content/584 HTTP/1.1" 200 3619 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+app.teachertime.com.au:80 66.249.68.195 - - [16/Mar/2012:12:15:45 +1100] "GET /content/556 HTTP/1.1" 200 3665 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+app.teachertime.com.au:80 66.249.68.195 - - [16/Mar/2012:12:15:55 +1100] "GET /content/605 HTTP/1.1" 200 3682 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+app.teachertime.com.au:80 66.249.68.195 - - [16/Mar/2012:12:16:05 +1100] "GET /content/579 HTTP/1.1" 200 3653 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +hripts/foundation/modernizr.foundation.js HTTP/1.1" 304 213 "http://www.teachertime.com.au/content/425-Reading-Activities-Non-Fiction" "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2;  SLCC1;  .NET CLR 1.1.4322;  .NET CLR 2.0.50727;  .NET CLR 3.0.30729;  .NET CLR 3.5.30707;  MS-RTC LM 8)"
+app.teachertime.com.au:80 131.253.26.228 - - [15/Mar/2014:09:43:50 +1100] "GET /scripts/foundation/jquery.tooltips.js HTTP/1.1" 200 1816 "http://www.teachertime.com.au/content/425-Reading-Activities-Non-Fiction" "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2;  SLCC1;  .NET CLR 1.1.4322;  .NET CLR 2.0.50727;  .NET CLR 3.0.30729;  .NET CLR 3.5.30707;  MS-RTC LM 8)"
+app.teachertime.com.au:80 65.55.212.90 - - [15/Mar/2014:09:43:51 +1100] "GET /scripts/foundation/jquery.customforms.js HTTP/1.1" 200 2117 "http://www.teachertime.com.au/content/425-Reading-Activities-Non-Fiction" "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2;  SLCC1;  .NET CLR 1.1.4322;  .NET CLR 2.0.50727;  .NET CLR 3.0.30729;  .NET CLR 3.5.30707;  MS-RTC LM 8)"
+app.teachertime.com.au:80 131.253.26.226 - - [15/Mar/2014:09:43:54 +1100] "GET /scripts/foundation/jquery.placeholder.min.js HTTP/1.1" 200 1039 "http://www.teachertime.com.au/content/425-Reading-Activities-Non-Fiction" "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2;  SLCC1;  .NET CLR 1.1.4322;  .NET CLR 2.0.50727;  .NET CLR 3.0.30729;  .NET CLR 3.5.30707;  MS-RTC LM 8)"
+app.teachertime.com.au:80 27.32.96.110 - - [15/Mar/2014:09:44:40 +1100] "GET /content_app/254/content/Stage-2-English-The-Letters-of-Rosie-OBrien-Comp-Questi.doc HTTP/1.1" 206 355 "https://www.google.com.au/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.146 Safari/537.36"
+app.teachertime.com.au:80 27.32.96.110 - - [15/Mar/2014:09:44:40 +1100] "GET /content_app/254/content/Stage-2-English-The-Letters-of-Rosie-OBrien-Comp-Questi.doc HTTP/1.1" 206 34997 "https://www.google.com.au/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.146 Safari/537.36"
+app.teachertime.com.au:80 50.18.6.207 - - [15/Mar/2014:09:46:55 +1100] "GET / HTTP/1.1" 200 17879 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.168 Safari/535.19"
+app.teachertime.com.au:80 109.122.3.69 - - [15/Mar/2014:09:47:50 +1100] "GET /content_app/25/preview/1.png HTTP/1.1" 200 40920 "http://pics3.this-pic.com/key/%20introduction%20to%20prepositions" "Mozilla/5.0 (Windows NT 5.1; rv:27.0) Gecko/20100101 Firefox/27.0"
+app.teachertime.com.au:80 94.0.148.238 - - [15/Mar/2014:09:51:13 +1100] "GET /content_app/195/preview/Stage-[Stage]-[KLA]-Simple-Compound-and-Complex-Sentence-Revisions.png HTTP/1.1" 200 71671 "-" "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET CLR 1.1.4322; .NET4.0C; .NET4.0E; InfoPath.3)"
+app.teachertime.com.au:80 94.0.148.238 - - [15/Mar/2014:09:51:16 +1100] "GET /favicon.ico HTTP/1.1" 404 2206 "-" "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET CLR 1.1.4322; .NET4.0C; .NET4.0E; InfoPath.3)"
+app.teachertime.com.au:80 66.249.79.17 - - [15/Mar/2014:09:51:21 +1100] "GET /content/244 HTTP/1.1" 301 599 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+app.teachertime.com.au:80 66.249.79.49 - - [15/Mar/2014:09:51:22 +1100] "GET /content/244-Grammar-Comma-Practise-KLA-English-Stage3 HTTP/1.1" 200 3830 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+app.teachertime.com.au:80 157.55.34.175 - - [15/Mar/2014:09:52:40 +1100] "GET /content/594-Multiplication-and-Division-Make-Number-Sentences-KLA-Mathematics-Stage2 HTTP/1.1" 200 3934 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)"
+app.teachertime.com.au:80 83.149.126.98 - - [15/Mar/2014:09:53:27 +1100] "GET /robots.txt HTTP/1.0" 200 275 "-" "Mozilla/5.0 (compatible; MJ12bot/v1.4.4; ht45:39 -!- Bio [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+13:22:09 <reification> roar roar
+13:22:16 <reification> i was out eating fancy lunch
+13:38:33 -!- BioSC [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+13:39:37 -!- BioHorse [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+14:05:34 -!- Rawr|Fone [~AndChat25@89.255.242.40] has joined #tlponies
+14:16:34 -!- Rawr|Phone [~AndChat25@m83-185-80-184.cust.tele2.se] has joined #tlponies
+14:30:22 -!- tredc [webchat@90-230-30-217-no56.tbcn.telia.com] has joined #tlponies
+14:45:18 <Rawr|Phone> Horses
+14:59:56 -!- Golly [~Golly@1.92-221-121.customer.lyse.net] has joined #tlponies
+15:00:53 -!- DoT_ [~quassel@94.2.102.186] has joined #tlponies
+15:09:43 <DoT_> hedge all
+15:12:21 -!- Bio [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+15:20:04 -!- Zounds [~chatzilla@cpc108453-cowc8-2-0-cust8.14-2.cable.virginm.net] has joined #tlponies
+15:20:46 <DoT_> hi zounds
+15:20:53 <Zounds> hey
+15:22:53 -!- Dot` [~quassel@94.2.102.186] has joined #tlponies
+15:22:58 <Dot`> blarg
+15:23:01 <Dot`> rawr raw rrawr
+15:24:00 <Rawr|Phone> Dot do tdot
+15:25:25 <Rawr|Phone> <3
+15:26:14 <Dot`> <3
+15:30:06 -!- DuB` [~DuB@66-219-235-64.dynamic.ip.veracitynetworks.com] has joined #tlponies
+15:30:08 <DuB`> G'morn
+15:30:14 <Dot`> DUB
+15:30:16 <Dot`> so early
+15:30:33 <Dot`> <3
+15:30:41 <DuB`> Ye, figured I could hang out for an hour before class.
+15:30:54 <Dot`> \o/
+15:31:24 <reification> hello dub
+15:34:02 <DuB`> <3
+15:43:12 <Dot`> what you up to dub
+15:43:46 <DuB`> Um
+15:43:57 <DuB`> Eatin' oatmeal and playing mobile game 
+15:46:41 <Dot`> sounds nice
+15:54:21 -!- carcinisation [webchat@cpc76294-cosh16-2-0-cust297.6-1.cable.virginm.net] has joined #tlponies
+16:15:21 -!- skram [~skram@ip-185-146-106-77.eidsiva.net] has joined #tlponies
+16:17:27 <Dot`> woohoo!
+16:17:29 <Dot`> skram!
+16:18:01 -!- skrma [~skram@ip-235-147-106-77.eidsiva.net] has joined #tlponies
+16:18:11 <Dot`> skrmnnn pls
+16:19:07 <skrma> hallo frend
+16:20:32 -!- skrmn [~skram@ip-185-146-106-77.eidsiva.net] has joined #tlponies
+16:20:37 <skrmn> what the heeeeck
+16:20:43 <Dot`> pls
+16:20:51 <Dot`> bork bork
+16:20:56 <Dot`> your fiber is weird
+16:22:08 <skrmn> its pretty bad
+16:24:17 <Zounds> mister skram
+16:24:36 <skrmn> Mr Zounds
+16:24:57 <DuB`> !
+16:25:33 <skrmn> A Mr Dub as well!
+16:25:37 <skrmn> Is it not early for you
+16:28:00 <DuB`> 10am :o
+16:28:08 <DuB`> Off to class in 5min~
+16:28:30 <skrmn> Thats so early! Skip class and wake up at a reasonable time, DuB`
+16:31:16 <DuB`> ho hum
+16:31:36 <skrmn> be the best pon
+16:33:57 <DuB`skul> #1!
+16:37:44 <Dot`> gl dub
+16:51:39 <Dot`> how are you skram
+16:56:31 <skrmn> dont know yet dot
+16:56:33 <skrmn> i just woke up
+17:02:49 <Dot`> get coffee
+17:31:32 <Bio> morn
+17:31:36 <Bio> need coffee
+17:31:39 <Dot`> Boio!
+17:31:39 <Bio> sick again
+17:31:42 <Dot`> i got coffee
+17:31:45 <Bio> save me from my suffer
+17:33:51 <carcinisation> life is suffer bio
+17:37:07 <Bio> rip
+17:44:12 -!- reimeuk [~reificati@cpc76294-cosh16-2-0-cust297.6-1.cable.virginm.net] has joined #tlponies
+17:44:12 -!- mode/#tlponies [+v reimeuk] by Q
+17:48:24 -!- DoT_ [~quassel@94.2.102.186] has joined #tlponies
+18:22:46 <Bio> dot
+18:24:45 <skram> dot
+18:25:32 <Bio> I hope he not ded
+18:25:38 <Dot`> pons
+18:25:39 <skram> me too bud
+18:25:44 <skram> he lives!
+18:25:50 <Bio> yey
+18:25:56 <Dot`> it was 1 minute, pls calm down
+18:26:09 <reification> pons are easy to spook
+18:26:14 <skram> a very long miute
+18:26:39 <Bio> prone to hysteria 
+18:29:14 <skram> I made a sandwich and I think I put too much cheese on it
+18:29:39 <skram> KIDDING there is no such thing as too much cheese
+18:29:55 <Dot`> Chhese is good stuff
+18:30:08 <skram> the best stuff
+18:30:33 <skram> my veins are clogged with jarlsberg probably
+18:35:08 <Bio> hors
+18:35:18 <Bio> want to plej
+18:35:21 <Bio> something
+18:35:34 <Bio> wow guild has been playing factorio again
+18:35:37 <Bio> lets do that
+18:36:24 <Dot`> skram i blame you for this https://imgur.com/gallery/LtQuq
+18:36:53 <skram> i love toasters
+18:37:24 -!- DoT|Phone [~Dot@94.2.102.186] has joined #tlponies
+18:42:33 <Bio> rip
+18:51:15 -!- Camail [~Camail@45.40.84.145] has joined #tlponies
+18:51:15 -!- mode/#tlponies [+v Camail] by Q
+18:51:22 <DoT|Phone> dub  https://imgur.com/gallery/Ly8wibI
+18:51:29 <DoT|Phone> cam
+18:52:46 <Camail> no
+18:53:43 <DoT|Phone> maybe
+18:55:05 <Camail> no tho
+18:55:47 <skram> why
+18:55:55 -!- tredc [webchat@90-230-30-217-no56.tbcn.telia.com] has joined #tlponies
+18:57:11 <Camail> cuz i felt like it
+18:59:58 <DoT|Phone> rude
+19:02:06 <Camail> phones have no rights here
+19:02:17 <Camail> you earn rights by not being a phone
+19:20:34 <Bio> asdf
+19:22:24 <DoT|Phone> blarg bio
+19:23:30 <Zounds> muh cam
+19:23:37 <Camail> yo
+19:25:58 <Dot`> no more phone
+19:34:06 <Camail> you have rights now, grats
+19:34:29 <Dot`> i wish, im still 3rd world
+19:46:32 <Dot`> skram
+19:46:57 <skram> yes my dear
+19:53:36 <carcinisation> activision appear to have patented being cunts https://twitter.com/Maximus_Honkmus/status/920426065205510144
+19:54:32 <skram> im not even a litlle bit surprised
+19:54:34 <skram> imma go work
+19:54:35 <skram> bb
+19:57:50 <Dot`> later skram
+19:58:25 <Bio> someone come plej
+19:58:46 <Bio> or i'll go back to touching orc faces
+19:59:36 <carcinisation> bio https://twitter.com/trenodin/status/919767097923776512
+19:59:54 <Bio> niceme.me
+20:02:22 <Bio> rip
+20:02:32 <Dot`> bio, hows you
+20:03:11 <Bio> cloggy
+20:04:09 <Bio> dot will u teach me how to make a factory
+20:05:33 <Dot`> mine ore, makes plates, eat off plates
+20:05:35 <Dot`> right?
+20:28:15 -!- Runbunny [~Runbunny@91.100.28.10.generic-hostname.arrownet.dk] has joined #tlponies
+20:29:21 <Dot`> hey angel
+20:29:33 <Runbunny> Hai Dot.
+20:29:58 <Bio> I believe so
+20:30:02 <Bio> wanna make some plates dot
+20:30:03 <Runbunny> I got some astronaut food, so I have decided to go to space.
+20:32:54 <Zounds> angelbun
+20:34:30 <Dot`> sure bio, let me finish up then we can plej a bit
+20:34:34 <Dot`> gib 10 minutes
+20:35:03 <Bio> rgr
+20:37:28 <Runbunny> Zounds.
+20:44:12 <carcinisation> sound logic bun
+20:47:25 <Dot`> bio bio
+20:47:44 <Bio> how do
+20:50:27 <Dot`> no talk to me
+20:50:33 <Dot`> rude
+21:18:41 -!- skrm [webchat@185.7.220.32] has joined #tlponies
+21:33:15 <Dot`> jonas!
+21:34:49 <skrm> bjørn!
+21:36:15 <Camail> pls
+21:47:29 <Rawr|Phone> No pls
+21:53:34 <skrm> pls me camail
+21:53:43 <Camail> never
+21:54:44 <Rawr|Phone> Rude
+22:01:48 -!- Crisium [~Crisium@c-67-165-55-60.hsd1.pa.comcast.net] has joined #tlponies
+22:01:56 <Dot`> cris pon
+22:03:46 <Crisium> hi
+22:04:09 <Crisium> oh ty for the sia pon
+22:05:06 <Crisium> just made Master for the first time in Overwatch
+22:05:12 <Crisium> woo
+22:06:20 <Dot`> \o/
+22:07:12 <skrm> fuck yeah crisium
+22:07:31 <Crisium> still gotta catch up to GM skram
+22:07:36 <Crisium> one day maybe ;P
+22:07:46 <skrm> im diamond now
+22:07:48 <skrm> probably
+22:08:02 -!- Rawr|Fone [~AndChat25@84-217-62-32.customers.ownit.se] has joined #tlponies
+22:08:49 <Crisium> oh was it not you who made GM?
+22:08:58 <Crisium> at least one of the pons did
+22:09:10 <skrm> well yeah but i have not played in a month
+22:09:23 -!- DuB`study [~DuB@128.187.116.7] has joined #tlponies
+22:09:24 <DuB`study> ohi
+22:09:34 <skrm> g'day m8
+22:09:57 <Crisium> oh ya they lower rating
+22:10:03 <Crisium> hi dab
+22:15:22 <Dot`> dub
+22:15:29 <DuB`study> dot
+22:16:29 <DuB`study> No new xkcd what-if ever ever never
+22:23:29 <Dot`> indeed
+22:24:42 <skrm> dub what are you study
+22:24:53 <DuB`study> Doin' group tax research
+22:25:19 <skrm> did you figure out how i can cheat on my taxes yet
+22:26:14 <skrm> I checked my things yesterday and i think 35% is too much
+22:27:03 <DuB`study> Move to an uninhabited tax shelter island for >50% of the year, probably.
+22:27:17 <skrm> interesting
+22:27:24 <skrm> where do i find one of those
+22:27:44 <Crisium> create an LLC in Grand Cayman
+22:27:50 <DuB`study> Unfortunately, unless you can work from said island, your financial well-being is likely better served by staying where you are. :P
+22:28:12 <DuB`study> Oh I dunno, just swim around the Pacific for a while.
+22:28:16 <DuB`study> I hear there are plenty.
+22:29:12 <Crisium> just launder your money through me skrm
+22:29:30 <Crisium> dont worry, you'll get most of it back
+22:30:15 <skrm> ok kool
+22:30:33 <skrm> gimme your things and ill wire you FIVE HUNDRED DOLLARS
+22:30:40 <DuB`study> Launder your illicit chocolate income through me.
+22:30:45 <DuB`study> I'm good at handling that.
+22:31:04 <skrm> if you nibble more than 35% its kinda wasted though
+22:31:53 <DuB`study> I am contractualy obligated to nibble no more the greater of 11% or 30% of what I save you.
+22:32:00 <DuB`study> more than the*
+22:32:21 <DuB`study> Contingent fees are illegal for tax advice, but not chocolate advice!
+22:33:30 <skrm> excellent
+22:34:07 <DuB`study> So I have to do a silly "creative project" for my super-easy literature class
+22:34:26 <DuB`study> Basically ANYTHING in the world that is at least tangentially related to anything we've read.
+22:35:01 <DuB`study> So I ordered some calligraphy brushes, paper, and ink and am gonna do some kanji calligraphy
+22:35:06 <DuB`study> About taoist stuff 
+22:35:07 <DuB`study> Fun!
+22:36:06 <DuB`study> brb food
+22:36:54 <skrm> is it pig liver
+22:40:02 <reification> night all
+22:43:10 <skrm> good night!
+22:48:02 <DuB`study> NN
+22:48:06 <DuB`study> It does have pig, skram.
+22:55:37 <skrm> Crisium: Im thinking about upgrading my things, whats the good kush these days
+22:55:46 <skrm> I need a mobo/cpu/ram
+22:55:52 <Crisium> what is a kush
+22:56:30 <skrm> stuff
+22:58:33 <Crisium> i7 8700k
+23:00:15 -!- DuB`study [~DuB@128.187.116.7] has joined #tlponies
+23:00:15 -!- Dot` [~quassel@94.2.102.186] has joined #tlponies
+23:00:15 -!- Golly [~Golly@1.92-221-121.customer.lyse.net] has joined #tlponies
+23:00:15 -!- Methos [~methos@23.226.129.178] has joined #tlponies
+23:00:15 -!- Twi [znc@Twi.users.quakenet.org] has joined #tlponies
+23:00:15 -!- Camail [~Camail@45.40.84.145] has joined #tlponies
+23:00:15 -!- Cane [~Cane@CaneCraft.users.quakenet.org] has joined #tlponies
+23:00:15 -!- mode/#tlponies [+ov Cane Camail] by *.quakenet.org
+23:00:25 <Crisium> waa
+23:02:41 <skrm> are they even out yet cris :O
+23:02:44 <skrm> i cant find it
+23:03:11 <Crisium> yeah they just sol d out tho
+23:03:51 <Crisium> close to a paper launch
+23:04:12 <DuB`study> got natsplat
+23:04:19 <Crisium> nani
+23:09:14 <skrm> whats a paper launch
+23:22:27 <Camail> why do we have so many dubs
+23:22:30 <Camail> i dont like this
+23:23:50 <Crisium> launched on paper with few actual supply in store
+23:31:38 <Dot`> Dub pls
+23:31:52 <DuB`study> :o
+23:32:02 <DuB`study> Because this is laptop and that is not!
+23:32:26 <Dot`> fake dub
+23:32:29 <DuB`study> You should be happy, Camail. More dub is better.
+23:32:37 <DuB`study> And now Dot` is rude.
+23:32:40 <DuB`study> :(
+23:32:47 <Camail> i dont know about that
+23:32:51 <Camail> we lived awhile with 0 dub
+23:32:59 <Camail> and it has only gotten worse with 1
+23:33:11 <DuB`study> OH REALLY
+23:33:32 <Camail> stats
+23:33:53 <DuB`study> wuh
+23:37:33 -!- Micen [~micen@h118.170.91.75.dynamic.ip.windstream.net] has joined #tlponies
+23:38:29 <Dot`> MICEN
+23:38:33 <Micen> Hello
+23:38:34 <Dot`> Dub dub <3
+23:38:52 <Micen> i got a good birthday gift. 
+23:38:56 <DuB`study>  :D
+23:39:05 <Micen> Im getting Destiny 2 Digital collectors
+23:39:18 <Micen> so I can shoots and RPG a current game with people!

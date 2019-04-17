@@ -1,0 +1,519 @@
+thefly.com:80 78.46.95.46 - - [03/Apr/2012:04:15:51 +0930] "GET / HTTP/1.1" 200 649 "-" "Mozilla/4.0 (compatible; MSIE 6.0) WormlyBot; (+http://wormly.com)"
+Q3.servers.filmsonthefly.com:80 78.46.95.46 - - [03/Apr/2012:04:16:52 +0930] "GET / HTTP/1.1" 200 649 "-" "Mozilla/4.0 (compatible; MSIE 6.0) WormlyBot; (+http://wormly.com)"
+Q3.servers.filmsonthefly.com:80 78.46.95.46 - - [03/Apr/2012:04:17:50 +0930] "GET / HTTP/1.1" 200 649 "-" "Mozilla/4.0 (compatible; MSIE 6.0) WormlyBot; (+http://wormly.com)"
+Q3.servers.filmsonthefly.com:80 184.72.226.23 - - [03/Apr/2012:04:18:37 +0930] "POST /monitor/agent.php HTTP/1.1" 200 1532 "-" "Wormly Server Monitoring ( http://www.wormly.com/ )"
+Q3.servers.filmsonthefly.com:80 78.46.95.46 - - [03/Apr/2012:04:18:51 +0930] "GET / HTTP/1.1" 200 649 "-" "Mozilla/4.0 (compatible; MSIE 6.0) WormlyBot; (+http://wormly.com)"
+Q3.servers.filmsonthefly.com:80 78.46.95.46 - - [03/Apr/2012:04:19:50 +0930] "GET / HTTP/1.1" 200 649 "-" "Mozilla/4.0 (compatible; MSIE 6.0) WormlyBot; (+http://wormly.com)"
+Q3.servers.filmsonthefly.com:80 78.46.95.46 - - [03/Apr/2012:04:20:50 +0930] "GET / HTTP/1.1" 200 649 "-" "Mozilla/4.0 (compatible; MSIE 6.0) WormlyBot; (+http://wormly.com)"
+Q3.servers.filmsonthefly.com:80 78.46.95.46 - - [03/Apr/2012:04:21:50 +0930] "GET / HTTP/1.1" 200 649 "-" "Mozilla/4.0 (compatible; MSIE 6.0) WormlyBot; (+http://wormly.com)"
+Q3.servers.filmsonthefly.com:80 78.46.95.46 - - [03/Apr/2012:04:22:51 +0930] "GET / HTTP/1.1" 200 649 "-" "Mozilla/4.0 (compatible; MSIE 6.0) WormlyBot; (+http://wormly.com)"
+Q3.servers.filmsonthefly.com:80 184.72.226.23 - - [03/Apr/2012:04:23:38 +0930] "POST /monitor/agent.php HTTP/1.1" 200 1532 "-" "Wormly Server Monitoring ( http://www.wormly.com/ )"
+Q3.servers.filmsonthefly.com:80 78.46.95.46 - - [03/Apr/2012:04:23:50 +0930] "GET / HTTP/1.1" 200 649 "-" "Mozilla/4.0 (compatible; MSIE 6.0) WormlyBot; (+http://wormly.com)"
+Q3.servers.filmsonthefly.com:80 78.46.95.46 - - [03/Apr/2012:04:24:51 +0930] "GET / HTTP/1.1" 200 649 "-" "Mozilla/4.0 (compatible; MSIE 6.0) WormlyBot; (+http://wormly.com)"
+Q3.servers.filmsonthefly.com:80 78.46.95.46 - - [03/Apr/2012:04:25:51 +0930] "GET / HTTP/1.1" 200 649 "-" "Mozilla/4.0 (compatible; MSIE 6.0) WormlyBot; (+http://wormly.com)"
+Q3.servers.filmsonthefly.com:80 78.46.95.46 - - [03/Apr/2012:04:26:51 +0930] "GET / HTTP/1.1" 200 649 "-" "Mozilla/4.0 (compatible; MSIE 6.0) WormlyBot; (+http://wormly.com)"
+Q3.servers.filmsonthefly.com:80 78.46.95.46 - - [03/Apr/2012:04:27:51 +0930] "GET / HTTP/1.1" 200 649 "-" "Mozilla/4.0 (compatible; MSIE 6.0) WormlyBot; (+http://wormly.com)"
+Q3.servers.filmsonthefly.com:80 184.72.226.23 - - [03/Apr/2012:04:28:38 +0930] "POST /monitor/agent.php HTTP/1.1" 200 1540 "-" "Wormly Server Monitoring ( http://www.wormly.com/ )"
+Q3.servers.filmsonthefly.com:80 78.46.95.46 - - [03/Apr/2012:04:28:49 +0930] "GET / HTTP/1.1" 200 649 "-" "Mozilla/4.0 (compatible; MSIE 6.0) WormlyBot; (+http://wormly.com)"
+Q3.servers.filmsonthefly.com:80 78.46.95.46 - - [03/Apr/2012:04:29:50 +0930] "GET / HTTP/1.1" 200 649 "-" "Mozilla/4.0 (compatible; MSIE 6.0) WormlyBot; (+http://wormly.com)"
+Q3.servers.filmsonthefly.com:80 78.46.95.46 - - [03/Apr/2012:04:30:51 +0930] "GET / HTTP/1.1" 200 649 "-" "Mozilla/4.0 (compatible; MSIE 6.0) WormlyBot; (+http://wormly.com)"
+Q3.servers.filmsonthefly.com:80 78.46.95.46 - - [03/Apr/2012:04:31:51 +0930] "GET / HTTP/1.1" 200 649 "-" "Mozilla/4.0 (compatible; MSIE 6.0) WormlyBot; (+http://wormly.com)"
+Q3.servers.filmsonthefly.com:80 78.46.95.46 - - [03/Apr/2012:04:32:50 +0930] "GET / HTTP/1.1" 200 649 "-" "Mozilla/4.0 (compatible; MSIE 6.0) WormlyBot; (+http://wormly.com)"
+Q3.servers.filmsonthefly.com:80 184.72.226.23 - - [03/Apr/2012:04:33:38 +0930] "POST /monitor/agent.php HTTP/1.1" 200 1532 "-" "Wormly Server Monitoring ( http://www.wormly.com/ )"
+Q3.servers.filmsonthefly.com:80 78.46.95.46 - - [03/Apr/2012:04:33:50 +0930] "GET / HTTP/1.1" 200 649 "-" "Mozilla/4.0 (compatible; MSIE 6.0) WormlyBot; (+http://wormly.com)"
+Q3.servers.filmsonthefly.com:80 78.46.95.46 - - [03/Apr/2012:04:3.
+11:23:37 <Rawr|Fone> Good luck
+11:24:36 <Runbunny> Thanks :)
+11:39:22 -!- BioSC [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+11:41:48 -!- Golly [~Golly@1.92-221-121.customer.lyse.net] has joined #tlponies
+11:43:22 -!- BioSC [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+12:20:37 -!- reification [~reificati@cpc76294-cosh16-2-0-cust297.6-1.cable.virginm.net] has joined #tlponies
+12:20:37 -!- mode/#tlponies [+v reification] by Q
+12:21:10 <Rawr|Fone> Reef reef
+12:21:21 <reification> rawr rawr
+12:22:01 <reification> .tell Dub` pls confirm https://www.youtube.com/watch?v=WKl9H037C1k
+12:22:04 <Rawr|Fone> Good afternoon!
+12:22:32 <reification> it’s pretty rainy and miserable here rawr
+12:22:43 <reification> i should have done laundry yesterday :/
+12:23:23 -!- BioHorse [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+12:33:25 -!- BioSC [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+12:41:26 -!- BioHorse [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+12:42:18 <reification> biopls
+12:42:29 <Rawr|Fone> It's very sunny here
+12:48:55 <reification> apparently i’m the only one who hasn’t been to iceland :( https://www.aftenposten.no/okonomi/i/oqGMK/Selv-turister-mener-det-er-for-mange-turister-pa-Island
+12:49:06 <Runbunny> Hai
+12:49:13 <reification> hello bun
+12:49:49 <Runbunny> It started raining as soon as I left.
+12:52:08 <reification> then pls come here so it stops
+12:55:27 -!- tredc [webchat@90-230-30-217-no56.tbcn.telia.com] has joined #tlponies
+13:00:23 <Runbunny> Can't reif.
+13:00:39 <Runbunny> 2nd Kizumonogatari is out.
+13:02:07 <reification> you need to learn about radical freedom before saying you can’t runbun D:
+13:02:32 <reification> also when you asked about monogatari before i thought you meant tv show
+13:02:43 <reification> so i may have misled you
+13:05:24 <Runbunny> the movies are prequels.
+13:05:46 <Runbunny> but owarimonogatari haven't started yet.
+13:06:09 <reification> i have lost track of all the monogatari stuffs :(
+13:07:51 -!- BioSC [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+13:09:16 <Runbunny> It's okay Reif. You just need more passion.
+13:10:32 <reification> .tellm dot` zk | https://twitter.com/CatholicNewsSvc/status/892396206072135681
+13:11:08 -!- ZK [~ZK@modemcable189.130-83-70.mc.videotron.ca] has joined #tlponies
+13:12:44 <reification> runbun nsfw https://twitter.com/BasedDrWorm/status/892317247859040256
+13:13:32 <Runbunny> oh shi!
+13:17:29 <reification> ron paul 2020 campaign propoganda may underestimate how much ppl like banning stuff https://twitter.com/Yamaxanadieu/status/892125728921317377
+13:23:36 -!- skram [~skram@ip-236-146-106-77.eidsiva.net] has joined #tlponies
+13:24:20 <reification> https://twitter.com/jonjonaug/status/891701041963597825
+13:24:39 <reification> alright lets stop wasting time on twitter and waste it somewhere else
+13:27:36 -!- BioHorse [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+13:42:56 -!- reification [~reificati@cpc76294-cosh16-2-0-cust297.6-1.cable.virginm.net] has joined #tlponies
+13:42:56 -!- mode/#tlponies [+v reification] by Q
+13:49:40 <Runbunny> Holy shit Reif.
+13:50:05 <Runbunny> The pantsu reveal scene.
+13:50:27 <reification> you sound excited :p
+13:51:02 <Runbunny> It was very good.
+14:08:24 <Rawr|Fone> 🤔🤔🤔
+14:16:55 <Runbunny> :3
+14:20:52 -!- Dot` [~quassel@90.216.79.190] has joined #tlponies
+14:29:38 <skram> hej dudes
+14:29:57 <Runbunny> Hej Jonas.
+14:30:26 <skram> Anders!
+14:31:42 <Rawr|Fone> Hej Jonas.
+14:31:51 <skram> Henrik!
+14:32:15 <Runbunny> Did you watch the anime that you and Dub decided to mutual masterbate to yet?
+14:33:05 <skram> Nei
+14:35:16 <Rawr|Fone> How are you today jonas
+14:35:49 <skram> ive been outside
+14:35:52 <skram> basking in the sunshine
+14:35:56 <skram> its good to be inside again
+14:36:49 <Rawr|Fone> Did you have your helmet
+14:36:51 <Runbunny> Nice.
+14:37:00 <skram> I did, actually.
+14:37:09 <Runbunny> Oh Reif monogatari is clearly the best anime that was ever made forever.
+14:37:47 <reification> must have been some really good panstu
+14:38:41 <Rawr|Fone> I'm proud of you skram
+14:39:14 <skram> Thanks Henrik
+14:39:26 <Runbunny> The last line in the preview was "Araragi, would you please fondle my bare breasts?" like you can't make this stuff up.
+14:40:29 <reification> …
+14:42:29 <Rawr|Fone> 🤔🤔🤔
+14:43:41 <reification> wait this irc client should be showing emoji but i only see squares D:
+14:44:06 <reification> how will i cope without knowing what rawr is saying
+14:44:22 <Rawr|Fone> :thinking:
+14:44:35 <skram> :eggplant:
+14:44:48 <Rawr|Fone> 🤔🤔🤔
+14:45:12 <Rawr|Fone> 🏓🏓🏓
+14:46:33 <reification> 😞😞😞
+14:47:26 <reification> samsung phones unusable http://blog.emojipedia.org/samsung-ruins-cookie-monsters-day/
+14:50:15 <BioHorse> horse
+14:50:30 <reification> bionolongerhorse
+14:51:44 <Bio> alwayshosre
+14:54:01 -!- Phearlock [~Phearlock@cm-84.215.228.107.getinternet.no] has joined #tlponies
+14:54:01 -!- mode/#tlponies [+v Phearlock] by Q
+14:55:06 <Phearlock> Hey ponpons
+14:55:13 <ZK> hi phear
+14:59:23 <ZK> and yes reif, there needs to be more giant spiders on cathedrals
+15:07:47 <Runbunny> At least you see squares Reif. I just see a blank space.
+15:07:58 <Runbunny> Hai Phearlock.
+15:08:21 <Phearlock> Runbun did you see the dumb norwegians who thought a bunch of bus seats were muslims?
+15:08:31 <Phearlock> It was pretty great
+15:08:35 <Runbunny> Haha what?
+15:08:45 <Runbunny> Link me that please.
+15:08:56 <Phearlock> https://www.theguardian.com/world/2017/aug/02/bus-seats-mistaken-burqas-anti-immigrant-group-norwegian
+15:09:07 <Phearlock> I'm sure some danish publications have the story too
+15:12:10 <Runbunny> Hahaha.
+15:12:34 <Runbunny> Surely the empty bus seats are loaded with bombs and weapons :P
+15:12:48 <Phearlock> Very scary seats
+15:13:50 <Runbunny> They probably aren't even integrated properly and have made no effort whatsoever to learn the norwegian language.
+15:13:55 <Runbunny> skram, http://i.imgur.com/pqsJryU.png
+15:22:57 <Bio> http://i.imgur.com/jU12P8J.jpg also for skram
+15:24:37 <Cane> https://www.youtube.com/watch?v=g1Sq1Nr58hM
+15:25:29 <Bio> I love how you can see him cracking up during that line
+15:30:38 <Phearlock> Hah now that we have spaceX that plan is foiled too
+15:32:32 <Phearlock> https://derpibooru.org/1500803 oh dear, bio
+15:32:35 <Phearlock> Twi twi sad
+15:32:58 <Bio> pls
+15:33:40 <motbob> You: trash talk
+15:33:44 <motbob> Me, an intellectual: refuse banter
+15:34:06 <Bio> thats a perfect 5/7
+15:40:45 -!- Rawr|Fone [~AndChat25@84-217-62-32.customers.ownit.se] has joined #tlponies
+15:41:33 <Rawr|Fone> Almost time for Tee Eye 
+15:41:58 <reification> when is it actually time?
+15:42:17 <motbob> it's TIme
+15:42:25 <motbob> in 18 minutes
+15:43:05 <reification> ok i can fit in one anime beforehand
+15:43:47 <motbob> [hiryuu] kakegurui 04 came out
+15:44:02 <reification> also is there chance to see meepo, techies or spider?
+15:44:10 <reification> so not actually dropped then...
+15:44:30 <motbob> they were never serious about that...
+15:45:09 <motbob> they couldn't get this one released 'cause all the typesetters are working on Your Name LUL
+15:46:26 <motbob> no one else copied my #nextlevel strat of getting 95% of the work done on Your Name before BD release
+15:47:17 <reification> it’s like critical path analysis is good for getting things done fast :D
+15:47:36 <motbob> time to boot up google
+15:49:53 <Rawr|Fone> Meepo might be played be digital chaos
+15:50:17 <Rawr|Fone> Techies no
+15:50:22 <Rawr|Fone> Brood probably
+15:50:38 <reification> ty rawr <3
+15:50:51 <motbob> idk if techies is even in captain's mode
+15:51:02 <Rawr|Fone> I don't think he is
+15:51:04 <motbob> captains mode*
+15:51:15 <reification> wow such discrimination :(
+15:51:21 <motbob> Unavailable heroes: Techies
+15:51:33 <motbob> techies literally the only hero that can't be picked
+16:00:32 <Runbunny> Dot`, Rawr|Fone http://i.imgur.com/lHNqS0Y.mp4
+16:01:26 <Rawr|Fone> Thanks runbun
+16:02:39 <motbob> WHERE IS TEE EYE
+16:04:31 <motbob> there is tee eye
+16:04:45 <Bio> TEE EYE WHEN
+16:04:45 <reification> oh is night stalker meta? that would be nice
+16:05:52 <Rawr|Fone> He is quite popular I think
+16:05:53 <motbob> ban column looking like f.lux at midnight
+16:11:55 <Dot`> i home
+16:12:52 <Rawr|Fone> Dot dot
+16:13:36 <Dot`> Rawr rawrrawr
+16:13:38 <Dot`> <3
+16:13:40 <Rawr|Fone> <3
+16:16:49 <ZK> lol, preparing the campaign, you guys ready for 4 challenge 8 adversaries?
+16:16:53 <ZK> cause umm
+16:17:18 <ZK> .roll d20 to boop Dot`
+16:17:30 <Phearlock> Yes
+16:17:33 <Phearlock> not ready to beat them
+16:18:16 <ZK> yea, i might weaken these dudes
+16:18:51 <Dot`> .roll d20 to boop zk
+16:18:56 <Dot`> how long till dnd?
+16:18:58 <ZK> well, lets hope you guys talk
+16:19:04 <Phearlock> replace them with like
+16:19:04 <ZK> cause fighting will get you killed
+16:19:06 <Phearlock> 3 kittens
+16:19:09 <ZK> :D
+16:19:11 <Phearlock> that need hugs
+16:19:13 <Phearlock> and pets
+16:19:23 <ZK> we are starting in like 1 dub
+16:20:04 <Dot`> when is dub? was it like an hour from now
+16:20:36 <reification> a whole dub? i hope it doesn’t nap…
+16:20:55 <Dot`> it is in a dubs nature to nap
+16:21:37 <Dot`> just pls give time till we expect dub, brain is tired
+16:21:48 <Dot`> i cant recall if its 5:30 my time or 6:30
+16:22:10 <Phearlock> like 1 hour from now
+16:22:15 <Dot`> cool, ty
+16:24:17 -!- reification [~reificati@cpc76294-cosh16-2-0-cust297.6-1.cable.virginm.net] has left #tlponies
+16:24:53 <Dot`> i was just typing a mesage to him!
+16:24:55 <Dot`> rude
+16:25:07 -!- reification [~reificati@cpc76294-cosh16-2-0-cust297.6-1.cable.virginm.net] has joined #tlponies
+16:25:08 -!- mode/#tlponies [+v reification] by Q
+16:25:12 <Dot`> reif pls
+16:25:45 <reification> i close wrong window :/
+16:26:23 <Dot`> reif, you see PUBG in first person
+16:26:26 <Dot`> very weird
+16:26:38 <Dot`> going to be good tomorow when patch releases
+16:26:50 <ZK> you guys play pubg? is it fun?
+16:27:16 <Dot`> well i have played since it was an early arma 3 mod
+16:27:19 <Dot`> i really like it
+16:27:32 <ZK> okiedoke
+16:27:37 <Bio> shoot shoot bang
+16:30:33 <reification> i play it very badly zk
+16:31:00 <ZK> i would too!
+16:38:20 <reification> it will be a very different game dot
+16:38:21 <motbob> :rage: CHANGE TERRAIN :rage:
+16:39:03 <Phearlock> Theres something fishy about it
+16:39:18 <Phearlock> (I quite like the ocean terrain though)
+16:39:42 <reification> is pretty
+16:39:47 <Bio> phear MUH CLASSIC MAP REEEE
+16:40:17 <motbob> I JUST WANT TO BE ABLE TO WATCH DOTA
+16:43:24 <Bio> liquid is doing it?
+16:45:23 <reification> pls
+16:45:37 <reification> bio no jinx
+16:45:51 <Bio> oh rip
+16:46:07 -!- Micen [~micen@h112.230.130.174.dynamic.ip.windstream.net] has joined #tlponies
+16:46:14 <reification> hello micen
+16:46:32 <Micen> Hello
+16:46:41 <motbob> i wonder if valve will patch the "push lanes" meta
+16:46:45 <Dot`> hej micen
+16:47:28 <Micen> aah! i swear i  dont interact with the internet for a few days and things happen 
+16:47:46 <Micen> Now i need to crank out a bunch of ponies to catch up
+16:48:08 <Phearlock> hi Micen
+16:51:15 <Micen|Art> .choose catch up, work backwards
+16:51:17 <motbob> USA USA etc.
+16:51:23 <Dot`> gl micen
+16:51:43 <Bio> LOL
+16:51:52 <Bio> jumps in vs 5 COME AT ME BRO
+16:52:43 <motbob> G_G
+16:54:52 <motbob> EG is the first TEE EYE WINNER of 2017!
+16:55:22 <Bio> R     T      C      ?
+17:00:17 -!- DuB` [DuB@66-219-212-247.dynamic.ip.veracitynetworks.com] has joined #tlponies
+17:01:08 <reification> liquid
+17:01:54 <Dot`> DUB~
+17:01:57 <Dot`> <3
+17:02:47 <motbob> no friends FeelsBadMan
+17:03:40 -!- Camail [~Camail@45.40.84.145] has joined #tlponies
+17:03:40 -!- mode/#tlponies [+v Camail] by Q
+17:04:13 <Dot`> butt
+17:04:18 <DuB`> hi pon
+17:04:21 <DuB`> got kinda sick pon
+17:04:22 <DuB`> bleh
+17:04:28 <reification> dub pls
+17:04:45 <Camail> dub y u always sick on dnd day
+17:05:06 <reification> .roll d20 for dub to get better
+17:05:11 <Phearlock> u hanging in there dub?
+17:05:22 <Camail> also dub she's streaming https://www.twitch.tv/zzamtiger0310
+17:05:29 <Phearlock> Put on like 3 scarf
+17:05:50 <DuB`> Ye
+17:06:18 <DuB`> Reif pls wat is this viedo.
+17:09:08 <DuB`> Dot` are your headaches contagious? >:T
+17:09:29 <Dot`> probably
+17:09:37 <Dot`> take drugs and be ready to dnd
+17:10:20 <reification> it’s science dub
+17:10:32 <DuB`> It is long.
+17:10:42 <reification> you only need to watch liek 20 seconds dub
+17:10:47 <DuB`> wah
+17:10:50 <reification> not all of it
+17:11:23 <reification> so i can be properly jealous of your skin
+17:12:16 <Micen|Strean> ?micenstream
+17:12:28 <DuB`> My skin is pretty okay.
+17:12:43 <Bio> dub pls
+17:12:48 <BioSkol> asdf
+17:13:01 <reification> also you study accounting so it should be shorter and far more interesting than your lectures
+17:13:12 <DuB`> Rood
+17:14:20 <reification> not rude
+17:14:34 <reification> if your accounting lectures are more interesting i legit want to see them
+17:14:37 <DuB`> Debits and credits are GREAT.
+17:16:16 <Camail> I'mma go get food
+17:16:19 <Camail> we starting soon?
+17:17:10 <BioSkol> have fun playing the games
+17:18:14 <Dot`> i believe so cam
+17:26:29 <motbob> it took one game for me to get used to the terrain
+17:27:20 <Dot`> bio, i have pizza
+17:27:41 <ZK> oh dub is there :o
+17:27:44 <ZK> dub go eat
+17:28:11 <DuB`> I will try
+17:28:47 <Dot`> dub click accept
+17:29:35 <ZK> level 8 challenge not too hard, right?
+17:29:39 <ZK> theres only 4 of them
+17:30:07 <DoT`> we will send dub in first, he doesnt take damage
+17:30:54 <ZK> it might be a one shot kill
+17:30:56 <DuB`> pls
+17:31:05 <DuB`> I literally got oneshot by lightning thing last time.
+17:31:52 <DoT`> need to science it dub
+17:32:01 <DoT`> cant only have 1 refrance point
+17:33:09 <Camail> dub eat ur face
+17:36:54 <Camail> did he die
+17:37:45 <ZK> i was preparing dnd last night, but then found a webcomic i really liked
+17:37:49 <DoT`> maybe he ate his face
+17:37:52 <ZK> so ended up reading till 3 am
+17:37:56 <ZK> that was not good for dnd prep
+17:41:03 <reification> .roll d20 to bap zk
+17:49:32 <DoT`> how was art micen
+17:52:49 <motbob> G_G :(
+18:00:48 <Rawr|Fone> Time for og
+18:00:52 <Rawr|Fone> Woop woop
+18:18:30 <DoT`> bio
+18:18:31 <DuB`> TLP DnD: We buy and slaughter animals 
+18:18:44 <DoT`> http://bobdude0.tumblr.com/post/163715834568/a-proud-horse-family-portrait
+18:19:22 <DoT`> http://imalou.deviantart.com/art/Happy-luna-696364884
+18:19:41 <DoT`> http://www.deviantart.com/art/Evening-moon-696377073
+18:41:24 <DoT`> Phearlock http://amarynceus.deviantart.com/art/Bookbirb-696176576
+18:43:22 <CockRoach|42> awww
+18:43:44 <CockRoach|42> stretchy hors! https://amarynceus.deviantart.com/art/Daily-Doodle-428-694054125
+18:56:54 <Micen> Art hurt dot. too much pain to art, much less stream
+18:57:35 <DoT`> time to learn to do 10 second sketches
+18:58:29 <Micen> 13 days until I go speak with the neurosurgeon. 
+18:58:52 <DuB`> Get better pls <3
+19:00:12 <Micen> but I have a good one, he worked on my sisters back  and trained under one of the top neurosurgeons in the region. 
+19:02:10 <Micen> time to watch anime. 
+19:02:35 <Micen> oh Dub! have you seen Spice and Wolf?
+19:02:40 <DuB`> Naw
+19:02:53 <Micen> its economics and wolfgirl. 
+19:02:59 <Micen> mostly economics. 
+19:03:03 <DuB`> Needs more accounting.
+19:03:23 <Micen> there is some of that. You should watch. I do recommend
+19:06:46 <reification> micen if you like spice and wolf you may want to try world end economica (visual novel) by same author
+19:07:03 -!- Micen|droid [~AndChat48@h112.230.130.174.dynamic.ip.windstream.net] has joined #tlponies
+19:07:28 <reification> is more sci-fi and econ than fantasy and econ
+19:07:44 <reification> haven’t finished last part tho so it could all go wrong
+19:07:48 <Micen|droid> Ohh
+19:08:55 <Micen|droid> Havent done a VN since I pirated an english translation of Clannand before the official one
+19:10:30 <reification> i used to be big key fanatic but no more i’m afraid :/
+19:11:52 <Runbunny> Dub is the worst.
+19:11:58 <DuB`> ???
+19:12:18 <Runbunny> No spice and wolf, no monogatari, no golden boy.
+19:12:27 <DuB`> :P
+19:12:44 <Runbunny> No xxxholic.
+19:12:50 <DuB`> Sounds lewd.
+19:13:46 <Runbunny> It's not, not even close.
+19:14:04 <reification> have you read xxxholic novel by nisioisin runbun?
+19:14:05 <DuB`> Well the title sounds naughty.
+19:14:14 <reification> if not you should
+19:14:32 <Runbunny> DuB`, https://www.youtube.com/watch?v=O7tO4TDlwRE
+19:14:42 <reification> given you like monogatari
+19:14:49 <Runbunny> I haven't.
+19:15:16 <Runbunny> It was the tsubasa resevoir chronicle one right?
+19:15:31 <reification> ???
+19:16:05 <Runbunny> nevermind
+19:16:14 <Runbunny> I confused myself.
+19:16:16 <reification> that’s a whole different clamp series bun
+19:16:49 <Runbunny> Why are you turned this on me Reif? We're not done being disgruntled with Dub!
+19:16:57 <Runbunny> turning*
+19:17:14 <reification> i expect more from you than dub :p
+19:17:19 <Runbunny> :O
+19:17:27 <Runbunny> Are you just going to take that Dub?
+19:17:50 <reification> also dub read unsong so he gets a lot of credit for that
+19:19:04 <reification> i bet you still have nekos to para and all!
+19:20:00 <Runbunny> Dang.
+19:21:11 <reification> yeah no time for thesis when there’s important stuff to do
+19:21:24 <DuB`> Para neko wat
+19:21:33 <Runbunny> Oh Dub.
+19:21:40 <Runbunny> You're so young and innocent.
+19:21:45 <Runbunny> Then you went to Japan.
+19:21:50 <Runbunny> So please get to work.
+19:22:35 <reification> azuki a best
+19:24:11 <Runbunny> Sasuga Reif. go for the loli. http://i.imgur.com/pqsJryU.png
+19:24:28 -!- Micen|droid [~AndChat48@h112.230.130.174.dynamic.ip.windstream.net] has joined #tlponies
+19:24:29 <reification> she’s the oldest…
+19:25:01 <reification> don’t be racist against small chests runbun D:
+19:25:26 <Micen> phone wasnt getting irc messages.  
+19:25:26 <DuB`> >_>
+19:25:40 <Micen> Clamp is great. Chobits was a good read and watch
+19:27:11 <reification> ccs is best classic magical girl anime and angelic layer is underrated
+19:27:58 <Runbunny> oh but Reif. Loli status has nothing to do with age.
+19:28:44 <Camail> oh god
+19:28:55 <Runbunny> They clearly only made her the oldest since she barely looks old enough.
+19:28:56 <reification> banned in australia
+19:29:06 <Runbunny> Hai Camail.
+19:29:27 <Micen|droid> Angelic layer was good too
+19:30:04 <Camail> and the 200 year vampire lolis are totally meant to be adults, pure intentions
+19:31:15 <Runbunny> Reif Azuki reminds me of this loli from Saki http://pm1.narvii.com/6130/81a65c7decec214f5b60a1da1fa2276f39a9c78a_hq.jpg
+19:31:23 <Runbunny> Just with less taco.
+19:31:42 <reification> well you just lost bio’s interest
+19:33:09 <reification> also mahjong is for pointy noses and high stakes not yuri D:
+19:34:29 <Runbunny> Clearly Mahjong is all about yuri and not wearing pants.
+19:34:53 <DuB`> ???
+19:48:49 <Runbunny> Dub you should watch saki.
+19:48:58 <Runbunny> So that you can learn how to Mahjong.
+19:49:05 <DuB`> I should watch lots of things.
+19:52:32 -!- Yolteotl [webchat@243.77.126.78.rev.sfr.net] has joined #tlponies
+19:55:00 <DoT`> hey yolt
+19:56:47 <reification> it’s a yolo <3
+20:00:44 <Yolteotl> it's me
+20:00:46 <Yolteotl> :)
+20:00:51 <Yolteotl> How are you pones?
+20:06:46 <DoT`> good
+20:06:48 <DoT`> you?
+20:07:33 <Yolteotl> I'm okaish
+20:08:00 <Yolteotl> rode 40km today
+20:09:43 <reification> very healthy
+20:10:17 <reification> i’ve been fasting today and yesterday so i would not be able to do that now
+20:16:23 <DoT`> http://sea-maas.deviantart.com/art/Dash-696363704
+20:16:30 <Yolteotl> yes sure :p
+20:16:41 <Yolteotl> I also did 7km jogging yesterday
+20:17:49 <reification> good, don’t do much more than that
+20:18:01 <reification> long distance running isn’t good for you
+20:20:05 <Yolteotl> it's my normal distance :p
+20:24:21 <DoT`> is france flat
+20:28:46 <BioSkol> neigh
+20:28:47 <Runbunny> Camail, I am pretty sad
+20:28:54 <Camail> y roon
+20:28:57 <Yolteotl> where I'm living yes Dotr
+20:29:27 <Camail> bio done with finals yet
+20:29:28 <Runbunny> We just matched against 3 global elites, with a team of 3 LE 1 DMG and 1 master guardian elite.
+20:29:49 <Runbunny> Lost very hard -> derank.
+20:30:57 <Camail> rip
+20:31:14 <Bio> friday
+20:31:16 <Bio> cam
+20:31:41 <Bio> only the one
+20:39:09 -!- Micen|droid [~AndChat48@h112.230.130.174.dynamic.ip.windstream.net] has joined #tlponies
+20:50:02 <Bio> asdf
+20:50:36 <DoT`> BIO
+20:51:04 <Bio> DOT
+20:51:40 <DoT`> hows you
+20:51:44 <Bio> gud
+20:51:47 <Bio> stress
+20:52:09 <Bio> i'm at about 70 stress. Need a stress heal before I become afflicted
+20:55:24 <DuB`> Would pons help?
+20:57:37 <Bio> http://thegamebolt.com/wp-content/uploads/2016/06/491px-Stalwart_Man-at-arms.png
+21:08:27 <skram> I accidentally a sleep
+21:08:30 <skram> hallo pons
+21:08:38 <DuB`> I do that 2
+21:08:41 <DuB`> Hallo skrm
+21:09:54 <DoT`> Bio
+21:09:56 <DoT`> http://ncmares.deviantart.com/art/NATG-2017-In-Motion-695847488
+21:09:58 <DoT`> is pony
+21:10:03 <DoT`> Jonas
+21:10:07 <skram> Bjærn
+21:10:14 <DoT`> hows oyu
+21:10:47 <skram> Pretty good I guess
+21:10:50 <skram> How you been mr dot
+21:11:14 <Bio> Adversities can foster hope, and resilience
+21:11:36 <DoT`> im doing ok, playing DnD
+21:11:48 <Bio> are u win
+21:11:59 <skram> are u a ded yet
+21:12:17 <DoT`> cam is buying spells
+21:12:26 <DoT`> i am there incase he tried to die
+21:12:33 <motbob> PERUVIANS TRAIN ON NA SERVERS LUL
+21:25:14 <Bio> remove china
+21:33:13 <Bio> eg so stronk
+21:33:56 -!- tredc [webchat@90-230-30-217-no56.tbcn.telia.com] has joined #tlponies
+21:39:04 <motbob> lots of little production problems at TI
+21:39:18 <motbob> casters out of sync, mics with distortion on some channels
+21:41:56 <Runbunny> How would you rate it on a scale of 1 to NASL sound guy?
+21:43:29 <motbob> i am at 3/10 triggered level
+21:44:00 <motbob> but even then only because valve has hired good producers in the past
+21:44:32 <motbob> so my standards are higher
+21:45:07 <motbob> actually, maybe in-game will be a better experience
+21:53:49 <DuB`> DOT KICKED ME FROM DISCORD SERVER
+21:53:50 <DuB`> ROOD
+21:53:58 <DoT`> uhm
+21:53:59 <Camail> and removed mod status
+21:54:00 <DoT`> woops
+21:54:03 <DoT`> https://discord.gg/djtf36
+21:54:03 <Phearlock> Go nap
+21:54:05 <DoT`> here dub
+21:54:50 <DoT`> dub pls
+21:54:57 <DoT`> it was partialy mistake
+21:57:05 <DuB`> You don't have to be like fodel.
+21:57:10 <DuB`> Control those impulses.
+21:57:33 <DoT`> i only want whats best for you Dub
+21:57:51 <DuB`> It's so late now, dunno if I should nap :(
+21:57:51 <DoT`> did you rejoin? do you need mod powers again?
+21:57:57 <DuB`> Bedtime in 3 hours...
+21:57:59 <DuB`> I do, dot.
+21:58:30 <DoT`> i dont see you online on discord
+21:58:43 <DuB`> Ah, in offline list.
+21:58:51 <DuB`> Set to Invisible for some reason, I forget
+22:04:34 <DoT`> drink more water dub
+22:05:06 <DuB`> Can you not give me powers while I show as offline?
+22:05:11 <DuB`> Or just not bothering. :P
+22:06:52 <DoT`> you dont even show as in the svr
+22:06:54 -!- skram [~skram@ip-236-146-106-77.eidsiva.net] has joined #tlponies
+22:07:06 <DuB`> Not even down in "offline"?
+22:07:20 <DoT`> no
+22:07:36 <DuB`> Now?
+22:07:54 <DuB`> Also I don't see dnd channel.
+22:08:28 <DoT`> i am restarting discord
+22:08:59 <reification> i see dub
+22:09:07 <DoT`> i gave you power
+22:09:15 <DoT`> yea, i see him after my restart
+22:09:31 <reification> anyway g’night all
+22:09:38 <reification> i sleep early
+22:09:38 <DoT`> gnight reif!
+22:09:38 <DuB`> G'night reef!
+22:10:22 <ZK> gnite reef
+22:11:04 <ZK> well, did none of the encounter i planned, less to plan next time!
+22:11:04 <ZK> woo
+22:11:15 <DuB`> SHOPPING
+22:11:17 <DuB`> ROLEPLAY
+22:11:19 <DuB`> Yey
+22:11:24 <Phearlock> vandalism
+22:11:24 <ZK> i like these sessions
+22:11:25 <DoT`> lol
+22:11:32 <ZK> if they were all like this, no planning to do at all :D
+22:11:43 <DuB`> Shop-smashing!
+22:11:57 <ZK> i just need to find a list of biblical names for all the random npcs
+22:12:02 <DuB`> ...
+22:12:03 <DoT`> we didnt fight those level 8 people
+22:12:18 <ZK> not level 8
+22:12:20 <ZK> challenge 8
+22:12:48 <DoT`> yea, that
+22:13:02 <DuB`> Tarrasque gg ez
+22:13:05 <DuB`> We can take 'em.
+22:13:45 <DoT`> we sure got the better of that shop guy though
+22:13:51 <DoT`> i bet he was a high cr
+22:14:25 <CockRoach|42> i am not high :|
+22:14:44 <DuB`> Hopefully repairing his glassdoolask8 dool8275 dool2255 dool1313 dool dookyd dookybooty dookoo dooknuke dookies3 dookieman dookielias dookiehead dookieface dookiedo dookiebutt dookieball dookie99 dookie94 dookie85 dookie82 dookie66 dookie4u dookie45 dookie28 dookie22 dookie1994 dookie187 dookie17 dookie16 dookie14 dookie13 dookie1234 dookie101 dookie02 dookfish dookey05 dooker2 dookay dooka03 dook3y doojie dooie doohoj doohicky dooher doohamlet doogyrev doogster doogs1 doogs doogruht doogrow69 doogol doogle2 doogle1234 doogle123 doogiialoha doogiemd doogie93 doogie88 doogie7 doogie69 doogie50 doogie3884 doogie27 doogie24 doogie18 doogie15 doogie* dooggie doogers dooge doogdog doogas dooga1 doog doofys doofybob! doofy81 doofy7 doofus2 doofus12 doofus11 doofus1! doofs doofis doofer151 doofer doofenuss doofdoof22 doofal21 doof5004 doof doodzy doodz8 doodz1 doodybutt doody69 doody666 doody6 doody555 doody35 doody1316 doody12 doodsky doods7 doods1 doodoohole doodooface doodooboy doodoo9 doodoo89 doodoo82 doodoo55 doodoo33 doodoo22 doodoo17 doodoo123@ doodoo123 doodoo09 doodoo08 doodoo05 doodoo02 doodoo! doodog2002 doodls doodlove doodlez1 doodley123 doodlesa

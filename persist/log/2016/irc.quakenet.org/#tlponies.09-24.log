@@ -1,0 +1,641 @@
+00:02:56 <skram> calm down
+00:05:38 <Camail> no
+00:05:40 <Camail> its dumb
+00:05:49 <skram> well yeah
+00:05:52 <skram> twitch sucks
+00:06:11 <Camail> i wish there was a real alternative
+00:07:24 <Camail> isnt it funny tho
+00:07:31 <Camail> how there greatest achievement was an accident
+00:07:34 <Camail> their*
+00:07:43 <skram> whats their greatest achievement
+00:07:50 <Camail> channel emotes were supposed to never be globally usable
+00:08:00 <skram> i did not know that
+00:08:09 <Camail> it was an accident that they worked everywhere
+00:08:26 <Camail> and everyone loved it so they kept it in
+00:08:48 <Camail> and now emotes are their #1 monetization asset
+00:08:56 <Camail> that and streamers whoring themselves out for subs
+00:09:40 <Camail> also they rely on 3rd party devs to make the tools people want
+00:09:48 <Camail> like BTTV, FFZ, and oddshot
+00:10:00 <Camail> oh and paypal donations
+00:10:21 <Camail> twitch has basically just taken safe risks after the community built the tools they wanted
+00:10:42 <skram> well they dont have any competition
+00:10:43 <Camail> great for them, but its annoying
+00:10:43 <skram> at all
+00:11:05 <Camail> there have been a handful of attempts
+00:11:18 <Camail> but twitch has the userbase and the system in place to make streaming a viable living
+00:11:30 <Camail> which is the only thing they've done wellt hat wasn't someone elses idea
+00:11:38 <Camail> which is actualy the biggest thing
+00:11:40 <skram> fair enough
+00:12:13 <Camail> they changed their encoding and added 20 more seconds to delay to allow for 20k+ viewers at all times
+00:14:20 <Camail> and in the end i actually dont mind all the stuff they've done, but for the love of fuck don't start fucking with emotes
+00:14:25 <Camail> also bits are shit
+00:14:42 <Camail> bits are borderline unethical
+00:14:47 <Camail> because they encourage whales
+00:15:54 <skram> wat
+00:16:23 <Camail> whales are gonna donate large sums anyway, so they cant prevent streamers from subsisting on whale income
+00:16:25 <Camail> but
+00:16:41 <skram> i dont know what you are talking about
+00:16:43 <skram> bits? whales?
+00:16:45 <Camail> bits give chat badges for large sums of money, up to 1k USD
+00:16:49 <Camail> bits, twitch bits
+00:16:51 <Camail> the donating system
+00:16:56 <Camail> whales = donators who give a lot of money
+00:17:03 <Camail> its a term most heavily used in the mobile gaming industry
+00:17:13 <skram> i am learning so much
+00:17:15 <Camail> they account for most of the money made from mobile games
+00:17:18 <Camail> and its the same in twitch
+00:17:22 <Camail> catties was a whale
+00:17:44 <skram> catties had too much money and a drinking problem
+00:17:51 <Camail> its unstable, unsatisfied, or insecure people with HIGH disposable income that give a lot of money to a game or a person
+00:18:00 <Camail> or normal people with gamlbing problems
+00:19:01 <Camail> bits are designed to reward big donations with badges that the entire world can see
+00:19:05 <Camail> and twitch takes a HUGE cut
+00:19:41 <Camail> 29% at the highest, and somehwere between 10-20 at the lowest (looking exact number up now)
+00:20:00 <Camail> so twitch is siphoning off money from the whales and encouraging their spending habits to pad their profits
+00:20:09 <Camail> which is actually not good?
+00:20:14 <Camail> I dont think its good
+00:20:46 <skram> well ethical quandries aside its a good way for twitch to make money
+00:21:00 <skram> which is their highest priority
+00:21:28 <Camail> yea and thats the same goal for the bitch who upped the epipen price
+00:21:35 <Camail> yet here we are roasting her on a pike
+00:21:56 <Camail> 13.6% is the lowest fee for bits
+00:22:05 <Camail> paypal takes what, 2%? 3?
+00:22:41 <skram> weeell i think jacking the price up by like 200% or whatever the fuck on lifesaving medicine is a teensy bit more importanter than twitch bits
+00:22:42 <skram> no idea
+00:23:02 <Camail> of course its more important
+00:23:08 <Camail> but ethics is important in business
+00:23:48 <Camail> and we should hold companies accountable
+00:24:44 <Camail> enabling people to spend money irresponsibly is serious, it might not be life threatening but it is on the list of serious things that usually make people go to jail if you do it too much
+00:25:07 <Camail> they aren't being unlawful, but they are being unethical
+00:35:06 -!- DoT|Phone [~Dot@85.255.236.241] has joined #tlponies
+00:36:03 <Dot`> cam, a ping for games sounds nice, easier than having to type out a list everytime
+00:36:24 <Dot`> Dub is playing CS?
+00:36:39 <Camail> i was thinking of 3 commaned .stack .unstack and .ping
+00:36:42 <Camail> maybe .who
+00:37:01 <Camail> DMing, none the less
+00:37:04 <Camail> maybe its his brother
+00:37:11 <Camail> or maybe he realized overwatch is a joke
+00:37:33 <Dot`> thats why we play it isnt it?
+00:38:05 <Camail> yes
+00:38:10 <Dot`> could you make it game specific? the .stack
+00:38:20 <Dot`> like .stack OW (names)
+00:38:29 -!- DoT|Phone1 [~Dot@90.207.46.233] has joined #tlponies
+00:38:35 <Camail> the problem with that is variations on the game name
+00:39:07 -!- DoT|Phone3 [~Dot@85.255.234.92] has joined #tlponies
+00:39:13 <Camail> I'd need to make a column for the game name which would have to be a perfect match
+00:40:08 <Camail> hmmm
+00:40:23 <Camail> maybe i can have .ping return a list of the current games with a stack queue
+00:40:34 -!- DoT|Phone1 [~Dot@90.207.46.233] has joined #tlponies
+00:40:36 <Camail> then make .ping <game> do the normal thing
+00:57:26 <Dot`> rawr rawr
+00:57:50 <Dot`> skram
+00:58:04 <Dot`> http://www.bbc.co.uk/news/science-environment-37450952
+00:59:31 <Dot`> http://paperdrop.deviantart.com/art/Good-Morning-colored-523386766
+00:59:36 <Dot`> http://earthsong9405.deviantart.com/art/MLP-Monster-AU-636106198
+01:00:20 -!- Micen_ [~micen@h179.11.188.173.dynamic.ip.windstream.net] has joined #tlponies
+01:03:58 <Camail> lol tat article...I'm not gonna say a horse has an opinion
+01:04:04 <Dot`> haha
+01:04:08 <Camail> that sounds like a scientist getting ready to make a grant proposal
+01:07:35 <Dot`> Matt collville has really slowed down with making vidoes
+01:08:23 <Dot`> .tell skram https://www.reddit.com/r/ImaginaryDwarves
+01:23:05 <Rawr|Fone> Dot dot
+01:30:09 <Rawr|Fone> Beep beep
+01:30:15 <Rawr|Fone> Pon
+01:30:25 <Rawr|Fone> Pon pon
+01:36:15 <Dot`> <3
+01:49:49 <Rawr|Fone> Dot
+01:52:54 <Rawr|Fone> Tvek
+01:57:02 <Bio> BEEP BOOP
+01:57:07 <Bio> yelling even
+01:58:41 <Rawr|Fone> No yelling
+01:58:55 <Rawr|Fone> Quiet pls
+02:02:45 -!- Wikt [~Wikt@213.108.153.51] has joined #tlponies
+02:02:45 -!- mode/#tlponies [+o Wikt] by Q
+02:11:40 -!- Wikt_ [~Wikt@213.108.153.51] has joined #tlponies
+02:11:40 -!- mode/#tlponies [+o Wikt_] by Q
+02:21:24 <Rawr|Fone> Hello0
+02:24:01 <Bio> hi
+02:44:24 -!- Camail [~Camail@45.40.93.200] has joined #tlponies
+02:44:24 -!- mode/#tlponies [+v Camail] by Q
+02:48:59 <Camail> fucking overwatch doesnt want to patch
+03:05:21 -!- Wikt [~Wikt@213.108.153.51] has joined #tlponies
+03:05:21 -!- mode/#tlponies [+o Wikt] by Q
+04:40:26 <Camail> LOL
+04:40:27 <Camail> ok
+04:40:30 <Camail> story time
+04:40:37 <Camail> so capcom sucks and is dumb
+04:40:38 <Bio> listening
+04:40:56 <Camail> They updated sf5 with a security patch to stop some hacks/abuse
+04:41:03 <Camail> their method was installing an unsigned driver
+04:41:21 <Camail> it disabled the windows security system, rane all its code, then renabled
+04:41:40 <Camail> with no checks to see if the code was tampered
+04:42:08 <Camail> basically making thousands of people's computers REALLY vulnerable to attacks for a day
+04:42:17 <Camail> they took out the driver earlier today
+04:42:39 <Camail> they have NO idea how to code for PCs
+04:42:48 <Camail> japan is so shit at developing for computers
+04:42:50 <Camail> its amazing
+04:43:45 <Camail> thats just...the fucking put A DRIVE IN SYSTEM32
+04:43:51 <Camail> the fuck capcom, you cant fucking do that
+04:43:58 <Camail> you fucking...thats wrong
+04:47:08 <Camail> cuz i totally want my games to have kernel access
+04:48:32 <Cane> Yeah I saw that. It's fucking ridiculous.
+05:08:02 <motbob> this is what happens when the only major games your country makes for a platform are pornographic visual novels
+05:18:29 -!- motbob_ [~motbob@x-131-212-248-66.uofm-secure.wireless.umn.edu] has joined #tlponies
+05:34:23 -!- DoT|Phone [~Dot@90.207.46.233] has joined #tlponies
+05:54:16 -!- Micen_ [~micen@h179.11.188.173.dynamic.ip.windstream.net] has joined #tlponies
+06:03:35 <Micen_> http://i.4cdn.org/mlp/1474696760897.png
+06:43:56 <Rawr|Fone> Beep beep
+06:44:10 <Micen|Kindle_> Hihi
+07:02:37 <Rawr|Fone> Hello micen
+07:11:16 -!- Golly [~Golly@1.92-221-121.customer.lyse.net] has joined #tlponies
+07:37:31 <Micen|Kindle_> Cleaning sucks :/
+07:42:42 <Rawr|Fone> Yes
+07:50:19 <motbob> pinkiepieswear produced an album that I didn't know about
+07:50:20 <motbob> https://kitty.bandcamp.com/track/last-minute
+07:50:43 <motbob> or, more accurately, I knew about it but I didn't know it was him (also it's non-pony but still good)
+08:07:01 -!- Micen|Droid [~AndChat20@h179.11.188.173.dynamic.ip.windstream.net] has joined #tlponies
+08:23:23 <Dot`> Morning
+08:23:33 <Golly> hey dot
+08:23:50 <CockRoach|42> morning
+08:23:52 <CockRoach|42> .when
+08:24:15 <Rawr|Fone> Dot dot dot
+08:25:30 <Dot`> Rawr rawr rawr
+08:25:31 <Dot`> <3
+08:25:39 <Rawr|Fone> <3
+08:30:37 <Dot`> hows you rawr
+08:31:05 <Rawr|Fone> I'm feeling great actually
+08:31:13 <Rawr|Fone> How are you dot
+08:31:13 <Dot`> good
+08:31:21 <Dot`> im waking up
+08:32:00 <Rawr|Fone> Do you have coffee?
+08:32:05 <Dot`> yes
+08:33:16 <Rawr|Fone> Good
+08:35:11 <Dot`> .tell runbunny http://imgur.com/gallery/ANY4W
+08:40:43 <Rawr|Fone> .tell Dot` beep beep
+08:40:56 <Rawr|Fone> Why are you up so early dot
+09:03:14 <Dot`> dot is up early because he's going hiking with me :D
+09:09:05 <Rawr|Fone> What a hors
+09:14:48 <Dot`> later pons <3
+09:17:18 -!- DoT|Phone1 [~Dot@85.255.236.244] has joined #tlponies
+09:20:44 -!- tredc [webchat@90-230-30-217-no56.tbcn.telia.com] has joined #tlponies
+09:26:35 -!- DoT|Phone [~Dot@85.255.236.244] has joined #tlponies
+09:34:47 -!- DoT|Phone [~Dot@85.255.236.244] has joined #tlponies
+09:41:09 -!- skram [~skram@ip-217-146-106-77.eidsiva.net] has joined #tlponies
+09:41:09 -!- mode/#tlponies [+v skram] by Q
+10:00:26 <Rawr|Fone> Skram
+10:01:28 <skram> Rawr
+10:01:34 -!- DoT|Phone [~Dot@85.255.236.244] has joined #tlponies
+10:01:47 <Rawr|Fone> God morgon gubben
+10:02:37 <skram> God morgen sussebassen
+10:03:34 <Rawr|Fone> .tell skram <3
+10:03:44 <skram> <3
+10:33:59 <DoT|Phone> Reif and I are hiking
+10:34:26 <skram> with tents and campfires and romance under the stars?
+10:36:25 <Micen|Droid> Hi dot and reif! 
+10:52:02 <Micen|Kindle_> .when
+10:52:25 <Micen|Kindle_> Pandora reminded me in the best way it's pony day. 
+10:52:42 <Micen|Kindle_> DoT|Phone:  it was with Good Time. 
+11:15:19 <Rawr|Fone> 🐴🐴🐴
+11:24:55 <DoT|Phone> pon pon
+11:33:26 -!- DoT|Phone [~Dot@148.252.128.10] has joined #tlponies
+11:40:43 -!- DoT|Phone1 [~Dot@148.252.128.10] has joined #tlponies
+11:41:37 -!- DoT|Phone2 [~Dot@148.252.128.10] has joined #tlponies
+11:43:47 -!- DoT|Phone [~Dot@148.252.128.10] has joined #tlponies
+11:49:18 -!- DoT|Phone1 [~Dot@148.252.128.10] has joined #tlponies
+12:08:06 -!- DoT|Phone [~Dot@148.252.128.10] has joined #tlponies
+12:09:01 <Rawr|Fone> Pon
+12:18:05 -!- DoT|Phone1 [~Dot@148.252.128.10] has joined #tlponies
+12:25:20 <motbob> we're really seeing a battle for supremacy here
+12:25:28 <motbob> which phone will come out on top
+12:34:07 -!- DoT|Phone [~Dot@148.252.128.10] has joined #tlponies
+12:34:41 <Micen|Droid> Dot pls
+12:49:48 -!- DoT|Phone [~Dot@148.252.128.10] has joined #tlponies
+13:25:21 -!- DoT|Phone1 [~Dot@148.252.128.10] has joined #tlponies
+13:39:47 <DoT|Phone1> hike complete. and we are not dead
+13:40:19 <DoT|Phone1> sorry about phone. thought I turned irc off
+13:40:52 <CockRoach|42> you are quite phone
+13:42:51 -!- Emily [~HoMM@HoMM.users.quakenet.org] has joined #tlponies
+14:00:50 <Micen|Droid> Wow dot. 
+14:07:12 <Micen|Droid> .when
+14:13:01 -!- Micen_ [~micen@h179.11.188.173.dynamic.ip.windstream.net] has joined #tlponies
+14:20:26 -!- Dot` [~DoT@90.207.46.233] has joined #tlponies
+14:20:35 <Dot`> ponies <3
+14:20:47 <CockRoach|42> dot pon <3
+14:20:53 <Micen_> horses
+14:21:00 <CockRoach|42> pon pon
+14:51:25 <Rawr|Fone> 🐴🐴🐴
+15:07:10 <Dot`> Rawr|pon
+15:08:27 <Rawr|Fone> Dot|havremoppe
+15:12:51 <Dot`> rawr pls
+15:12:56 <Dot`> i am not oats moped
+15:13:45 <Rawr|Fone> It's a horse
+15:14:03 <Dot`> a famous hest?
+15:15:23 <Rawr|Fone> No, just another way of saying it
+15:19:01 <Dot`> are you sure?
+15:23:40 <Rawr|Fone> I'm very sure dot
+15:26:08 <Micen_> Soon!
+15:26:22 -!- Runbunny [~Runbunny@62.61.130.232.generic-hostname.arrownet.dk] has joined #tlponies
+15:26:26 <Runbunny> Hai.
+15:26:28 <Dot`> runbun
+15:26:37 <Micen_> Hello Runbunny
+15:26:52 <Rawr|Fone> Anders!
+15:26:52 <Rawr|Fone> Right on time
+15:28:45 <Runbunny> ?
+15:28:53 <Micen_> .when
+15:29:01 -!- Crisium [webchat@dhcp-pa-173-233-2-157.consolidated.net] has joined #tlponies
+15:29:10 <Micen_> Crisium, Horse time!
+15:29:10 <Crisium> pon
+15:31:03 <tredc> pony
+15:31:06 <Micen_> episode time!
+15:31:11 <Crisium> OP pons
+15:31:51 <Micen_> batpony glimglam confirmed
+15:33:25 <Runbunny> right on time for what?
+15:33:43 <Micen_> for being here! like a wizard. 
+15:33:48 <Runbunny> Right
+15:33:58 <Micen_> you are always on time and arrive exactly when you intend to.
+15:34:27 <Crisium> pon
+15:40:00 <Micen_> that was...
+15:40:05 <Micen_> that was a lazytown reference.
+15:40:09 <Crisium> yup
+15:40:42 <Micen_> i just watched https://www.youtube.com/watch?v=MdaOT72ieXs for the first time in awhile last night.
+15:40:51 <Crisium> a classic
+15:40:55 <Micen_> it truly is. 
+15:41:26 <Crisium> starlight is being evil again
+15:41:56 <Micen_> Glimglam gets her own lesson zero. 
+15:42:12 <Micen_> with Twi playing the role of Celestia coming in to clean up.
+15:42:13 -!- tredc [webchat@90-230-30-217-no56.tbcn.telia.com] has joined #tlponies
+15:44:56 <Crisium> eeeviiilll
+15:46:32 <Micen_> This is the opposite of evil. 
+15:49:08 <Crisium> omg
+15:49:25 <Crisium> fluttershy
+15:49:49 <Micen_> This episode is great
+15:55:08 <Micen_> that Twi face. 
+15:55:18 <Crisium> yea new animations here
+15:56:12 <Crisium> hangovers
+15:57:29 <Micen_> This doesn't feel like a real episode. 
+15:58:28 <Micen_> so many references.  this season is great
+15:59:28 <Micen_> a part of me wants it to go on forever, but another part is telling it to hurry up and finish so i can binge rewatch it all in a sitting. 
+16:00:03 <Crisium> Fluttershy is lord the bugs / 10
+16:00:37 <Crisium> also the name of the episode is a The Police reference
+16:00:45 <Micen_> It is!
+16:01:02 <Micen_> 10/10 would brainwash friends again. 
+16:01:26 <tredc> good episode
+16:01:30 <Crisium> THE HORROR https://derpiboo.ru/1257107
+16:01:40 <Dot`> will watch when i can
+16:01:50 <Micen_> Watch with Reif. 
+16:01:51 <Crisium> i like the rat just chilling on he head
+16:02:07 <Crisium> dot plz
+16:02:14 <Dot`> pls
+16:02:20 <Micen_> snela dot.
+16:02:43 <Crisium> lol https://derpiboo.ru/1257134
+16:03:01 <Micen_> thats the face i liked!
+16:03:09 <Crisium> reminds me of bugs bunny for some reason
+16:03:18 <Micen_> its very Chuck Jones. 
+16:03:41 <Crisium> lol i missed this one https://derpiboo.ru/1257080
+16:03:59 <Crisium> oh right when she blew it out like it was a candle
+16:04:00 <Micen_> so did i
+16:04:07 <Crisium> but i didnt notice how goofy it looked
+16:05:29 <Micen_> .roll d20 for bed
+16:05:41 <Micen_> it hits. Good night. 
+16:05:50 -!- Micen_ [~micen@h179.11.188.173.dynamic.ip.windstream.net] has left #tlponies
+16:12:07 <Micen|Droid> Nnn
+16:13:38 <Crisium> nn
+16:20:30 <Runbunny> Dot`, Rawr|Fone http://i.imgur.com/TxQlRj7.jpg
+16:21:05 <Rawr|Fone> SO CUTE
+16:32:44 <Bio> ajksdlgfjsldjfkalsdjflasdf
+16:32:50 <Bio> ep
+16:32:52 <Bio> link
+16:32:52 <Bio> nao
+16:32:53 <Bio> pls
+16:33:32 <Bio> I will tide myself over with lawyer animoo later
+16:34:30 <Bio> HORSES
+16:43:41 -!- tredc [webchat@90-230-30-217-no56.tbcn.telia.com] has joined #tlponies
+16:44:25 <CockRoach|42> .ponyv + s06e21 http://www.dailymotion.com/video/x4ukzko
+16:46:30 <Bio> best
+16:48:30 <Rawr|Fone> Hest
+16:48:45 <CockRoach|42> phest me hest
+16:48:50 <Bio> best hest
+17:01:21 <Bio> STARLIGHT PLS
+17:13:11 <Bio> allllllllllllmost enough twilight in this ep
+17:13:13 <Bio> almost
+17:13:32 -!- Phearlock [~Phearlock@cm-84.211.141.30.getinternet.no] has joined #tlponies
+17:13:32 -!- mode/#tlponies [+v Phearlock] by Q
+17:13:39 <Bio> ferlok
+17:13:43 <Bio> there was horse!
+17:14:47 <Phearlock> Hello!
+17:14:57 <Phearlock> Yes I just started watching ep
+17:15:03 <Phearlock> Magical ponies
+17:16:16 <Phearlock> Starlight skimping on friendship?????
+17:17:15 <Bio> pone pls
+17:19:06 <Phearlock> Starlight plz
+17:21:09 <Phearlock> Starlight overwhelmed by friendship
+17:21:10 <Phearlock> poor pon
+17:21:10 <Bio> <+Bio> STARLIGHT PLS
+17:22:22 <Phearlock> Starlight what did you do now????
+17:23:35 <Bio> literal horses
+17:25:00 <Phearlock> HAHAHA flutters
+17:25:13 <Bio> they ran away dummy
+17:25:18 <Bio> duh
+17:25:44 <Phearlock> haha predator reference
+17:25:45 <Phearlock> nice
+17:27:00 <Bio> ponies say the darndest things
+17:27:09 <Phearlock> LOL FLUTTERS
+17:27:10 <Phearlock> hahahaha
+17:28:10 <Phearlock> The amount of failure in this episode
+17:28:12 <Phearlock> is amazing
+17:31:49 <Bio> someone said it was like stargles lesson zero
+17:32:09 <Bio> with twilight acting as celestia
+17:32:16 <Phearlock> Haha yeah
+17:32:21 <Phearlock> And I loved lesson zero
+17:32:26 <Phearlock> And this ep was great too
+17:32:37 <Bio> WHAT IS CHILLAX
+17:32:42 <Bio> I NO NOT OF THIS 
+17:32:46 <Bio> KNOW*
+17:33:17 <Phearlock> Haha baking Starlight
+17:33:18 <Phearlock> so cute
+17:34:22 <Phearlock> Haha dashie <3
+17:39:11 <Phearlock> http://evehly.deviantart.com/art/Story-Time-636223284 unrelated adorable ponies.
+17:52:10 <Dot`> hello pons
+17:52:15 <Dot`> thats adorable phear
+17:52:20 <Dot`> BIO
+17:52:21 <Dot`> <4
+17:52:22 <Dot`> <3
+17:54:11 <Bio> dot
+17:54:15 <Bio> there was purlpel hors
+17:56:09 <Phearlock> 2 purples really
+17:56:37 <Bio> yeh
+17:56:44 <Bio> the one with wings is cutr tho
+17:58:29 <Phearlock> Hihi, yes
+18:00:20 -!- DuB` [DuB@66-219-213-203.dynamic.ip.veracitynetworks.com] has joined #tlponies
+18:00:23 <DuB`> AAAAAAAAAGGHHHHHHHHAAAAAAAA
+18:00:25 <DuB`> Dot`
+18:02:37 <DuB`> ANYONE
+18:02:53 <Phearlock> What's up Dubbers?
+18:02:58 <DuB`> Hi. :D
+18:03:08 <Phearlock> Hey =D
+18:03:25 <Bio> dub
+18:03:27 <Bio> there was horses
+18:03:29 <DuB`> bio!
+18:03:31 <DuB`> Oooh.
+18:03:36 <Bio> but U NO CARE CUZ U HATE HORSES NOW
+18:03:41 <DuB`> ????
+18:03:45 <DuB`> WAT
+18:03:46 <Phearlock> Pony ep was pretty good
+18:03:46 <DuB`> OHNO
+18:03:53 <Bio> T_T
+18:03:54 <DuB`> I'll catch up sometime. :P
+18:03:59 <DuB`> Eveeeeeeeeeentually.
+18:04:30 <DuB`> I need a break...
+18:04:37 <DuB`> Gonna overwatch a bit.
+18:04:43 <DuB`> For the first time in a week.
+18:05:22 <Dot`> AAAHHHHHHHHHHHHHHHHHHHHHHH
+18:05:24 <Dot`> ITS DUB
+18:05:27 <Dot`> AAAAAAAAAAAHHHHHHHHHH
+18:05:34 * Dot` divehugs Dub`
+18:05:34 <DuB`> :D :D :D
+18:05:38 <DuB`> <3 <3 <3
+18:05:42 <Dot`> <3
+18:05:55 <Dot`> Reif says Hi, he is here
+18:06:24 <DuB`> Hi reef!
+18:06:27 <DuB`> (?)
+18:06:37 <DuB`> Oooh, widow buff on PTR. 
+18:06:47 <DuB`> Not much else changed, though? :thinking:
+18:07:32 <Dot`> rawr rawr
+18:07:34 -!- Phearlock_ [~Phearlock@cm-84.211.141.30.getinternet.no] has joined #tlponies
+18:07:34 -!- mode/#tlponies [+v Phearlock_] by Q
+18:07:46 <DuB`> SOMEONE OBERWAJ WIF MEEEE
+18:08:02 <Dot`> i am going out in a few mimnutes to supper :(
+18:08:03 <DuB`> I'mma play for 2-3 hours I think.
+18:08:04 <Rawr|Fone> Dot dot
+18:08:04 <Dot`> SKRAM pls
+18:08:11 <DuB`> Nuuuuuuu
+18:08:13 <Rawr|Fone> Calm down dub
+18:08:15 <Dot`> rawr, how is new plej?
+18:08:49 <Rawr|Fone> I haven't played
+18:09:38 -!- skram [~skram@ip-217-146-106-77.eidsiva.net] has joined #tlponies
+18:09:38 -!- mode/#tlponies [+v skram] by Q
+18:09:48 <Dot`> skram
+18:09:53 <Dot`> plej overwatch with dub
+18:09:55 <skram> hej bjørn
+18:09:59 <skram> who is dub
+18:10:01 <DuB`> skrrrrrrrrrrrma
+18:10:16 <skram> HELLO ITS BEEN FOREVER
+18:10:17 <Dot`> he was ded
+18:10:19 <Dot`> but got better
+18:10:44 <skram> did cerberus bring the hero of the poni bak
+18:11:08 -!- Camail [~Camail@45.40.93.200] has joined #tlponies
+18:11:08 -!- mode/#tlponies [+v Camail] by Q
+18:11:50 <Rawr|Fone> 🐴🐴🐴
+18:14:35 <Dot`> oh its cam
+18:14:40 <Dot`> hide the dub
+18:14:46 <Camail> shh
+18:14:47 <DuB`> CAMAL
+18:15:46 -!- Camail_ [~Camail@45.40.93.200] has joined #tlponies
+18:15:47 <Camail_> weird
+18:15:54 -!- mode/#tlponies [+v Camail_] by Q
+18:15:57 <Camail_> dub y u here
+18:15:59 <Camail_> go away
+18:16:03 <DuB`> :(
+18:16:10 <Camail_> hmmm
+18:16:19 <Camail_> what's dub's personality flaw
+18:16:23 <Camail_> we need to think on that
+18:16:24 <Phearlock_> Dub is bringing pony back
+18:16:36 <DuB`> ?
+18:16:48 <Camail_> we are making a fucked up version of the carebears
+18:16:53 <Dot`> abandonment cam
+18:16:53 <Phearlock_> Oh that was just a general remark, not related to camails thing
+18:17:02 <Camail_> nah i agree
+18:17:06 <Camail_> bringing pony back is bad
+18:17:11 <Phearlock_> hahahaha
+18:17:12 <Camail_> awful, even
+18:17:19 <Phearlock_> oh u
+18:18:05 <Camail_> i think it needs to sink deeper than that dot
+18:18:25 <DuB`> WELL
+18:18:27 <DuB`> I'MMA OBERWAJ
+18:18:32 <Camail_> oh
+18:18:33 <Camail_> addiction
+18:18:35 <Camail_> ez
+18:18:40 <Camail_> he's a fucking addict
+18:18:51 <DuB`> Haven't played in a week! D:
+18:18:59 <Camail_> because you couldnt
+18:19:02 <Camail_> not because you didnt want to
+18:19:10 <Dot`> got to go, later pons
+18:19:16 <Camail_> cya
+18:19:27 <Dot`> and bye cam
+18:19:32 <Camail_> gonna shower then eat, then join you prboably
+18:19:37 <DuB`> Yey~
+18:19:40 <DuB`> Bye dot! 
+18:19:56 <Camail_> oh dub was it you in csgo yesterday, someone was stalking you and said you were playing
+18:20:00 <Camail_> my bet was brother
+18:20:35 <Bio> dub is afflicted with weeb
+18:20:49 <Bio> incurable
+18:20:51 <Bio> T_T
+18:21:14 <DuB`> Yeh I wanted to take a break and shoot something for 30 minutes so just did DM a bit.
+18:25:59 <Cane> Hiya folks. <3
+18:26:03 <Bio> yo
+18:26:04 -!- mode/#tlponies [+vvvvvv Dot` DuB` Emily Golly Micen|Droid Micen|Kindle_] by Cane
+18:26:04 -!- mode/#tlponies [+vvvv motbob Rawr|Fone tredc Yolteotl] by Cane
+18:26:12 <skram> good evening mr cane
+18:27:34 <Rawr|Fone> Waow
+18:28:47 <DuB`> NA OW
+18:29:49 <Rawr|Fone> Dub calm down
+18:29:57 <Rawr|Fone> You are crossing the line
+18:30:44 <Phearlock_> We have a line?
+18:31:17 <Rawr|Fone> Not anymore
+18:31:55 <Phearlock_> D=
+18:41:28 <Camail_> skram
+18:41:46 <Camail> oh shit cane's here, hind the buckets
+18:42:17 <Phearlock_> Hind the buckets?
+18:42:20 <Phearlock_> Poor buckets
+18:50:14 -!- DoT|Phone [~Dot@85.255.236.245] has joined #tlponies
+18:51:33 <DoT|Phone> pon pon
+18:52:40 <Phearlock_> pony pons
+18:52:41 <Rawr|Fone> Dot dot
+18:55:35 -!- DoT|Phone1 [~Dot@85.255.236.245] has joined #tlponies
+18:57:19 -!- FlutterAi_ [~FlutterAi@98.93.44.247] has joined #tlponies
+19:09:34 <Rawr|Fone> 🐴🐴🐴
+19:11:50 -!- DoT|Phone1 [~Dot@85.255.236.215] has joined #tlponies
+19:13:13 <DoT|Phone1> Rawr
+19:13:13 <DoT|Phone1> dub
+19:13:31 <DuB`> Dot!
+19:13:44 <DoT|Phone1> How's it going
+19:13:48 <Rawr|Fone> Dot
+19:13:59 <Rawr|Fone> 😄😄
+19:14:34 <DoT|Phone1> Rawr please
+19:14:48 <Rawr|Fone> Dot snela
+19:15:05 <DoT|Phone1> skarpning
+19:15:51 <DoT|Phone1> what's up Rawr
+19:16:20 <Rawr|Fone> I'm doing absolutely nothing
+19:16:32 <Rawr|Fone> I'm on a couch at a friends house
+19:16:45 <Rawr|Fone> Watching youtube videos
+19:16:57 <DoT|Phone1> you should change that
+19:16:59 <DoT|Phone1> that's not nothing
+19:17:02 <DoT|Phone1> you did that yesterday
+19:17:42 <Rawr|Fone> I was drinking yesterday
+19:20:55 -!- DoT|Phone [~Dot@85.255.236.215] has joined #tlponies
+19:21:04 <DoT|Phone> fine the fast before
+19:21:08 <DoT|Phone> day
+19:21:39 <Rawr|Fone> More like last week
+19:22:39 <DoT|Phone> you lost a week to drinking?
+19:23:05 <DoT|Phone> that's bad Rawr
+19:23:29 <Rawr|Fone> Not yet
+19:27:48 <DoT|Phone> good
+19:31:32 <DoT|Phone> Reif might starve while we wait for food
+19:32:23 <skram> is reif still visiting dot
+19:32:33 <DoT|Phone> he is right here
+19:33:09 <skram> did you have a lovely date earlier?
+19:33:19 <Phearlock_> Obviously he didn't feed him enough though
+19:33:41 <Camail> everyone sucks at zarya
+19:33:41 <DoT|Phone> he might die
+19:35:41 <DoT|Phone> yes
+19:36:24 <DuB`> Wait, reef is WITH dot? :O
+19:36:27 <DuB`> JEALOUS
+19:37:13 <DoT|Phone> yes. I said so
+19:37:27 <DoT|Phone> dub. pay attention
+19:37:31 <DuB`> Just now!
+19:37:33 <DuB`> Sheesh.
+19:37:41 <DuB`> Well I'mma come hang out with you guys too!
+19:37:51 <Camail> dont
+19:37:53 <Camail> they are bad
+19:38:10 <DoT|Phone> you will get here before food it seems
+19:54:15 <DoT|Phone> yes
+19:54:16 <DoT|Phone> all off then
+19:54:16 <DoT|Phone> them
+19:55:28 <Rawr|Fone> 🐴🐴🐴
+19:55:57 <DoT|Phone> Rawr pon
+20:00:03 <Rawr|Fone> Dot pon
+20:09:35 -!- DoT|Phone [~Dot@90.207.46.233] has joined #tlponies
+20:12:33 <skram> DuB`, whats the name of the girl band you linked once
+20:12:40 <skram> with the funky outfits
+20:16:32 -!- DoT|Phone1 [~Dot@85.255.236.215] has joined #tlponies
+20:17:41 <DuB`> Um.
+20:17:48 <DuB`> Ohh, grimes maybe.
+20:17:50 <DuB`> skram
+20:17:50 <DuB`> :D
+20:18:11 <DuB`> https://www.youtube.com/watch?v=c2EJMd7ZN7w
+20:18:15 <DuB`> That one?
+20:18:19 <skram> yessssssss
+20:18:19 <Bio> dab pls
+20:19:46 <skram> Oh I dont know if you like dark and moody acoustic music DuB`, but I found a thing thats been stuck on me for a while now: https://www.youtube.com/watch?v=L3DAfTdGYJ4
+20:20:57 <skram> Do you know what genre this is, DuB`? Is this like electro punk or something
+20:21:04 <skram> pretty similar to The Sounds
+20:21:06 <DuB`> No idea!
+20:21:43 <DuB`> Wikipedia: synthpop, art pop, dream pop, experimental pop, electronica. :P
+20:22:16 <skram> art pop seems pretty apropos
+20:22:18 <DuB`> PRETTY sure "electronica" doesn't actually mean anything.
+20:22:31 <skram> mostly because of the weird outfits
+20:22:43 <DuB`> Heheheh
+20:22:56 <skram> i guess its like a catch-all term for "music with electronic sounds" or whatever
+20:23:06 <DuB`> I don't listen to much acoustic but this is nice. :O
+20:23:07 <skram> kinda like everything is indie
+20:23:09 <skram> even if it isnt
+20:23:13 <DuB`> Yeah. 
+20:23:52 <skram> I really like her voice. Its kinda husky
+20:24:07 <skram> She has a great cover of Glory Box, which is the sexiest song ever.
+20:27:07 -!- DoT|Phone [~Dot@85.255.236.215] has joined #tlponies
+20:27:37 <DuB`> Grimes does her own production and even album art, by the way. 
+20:27:41 <DuB`> Pretty cool. 
+20:32:48 <skram> Which one is grimes
+20:32:49 <skram> :P
+20:33:57 <skram> is it curly haired leotard person, or facepaint hanzo cosplayer person
+20:36:11 <DuB`> Fishnet hanzo is pretty great.
+20:36:16 <DuB`> But I think she's curlyhair. ;D
+20:36:46 <skram> thats a weird way to dye your hair
+20:37:24 <DuB`> I like the strips-of-plastic overcoat/poncho. 
+20:38:49 <skram> very cyberpunk dub
+20:39:59 -!- DoT|Phone [~Dot@185.69.145.134] has joined #tlponies
+20:41:14 -!- motbob [~motbob@x-131-212-248-66.uofm-secure.wireless.umn.edu] has joined #tlponies
+20:42:34 -!- Camail_ [~Camail@45.40.93.200] has joined #tlponies
+20:42:35 -!- mode/#tlponies [+v Camail_] by Q
+20:56:34 -!- DuB` [DuB@66-219-213-203.dynamic.ip.veracitynetworks.com] has joined #tlponies
+20:56:35 <DuB`> Huh.
+20:56:42 <skram> ??
+20:56:46 <DuB`> skram I found your next shoes: http://www.fabrixquare.com/men/features/vandalique/island-sole-cargo-sandal-boots.html
+20:56:49 <DuB`> They're perfect.
+20:56:58 <DuB`> SPECIAL PRICE
+20:57:18 <skram> wow
+20:57:33 <skram> This is the most horrific thing i have seen in years
+20:58:53 <motbob> i can think of some uses
+20:59:20 <Camail_> mainly if you need boots in the water
+20:59:34 <Camail_> which seems to be the point
+20:59:47 <Camail_> they look like shit tho
+21:00:48 <DuB`> I'm not sure they're even supposed to be functional.
+21:01:03 <DuB`> I mean, fabrixquare has some pretty odd stuff... http://www.fabrixquare.com/women/hilda-oversized-security-hoodie-yellow.html
+21:01:42 <skram> they dont have my size DuB`
+21:01:48 <skram> the shoes i mean
+21:01:59 <DuB`> Darn.
+21:02:02 <Camail> huge hoodies are like, 50% of some people's wardrobe
+21:02:05 <DuB`> Maybe go for this coat instead? http://www.fabrixquare.com/lookbook/14383.html
+21:02:18 <Camail> fashion is dumb
+21:05:39 <skram> no this is clothes for people with odd propotions
+21:06:13 <skram> looks hella comfy tho
+21:09:48 <Camail> ur face looks comfy
+21:10:35 <skram> get ur own
+21:16:26 <DuB`> I can get my very own skramface?
+21:17:24 <skram> they might have them closer to halloween
+21:26:39 <Bio> asdf
+21:26:42 <DuB`> fdsa
+21:26:51 * Bio licks DuB`
+21:27:02 <DuB`> :O
+21:27:12 <skram> what does it taste like
+21:28:02 <Bio> Certainly not a pon
+21:28:04 <Bio> T_T
+21:28:09 <Bio> bitter
+21:28:11 <Bio> like wasabi
+21:28:18 <Bio> slightly salty
+21:28:18 <DuB`> Wasabi bitter?
+21:28:20 <DuB`> pls
+21:28:37 <Bio> ur face is strange
+21:28:47 <DuB`> ??
+21:31:27 <DuB`off> STOODY
+21:31:44 <skram> CMON ITS A SATURDAY??????????+
+21:32:23 <skram> im not gonna tell you im disappointed, but im certainly not impressed
+21:32:25 <skram> pls
+21:33:16 <DuB`off> All three tests next week! D:
+21:33:24 <skram> burn them
+21:46:12 -!- DoT|Phone [~Dot@90.207.46.233] has joined #tlponies
+22:38:44 <Rawr|Fone> <3
+23:20:09 <CockRoach|42> rawr pls
+23:42:22 <Rawr|Fone> Cr pls
+23:42:44 <CockRoach|42> <3
+23:51:01 <Rawr|Fone> <3

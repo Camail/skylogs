@@ -1,0 +1,217 @@
+php on line 4" while reading response header from upstream, client: 104.244.76.42, server: freetsa.org, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php5-fpm.sock:", host: "205.185.116.116"
+2015/09/01 20:03:07 [error] 6059#0: *23081 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /etc/nginx/html/index.php on line 4" while reading response header from upstream, client: 104.244.76.42, server: freetsa.org, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php5-fpm.sock:", host: "205.185.116.116"
+2015/09/01 20:03:38 [error] 6059#0: *23083 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /etc/nginx/html/index.php on line 4" while reading response header from upstream, client: 104.244.76.42, server: freetsa.org, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php5-fpm.sock:", host: "205.185.116.116"
+2015/09/01 20:13:07 [error] 6059#0: *23085 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /etc/nginx/html/index.php on line 4" while reading response header from upstream, client: 104.244.76.42, server: freetsa.org, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php5-fpm.sock:", host: "205.185.116.116"
+2015/09/01 20:13:39 [error] 6059#0: *23087 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /etc/nginx/html/index.php on line 4" while reading response header from upstream, client: 104.244.76.42, server: freetsa.org, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php5-fpm.sock:", host: "205.185.116.116"
+2015/09/01 20:23:41 [error] 6059#0: *23089 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /etc/nginx/html/index.php on line 4" while reading response header from upstream, client: 104.244.76.42, server: freetsa.org, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php5-fpm.sock:", host: "205.185.116.116"
+2015/09/01 20:24:07 [error] 6059#0: *23091 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /etc/nginx/html/index.php on line 4" while reading response header from upstream, client: 104.244.76.42, server: freetsa.org, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php5-fpm.sock:", host: "205.185.116.116"
+2015/09/01 20:33:06 [error] 6059#0: *23095 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /etc/nginx/html/index.php on line 4" while reading response header from upstream, client: 86.123.247.20, server: freetsa.org, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php5-fpm.sock:", host: "freetsa.org"
+2015/09/01 20:33:27 [error] 6059#0: *23097 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined index: screenshot in /etc/nginx/html/screenshot.php on line 4
+PHP message: PHP Notice:  Undefined index: host in /etc/nginx/html/screenshot.php on line 37
+PHP message: PHP Notice:  Undefined index: host in /etc/nginx/html/screenshot.php on line 38
+PHP message: PHP Notice:  Undefined index: host in /etc/nginx/html/screenshot.php on line 39
+PHP message: PHP Notice:  Undefined variable: timestamp in /etc/nginx/html/screenshot.php on line 64
+PHP message: PHP Warning:  filesize(): stat failed for /tmp/55e5ef63560e1_signed.pdf in /etc/nginx/html/screenshot.php on line 69
+PHP message: PHP Warning:  fpassthru() expects parameter 1 to be resource, boolean given in /etc/nginx/html/screenshot.php on line 82
+PHP message: PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /etc/nginx/html/screenshot.php on line 83" while reading response header from upstream, client: 86.123.247.20, server: freetsa.org, request: "GET /screenshot.php HTTP/1.1", upstream: "fastcgi://unix:/var/run/php5-fpm.sock:", host: "freetsa.org"
+2015/09/01 20:33:27 [error] 6059#0: *23097 FastCGI sent in stderr: "PHP message: PHP Warning:  unlink(/tmp/55e5ef63560e1.pdf): No such file or directory in /etc/nginx/html/screenshot.php on line 88
+PHP<skrma> yolo
+14:35:38 <Rawr|Fone> 😥😥😥
+14:37:32 -!- tredc [webchat@90-230-30-217-no56.tbcn.telia.com] has joined #tlponies
+14:43:02 <Dot`> ponies
+14:43:04 <Dot`> and other
+14:43:11 <skrma> Bjørnen
+14:43:16 <skrma> and other woodland creatures
+14:47:38 <skrma> Where you been mr. Dot`
+14:48:24 <Dot`> in town
+14:48:27 <Dot`> you ?
+14:48:39 <skrma> work
+14:48:48 <skrma> what did you do in town dot
+14:50:14 <Dot`> no work, but i went past there to check times i am on this week
+14:50:23 <Dot`> and check on air ambulance shop
+14:50:41 <Dot`> then it rained a lot, and i had to wait around for it to lessen up
+14:50:50 <Dot`> becuase i didnt have my proper rain jacket
+14:51:47 <skrma> you can stand under my umbrella dot
+14:52:06 <Dot`> <3  
+14:52:13 <Dot`> and thats an old refrance skrammmen
+14:52:46 <skrma> https://www.youtube.com/watch?v=DlwDAx3Iii4
+15:01:55 <ZK> .roll d20 to boop Dot`
+15:01:58 <ZK> you walk too long
+15:02:03 <Dot`> .roll d20 to boop zk
+15:02:05 <ZK> stop exercise
+15:02:07 <ZK> bad for you
+15:05:44 <Dot`> ok
+15:05:51 <Dot`> how long till dnd?
+15:05:55 <Dot`> ar eyou prepared yet?
+15:13:17 <ZK> na
+15:13:21 <ZK> its like 24h or so left
+15:24:22 -!- BioHorse [~BioPon@108-72-8-181.lightspeed.stlsmo.sbcglobal.net] has joined #tlponies
+15:24:32 <Dot`> bio hest
+15:32:56 <reification> now that’s a cover skram
+15:33:36 <reification> also nice band name
+16:22:53 <ZK> your face is a nice band name
+16:34:02 <ZK> Dot` what you
+16:41:48 <Dot`> i was reading
+16:45:05 <ZK> what is it
+16:48:20 <Dot`> going back through Dresden Files
+16:48:23 <Dot`> on book 4
+16:49:30 <BioHorse> asdf
+16:49:36 <Bio> intranet pls
+16:49:46 <Dot`> bio
+16:51:42 <Bio> dot
+16:52:23 <Bio> https://www.youtube.com/watch?v=6EYYjiK0Cx8
+17:04:58 <Dot`> skram
+17:06:50 -!- motbob_ [~motbob@47.42.239.25] has joined #tlponies
+17:28:50 <reification> still enjoying this meme http://i0.kym-cdn.com/photos/images/original/001/261/362/584.jpg
+17:38:08 -!- Camail [~Camail@45.40.84.145] has joined #tlponies
+17:38:09 -!- mode/#tlponies [+v Camail] by Q
+17:39:12 <Dot`> cam\
+17:42:25 -!- DuB` [DuB@66-219-212-247.dynamic.ip.veracitynetworks.com] has joined #tlponies
+17:42:27 <DuB`> Henlo!
+17:43:26 <Dot`> Dub <3
+17:44:34 <DuB`> Dot <3
+17:44:45 <DuB`> Who wants to sc2/ow/pub today? :D
+17:44:55 <DuB`> I will do any and all of the above.
+17:44:58 <DuB`> Perhaps even csgo.
+17:45:53 <Dot`> i can pubg later
+17:48:40 <reification> i can pubg/ow. maybe even sc2 if i still have it on win7
+17:48:57 -!- Camail [~Camail@45.40.84.145] has joined #tlponies
+17:48:57 -!- mode/#tlponies [+v Camail] by Q
+17:51:15 <reification> bio have a couple of memes https://pbs.twimg.com/media/DGGY9aNUMAAnRK0.jpg:large https://pbs.twimg.com/media/DF_w4d6VYAAKrHZ.jpg:large
+18:10:43 -!- Camail [~Camail@45.40.84.145] has joined #tlponies
+18:10:43 -!- mode/#tlponies [+v Camail] by Q
+18:10:55 <DuB`> This is
+18:10:55 <DuB`> https://www.youtube.com/watch?time_continue=100&v=qGz9WgAdlxU
+18:10:58 <DuB`> SO stupid haha
+18:23:20 <reification> …
+18:31:07 <reification> http://www.b3ta.com/board/11234381
+18:31:14 <reification> http://www.b3ta.com/board/11234282
+18:52:34 <Bio> lel rief
+18:55:43 <DuB`> wakaranai
+18:55:50 <Bio> dub pls
+18:55:55 <DuB`> nani
+19:00:57 <reification> there is nani to be sore
+19:01:45 <DuB`> NAN DA TO
+19:03:36 <reification> https://www.youtube.com/watch?v=2E-pBUxGdxs
+19:07:04 -!- tredc [webchat@90-230-30-217-no56.tbcn.telia.com] has joined #tlponies
+19:17:05 <Camail> reif no
+19:17:29 <reification> you’re gonna have to be more specific there cam
+19:17:36 <Camail> no
+19:18:32 <reification> well then i shall link cr|42s terrible webcam stream https://picarto.tv/FurCube
+19:20:24 -!- DoT|Phone [~Dot@90.216.79.190] has joined #tlponies
+19:20:30 <DoT|Phone> Rawr
+19:20:47 <DoT|Phone> https://imgur.com/gallery/xFaG1
+19:25:30 <DoT|Phone> dub
+19:25:38 <DoT|Phone> https://imgur.com/gallery/WOCJPSN
+19:36:50 <Rawr|Fone> Dot
+19:37:10 <DoT|Phone> yes
+19:37:15 <Rawr|Fone> No
+19:37:44 <DoT|Phone> but Rawr. dogs
+19:38:02 <Rawr|Fone> Maybe
+19:47:45 <DoT|Phone> pon pon
+20:01:12 <Rawr|Fone> Dot dot
+20:11:53 <Rawr|Fone> Rude
+20:20:32 <Dot`> phone is bad
+20:20:43 <Bio> psl
+20:29:43 <skrma> MAybe it is you who are being bad mr dot
+20:30:08 <Rawr|Fone> 🤔🤔🤔
+20:33:13 -!- Phearlock [~Phearlock@cm-84.215.228.107.getinternet.no] has joined #tlponies
+20:33:13 -!- mode/#tlponies [+v Phearlock] by Q
+20:33:32 <Dot`> skram pls, i came all the way to my pc 
+20:33:57 <Phearlock> Hey ponpons
+20:34:07 <Dot`> hey phear
+20:35:04 <skrma> mr ferlok
+20:35:05 <skrma> hallo
+20:35:42 <Phearlock> CockRoach|42, http://raridashdoodles.com
+20:36:07 <Phearlock> Love it when this tumblr updates
+20:36:35 <skrma> https://www.youtube.com/watch?v=Po5ob8wbdEs
+20:41:43 <Dot`> skram, what you get up to today
+20:42:18 <skrma> i looked at som really good cats
+20:42:21 <skrma> then i had a nap
+20:42:54 <skrma> .tell DuB` https://www.youtube.com/watch?v=4JN2dOM47F4
+20:45:57 <Phearlock> fuck I messed up the link 10 mins ago.
+20:46:08 <Phearlock> .tell CockRoach|42 http://raridashdoodles.tumblr.com/
+20:46:09 <Phearlock> There
+21:01:36 -!- Runbunny [~Runbunny@91.100.28.10.generic-hostname.arrownet.dk] has joined #tlponies
+21:03:30 <Dot`> runbun, where you been
+21:05:47 <Runbunny> I was at a friends house.
+21:05:53 <Runbunny> What about you Dot?
+21:06:06 <Dot`> i am here
+21:08:42 <Runbunny> That is good.
+21:30:20 -!- ZK [~ZK@modemcable189.130-83-70.mc.videotron.ca] has joined #tlponies
+21:36:37 <Rawr|Fone> Horses
+21:43:12 <reification> rawr
+21:43:24 <Phearlock> pony
+21:43:37 <Rawr|Fone> Reef reef
+22:28:46 <DuB`> so 
+22:28:47 <DuB`> much
+22:28:49 <DuB`> nap
+22:29:09 <ZK> coolio
+22:30:22 <Dot`> more nap
+22:30:43 <ZK> Dot` you encourage that behavior?
+22:30:54 <Dot`> well someon needs to get a good rest
+22:31:47 <ZK> ok, ill go rest
+22:31:51 <CockRoach|42> Phearlock: wasnt there another raridash sketch tumblr?
+22:31:56 <ZK> i was prepping dnd, but guess that can wait
+22:32:26 <Dot`> zk pls, no one said you could nap
+22:33:12 <ZK> you just said i needed to get a good rest :o
+22:33:14 <ZK> was heavily implied
+22:41:24 <Phearlock> was there CR? I only remember this one
+22:43:50 <CockRoach|42> or am i thinking of twidash?
+22:51:09 <Phearlock> I don't know, is the pony shipped with rainbow dash mostly purple or mostly white?
+22:51:47 <CockRoach|42> cant remember ._.
+22:54:42 <CockRoach|42> i guess it was the raridashdoodles i was thinking of
+22:59:04 -!- motbob_ [~motbob@47.42.239.25] has joined #tlponies
+23:06:12 <reification> night all
+23:10:13 <Dot`> gnight
+23:19:19 <Bio> asdf
+23:20:53 <Dot`> bio clam
+23:22:10 <motbob> https://i.imgur.com/3DZPl1b.png
+23:22:15 <motbob> twitch anime marathon over
+23:22:54 <DuB`> gg
+23:22:56 <Dot`> rip
+23:23:20 <Bio> rip
+23:23:23 <Bio> F
+23:23:42 <Dot`> (bio jumps out of plane)
+23:24:07 <Bio> ah shit, it seems that my only drop is now in the mountaintop ruins
+23:24:27 <Dot`> but those ruins have nothing bio! pls
+23:27:08 <Bio> this is too late. my weapon is now a p13 and 65 rounds of 9mm
+23:29:15 <Dot`> ZK, its wednesday, that means DnD
+23:29:47 <Bio> but dot its tuesday
+23:29:53 <Dot`> lies
+23:31:51 <DuB`> Definitely tuesday.
+23:33:56 <Dot`> dub, you napped so long its now wednesday
+23:34:55 <DuB`> Whoopsie
+23:35:14 <DuB`> Oooh, the international!
+23:39:50 <Phearlock> yes that is pettyyyy soon
+23:42:50 <motbob> it's nice that TI[number] lines up with the year of 201[number]
+23:42:59 <motbob> it's 2017, so it's TI7!
+23:43:25 <DuB`> That is convenient, hehe
+23:43:29 <motbob> in 2020 we'll finally get to have TI0
+23:43:56 <Phearlock> Will they go the roman route and say TI X I wonder
+23:44:34 <motbob> TI XD
+23:44:49 <DuB`> xD xD xD 
+23:45:33 <Bio> LUL XD
+23:46:38 <Phearlock> We also could get a nice TI - XI for 11
+23:46:44 <Phearlock> which sounds like T-eye X-eye
+23:46:57 <Phearlock> But then it sorta gets a bit silly from there
+23:47:09 <motbob> TI XIV: A Realm Reborn
+23:47:25 <motbob> TI XIII Versus
+23:48:30 <motbob> i realized recently that dota and ssbm are both entering an era of decline and people are starting the blame game
+23:51:37 <Cane> Dota is?
+23:52:19 <motbob> playerbase is down
+23:53:18 <Phearlock> So what do we blame?
+23:53:27 <Cane> Yeah, where do I point my pitchfork?
+23:53:28 <Bio> gaben, obviously
+23:53:29 <motbob> the natural life cycle of games probably
+23:53:45 <motbob> PUBG
+23:53:46 <Cane> motbob, don't be so ridiculous and sensible.
+23:53:52 <Cane> Ok, I can blame PUBG.
+23:53:59 <Phearlock> Ok I am going to shoot a bit wide here and blame life itself.
+23:54:03 <Dot`> we should blame SC2
+23:54:04 <Cane> Grr, PUBG. I hear they're adding microtransactions.
+23:54:53 <motbob> let's just blame Valve for adding techies
+23:55:13 <DuB`> The decline of sc2 was actually an elaborate scheme to infiltrate all other games with sc2-loyal casters and hosts as esports-spies!
+23:55:28 <Dot`> the long game
+23:55:55 <motbob> right, day9 is hosting TI7
+23:56:02 <DuB`> YOU SEE
